@@ -128,9 +128,9 @@ export function renderArticleView(article) {
       <div class="breadcrumb-strip">
         <div class="container">
           <nav class="breadcrumb-clean" aria-label="Breadcrumb">
-            <a href="#/home" data-route="home">Home</a>
+            <a href="/" data-route="home">Home</a>
             <span class="bc-sep">/</span>
-            <a href="#/category/${article.categorySlug}" data-route="category" data-slug="${article.categorySlug}">${article.category}</a>
+            <a href="/category/${article.categorySlug}" data-route="category" data-slug="${article.categorySlug}">${article.category}</a>
             <span class="bc-sep">/</span>
             <span class="bc-active">${article.title}</span>
           </nav>
@@ -139,7 +139,7 @@ export function renderArticleView(article) {
 
       <!-- Article Header -->
       <header class="article-header container">
-        <a href="#/category/${article.categorySlug}" class="article-category" data-route="category" data-slug="${article.categorySlug}">
+        <a href="/category/${article.categorySlug}" class="article-category" data-route="category" data-slug="${article.categorySlug}">
           ${article.category}
         </a>
         <h1 class="article-title">${article.title}</h1>

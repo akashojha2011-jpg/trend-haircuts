@@ -10,3 +10,4 @@ dist-ssr/
 scratch/
 .DS_Store
 *.log
+.vercel

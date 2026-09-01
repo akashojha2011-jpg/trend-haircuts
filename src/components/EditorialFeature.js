@@ -14,7 +14,7 @@ export function renderEditorialFeature(article) {
           <p class="editorial-desc">
             ${article.intro.substring(0, 180)}...
           </p>
-          <a href="#/article/${article.slug}" class="btn-primary" data-route="article" data-slug="${article.slug}">
+          <a href="/${article.slug}" class="btn-primary" data-route="article" data-slug="${article.slug}">
             Read Full Lookbook <i data-lucide="arrow-right" size="16"></i>
           </a>
         </div>

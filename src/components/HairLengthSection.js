@@ -22,7 +22,7 @@ export function renderHairLengthSection() {
 
   const cardsHtml = lengths.map(len => `
     <a 
-      href="#/category/${len.slug}" 
+      href="/category/${len.slug}" 
       class="length-card" 
       data-route="category" 
       data-slug="${len.slug}"

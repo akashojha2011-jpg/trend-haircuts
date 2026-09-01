@@ -16,7 +16,7 @@ export function renderCategoryGrid() {
     const theme = creativeThemes[index % creativeThemes.length];
     return `
       <a 
-        href="#/category/${cat.slug}" 
+        href="/category/${cat.slug}" 
         class="creative-category-card" 
         data-route="category" 
         data-slug="${cat.slug}"

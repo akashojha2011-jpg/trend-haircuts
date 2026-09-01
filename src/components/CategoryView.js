@@ -38,7 +38,7 @@ export function renderCategoryView(slug, subcategorySlug = null) {
       <div class="text-center" style="padding: 4rem 1rem;">
         <h3 class="heading-md" style="margin-bottom: 0.75rem;">No Articles Published Yet</h3>
         <p class="subheading" style="margin-bottom: 2rem;">We haven't published blog posts under <strong>${cat.name}</strong> yet. Check back soon!</p>
-        <a href="#/home" class="btn-primary" data-route="home">Explore Published Hair Guides</a>
+        <a href="/" class="btn-primary" data-route="home">Explore Published Hair Guides</a>
       </div>
     `;
 
@@ -48,7 +48,7 @@ export function renderCategoryView(slug, subcategorySlug = null) {
         <div class="container">
           <!-- BREADCRUMB NAVIGATION -->
           <nav class="breadcrumb-clean" aria-label="Breadcrumb" style="justify-content: center; margin-bottom: 1rem;">
-            <a href="#/home" data-route="home">Home</a>
+            <a href="/" data-route="home">Home</a>
             <span class="bc-sep">/</span>
             <span class="bc-active">${cat.name}</span>
           </nav>

@@ -26,7 +26,7 @@ export function renderMasonryGrid(articlesList = [], options = {}) {
   const cardsHtml = paginatedArticles.map(art => {
     return `
       <a 
-        href="#/article/${art.slug}" 
+        href="/${art.slug}" 
         class="article-card" 
         data-route="article" 
         data-slug="${art.slug}"

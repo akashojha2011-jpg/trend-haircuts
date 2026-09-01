@@ -28,42 +28,52 @@ class AppState {
 
 const appState = new AppState();
 
+// Helper to normalize paths
+function getCleanPath() {
+  // Support both pathname (History API) and legacy hash URLs gracefully
+  let path = window.location.pathname;
+
+  // If URL has legacy hash like /#/bubble-ponytail-ideas, redirect to clean path!
+  if (window.location.hash && window.location.hash.startsWith('#/')) {
+    let hashPath = window.location.hash.replace('#/', '/').replace('/article/', '/');
+    window.history.replaceState({}, '', hashPath);
+    path = window.location.pathname;
+  }
+
+  path = path.toLowerCase().trim();
+  if (path.length > 1 && path.endsWith('/')) {
+    path = path.slice(0, -1);
+  }
+  return path || '/';
+}
+
 // Main Router & Renderer
 function renderApp() {
   const appEl = document.getElementById('app');
-  let rawHash = window.location.hash.replace('#/', '').replace('#', '');
-
-  // Handle in-page anchor smooth scrolling without re-rendering app
-  if (rawHash.startsWith('item-') || rawHash.startsWith('section-')) {
-    const targetEl = document.getElementById(rawHash);
-    if (targetEl) {
-      targetEl.scrollIntoView({ behavior: 'smooth' });
-    }
-    return;
-  }
+  const path = getCleanPath();
 
   let route = 'home';
   let slug = '';
 
-  if (rawHash.startsWith('article/')) {
-    route = 'article';
-    slug = rawHash.replace('article/', '');
-  } else if (rawHash.startsWith('category/')) {
-    route = 'category';
-    slug = rawHash.replace('category/', '');
-  } else if (rawHash === 'home' || !rawHash) {
-    // DEFAULT ROUTE IS HOMEPAGE
+  if (path === '/' || path === '/home') {
     route = 'home';
-  } else if (rawHash === 'about') {
+  } else if (path.startsWith('/category/')) {
+    route = 'category';
+    slug = path.replace('/category/', '');
+  } else if (path === '/about') {
     route = 'about';
-  } else if (rawHash === 'contact') {
+  } else if (path === '/contact') {
     route = 'contact';
-  } else if (rawHash === 'privacy') {
+  } else if (path === '/privacy') {
     route = 'privacy';
-  } else if (rawHash === 'terms') {
+  } else if (path === '/terms') {
     route = 'terms';
-  } else if (rawHash === 'disclaimer') {
+  } else if (path === '/disclaimer') {
     route = 'disclaimer';
+  } else {
+    // DIRECT ARTICLE URL! (e.g. /bubble-ponytail-ideas or /stunning-sleek-low-ponytail-that-stand-out)
+    route = 'article';
+    slug = path.replace('/', '').replace('article/', '');
   }
 
   let bodyContent = '';
@@ -118,9 +128,9 @@ function renderApp() {
         <div class="container section-padding text-center" style="padding: 6rem 1rem;">
           <h1 class="category-page-title" style="margin-bottom: 1rem;">Article Not Found</h1>
           <p class="subheading" style="margin-bottom: 2rem; max-width: 600px; margin-left: auto; margin-right: auto;">
-            We couldn't find the requested hairstyle guide (<code>/article/${slug}</code>). It may have been renamed or moved.
+            We couldn't find the requested hairstyle guide (<code>/${slug}</code>). It may have been renamed or moved.
           </p>
-          <a href="#/home" class="cta-btn" style="display: inline-block; padding: 0.85rem 2rem; background: #000; color: #fff; border-radius: 999px; text-decoration: none; font-weight: 600;">
+          <a href="/" class="cta-btn" style="display: inline-block; padding: 0.85rem 2rem; background: #000; color: #fff; border-radius: 999px; text-decoration: none; font-weight: 600;">
             Return to Homepage
           </a>
         </div>
@@ -157,6 +167,40 @@ function renderApp() {
   attachEventListeners();
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
+
+// Global click interceptor for clean History API navigation
+document.addEventListener('click', (e) => {
+  const link = e.target.closest('a');
+  if (!link) return;
+
+  const href = link.getAttribute('href');
+  if (!href) return;
+
+  // Ignore external links, mailto, tel
+  if (href.startsWith('http://') || href.startsWith('https://') || href.startsWith('mailto:') || href.startsWith('tel:')) {
+    return;
+  }
+
+  // Handle in-page anchor smooth scrolling (e.g. #item-1, #investopedia-toc)
+  if (href.startsWith('#')) {
+    e.preventDefault();
+    const targetId = href.replace('#', '');
+    const targetEl = document.getElementById(targetId);
+    if (targetEl) {
+      targetEl.scrollIntoView({ behavior: 'smooth' });
+    }
+    return;
+  }
+
+  // Handle internal SPA navigation
+  if (href.startsWith('/')) {
+    e.preventDefault();
+    if (window.location.pathname !== href) {
+      window.history.pushState({}, '', href);
+      renderApp();
+    }
+  }
+});
 
 // Event Listeners & Interactive Logic
 function attachEventListeners() {
@@ -278,8 +322,8 @@ function attachEventListeners() {
   });
 }
 
-// Listen to Hash Changes
-window.addEventListener('hashchange', renderApp);
+// Listen to Browser Back / Forward buttons
+window.addEventListener('popstate', renderApp);
 
 // Initial App Launch
 document.addEventListener('DOMContentLoaded', renderApp);

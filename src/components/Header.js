@@ -5,7 +5,7 @@ export function renderHeader() {
     if (menu.isDirectLink) {
       return `
         <li class="nav-item">
-          <a href="#/${menu.slug}" class="nav-link" data-route="${menu.slug}">
+          <a href="/category/${menu.slug}" class="nav-link" data-route="${menu.slug}">
             <span>${menu.mainTitle}</span>
           </a>
         </li>
@@ -15,7 +15,7 @@ export function renderHeader() {
     const subHtml = menu.subcategories ? menu.subcategories.map(sub => `
       <li>
         <a 
-          href="#/category/${sub.slug}" 
+          href="/category/${sub.slug}" 
           class="dropdown-item" 
           data-route="category" 
           data-slug="${sub.slug}"
@@ -42,9 +42,15 @@ export function renderHeader() {
     <header class="site-header" id="header">
       <div class="container header-inner">
         <!-- Logo -->
-        <a href="#/home" class="logo" data-route="home">
-          <span>Tress & Trend</span>
-          <span class="logo-sparkle">✨</span>
+        <a href="/" class="logo" data-route="home">
+          <span class="logo-icon-box">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M6 3L11.5 12L6 21" stroke="#e0a96d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M18 3L12.5 12L18 21" stroke="#111111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="12" cy="12" r="2.2" fill="#e0a96d"/>
+            </svg>
+          </span>
+          <span class="logo-text">Trend <span class="logo-sub">Haircuts</span></span>
         </a>
 
         <!-- Smart Desktop Navigation with Dropdowns + About -->
