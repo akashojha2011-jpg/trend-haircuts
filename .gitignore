@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Production build output
+dist/
+dist-ssr/
+*.local
+
+# Temporary Caches & Raw Downloads
+scratch/
+.DS_Store
+*.log
