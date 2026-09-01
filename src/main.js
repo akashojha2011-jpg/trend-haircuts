@@ -14,9 +14,12 @@ import { renderContactView } from './components/ContactView.js';
 import { renderPrivacyView } from './components/PrivacyView.js';
 import { renderTermsView } from './components/TermsView.js';
 import { renderDisclaimerView } from './components/DisclaimerView.js';
+import { renderSitemapView } from './components/SitemapView.js';
 import { renderFooter } from './components/Footer.js';
 
 import { articles } from './data/articles.js';
+
+const DOMAIN = "https://www.trendhaircuts.com";
 
 // Application State
 class AppState {
@@ -30,7 +33,6 @@ const appState = new AppState();
 
 // Helper to normalize paths
 function getCleanPath() {
-  // Support both pathname (History API) and legacy hash URLs gracefully
   let path = window.location.pathname;
 
   // If URL has legacy hash like /#/bubble-ponytail-ideas, redirect to clean path!
@@ -45,6 +47,65 @@ function getCleanPath() {
     path = path.slice(0, -1);
   }
   return path || '/';
+}
+
+// Google SEO Meta Standards Manager
+function updateSeoMetadata(title, description, canonicalUrl, imageUrl = '') {
+  // 1. Google Meta Title (Strict 50-60 char optimization)
+  document.title = title;
+
+  // 2. Meta Description
+  let metaDesc = document.querySelector('meta[name="description"]');
+  if (!metaDesc) {
+    metaDesc = document.createElement('meta');
+    metaDesc.name = 'description';
+    document.head.appendChild(metaDesc);
+  }
+  metaDesc.setAttribute('content', description);
+
+  // 3. Canonical Link
+  let canonicalLink = document.querySelector('link[rel="canonical"]');
+  if (!canonicalLink) {
+    canonicalLink = document.createElement('link');
+    canonicalLink.rel = 'canonical';
+    document.head.appendChild(canonicalLink);
+  }
+  canonicalLink.setAttribute('href', canonicalUrl);
+
+  // 4. OpenGraph Meta Tags
+  let ogTitle = document.querySelector('meta[property="og:title"]');
+  if (!ogTitle) {
+    ogTitle = document.createElement('meta');
+    ogTitle.setAttribute('property', 'og:title');
+    document.head.appendChild(ogTitle);
+  }
+  ogTitle.setAttribute('content', title);
+
+  let ogDesc = document.querySelector('meta[property="og:description"]');
+  if (!ogDesc) {
+    ogDesc = document.createElement('meta');
+    ogDesc.setAttribute('property', 'og:description');
+    document.head.appendChild(ogDesc);
+  }
+  ogDesc.setAttribute('content', description);
+
+  let ogUrl = document.querySelector('meta[property="og:url"]');
+  if (!ogUrl) {
+    ogUrl = document.createElement('meta');
+    ogUrl.setAttribute('property', 'og:url');
+    document.head.appendChild(ogUrl);
+  }
+  ogUrl.setAttribute('content', canonicalUrl);
+
+  if (imageUrl) {
+    let ogImg = document.querySelector('meta[property="og:image"]');
+    if (!ogImg) {
+      ogImg = document.createElement('meta');
+      ogImg.setAttribute('property', 'og:image');
+      document.head.appendChild(ogImg);
+    }
+    ogImg.setAttribute('content', imageUrl.startsWith('http') ? imageUrl : `${DOMAIN}${imageUrl}`);
+  }
 }
 
 // Main Router & Renderer
@@ -70,6 +131,8 @@ function renderApp() {
     route = 'terms';
   } else if (path === '/disclaimer') {
     route = 'disclaimer';
+  } else if (path === '/sitemap') {
+    route = 'sitemap';
   } else {
     // DIRECT ARTICLE URL! (e.g. /bubble-ponytail-ideas or /stunning-sleek-low-ponytail-that-stand-out)
     route = 'article';
@@ -79,6 +142,12 @@ function renderApp() {
   let bodyContent = '';
 
   if (route === 'home') {
+    updateSeoMetadata(
+      'Trend Haircuts — Modern Hairstyles & Cut Inspiration',
+      'Discover thousands of hand-curated hairstyle ideas, trendy haircuts, curtain bangs, bobs, braids, updos and daily hair styling guides on Trend Haircuts.',
+      `${DOMAIN}/`
+    );
+
     const featuredArticle = articles.find(a => a.isFeatured) || articles[0];
     const trendingArticles = articles.filter(a => a.isTrending);
     const visibleArticles = articles.slice(0, appState.loadedArticlesCount);
@@ -124,6 +193,12 @@ function renderApp() {
     );
 
     if (!targetArticle) {
+      updateSeoMetadata(
+        'Article Not Found | Trend Haircuts',
+        'We could not find the requested hairstyle guide on Trend Haircuts.',
+        `${DOMAIN}/${slug}`
+      );
+
       bodyContent = `
         <div class="container section-padding text-center" style="padding: 6rem 1rem;">
           <h1 class="category-page-title" style="margin-bottom: 1rem;">Article Not Found</h1>
@@ -136,20 +211,71 @@ function renderApp() {
         </div>
       `;
     } else {
+      // Google Meta Title Standard for Articles: <Title> | Trend Haircuts
+      const metaTitle = `${targetArticle.title} | Trend Haircuts`;
+      const metaDesc = targetArticle.intro.length > 155 ? `${targetArticle.intro.substring(0, 152)}...` : targetArticle.intro;
+      
+      updateSeoMetadata(
+        metaTitle,
+        metaDesc,
+        `${DOMAIN}/${targetArticle.slug}`,
+        targetArticle.heroImage
+      );
+
       bodyContent = renderArticleView(targetArticle);
     }
   } else if (route === 'category') {
+    const categoryName = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    
+    updateSeoMetadata(
+      `${categoryName} Hairstyles & Cut Ideas | Trend Haircuts`,
+      `Explore top hand-curated ${categoryName} hairstyle lookbooks, photo galleries, and professional styling guides on Trend Haircuts.`,
+      `${DOMAIN}/category/${slug}`
+    );
+
     bodyContent = renderCategoryView(slug, null);
   } else if (route === 'about') {
+    updateSeoMetadata(
+      'About Us | Trend Haircuts Editorial Team',
+      'Learn about Trend Haircuts, your daily destination for hand-curated haircut listicles, trend guides, and hair care masterclasses.',
+      `${DOMAIN}/about`
+    );
     bodyContent = renderAboutView();
   } else if (route === 'contact') {
+    updateSeoMetadata(
+      'Contact Us | Trend Haircuts Editorial Team',
+      'Get in touch with the Trend Haircuts editorial and styling team.',
+      `${DOMAIN}/contact`
+    );
     bodyContent = renderContactView();
   } else if (route === 'privacy') {
+    updateSeoMetadata(
+      'Privacy Policy | Trend Haircuts',
+      'Privacy policy and data protection terms for Trend Haircuts readers.',
+      `${DOMAIN}/privacy`
+    );
     bodyContent = renderPrivacyView();
   } else if (route === 'terms') {
+    updateSeoMetadata(
+      'Terms of Service | Trend Haircuts',
+      'Terms of service and reader agreement for Trend Haircuts.',
+      `${DOMAIN}/terms`
+    );
     bodyContent = renderTermsView();
   } else if (route === 'disclaimer') {
+    updateSeoMetadata(
+      'Editorial Disclaimer | Trend Haircuts',
+      'Editorial disclosure and hair styling safety disclaimers for Trend Haircuts.',
+      `${DOMAIN}/disclaimer`
+    );
     bodyContent = renderDisclaimerView();
+  } else if (route === 'sitemap') {
+    updateSeoMetadata(
+      'HTML Sitemap | Trend Haircuts',
+      'Complete directory and sitemap of all published haircut guides, category boards, and articles on Trend Haircuts.',
+      `${DOMAIN}/sitemap`
+    );
+    bodyContent = renderSitemapView();
   }
 
   appEl.innerHTML = `
@@ -176,8 +302,8 @@ document.addEventListener('click', (e) => {
   const href = link.getAttribute('href');
   if (!href) return;
 
-  // Ignore external links, mailto, tel
-  if (href.startsWith('http://') || href.startsWith('https://') || href.startsWith('mailto:') || href.startsWith('tel:')) {
+  // Ignore external links, mailto, tel, xml sitemap
+  if (href.startsWith('http://') || href.startsWith('https://') || href.startsWith('mailto:') || href.startsWith('tel:') || href.endsWith('.xml')) {
     return;
   }
 

@@ -45,6 +45,7 @@ export function renderFooter() {
             <ul class="footer-links">
               <li><a href="/about" data-route="about">About Us</a></li>
               <li><a href="/contact" data-route="contact">Contact Editorial</a></li>
+              <li><a href="/sitemap" data-route="sitemap">Sitemap</a></li>
               <li><a href="/privacy" data-route="privacy">Privacy Policy</a></li>
               <li><a href="/terms" data-route="terms">Terms of Service</a></li>
               <li><a href="/disclaimer" data-route="disclaimer">Editorial Disclaimer</a></li>
@@ -53,8 +54,9 @@ export function renderFooter() {
         </div>
 
         <div class="footer-bottom">
-          <p>&copy; ${new Date().getFullYear()} Tress & Trend Hair Magazine. All rights reserved.</p>
+          <p>&copy; ${new Date().getFullYear()} Trend Haircuts. All rights reserved.</p>
           <div style="display:flex; gap:1.5rem;">
+            <a href="/sitemap" data-route="sitemap">Sitemap</a>
             <a href="/privacy" data-route="privacy">Privacy</a>
             <a href="/terms" data-route="terms">Terms</a>
             <a href="/disclaimer" data-route="disclaimer">Disclaimer</a>
