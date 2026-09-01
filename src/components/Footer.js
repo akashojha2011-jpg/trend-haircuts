@@ -6,7 +6,7 @@ export function renderFooter() {
           <!-- Col 1: About & Mission -->
           <div>
             <div class="footer-logo">
-              <span>Trend <span style="font-weight:300; font-style:italic; color:#E88AA4;">Haircuts</span></span> <span style="color:#E88AA4;">✨</span>
+              <img src="/images/logo.png" alt="Trend Haircuts" class="site-logo-img" style="height: 48px; filter: brightness(0) invert(1);" />
             </div>
             <p class="footer-desc">
               Your daily beauty destination for hand-curated haircut listicles, hair color guides, styling masterclasses, and hairstyle trend inspiration.

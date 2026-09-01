@@ -43,8 +43,7 @@ export function renderHeader() {
       <div class="container header-inner">
         <!-- Logo -->
         <a href="/" class="logo" data-route="home">
-          <span class="logo-text">Trend <span class="logo-sub">Haircuts</span></span>
-          <span class="logo-sparkle" style="color: #E88AA4; font-size: 1.1rem; margin-left: 2px;">✨</span>
+          <img src="/images/logo.png" alt="Trend Haircuts" class="site-logo-img" />
         </a>
 
         <!-- Smart Desktop Navigation with Dropdowns + About -->

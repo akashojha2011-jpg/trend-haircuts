@@ -1,27 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
   <defs>
-    <linearGradient id="roseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F4A5B8"/>
-      <stop offset="100%" stop-color="#E88AA4"/>
-    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Great+Vibes&amp;display=swap');
+      .serif-t { font-family: 'Playfair Display', 'Cormorant Garamond', serif; font-weight: 700; fill: #1a1a1a; }
+      .script-h { font-family: 'Great Vibes', 'Dancing Script', cursive; fill: #d65b7e; }
+    </style>
   </defs>
 
-  <!-- Clean Soft Blush Circle Badge -->
-  <circle cx="256" cy="256" r="240" fill="#FFF2F5"/>
-  <circle cx="256" cy="256" r="230" fill="none" stroke="#F6DCE4" stroke-width="8"/>
+  <!-- Clean Soft White/Rose Rounded Square Badge -->
+  <rect width="512" height="512" rx="128" fill="#ffffff"/>
+  <rect x="12" y="12" width="488" height="488" rx="116" fill="none" stroke="#f6dce4" stroke-width="8"/>
 
-  <!-- Minimalist Stylized Scissors Emblem -->
-  <!-- Left Blade & Handle -->
-  <circle cx="170" cy="370" r="40" fill="none" stroke="#242124" stroke-width="24"/>
-  <path d="M 198 342 L 350 150" stroke="#242124" stroke-width="24" stroke-linecap="round"/>
+  <!-- Serif "T" -->
+  <text x="130" y="320" font-family="'Playfair Display', serif" font-size="300" font-weight="700" fill="#1a1a1a">T</text>
 
-  <!-- Right Blade & Handle -->
-  <circle cx="342" cy="370" r="40" fill="none" stroke="#242124" stroke-width="24"/>
-  <path d="M 314 342 L 162 150" stroke="#242124" stroke-width="24" stroke-linecap="round"/>
+  <!-- Script "H" -->
+  <text x="210" y="360" font-family="'Great Vibes', 'Dancing Script', cursive" font-size="290" fill="#d65b7e">H</text>
 
-  <!-- Pivot Screw Pin -->
-  <circle cx="256" cy="268" r="16" fill="url(#roseGrad)"/>
-
-  <!-- Elegant Sparkle Accent -->
-  <path d="M 360 110 Q 360 145 395 145 Q 360 145 360 180 Q 360 145 325 145 Q 360 145 360 110 Z" fill="url(#roseGrad)"/>
+  <!-- 4-point Sparkle Star -->
+  <path d="M 400 110 Q 400 150 440 150 Q 400 150 400 190 Q 400 150 360 150 Q 400 150 400 110 Z" fill="#d65b7e"/>
 </svg>
