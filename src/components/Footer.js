@@ -6,14 +6,7 @@ export function renderFooter() {
           <!-- Col 1: About & Mission -->
           <div>
             <div class="footer-logo">
-              <span class="logo-icon-box" style="display:inline-flex; width:26px; height:26px; vertical-align:middle; margin-right:6px; background:rgba(255,255,255,0.08); border-radius:50%; align-items:center; justify-content:center;">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M6 3L11.5 12L6 21" stroke="#e0a96d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-                  <path d="M18 3L12.5 12L18 21" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-                  <circle cx="12" cy="12" r="2.2" fill="#e0a96d"/>
-                </svg>
-              </span>
-              <span>Trend <span style="font-weight:300; font-style:italic; color:#e0a96d;">Haircuts</span></span>
+              <span>Trend <span style="font-weight:300; font-style:italic; color:#E88AA4;">Haircuts</span></span> <span style="color:#E88AA4;">✨</span>
             </div>
             <p class="footer-desc">
               Your daily beauty destination for hand-curated haircut listicles, hair color guides, styling masterclasses, and hairstyle trend inspiration.
