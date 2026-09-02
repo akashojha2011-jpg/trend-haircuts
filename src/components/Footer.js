@@ -6,7 +6,9 @@ export function renderFooter() {
           <!-- Col 1: About & Mission -->
           <div>
             <div class="footer-logo">
-              <img src="/images/logo.png" alt="Trend Haircuts" class="site-logo-img" style="height: 48px; filter: brightness(0) invert(1);" />
+              <a href="/" data-route="home" class="footer-logo-badge">
+                <img src="/images/logo.png" alt="Trend Haircuts" class="site-logo-img" />
+              </a>
             </div>
             <p class="footer-desc">
               Your trusted daily beauty destination for hand-curated haircut listicles, hair color guides, styling masterclasses, and hairstyle trend inspiration. Inspiring hair trends since 2017.

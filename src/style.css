@@ -1351,10 +1351,28 @@ h1, h2, h3, h4, .font-serif {
 }
 
 .footer-logo {
-  font-family: var(--font-serif);
-  font-size: 1.8rem;
-  font-weight: 700;
   margin-bottom: 0.75rem;
+}
+
+.footer-logo-badge {
+  display: inline-flex;
+  align-items: center;
+  background: #ffffff;
+  padding: 6px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(232, 138, 164, 0.25);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.footer-logo-badge:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(232, 138, 164, 0.25);
+}
+
+.footer-logo-badge .site-logo-img {
+  height: 38px;
 }
 
 .footer-desc {
