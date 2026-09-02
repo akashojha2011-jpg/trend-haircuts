@@ -8,10 +8,10 @@ export function renderPrivacyView() {
       </header>
 
       <div class="legal-page-body">
-        <p>At <strong>Tress & Trend</strong>, accessible from tressandtrend.com, the privacy of our visitors is one of our top priorities. This Privacy Policy document contains types of information that is collected and recorded by Tress & Trend and how we use it.</p>
+        <p>At <strong>Trend Haircuts</strong>, accessible from trendhaircuts.com, the privacy of our visitors is one of our top priorities. This Privacy Policy document contains types of information that is collected and recorded by Trend Haircuts and how we use it.</p>
 
         <h2>1. Information We Collect</h2>
-        <p>When you browse Tress & Trend or subscribe to our newsletter, we may collect minimal personal information including:</p>
+        <p>When you browse Trend Haircuts or subscribe to our newsletter, we may collect minimal personal information including:</p>
         <ul>
           <li><strong>Usage Data:</strong> Pages visited, time spent, browser type, and device parameters to optimize site speed and layout.</li>
           <li><strong>Saved Preferences:</strong> Stored locally on your device via browser local storage.</li>
@@ -29,7 +29,7 @@ export function renderPrivacyView() {
         </ul>
 
         <h2>3. Cookies and Local Storage</h2>
-        <p>Tress & Trend uses 'Cookies' and browser LocalStorage to store information including visitors' browsing preferences and the pages on the website that the visitor accessed or visited.</p>
+        <p>Trend Haircuts uses 'Cookies' and browser LocalStorage to store information including visitors' browsing preferences and the pages on the website that the visitor accessed or visited.</p>
 
         <h2>4. Third-Party Analytics and Ads</h2>
         <p>We may partner with third-party analytics services (such as Google Analytics) and advertising partners to measure audience engagement. These third parties may use cookies and web beacons to serve relevant beauty and hair care advertisements.</p>
@@ -38,7 +38,7 @@ export function renderPrivacyView() {
         <p>You have the right to request access to the personal data we hold about you, request corrections, or request deletion of your contact form submissions.</p>
 
         <h2>6. Contact Us</h2>
-        <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <code>privacy@tressandtrend.com</code>.</p>
+        <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <code>privacy@trendhaircuts.com</code>.</p>
       </div>
     </div>
   `;

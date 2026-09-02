@@ -8,7 +8,7 @@ export function renderContactView() {
       </header>
 
       <div class="legal-page-body" style="background: white; padding: 2.5rem; border-radius: var(--radius-lg); border: 1px solid var(--border-light); box-shadow: var(--shadow-sm);">
-        <p style="margin-bottom: 2rem;">Fill out the form below or reach us directly at <code>editorial@tressandtrend.com</code>.</p>
+        <p style="margin-bottom: 2rem;">Fill out the form below or reach us directly at <code>editorial@trendhaircuts.com</code>.</p>
         
         <form style="display: flex; flex-direction: column; gap: 1.5rem;" onsubmit="event.preventDefault(); alert('Thank you for reaching out! Our editorial team will get back to you shortly.');">
           <div>

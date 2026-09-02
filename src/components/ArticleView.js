@@ -149,7 +149,7 @@ export function renderArticleView(article) {
           <span>•</span>
           <span>${article.readTime}</span>
           <span>•</span>
-          <span>By Tress & Trend Editorial Team</span>
+          <span>By Trend Haircuts Editorial Team</span>
         </div>
       </header>
 

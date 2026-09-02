@@ -5,7 +5,7 @@ export function renderHeader() {
     if (menu.isDirectLink) {
       return `
         <li class="nav-item">
-          <a href="/category/${menu.slug}" class="nav-link" data-route="${menu.slug}">
+          <a href="/${menu.slug}" class="nav-link" data-route="${menu.slug}">
             <span>${menu.mainTitle}</span>
           </a>
         </li>
