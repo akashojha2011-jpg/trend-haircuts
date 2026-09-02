@@ -33,7 +33,7 @@ export function renderCategoryView(slug, subcategorySlug = null) {
   );
 
   const gridHtml = filteredArticles.length > 0
-    ? renderMasonryGrid(filteredArticles)
+    ? renderMasonryGrid(filteredArticles, { gridId: `category-grid-${slug}`, itemsPerPage: 6 })
     : `
       <div class="text-center" style="padding: 4rem 1rem;">
         <h3 class="heading-md" style="margin-bottom: 0.75rem;">No Articles Published Yet</h3>

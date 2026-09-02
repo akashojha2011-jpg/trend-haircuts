@@ -164,7 +164,7 @@ function renderApp() {
             <p class="subheading">Viral haircuts and color trends currently inspiring stylists worldwide</p>
           </div>
         </div>
-        ${renderMasonryGrid(trendingArticles)}
+        ${renderMasonryGrid(trendingArticles, { gridId: 'trending-grid', itemsPerPage: 3 })}
       </section>
 
       ${renderHairLengthSection()}
@@ -177,7 +177,7 @@ function renderApp() {
             <p class="subheading">Top read and shared hairstyle lookbooks</p>
           </div>
         </div>
-        ${renderMasonryGrid(visibleArticles)}
+        ${renderMasonryGrid(visibleArticles, { gridId: 'most-loved-grid', itemsPerPage: 6 })}
       </section>
 
       ${renderStyleChips(appState.activeStyle)}
@@ -448,8 +448,12 @@ function attachEventListeners() {
   });
 }
 
-// Listen to Browser Back / Forward buttons
+// Expose global render function for pagination & interactive components
+window.renderAppGlobal = renderApp;
+
+// Listen to Browser Back / Forward & Custom Pagination Events
 window.addEventListener('popstate', renderApp);
+window.addEventListener('render-app', renderApp);
 
 // Initial App Launch
 document.addEventListener('DOMContentLoaded', renderApp);

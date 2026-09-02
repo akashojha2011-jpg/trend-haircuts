@@ -55,6 +55,7 @@ export function renderMasonryGrid(articlesList = [], options = {}) {
           class="pagination-btn pagination-num ${activeClass}" 
           data-grid-id="${gridId}" 
           data-target-page="${i}"
+          aria-label="Page ${i}"
         >
           ${i}
         </button>
@@ -71,6 +72,7 @@ export function renderMasonryGrid(articlesList = [], options = {}) {
           data-grid-id="${gridId}" 
           data-target-page="${currentPage - 1}"
           ${prevDisabled}
+          aria-label="Previous Page"
         >
           <i data-lucide="chevron-left" size="18"></i>
           <span>Previous</span>
@@ -83,6 +85,7 @@ export function renderMasonryGrid(articlesList = [], options = {}) {
           data-grid-id="${gridId}" 
           data-target-page="${currentPage + 1}"
           ${nextDisabled}
+          aria-label="Next Page"
         >
           <span>Next</span>
           <i data-lucide="chevron-right" size="18"></i>
@@ -101,7 +104,7 @@ export function renderMasonryGrid(articlesList = [], options = {}) {
   `;
 }
 
-// Global click event listener for Pagination Arrow buttons
+// Global click event listener for Pagination Arrow & Number buttons
 document.addEventListener('click', (e) => {
   const btn = e.target.closest('.pagination-btn');
   if (!btn || btn.disabled) return;
@@ -112,13 +115,19 @@ document.addEventListener('click', (e) => {
   if (gridId && !isNaN(targetPage)) {
     gridPageStates[gridId] = targetPage;
     
-    // Re-render app to update pagination & grid view
-    window.dispatchEvent(new Event('hashchange'));
-    
-    // Smooth scroll to top of grid wrapper
-    const wrapper = document.getElementById(`${gridId}-wrapper`);
-    if (wrapper) {
-      wrapper.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    // Instantly trigger re-render of app state
+    if (typeof window.renderAppGlobal === 'function') {
+      window.renderAppGlobal();
+    } else {
+      window.dispatchEvent(new CustomEvent('render-app'));
     }
+    
+    // Smooth scroll to top of target grid
+    setTimeout(() => {
+      const wrapper = document.getElementById(`${gridId}-wrapper`);
+      if (wrapper) {
+        wrapper.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }, 50);
   }
 });
