@@ -9,7 +9,7 @@ export function renderFooter() {
               <img src="/images/logo.png" alt="Trend Haircuts" class="site-logo-img" style="height: 48px; filter: brightness(0) invert(1);" />
             </div>
             <p class="footer-desc">
-              Your daily beauty destination for hand-curated haircut listicles, hair color guides, styling masterclasses, and hairstyle trend inspiration.
+              Your trusted daily beauty destination for hand-curated haircut listicles, hair color guides, styling masterclasses, and hairstyle trend inspiration. Inspiring hair trends since 2017.
             </p>
           </div>
 
@@ -54,7 +54,7 @@ export function renderFooter() {
         </div>
 
         <div class="footer-bottom">
-          <p>&copy; ${new Date().getFullYear()} Trend Haircuts. All rights reserved.</p>
+          <p>&copy; 2017–${new Date().getFullYear()} Trend Haircuts — Inspiring Hair Trends Since 2017. All rights reserved.</p>
           <div style="display:flex; gap:1.5rem;">
             <a href="/sitemap" data-route="sitemap">Sitemap</a>
             <a href="/privacy" data-route="privacy">Privacy</a>
