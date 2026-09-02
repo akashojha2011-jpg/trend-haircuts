@@ -5,7 +5,7 @@ export const articles = [
     "title": "19+ Beautiful Hairstyles for Women over 50 with Bangs",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc2_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc2_cover_collage.jpg",
     "readTime": "11 min read",
     "date": "July 1, 2026",
     "isFeatured": true,
@@ -60,7 +60,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Layered Bob with Side-Swept Bangs in Chestnut Brown",
-        "image": "/images/doc2_img_2.jpg?v=20260902",
+        "image": "/images/doc2_img_2.jpg",
         "whyWeLoveIt": "Frames facial features while adding instant warm dimension.",
         "paragraphs": [
           "If you want a timeless cut that never fails to look polished, a classic layered bob with side-swept fringe is your go-to.",
@@ -71,7 +71,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Medium Shag with Wispy Bangs in Dark Blonde",
-        "image": "/images/doc2_img_3.jpg?v=20260902",
+        "image": "/images/doc2_img_3.jpg",
         "whyWeLoveIt": "Delivers carefree crown volume with soft, face-framing fringe.",
         "paragraphs": [
           "Feathered shag layers give mid-length hair a playful boost of movement and airy crown volume.",
@@ -82,7 +82,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Long Layered Cut with Curtain Bangs in Black",
-        "image": "/images/doc2_img_4.jpg?v=20260902",
+        "image": "/images/doc2_img_4.jpg",
         "whyWeLoveIt": "Sleek framing layers that elongate the neck and accentuate cheekbones.",
         "paragraphs": [
           "Long flowing layers paired with cheekbone curtain bangs offer effortless sophistication for mature hair.",
@@ -93,7 +93,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Chin-Length Bob with Blunt Bangs in Light Brown",
-        "image": "/images/doc2_img_5.jpg?v=20260902",
+        "image": "/images/doc2_img_5.jpg",
         "whyWeLoveIt": "Crisp architectural shape that instantly lifts facial contours.",
         "paragraphs": [
           "A precise chin-length bob paired with full blunt fringe makes a bold, chic fashion statement.",
@@ -104,7 +104,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Shoulder-Length Lob with Feathered Bangs in Medium Brown",
-        "image": "/images/doc2_img_6.jpg?v=20260902",
+        "image": "/images/doc2_img_6.jpg",
         "whyWeLoveIt": "The perfect sweet spot between long romantic waves and short easy maintenance.",
         "paragraphs": [
           "Sitting comfortably right at the collarbones, this versatile lob balances length and manageability.",
@@ -115,7 +115,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Soft Pixie with Textured Bangs in Gray",
-        "image": "/images/doc2_img_7.jpg?v=20260902",
+        "image": "/images/doc2_img_7.jpg",
         "whyWeLoveIt": "Celebrates natural silver hair with youthful movement and effortless morning styling.",
         "paragraphs": [
           "Embrace your natural silver tones with a textured pixie cut that radiates confidence and style.",
@@ -126,7 +126,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Wavy Shag with Layered Bangs in Dark Brown",
-        "image": "/images/doc2_img_8.jpg?v=20260902",
+        "image": "/images/doc2_img_8.jpg",
         "whyWeLoveIt": "Highlights natural wave texture while adding youthful movement and volume.",
         "paragraphs": [
           "Choppy shag layers bring out natural waves and curls with effortless retro flair.",
@@ -137,7 +137,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Classic Bob with Micro Bangs in Black",
-        "image": "/images/doc2_img_9.jpg?v=20260902",
+        "image": "/images/doc2_img_9.jpg",
         "whyWeLoveIt": "Bold avant-garde fringe that highlights brow shape and artistic confidence.",
         "paragraphs": [
           "For women who love fashion-forward cuts, short micro fringe paired with a clean bob turns heads.",
@@ -148,7 +148,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Shoulder-Length Cut with Arched Bangs in Auburn",
-        "image": "/images/doc2_img_10.jpg?v=20260902",
+        "image": "/images/doc2_img_10.jpg",
         "whyWeLoveIt": "Curved fringe shape that contours temples and warms up your complexion.",
         "paragraphs": [
           "Curved arched bangs wrap around the forehead, creating a flattering frame for your eyes.",
@@ -159,7 +159,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Medium Layered Bob with Side Bangs in Salt and Pepper",
-        "image": "/images/doc2_img_11.jpg?v=20260902",
+        "image": "/images/doc2_img_11.jpg",
         "whyWeLoveIt": "Effortlessly integrates natural salt-and-pepper tones with soft movement.",
         "paragraphs": [
           "Celebrate natural gray highlights with a layered medium bob that blends silver and dark tones.",
@@ -170,7 +170,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Long Straight Hair with Wispy Bangs in Dark Brown",
-        "image": "/images/doc2_img_12.jpg?v=20260902",
+        "image": "/images/doc2_img_12.jpg",
         "whyWeLoveIt": "Provides delicate forehead coverage while maintaining long, luxurious hair.",
         "paragraphs": [
           "Featherlight wispy fringe softens a long, straight silhouette without overwhelming your face.",
@@ -181,7 +181,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Curly Bob with Rounded Bangs in Black",
-        "image": "/images/doc2_img_13.jpg?v=20260902",
+        "image": "/images/doc2_img_13.jpg",
         "whyWeLoveIt": "Brings structure and crown height to natural ringlets and curls.",
         "paragraphs": [
           "A specialized curl-by-curl cut creates a rounded bob shape bursting with natural bounce.",
@@ -192,7 +192,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Layered Shag with Curtain Bangs in Golden Blonde",
-        "image": "/images/doc2_img_14.jpg?v=20260902",
+        "image": "/images/doc2_img_14.jpg",
         "whyWeLoveIt": "Sun-drenched golden blonde tones paired with effortless rock-and-roll movement.",
         "paragraphs": [
           "Playful shag layers combined with curtain fringe give mid-length hair a sun-kissed boost.",
@@ -203,7 +203,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Textured Lob with Choppy Bangs in Light Blonde",
-        "image": "/images/doc2_img_15.jpg?v=20260902",
+        "image": "/images/doc2_img_15.jpg",
         "whyWeLoveIt": "Edgy piecey texture that gives traditional lobs a youthful twist.",
         "paragraphs": [
           "Choppy point-cut fringe gives a shoulder-length lob a modern, youthful edge.",
@@ -214,7 +214,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Straight Bob with Wispy Bangs in Silver Gray",
-        "image": "/images/doc2_img_16.jpg?v=20260902",
+        "image": "/images/doc2_img_16.jpg",
         "whyWeLoveIt": "Ultra-chic silver bob with delicate fringe for an elegant, high-fashion statement.",
         "paragraphs": [
           "A smooth glass bob paired with delicate wispy fringe exudes pure sophistication.",
@@ -225,7 +225,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Medium Cut with Side-Swept Feathered Bangs in Honey Brown",
-        "image": "/images/doc2_img_17.jpg?v=20260902",
+        "image": "/images/doc2_img_17.jpg",
         "whyWeLoveIt": "Approachably elegant style with soft side fringe and warm honey tones.",
         "paragraphs": [
           "Feathered side bangs sweep gracefully across the forehead, creating a soft feminine frame.",
@@ -236,7 +236,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Long Wavy Layers with Bangs in Dark Auburn",
-        "image": "/images/doc2_img_18.jpg?v=20260902",
+        "image": "/images/doc2_img_18.jpg",
         "whyWeLoveIt": "Rich auburn warmth paired with romantic cascading waves and full fringe.",
         "paragraphs": [
           "Cascading wavy layers paired with full eye-grazing fringe create romantic glamour.",
@@ -247,7 +247,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Pixie Bob with Long Side Bangs in Ash Blonde",
-        "image": "/images/doc2_img_19.jpg?v=20260902",
+        "image": "/images/doc2_img_19.jpg",
         "whyWeLoveIt": "The low-maintenance ease of a pixie with the versatile face-framing length of a bob.",
         "paragraphs": [
           "A hybrid bixie cut combines short nape length with long side-swept front bangs.",
@@ -258,7 +258,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Medium Shaggy Bob with Piecey Bangs in Caramel Brown",
-        "image": "/images/doc2_img_20.jpg?v=20260902",
+        "image": "/images/doc2_img_20.jpg",
         "whyWeLoveIt": "Caramel balayage ribbons that accent piecey fringe and crown volume.",
         "paragraphs": [
           "A shaggy bob packed with internal texture and piecey fringe offers effortless volume.",
@@ -274,7 +274,7 @@ export const articles = [
     "title": "17+ Amazing Bob Hairstyles for Women over 40 to Try Now",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc4_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc4_cover_collage.jpg",
     "readTime": "10 min read",
     "date": "July 2, 2026",
     "isFeatured": true,
@@ -329,7 +329,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Bob with Rich Dark Brown",
-        "image": "/images/doc4_img_1.jpg?v=20260902",
+        "image": "/images/doc4_img_1.jpg",
         "whyWeLoveIt": "Gentle internal layers that create natural movement and crown softness.",
         "paragraphs": [
           "Gentle layers throughout this bob create natural movement while the rich dark brown shade provides quiet elegance.",
@@ -340,7 +340,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Chin-Length French Bob in Warm Chestnut",
-        "image": "/images/doc4_img_2.jpg?v=20260902",
+        "image": "/images/doc4_img_2.jpg",
         "whyWeLoveIt": "Timeless Parisian chic silhouette that accentuates jawline contours.",
         "paragraphs": [
           "A timeless French bob sits neatly right at the chin line, while warm chestnut hair adds softness and warmth.",
@@ -351,7 +351,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Textured Bob with Medium Brown Shine",
-        "image": "/images/doc4_img_3.jpg?v=20260902",
+        "image": "/images/doc4_img_3.jpg",
         "whyWeLoveIt": "Bouncy piecey layers that bring natural movement to fine hair.",
         "paragraphs": [
           "Lightly textured layers give this bob plenty of natural bounce without looking overly choppy or sparse.",
@@ -362,7 +362,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Classic Blunt Bob with Soft Black",
-        "image": "/images/doc4_img_4.jpg?v=20260902",
+        "image": "/images/doc4_img_4.jpg",
         "whyWeLoveIt": "Glass-smooth perimeter that creates a sleek, youthful jawline lift.",
         "paragraphs": [
           "A crisp blunt bob paired with soft black hair creates a polished appearance that never goes out of style.",
@@ -373,7 +373,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Graduated Bob with Deep Brown Dimension",
-        "image": "/images/doc4_img_5.jpg?v=20260902",
+        "image": "/images/doc4_img_5.jpg",
         "whyWeLoveIt": "Stacked back layering that lifts the nape and builds instant crown fullness.",
         "paragraphs": [
           "The graduated bob features stacked layers at the back for extra fullness and natural crown height.",
@@ -384,7 +384,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Shoulder-Length Bob with Golden Brown Layers",
-        "image": "/images/doc4_img_6.jpg?v=20260902",
+        "image": "/images/doc4_img_6.jpg",
         "whyWeLoveIt": "Versatile lob length that combines shoulder movement with golden warmth.",
         "paragraphs": [
           "Longer than a traditional bob, this shoulder-length lob includes soft layers that encourage natural movement.",
@@ -395,7 +395,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Feathered Bob with Light Brown Highlights",
-        "image": "/images/doc4_img_7.jpg?v=20260902",
+        "image": "/images/doc4_img_7.jpg",
         "whyWeLoveIt": "Airy feathered layers that soften cheekbones and temple lines.",
         "paragraphs": [
           "Delicate feathered layers soften the outline of this bob, creating a gentle face-framing effect.",
@@ -406,7 +406,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Angled Bob with Espresso Brown",
-        "image": "/images/doc4_img_8.jpg?v=20260902",
+        "image": "/images/doc4_img_8.jpg",
         "whyWeLoveIt": "Elongated front pieces that contour cheekbones and necklines gracefully.",
         "paragraphs": [
           "Longer pieces in front define this angled bob while the shorter back creates structured elegance.",
@@ -417,7 +417,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Wavy Bob with Chocolate Brown",
-        "image": "/images/doc4_img_9.jpg?v=20260902",
+        "image": "/images/doc4_img_9.jpg",
         "whyWeLoveIt": "Soft romantic waves that bring youthful energy and natural bounce.",
         "paragraphs": [
           "Soft waves transform this bob into an effortless everyday style with natural volume.",
@@ -428,7 +428,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Layered Bob with Natural Black",
-        "image": "/images/doc4_img_10.jpg?v=20260902",
+        "image": "/images/doc4_img_10.jpg",
         "whyWeLoveIt": "Wispy crown layers that maintain density while adding movement.",
         "paragraphs": [
           "Wispy layers keep this bob full of movement without removing density from fine hair.",
@@ -439,7 +439,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Curly Bob with Dark Brown",
-        "image": "/images/doc4_img_11.jpg?v=20260902",
+        "image": "/images/doc4_img_11.jpg",
         "whyWeLoveIt": "Defined ringlets shaped into a balanced, crown-volumizing silhouette.",
         "paragraphs": [
           "Naturally curly hair thrives in this cut, where carefully shaped layers encourage balanced volume.",
@@ -450,7 +450,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Inverted Bob with Medium Chestnut",
-        "image": "/images/doc4_img_12.jpg?v=20260902",
+        "image": "/images/doc4_img_12.jpg",
         "whyWeLoveIt": "Striking stacked nape architecture paired with warm chestnut tones.",
         "paragraphs": [
           "The inverted bob creates a striking profile through stacked nape layers and longer front sections.",
@@ -461,7 +461,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Rounded Bob with Deep Black",
-        "image": "/images/doc4_img_13.jpg?v=20260902",
+        "image": "/images/doc4_img_13.jpg",
         "whyWeLoveIt": "Soft curved silhouette that creates a full, youthful shape from every angle.",
         "paragraphs": [
           "Rounded shaping gives this bob a full, feminine appearance from every viewing angle.",
@@ -472,7 +472,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Choppy Bob with Warm Brown",
-        "image": "/images/doc4_img_14.jpg?v=20260902",
+        "image": "/images/doc4_img_14.jpg",
         "whyWeLoveIt": "Modern piecey texture that gives classic bobs a relaxed, youthful edge.",
         "paragraphs": [
           "Piecey layers throughout this choppy bob create lively texture without looking messy.",
@@ -483,7 +483,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Side-Part Bob with Dark Chestnut",
-        "image": "/images/doc4_img_15.jpg?v=20260902",
+        "image": "/images/doc4_img_15.jpg",
         "whyWeLoveIt": "Deep side part that instantly creates crown volume and soft brow framing.",
         "paragraphs": [
           "A deep side part instantly refreshes this bob while dark chestnut hair adds natural dimension.",
@@ -494,7 +494,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Wispy Bob with Soft Brown",
-        "image": "/images/doc4_img_16.jpg?v=20260902",
+        "image": "/images/doc4_img_16.jpg",
         "whyWeLoveIt": "Featherlight density that makes fine hair feel airy and easy to style.",
         "paragraphs": [
           "Fine wispy layers make this bob feel lightweight, comfortable, and flattering.",
@@ -505,7 +505,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Collarbone Bob with Rich Brown",
-        "image": "/images/doc4_img_17.jpg?v=20260902",
+        "image": "/images/doc4_img_17.jpg",
         "whyWeLoveIt": "Extended lob length that offers full updo and ponytail versatility.",
         "paragraphs": [
           "Extending just past the chin, this collarbone bob offers maximum styling flexibility.",
@@ -516,7 +516,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Sleek Bob with Jet Black",
-        "image": "/images/doc4_img_18.jpg?v=20260902",
+        "image": "/images/doc4_img_18.jpg",
         "whyWeLoveIt": "Glass-smooth razor edges for an ultra-chic, high-fashion statement.",
         "paragraphs": [
           "Straight styling highlights every clean edge of this sleek bob with high-fashion precision.",
@@ -532,7 +532,7 @@ export const articles = [
     "title": "11+ Beautiful Side Braid Hairstyles You’ll Love",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc3_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc3_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 3, 2026",
     "isFeatured": true,
@@ -587,7 +587,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Pearl-Accented Side Braid with Beige Blonde Waves",
-        "image": "/images/doc3_img_1.jpg?v=20260902",
+        "image": "/images/doc3_img_1.jpg",
         "whyWeLoveIt": "Elegant pearl details meet relaxed bohemian waves.",
         "paragraphs": [
           "A softly woven side braid crosses the back and joins a small knotted detail, while pearl pins add a polished finish.",
@@ -598,7 +598,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Chunky Dutch Side Braid in Rich Chestnut Brown",
-        "image": "/images/doc3_img_2.jpg?v=20260902",
+        "image": "/images/doc3_img_2.jpg",
         "whyWeLoveIt": "Voluminous inverted braid texture that makes fine hair look instantly thicker.",
         "paragraphs": [
           "This full Dutch braid begins high at the crown and travels down one side with generously loosened sections.",
@@ -609,7 +609,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Swept Side Braid with Ash Blonde Ombre",
-        "image": "/images/doc3_img_3.jpg?v=20260902",
+        "image": "/images/doc3_img_3.jpg",
         "whyWeLoveIt": "Ombre color melt accentuates the intricate weave pattern.",
         "paragraphs": [
           "Smooth crown sections flow into a relaxed braid positioned over one shoulder.",
@@ -620,7 +620,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Casual Side Braid in Dark Ash Blonde",
-        "image": "/images/doc3_img_4.jpg?v=20260902",
+        "image": "/images/doc3_img_4.jpg",
         "whyWeLoveIt": "The ultimate 3-minute morning style for effortless everyday elegance.",
         "paragraphs": [
           "A simple three-strand braid rests comfortably over the shoulder for an easy everyday hairstyle.",
@@ -631,7 +631,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Sleek Side Braid in Deep Chocolate Brown",
-        "image": "/images/doc3_img_5.jpg?v=20260902",
+        "image": "/images/doc3_img_5.jpg",
         "whyWeLoveIt": "High-shine ponytail braid ideal for office or formal evening wear.",
         "paragraphs": [
           "This long side braid starts from a high ponytail and continues into a neat, evenly shaped plait.",
@@ -642,7 +642,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Oversized Dutch Side Braid with Honey Blonde Highlights",
-        "image": "/images/doc3_img_6.jpg?v=20260902",
+        "image": "/images/doc3_img_6.jpg",
         "whyWeLoveIt": "Crown-volumizing Dutch weave paired with sunlit honey highlights.",
         "paragraphs": [
           "A wide Dutch braid sweeps from the front hairline toward a half-up ponytail, creating impressive volume across the crown.",
@@ -653,7 +653,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Crystal-Embellished Side Braid in Champagne Blonde",
-        "image": "/images/doc3_img_7.jpg?v=20260902",
+        "image": "/images/doc3_img_7.jpg",
         "whyWeLoveIt": "Bridal-ready glamour enhanced with luminous champagne blonde tones.",
         "paragraphs": [
           "Multiple loose braids merge into an extra-full side braid decorated with delicate crystal hairpieces.",
@@ -664,7 +664,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Low Side Braid with Caramel Blonde Highlights",
-        "image": "/images/doc3_img_8.jpg?v=20260902",
+        "image": "/images/doc3_img_8.jpg",
         "whyWeLoveIt": "Nape-grazing casual braid illuminated by caramel balayage ribbons.",
         "paragraphs": [
           "A smooth side-swept crown transitions into a relaxed braid beginning near the nape.",
@@ -675,7 +675,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Ribbon-Tied Dutch Side Braid in Platinum Blonde",
-        "image": "/images/doc3_img_9.jpg?v=20260902",
+        "image": "/images/doc3_img_9.jpg",
         "whyWeLoveIt": "High contrast platinum blonde paired with a chic velvet ribbon tie.",
         "paragraphs": [
           "A wide Dutch braid follows the side of the head before opening into a low ponytail tied with a slim black ribbon.",
@@ -686,7 +686,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Textured Mohawk Side Braid with Ash Brown Highlights",
-        "image": "/images/doc3_img_10.jpg?v=20260902",
+        "image": "/images/doc3_img_10.jpg",
         "whyWeLoveIt": "Raised crown braid profile that adds height and modern edge.",
         "paragraphs": [
           "This raised braid runs along the crown and continues down the side for a structured, edgy profile.",
@@ -697,7 +697,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Wrapped Side Braid in Sandy Blonde",
-        "image": "/images/doc3_img_11.jpg?v=20260902",
+        "image": "/images/doc3_img_11.jpg",
         "whyWeLoveIt": "Overlapping wrap technique creates a sophisticated waterfall effect.",
         "paragraphs": [
           "Smooth, overlapping sections wrap around the back before forming a loose braid over the shoulder.",
@@ -713,7 +713,7 @@ export const articles = [
     "title": "24+ Beautiful Curly Hairstyles for Older Women Worth Saving",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc5_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc5_cover_collage.jpg",
     "readTime": "12 min read",
     "date": "July 4, 2026",
     "isFeatured": true,
@@ -768,7 +768,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Curly Bob with Silver Highlights",
-        "image": "/images/doc5_img_1.jpg?v=20260902",
+        "image": "/images/doc5_img_1.jpg",
         "whyWeLoveIt": "Delicate layers that enhance natural ringlet shape while silver highlights brighten facial features.",
         "paragraphs": [
           "Delicate layers throughout this curly bob create beautiful shape and movement while silver highlights brighten the curls.",
@@ -779,7 +779,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Honey Blonde Curly Pixie Cut",
-        "image": "/images/doc5_img_2.jpg?v=20260902",
+        "image": "/images/doc5_img_2.jpg",
         "whyWeLoveIt": "Short and full of lively crown texture paired with sun-warmed honey blonde warmth.",
         "paragraphs": [
           "Short and full of texture, this curly pixie cut showcases natural curls while honey blonde tones add warmth.",
@@ -790,7 +790,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Shoulder-Length Curly Shag in Warm Brunette",
-        "image": "/images/doc5_img_3.jpg?v=20260902",
+        "image": "/images/doc5_img_3.jpg",
         "whyWeLoveIt": "Feathered retro layers that build natural volume and breezy shoulder movement.",
         "paragraphs": [
           "A curly shag with feathered layers creates effortless volume and lively crown texture.",
@@ -801,7 +801,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Salt-and-Pepper Curly Lob",
-        "image": "/images/doc5_img_4.jpg?v=20260902",
+        "image": "/images/doc5_img_4.jpg",
         "whyWeLoveIt": "Polished shoulder-grazing length that celebrates natural salt-and-pepper tones.",
         "paragraphs": [
           "The curly lob offers a polished yet relaxed feel with curls falling gracefully just above the shoulders.",
@@ -812,7 +812,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Layered Ringlet Cut with Soft Chestnut Brown",
-        "image": "/images/doc5_img_5.jpg?v=20260902",
+        "image": "/images/doc5_img_5.jpg",
         "whyWeLoveIt": "Defined ringlets shaped to prevent bottom heavy bulk while preserving fullness.",
         "paragraphs": [
           "Defined ringlets shine in this layered haircut that prevents excess bulk while maintaining fullness.",
@@ -823,7 +823,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Tapered Curly Crop with Natural Gray",
-        "image": "/images/doc5_img_6.jpg?v=20260902",
+        "image": "/images/doc5_img_6.jpg",
         "whyWeLoveIt": "Shorter sides and bold crown height that highlight confident facial structure.",
         "paragraphs": [
           "Featuring shorter sides and extra volume on top, this tapered curly crop celebrates natural texture.",
@@ -834,7 +834,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Voluminous Curly Bob in Golden Blonde",
-        "image": "/images/doc5_img_7.jpg?v=20260902",
+        "image": "/images/doc5_img_7.jpg",
         "whyWeLoveIt": "Rounded shape that creates balanced volume and sun-drenched golden warmth.",
         "paragraphs": [
           "Rounded layers help build fullness and balance throughout this cheerful curly bob.",
@@ -845,7 +845,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Curly Shoulder Cut with Caramel Balayage",
-        "image": "/images/doc5_img_8.jpg?v=20260902",
+        "image": "/images/doc5_img_8.jpg",
         "whyWeLoveIt": "Caramel ribbons that illuminate shoulder-length curls with soft dimension.",
         "paragraphs": [
           "Curly Shoulder Cut with Caramel Balayage is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -856,7 +856,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Textured Curly Pixie in Silver Gray",
-        "image": "/images/doc5_img_9.jpg?v=20260902",
+        "image": "/images/doc5_img_9.jpg",
         "whyWeLoveIt": "Modern softness and airy texture for elegant silver gray hair.",
         "paragraphs": [
           "The textured finish of this curly pixie creates modern softness and natural movement.",
@@ -867,7 +867,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Long Curly Layers with Dark Brown Dimension",
-        "image": "/images/doc5_img_10.jpg?v=20260902",
+        "image": "/images/doc5_img_10.jpg",
         "whyWeLoveIt": "Manages long curl weight with interior layers for beautiful movement.",
         "paragraphs": [
           "Long curls become more manageable with carefully placed layers that reduce weight.",
@@ -878,7 +878,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Curly French Bob with Ash Brown Tones",
-        "image": "/images/doc5_img_11.jpg?v=20260902",
+        "image": "/images/doc5_img_11.jpg",
         "whyWeLoveIt": "Classic jawline length with effortless Parisian chic ringlets.",
         "paragraphs": [
           "Inspired by classic French styling, this curly bob sits near the jawline with chic grace.",
@@ -889,7 +889,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Rounded Curly Cut with White Silver Blend",
-        "image": "/images/doc5_img_12.jpg?v=20260902",
+        "image": "/images/doc5_img_12.jpg",
         "whyWeLoveIt": "Full rounded silhouette that illuminates natural white-silver curls.",
         "paragraphs": [
           "Designed to enhance natural volume, this rounded haircut creates a balanced silhouette.",
@@ -900,7 +900,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Curly Wolf Cut in Medium Brown",
-        "image": "/images/doc5_img_13.jpg?v=20260902",
+        "image": "/images/doc5_img_13.jpg",
         "whyWeLoveIt": "Crown volume and shaggy lengths for a trendy, youthful curl profile.",
         "paragraphs": [
           "Layering throughout the crown and lengths gives this curly wolf cut plenty of texture.",
@@ -911,7 +911,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Chin-Length Curly Bob with Sandy Blonde Highlights",
-        "image": "/images/doc5_img_14.jpg?v=20260902",
+        "image": "/images/doc5_img_14.jpg",
         "whyWeLoveIt": "Face-framing length with soft sandy blonde sunlit highlights.",
         "paragraphs": [
           "Chin-length curls frame the face beautifully while internal layers encourage natural bounce.",
@@ -922,7 +922,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Layered Curly Crop with Soft Auburn Color",
-        "image": "/images/doc5_img_15.jpg?v=20260902",
+        "image": "/images/doc5_img_15.jpg",
         "whyWeLoveIt": "Warm auburn richness paired with easy-to-style cropped layers.",
         "paragraphs": [
           "Layered Curly Crop with Soft Auburn Color is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -933,7 +933,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Natural Curly Afro in Deep Espresso Brown",
-        "image": "/images/doc5_img_16.jpg?v=20260902",
+        "image": "/images/doc5_img_16.jpg",
         "whyWeLoveIt": "Celebrates natural afro texture with a high-shine rounded shape.",
         "paragraphs": [
           "Full, rounded curls take center stage in this stunning natural curly afro.",
@@ -944,7 +944,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Curly Shoulder-Length Layers with Golden Brown Blend",
-        "image": "/images/doc5_img_17.jpg?v=20260902",
+        "image": "/images/doc5_img_17.jpg",
         "whyWeLoveIt": "Flowing shoulder movement with sunlit golden brown warmth.",
         "paragraphs": [
           "Flowing layers throughout the shoulders create movement while preventing heaviness.",
@@ -955,7 +955,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Silver Curly Shag with Curtain Layers",
-        "image": "/images/doc5_img_18.jpg?v=20260902",
+        "image": "/images/doc5_img_18.jpg",
         "whyWeLoveIt": "Face-framing curtain layers combined with silver shag texture.",
         "paragraphs": [
           "Curtain-inspired layers around the face soften features while the shag shape adds texture.",
@@ -966,7 +966,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Curly Bixie Cut in Light Brown",
-        "image": "/images/doc5_img_19.jpg?v=20260902",
+        "image": "/images/doc5_img_19.jpg",
         "whyWeLoveIt": "Hybrid bob-pixie cut offering quick morning styling and crown height.",
         "paragraphs": [
           "Combining elements of a bob and pixie, this curly bixie offers easy morning styling.",
@@ -977,7 +977,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Soft Spiral Curly Cut with Dark Auburn Highlights",
-        "image": "/images/doc5_img_20.jpg?v=20260902",
+        "image": "/images/doc5_img_20.jpg",
         "whyWeLoveIt": "Lively spiral ringlet definition illuminated by dark auburn highlights.",
         "paragraphs": [
           "Soft Spiral Curly Cut with Dark Auburn Highlights is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -988,7 +988,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Layered Curly Lob with Beige Blonde Balayage",
-        "image": "/images/doc5_img_21.jpg?v=20260902",
+        "image": "/images/doc5_img_21.jpg",
         "whyWeLoveIt": "Buoyant lob silhouette brightened with cool beige blonde balayage.",
         "paragraphs": [
           "The longer bob silhouette provides versatility while layers keep curls buoyant.",
@@ -999,7 +999,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Curly Pixie Bob in Warm Gray",
-        "image": "/images/doc5_img_22.jpg?v=20260902",
+        "image": "/images/doc5_img_22.jpg",
         "whyWeLoveIt": "Longer top curls blending seamlessly into a short bob shape.",
         "paragraphs": [
           "Longer curls on top blend seamlessly into a short bob shape for softness and volume.",
@@ -1010,7 +1010,7 @@ export const articles = [
       {
         "number": 23,
         "title": "Mid-Length Curly Cut with Rich Chocolate Brown",
-        "image": "/images/doc5_img_23.jpg?v=20260902",
+        "image": "/images/doc5_img_23.jpg",
         "whyWeLoveIt": "Blended interior layers that enhance natural bounce and chocolate shine.",
         "paragraphs": [
           "Mid-length curls benefit from blended layers that enhance movement and reduce bulk.",
@@ -1021,7 +1021,7 @@ export const articles = [
       {
         "number": 24,
         "title": "Stacked Curly Bob with Silver Blonde Accents",
-        "image": "/images/doc5_img_24.jpg?v=20260902",
+        "image": "/images/doc5_img_24.jpg",
         "whyWeLoveIt": "Fullness at the nape with clean, elegant silver blonde accents.",
         "paragraphs": [
           "The stacked shape adds fullness at the back while maintaining a clean silhouette.",
@@ -1032,7 +1032,7 @@ export const articles = [
       {
         "number": 25,
         "title": "Curly Layered Cut with Soft Mocha Brown",
-        "image": "/images/doc5_img_25.jpg?v=20260902",
+        "image": "/images/doc5_img_25.jpg",
         "whyWeLoveIt": "Gentle face-framing layers and soft mocha brown warmth.",
         "paragraphs": [
           "Curly Layered Cut with Soft Mocha Brown is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1048,7 +1048,7 @@ export const articles = [
     "title": "12+ Stunning Bubble Ponytail to Copy",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc6_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc6_cover_collage.jpg",
     "readTime": "7 min read",
     "date": "July 5, 2026",
     "isFeatured": true,
@@ -1103,7 +1103,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Voluminous Bubble Ponytail with Warm Blonde Layers",
-        "image": "/images/doc6_img_1.jpg?v=20260902",
+        "image": "/images/doc6_img_1.jpg",
         "whyWeLoveIt": "Golden blonde highlights teased into fluffy, airy rounded bubbles.",
         "paragraphs": [
           "A playful yet polished bubble ponytail that highlights soft golden blonde tones.",
@@ -1114,7 +1114,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Sleek Wrapped Bubble Ponytail in Cool Blonde",
-        "image": "/images/doc6_img_2.jpg?v=20260902",
+        "image": "/images/doc6_img_2.jpg",
         "whyWeLoveIt": "Refined cool blonde finish with strand-wrapped elastic covers.",
         "paragraphs": [
           "This refined bubble ponytail features smooth, cool-toned blonde strands with a sleek wrapped base.",
@@ -1125,7 +1125,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Classic Bubble Ponytail with Glossy Chestnut Brown",
-        "image": "/images/doc6_img_3.jpg?v=20260902",
+        "image": "/images/doc6_img_3.jpg",
         "whyWeLoveIt": "Rich chestnut depth enhancing full, structured bubble sections.",
         "paragraphs": [
           "A rich chestnut brown shade enhances the overall fullness of this structured bubble ponytail.",
@@ -1136,7 +1136,7 @@ export const articles = [
       {
         "number": 4,
         "title": "High Bubble Ponytail in Platinum Blonde",
-        "image": "/images/doc6_img_4.jpg?v=20260902",
+        "image": "/images/doc6_img_4.jpg",
         "whyWeLoveIt": "Striking high ponytail silhouette with root shadow contrast.",
         "paragraphs": [
           "A striking high ponytail in platinum blonde with subtle darker roots adds depth and contrast.",
@@ -1147,7 +1147,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Relaxed Bubble Ponytail with Ash Blonde Highlights",
-        "image": "/images/doc6_img_5.jpg?v=20260902",
+        "image": "/images/doc6_img_5.jpg",
         "whyWeLoveIt": "Soft, effortless everyday take on the bubble ponytail trend.",
         "paragraphs": [
           "A soft and natural take on the bubble ponytail, featuring ash blonde highlights over a darker base.",
@@ -1158,7 +1158,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Creative Two-Tone Bubble Ponytail with Braided Detail",
-        "image": "/images/doc6_img_6.jpg?v=20260902",
+        "image": "/images/doc6_img_6.jpg",
         "whyWeLoveIt": "Bold dark chocolate and platinum contrast with Dutch braid elements.",
         "paragraphs": [
           "A bold bubble ponytail enhanced by two-tone coloring, blending dark chocolate brown with platinum blonde ends.",
@@ -1169,7 +1169,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Braided Crown Bubble Ponytail in Honey Blonde",
-        "image": "/images/doc6_img_7.jpg?v=20260902",
+        "image": "/images/doc6_img_7.jpg",
         "whyWeLoveIt": "Merges elegant crown braids with playful bubble ponytail sections.",
         "paragraphs": [
           "Sleek honey blonde strands are styled into a braided crown that transitions into a bubble ponytail.",
@@ -1180,7 +1180,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Polished Bubble Ponytail in Deep Brunette",
-        "image": "/images/doc6_img_8.jpg?v=20260902",
+        "image": "/images/doc6_img_8.jpg",
         "whyWeLoveIt": "Smooth rounded bubbles with subtle dark brown lowlights.",
         "paragraphs": [
           "This smooth bubble ponytail features a deep brunette shade with subtle warm highlights.",
@@ -1191,7 +1191,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Casual Bubble Ponytail with Natural Brown Shine",
-        "image": "/images/doc6_img_9.jpg?v=20260902",
+        "image": "/images/doc6_img_9.jpg",
         "whyWeLoveIt": "Healthy shine and easy low ponytail placement for daily wear.",
         "paragraphs": [
           "A relaxed version of the bubble ponytail, styled on natural brown hair with a healthy shine.",
@@ -1202,7 +1202,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Sleek Bubble Ponytail in Copper Brown",
-        "image": "/images/doc6_img_10.jpg?v=20260902",
+        "image": "/images/doc6_img_10.jpg",
         "whyWeLoveIt": "Vibrant copper warmth paired with glass-smooth bubble segments.",
         "paragraphs": [
           "A glossy copper brown ponytail styled into perfectly defined bubble sections.",
@@ -1213,7 +1213,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Sleek Bubble Ponytail with Subtle Caramel Streaks",
-        "image": "/images/doc6_img_11.jpg?v=20260902",
+        "image": "/images/doc6_img_11.jpg",
         "whyWeLoveIt": "Caramel dimension running through a dark brunette base.",
         "paragraphs": [
           "A polished bubble ponytail with a smooth finish, highlighted by caramel streaks running through a dark base.",
@@ -1224,7 +1224,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Long Bubble Ponytail with Cool Ash Brown Shine",
-        "image": "/images/doc6_img_12.jpg?v=20260902",
+        "image": "/images/doc6_img_12.jpg",
         "whyWeLoveIt": "Elongated silhouette with cool ash brown reflective shine.",
         "paragraphs": [
           "Long Bubble Ponytail with Cool Ash Brown Shine is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1235,7 +1235,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Textured Bubble Ponytail with Golden Highlights",
-        "image": "/images/doc6_img_13.jpg?v=20260902",
+        "image": "/images/doc6_img_13.jpg",
         "whyWeLoveIt": "Lifted crown architecture and golden highlights for extra body.",
         "paragraphs": [
           "A voluminous bubble ponytail created on a rich brunette base with golden streaks.",
@@ -1251,7 +1251,7 @@ export const articles = [
     "title": "23+ Stunning Haircuts with Glasses You’ll Love",
     "category": "Face Shape & Glasses",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc7_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc7_cover_collage.jpg",
     "readTime": "11 min read",
     "date": "July 6, 2026",
     "isFeatured": true,
@@ -1306,7 +1306,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Long Bob with Honey Blonde Highlights",
-        "image": "/images/doc7_img_1.jpg?v=20260902",
+        "image": "/images/doc7_img_1.jpg",
         "whyWeLoveIt": "Soft blended layers that prevent heavy bulk around temple arms.",
         "paragraphs": [
           "A long bob haircut with soft, blended layers and warm honey blonde highlights that add dimension.",
@@ -1317,7 +1317,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Textured Chin-Length Bob in Rich Espresso",
-        "image": "/images/doc7_img_2.jpg?v=20260902",
+        "image": "/images/doc7_img_2.jpg",
         "whyWeLoveIt": "Structure that pairs beautifully with bold or dark frames.",
         "paragraphs": [
           "A chin-length bob haircut with subtle texture in a deep espresso color.",
@@ -1328,7 +1328,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Sleek Blunt Bob with Jet Black Shine",
-        "image": "/images/doc7_img_3.jpg?v=20260902",
+        "image": "/images/doc7_img_3.jpg",
         "whyWeLoveIt": "Glass-smooth razor silhouette contrasting with geometric glasses.",
         "paragraphs": [
           "Sleek Blunt Bob with Jet Black Shine is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1339,7 +1339,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Shoulder-Length Waves with Caramel Balayage",
-        "image": "/images/doc7_img_4.jpg?v=20260902",
+        "image": "/images/doc7_img_4.jpg",
         "whyWeLoveIt": "Loose romantic waves that soften bold rectangular frames.",
         "paragraphs": [
           "A medium-length haircut with loose waves and caramel balayage highlights.",
@@ -1350,7 +1350,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Wispy Bangs Lob in Soft Chestnut",
-        "image": "/images/doc7_img_6.jpg?v=20260902",
+        "image": "/images/doc7_img_6.jpg",
         "whyWeLoveIt": "Delicate fringe that frames the forehead without resting on glasses rims.",
         "paragraphs": [
           "Wispy Bangs Lob in Soft Chestnut is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1361,7 +1361,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Layered Midi Cut with Ash Brown Tones",
-        "image": "/images/doc7_img_8.jpg?v=20260902",
+        "image": "/images/doc7_img_8.jpg",
         "whyWeLoveIt": "Mid-length movement that keeps eyes and frames front and center.",
         "paragraphs": [
           "A mid-length layered haircut in cool ash brown that adds natural movement.",
@@ -1372,7 +1372,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Curly Shoulder-Length Cut in Warm Auburn",
-        "image": "/images/doc7_img_9.jpg?v=20260902",
+        "image": "/images/doc7_img_9.jpg",
         "whyWeLoveIt": "Bouncy ringlets that balance oversized or round glasses frames.",
         "paragraphs": [
           "Curly Shoulder-Length Cut in Warm Auburn is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1383,7 +1383,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Precision Pixie Cut in Platinum Blonde",
-        "image": "/images/doc7_img_10.jpg?v=20260902",
+        "image": "/images/doc7_img_10.jpg",
         "whyWeLoveIt": "Ultra-clean short lines that make statement eyewear stand out.",
         "paragraphs": [
           "Precision Pixie Cut in Platinum Blonde is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1394,7 +1394,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Textured Pixie with Dark Chocolate Color",
-        "image": "/images/doc7_img_11.jpg?v=20260902",
+        "image": "/images/doc7_img_11.jpg",
         "whyWeLoveIt": "Low-maintenance crown texture paired with rich dark brown warmth.",
         "paragraphs": [
           "A layered pixie haircut in dark chocolate brown that adds softness and dimension.",
@@ -1405,7 +1405,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Bixie Cut in Soft Beige Blonde",
-        "image": "/images/doc7_img_12.jpg?v=20260902",
+        "image": "/images/doc7_img_12.jpg",
         "whyWeLoveIt": "Hybrid bob-pixie cut blending playfulness and glasses-friendly structure.",
         "paragraphs": [
           "A hybrid bob-pixie haircut in beige blonde with choppy interior layers.",
@@ -1416,7 +1416,7 @@ export const articles = [
       {
         "number": 11,
         "title": "French Bob with Mocha Brown Gloss",
-        "image": "/images/doc7_img_13.jpg?v=20260902",
+        "image": "/images/doc7_img_13.jpg",
         "whyWeLoveIt": "Jawline length sitting neatly below cheekbones to accent smaller frames.",
         "paragraphs": [
           "A short French bob haircut in glossy mocha brown, sitting just below cheekbones.",
@@ -1427,7 +1427,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Feathered Layers Cut in Golden Brown",
-        "image": "/images/doc7_img_14.jpg?v=20260902",
+        "image": "/images/doc7_img_14.jpg",
         "whyWeLoveIt": "Airy movement around face and temples for zero glasses interference.",
         "paragraphs": [
           "Feathered Layers Cut in Golden Brown is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1438,7 +1438,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Long Layered Cut with Subtle Highlights",
-        "image": "/images/doc7_img_15.jpg?v=20260902",
+        "image": "/images/doc7_img_15.jpg",
         "whyWeLoveIt": "Long flowing layers that frame the face without overwhelming eyewear.",
         "paragraphs": [
           "Long Layered Cut with Subtle Highlights is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1449,7 +1449,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Shag-Inspired Cut in Sandy Blonde",
-        "image": "/images/doc7_img_16.jpg?v=20260902",
+        "image": "/images/doc7_img_16.jpg",
         "whyWeLoveIt": "Choppy texture that creates effortless balance with statement frames.",
         "paragraphs": [
           "Shag-Inspired Cut in Sandy Blonde is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1460,7 +1460,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Curtain Bangs Cut with Soft Black Color",
-        "image": "/images/doc7_img_17.jpg?v=20260902",
+        "image": "/images/doc7_img_17.jpg",
         "whyWeLoveIt": "Face-opening curtain fringe that sweeps outward around glasses rims.",
         "paragraphs": [
           "Curtain Bangs Cut with Soft Black Color is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1471,7 +1471,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Voluminous Mid-Length Cut in Cinnamon Brown",
-        "image": "/images/doc7_img_18.jpg?v=20260902",
+        "image": "/images/doc7_img_18.jpg",
         "whyWeLoveIt": "Warm cinnamon tones with root volume that balances wide frames.",
         "paragraphs": [
           "A medium-length haircut with crown volume and warm cinnamon brown tones.",
@@ -1482,7 +1482,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Micro Bob in Cool Brunette",
-        "image": "/images/doc7_img_19.jpg?v=20260902",
+        "image": "/images/doc7_img_19.jpg",
         "whyWeLoveIt": "Minimalist short crop ideal for sleek, modern eyewear.",
         "paragraphs": [
           "Micro Bob in Cool Brunette is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1493,7 +1493,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Layered Lob with Face-Framing Highlights",
-        "image": "/images/doc7_img_20.jpg?v=20260902",
+        "image": "/images/doc7_img_20.jpg",
         "whyWeLoveIt": "Brightening money pieces that draw light toward eyes and glasses.",
         "paragraphs": [
           "Layered Lob with Face-Framing Highlights is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1504,7 +1504,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Soft Blunt Lob in Neutral Blonde",
-        "image": "/images/doc7_img_21.jpg?v=20260902",
+        "image": "/images/doc7_img_21.jpg",
         "whyWeLoveIt": "Softened perimeter edges for an approachable everyday look.",
         "paragraphs": [
           "A blunt long bob haircut in neutral blonde with softened perimeter edges.",
@@ -1515,7 +1515,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Short Curly Pixie in Deep Black",
-        "image": "/images/doc7_img_22.jpg?v=20260902",
+        "image": "/images/doc7_img_22.jpg",
         "whyWeLoveIt": "Cropped ringlets that keep attention focused on face and frames.",
         "paragraphs": [
           "Short Curly Pixie in Deep Black is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1526,7 +1526,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Textured Shoulder Cut in Copper Red",
-        "image": "/images/doc7_img_23.jpg?v=20260902",
+        "image": "/images/doc7_img_23.jpg",
         "whyWeLoveIt": "Vibrant copper warmth that adds personality to neutral glasses frames.",
         "paragraphs": [
           "Textured Shoulder Cut in Copper Red is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1537,7 +1537,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Invisible Layer Cut in Dark Brown",
-        "image": "/images/doc7_img_24.jpg?v=20260902",
+        "image": "/images/doc7_img_24.jpg",
         "whyWeLoveIt": "Seamless internal layers that add movement without visual clutter.",
         "paragraphs": [
           "Invisible Layer Cut in Dark Brown is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1548,7 +1548,7 @@ export const articles = [
       {
         "number": 23,
         "title": "Sleek Straight Long Cut in Glossy Black",
-        "image": "/images/doc7_img_25.jpg?v=20260902",
+        "image": "/images/doc7_img_25.jpg",
         "whyWeLoveIt": "Clean minimalist backdrop for bold statement glasses frames.",
         "paragraphs": [
           "Sleek Straight Long Cut in Glossy Black is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1564,7 +1564,7 @@ export const articles = [
     "title": "21+ Beautiful Hairstyles for Older Women with Fine Hair",
     "category": "Fine & Thin Hair Styles",
     "categorySlug": "fine-thin-hair",
-    "heroImage": "/images/doc8_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc8_cover_collage.jpg",
     "readTime": "11 min read",
     "date": "July 7, 2026",
     "isFeatured": true,
@@ -1619,7 +1619,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Layered Bob with Silver Highlights",
-        "image": "/images/doc8_img_1.jpg?v=20260902",
+        "image": "/images/doc8_img_1.jpg",
         "whyWeLoveIt": "Soft interior layers paired with silver highlights for multi-dimensional volume.",
         "paragraphs": [
           "A classic layered bob styled with subtle silver highlights adds dimension and softens fine hair.",
@@ -1630,7 +1630,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Soft Pixie with Warm Blonde Tones",
-        "image": "/images/doc8_img_2.jpg?v=20260902",
+        "image": "/images/doc8_img_2.jpg",
         "whyWeLoveIt": "Feathered crown volume bathed in warm honey and caramel blonde warmth.",
         "paragraphs": [
           "This pixie cut is ideal for adding volume on top with its soft, feathered layers.",
@@ -1641,7 +1641,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Feathered Shoulder-Length Cut",
-        "image": "/images/doc8_img_3.jpg?v=20260902",
+        "image": "/images/doc8_img_3.jpg",
         "whyWeLoveIt": "Weightless shoulder movement that prevents fine strands from lying flat.",
         "paragraphs": [
           "Feathered layers in this shoulder-length cut create a lightweight, airy feel.",
@@ -1652,7 +1652,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Chin-Length Bob with Soft Layers",
-        "image": "/images/doc8_img_4.jpg?v=20260902",
+        "image": "/images/doc8_img_4.jpg",
         "whyWeLoveIt": "Crisp jawline framing that instantly boosts perimeter density.",
         "paragraphs": [
           "A chin-length bob with soft layers boosts natural volume and movement.",
@@ -1663,7 +1663,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Classic Shag with Copper Balayage",
-        "image": "/images/doc8_img_5.jpg?v=20260902",
+        "image": "/images/doc8_img_5.jpg",
         "whyWeLoveIt": "Choppy shag layers and copper highlights that build instant texture.",
         "paragraphs": [
           "A modern twist on the classic shag cut, this style uses light layering to build body.",
@@ -1674,7 +1674,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Tapered Pixie with Icy Blonde",
-        "image": "/images/doc8_img_6.jpg?v=20260902",
+        "image": "/images/doc8_img_6.jpg",
         "whyWeLoveIt": "Bold tapered nape paired with high-impact icy silver blonde.",
         "paragraphs": [
           "This tapered pixie offers a clean, modern look that frames facial contours beautifully.",
@@ -1685,7 +1685,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Wavy Lob with Sun-Kissed Highlights",
-        "image": "/images/doc8_img_7.jpg?v=20260902",
+        "image": "/images/doc8_img_7.jpg",
         "whyWeLoveIt": "Gentle S-waves that double the appearance of hair thickness.",
         "paragraphs": [
           "A long bob (lob) with gentle waves and sun-kissed highlights adds subtle movement.",
@@ -1696,7 +1696,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Curled Crop with Sandy Blonde",
-        "image": "/images/doc8_img_8.jpg?v=20260902",
+        "image": "/images/doc8_img_8.jpg",
         "whyWeLoveIt": "Playful ringlet bounce that adds crown fullness to cropped hair.",
         "paragraphs": [
           "A short, cropped cut with soft curls creates a youthful, vibrant look for fine hair.",
@@ -1707,7 +1707,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Short Shag with Auburn Hues",
-        "image": "/images/doc8_img_9.jpg?v=20260902",
+        "image": "/images/doc8_img_9.jpg",
         "whyWeLoveIt": "Piecey crown layers paired with rich auburn warmth.",
         "paragraphs": [
           "This shag style uses choppy interior layers to build volume and shape where fine hair sags.",
@@ -1718,7 +1718,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Asymmetrical Bob in Ash Gray",
-        "image": "/images/doc8_img_10.jpg?v=20260902",
+        "image": "/images/doc8_img_10.jpg",
         "whyWeLoveIt": "Trendy diagonal angle that creates a strong, thick perimeter line.",
         "paragraphs": [
           "An asymmetrical bob gives a trendy, structured look that works exceptionally well with fine hair.",
@@ -1729,7 +1729,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Soft Layers with Honey Blonde",
-        "image": "/images/doc8_img_11.jpg?v=20260902",
+        "image": "/images/doc8_img_11.jpg",
         "whyWeLoveIt": "Fluid medium-length motion enriched with sunlit honey blonde tones.",
         "paragraphs": [
           "Soft layers throughout a medium-length cut give fluid movement and crown lift.",
@@ -1740,7 +1740,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Classic Crop with Salt and Pepper",
-        "image": "/images/doc8_img_12.jpg?v=20260902",
+        "image": "/images/doc8_img_12.jpg",
         "whyWeLoveIt": "Low-maintenance short cut that celebrates natural salt-and-pepper depth.",
         "paragraphs": [
           "A timeless short crop styled with a natural salt-and-pepper color mix.",
@@ -1751,7 +1751,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Side-Swept Pixie in Platinum Blonde",
-        "image": "/images/doc8_img_13.jpg?v=20260902",
+        "image": "/images/doc8_img_13.jpg",
         "whyWeLoveIt": "Deep side part that creates instant dramatic crown volume.",
         "paragraphs": [
           "This pixie cut with a deep side part and long side-swept fringe adds instant volume to fine hair.",
@@ -1762,7 +1762,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Textured Bob with Warm Brown Tones",
-        "image": "/images/doc8_img_14.jpg?v=20260902",
+        "image": "/images/doc8_img_14.jpg",
         "whyWeLoveIt": "Tousled ends that break up fine hair flatness.",
         "paragraphs": [
           "A textured bob with a slightly tousled finish brings natural volume to fine hair.",
@@ -1773,7 +1773,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Wispy Bangs with Soft Caramel Lob",
-        "image": "/images/doc8_img_15.jpg?v=20260902",
+        "image": "/images/doc8_img_15.jpg",
         "whyWeLoveIt": "Face-framing wispy fringe paired with rich caramel balayage.",
         "paragraphs": [
           "Wispy Bangs with Soft Caramel Lob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1784,7 +1784,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Classic Pixie in Chocolate Brown",
-        "image": "/images/doc8_img_16.jpg?v=20260902",
+        "image": "/images/doc8_img_16.jpg",
         "whyWeLoveIt": "Easy-to-style short cut with deep chocolate brown richness.",
         "paragraphs": [
           "This short pixie is exceptionally easy to style and ideal for building crown density.",
@@ -1795,7 +1795,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Layered Lob with Silver Balayage",
-        "image": "/images/doc8_img_17.jpg?v=20260902",
+        "image": "/images/doc8_img_17.jpg",
         "whyWeLoveIt": "Luminous silver balayage highlights that create optical thickness.",
         "paragraphs": [
           "A layered long bob with silver balayage brings volume and multi-dimensional light to fine strands.",
@@ -1806,7 +1806,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Short Curly Bob in Chestnut Brown",
-        "image": "/images/doc8_img_18.jpg?v=20260902",
+        "image": "/images/doc8_img_18.jpg",
         "whyWeLoveIt": "Light ringlet layers that create a full, rounded silhouette.",
         "paragraphs": [
           "This curly bob with light interior layers enhances natural ringlets for a full look.",
@@ -1817,7 +1817,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Feathered Pixie in Light Blonde",
-        "image": "/images/doc8_img_19.jpg?v=20260902",
+        "image": "/images/doc8_img_19.jpg",
         "whyWeLoveIt": "Featherlight movement paired with bright summer light blonde.",
         "paragraphs": [
           "A feathered pixie cut with soft layers brings airy movement and crown height.",
@@ -1828,7 +1828,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Textured Shag in Mocha Brown",
-        "image": "/images/doc8_img_20.jpg?v=20260902",
+        "image": "/images/doc8_img_20.jpg",
         "whyWeLoveIt": "Piecey shaggy layers that create touchable body and texture.",
         "paragraphs": [
           "This modern shag style uses textured layers to create volume and crown body.",
@@ -1839,7 +1839,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Layered Pixie with Lavender Hues",
-        "image": "/images/doc8_img_21.jpg?v=20260902",
+        "image": "/images/doc8_img_21.jpg",
         "whyWeLoveIt": "Playful pop of pastel lavender that elevates short fine layers.",
         "paragraphs": [
           "This unique pixie cut features soft layers throughout with subtle lavender hues.",
@@ -1850,7 +1850,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Classic Bob with Champagne Blonde",
-        "image": "/images/doc8_img_22.jpg?v=20260902",
+        "image": "/images/doc8_img_22.jpg",
         "whyWeLoveIt": "Sleek glass perimeter paired with luxurious champagne blonde tones.",
         "paragraphs": [
           "A sleek, classic bob cut paired with champagne blonde tones adds luxury and polish.",
@@ -1866,7 +1866,7 @@ export const articles = [
     "title": "18+ Beautiful Hairstyles for Square Faces to Copy",
     "category": "General Haircut & Hairstyle Ideas",
     "categorySlug": "general-hair-ideas",
-    "heroImage": "/images/doc9_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc9_cover_collage.jpg",
     "readTime": "10 min read",
     "date": "July 8, 2026",
     "isFeatured": true,
@@ -1921,7 +1921,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Textured Long Bob with Balayage Highlights",
-        "image": "/images/doc9_img_1.jpg?v=20260902",
+        "image": "/images/doc9_img_1.jpg",
         "whyWeLoveIt": "Shoulder-length movement with sun-kissed caramel balayage warmth.",
         "paragraphs": [
           "A shoulder-length bob with soft layers adds gentle movement around the face.",
@@ -1932,7 +1932,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Wispy Curtain Bangs with Face-Framing Layers",
-        "image": "/images/doc9_img_2.jpg?v=20260902",
+        "image": "/images/doc9_img_2.jpg",
         "whyWeLoveIt": "Center-parted curtain fringe that gently softens broad forehead lines.",
         "paragraphs": [
           "Long, wispy bangs parted in the center blend seamlessly into face-framing layers.",
@@ -1943,7 +1943,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Shaggy Pixie Cut with Platinum Highlights",
-        "image": "/images/doc9_img_3.jpg?v=20260902",
+        "image": "/images/doc9_img_3.jpg",
         "whyWeLoveIt": "Edgy crown texture paired with high-shine platinum dimension.",
         "paragraphs": [
           "Shaggy Pixie Cut with Platinum Highlights is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -1954,7 +1954,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Long Layered Waves with Honey Blonde Balayage",
-        "image": "/images/doc9_img_4.jpg?v=20260902",
+        "image": "/images/doc9_img_4.jpg",
         "whyWeLoveIt": "Cascading long waves that elongate face proportions gracefully.",
         "paragraphs": [
           "Long flowing layers add dimension and soften facial angles effortlessly.",
@@ -1965,7 +1965,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Side-Swept Bob with Ash Blonde Ombre",
-        "image": "/images/doc9_img_5.jpg?v=20260902",
+        "image": "/images/doc9_img_5.jpg",
         "whyWeLoveIt": "Asymmetric side sweep that breaks up broad facial symmetry.",
         "paragraphs": [
           "A sleek, side-swept bob slightly longer in front frames cheekbones beautifully.",
@@ -1976,7 +1976,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Soft Curls with Chocolate Brown Highlights",
-        "image": "/images/doc9_img_6.jpg?v=20260902",
+        "image": "/images/doc9_img_6.jpg",
         "whyWeLoveIt": "Loose romantic curls that balance defined jaw contours.",
         "paragraphs": [
           "Medium-length hair with loose, soft curls balances strong jawlines with feminine bounce.",
@@ -1987,7 +1987,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Feathered Shoulder-Length Cut with Babylights",
-        "image": "/images/doc9_img_7.jpg?v=20260902",
+        "image": "/images/doc9_img_7.jpg",
         "whyWeLoveIt": "Airy feathered ends that graze collarbones lightly.",
         "paragraphs": [
           "Feathered layers that graze the shoulders create a light, airy silhouette.",
@@ -1998,7 +1998,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Chin-Length Blunt Bob with Jet Black Shine",
-        "image": "/images/doc9_img_8.jpg?v=20260902",
+        "image": "/images/doc9_img_8.jpg",
         "whyWeLoveIt": "High-fashion geometric contrast against sharp facial angles.",
         "paragraphs": [
           "A classic blunt bob at chin length creates a striking architectural frame.",
@@ -2009,7 +2009,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Asymmetrical Bob with Rose Gold Tint",
-        "image": "/images/doc9_img_9.jpg?v=20260902",
+        "image": "/images/doc9_img_9.jpg",
         "whyWeLoveIt": "Uneven lengths that distract from angularity with rose gold playfulness.",
         "paragraphs": [
           "This uneven bob, longer on one side, distracts focus away from jaw angles.",
@@ -2020,7 +2020,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Layered Lob with Soft Caramel Tones",
-        "image": "/images/doc9_img_10.jpg?v=20260902",
+        "image": "/images/doc9_img_10.jpg",
         "whyWeLoveIt": "Collarbone length with warm caramel face-framing warmth.",
         "paragraphs": [
           "A longer bob with subtle interior layers falls gracefully just below collarbones.",
@@ -2031,7 +2031,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Beach Waves with Sunlit Blonde Highlights",
-        "image": "/images/doc9_img_11.jpg?v=20260902",
+        "image": "/images/doc9_img_11.jpg",
         "whyWeLoveIt": "Casual tousled waves that soften cheekbones with beachy radiance.",
         "paragraphs": [
           "Casual, tousled beach waves create natural softness around your jawline.",
@@ -2042,7 +2042,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Tousled Pixie Cut with Smoky Silver Shades",
-        "image": "/images/doc9_img_12.jpg?v=20260902",
+        "image": "/images/doc9_img_12.jpg",
         "whyWeLoveIt": "Crown height and volume paired with modern smoky silver tones.",
         "paragraphs": [
           "Tousled Pixie Cut with Smoky Silver Shades is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2053,7 +2053,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Classic Bob with Blunt Bangs in Chocolate Brown",
-        "image": "/images/doc9_img_13.jpg?v=20260902",
+        "image": "/images/doc9_img_13.jpg",
         "whyWeLoveIt": "Rich chocolate brown depth with crisp architectural bangs.",
         "paragraphs": [
           "A chin-length bob with brow-grazing fringe creates a bold, structured look.",
@@ -2064,7 +2064,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Long Layers with Auburn Highlights",
-        "image": "/images/doc9_img_14.jpg?v=20260902",
+        "image": "/images/doc9_img_14.jpg",
         "whyWeLoveIt": "Layers starting at the jawline that soften facial contours.",
         "paragraphs": [
           "Long Layers with Auburn Highlights is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2075,7 +2075,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Wavy Lob with Lavender Tones",
-        "image": "/images/doc9_img_15.jpg?v=20260902",
+        "image": "/images/doc9_img_15.jpg",
         "whyWeLoveIt": "Loose wave texture combined with subtle trendy lavender hues.",
         "paragraphs": [
           "Wavy Lob with Lavender Tones is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2086,7 +2086,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Soft Side Part with Champagne Blonde Color",
-        "image": "/images/doc9_img_16.jpg?v=20260902",
+        "image": "/images/doc9_img_16.jpg",
         "whyWeLoveIt": "Cascading waves paired with luxurious champagne blonde light.",
         "paragraphs": [
           "A soft side part paired with cascading waves flatters square faces effortlessly.",
@@ -2097,7 +2097,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Textured Bob with Pastel Pink Ombre",
-        "image": "/images/doc9_img_17.jpg?v=20260902",
+        "image": "/images/doc9_img_17.jpg",
         "whyWeLoveIt": "Choppy piecey ends paired with playful pastel pink tips.",
         "paragraphs": [
           "Textured Bob with Pastel Pink Ombre is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2108,7 +2108,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Long, Sleek Hair with Espresso Brown Tint",
-        "image": "/images/doc9_img_18.jpg?v=20260902",
+        "image": "/images/doc9_img_18.jpg",
         "whyWeLoveIt": "Clean vertical lines that visually elongate square face shapes.",
         "paragraphs": [
           "Straight, sleek long hair creates clean vertical lines that visually elongate your face.",
@@ -2119,7 +2119,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Messy Shag with Golden Highlights",
-        "image": "/images/doc9_img_19.jpg?v=20260902",
+        "image": "/images/doc9_img_19.jpg",
         "whyWeLoveIt": "Tousled interior layers that break up heavy jawline symmetry.",
         "paragraphs": [
           "A messy shag cut introduces choppy layers and crown volume, softening the jawline.",
@@ -2135,7 +2135,7 @@ export const articles = [
     "title": "12+ Beautiful Ash Blonde Hair Color Worth Trying",
     "category": "Hair Color Ideas",
     "categorySlug": "hair-color-ideas",
-    "heroImage": "/images/doc10_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc10_cover_collage.jpg",
     "readTime": "7 min read",
     "date": "July 9, 2026",
     "isFeatured": true,
@@ -2190,7 +2190,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Long Ash Blonde Waves with Shadow Root",
-        "image": "/images/doc10_img_1.jpg?v=20260902",
+        "image": "/images/doc10_img_1.jpg",
         "whyWeLoveIt": "Lived-in shadow root transition that keeps maintenance effortless.",
         "paragraphs": [
           "These effortlessly tousled waves combine a lived-in shadow root with a dimensional ash blonde finish.",
@@ -2201,7 +2201,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Sleek Ash Platinum Bob",
-        "image": "/images/doc10_img_2.jpg?v=20260902",
+        "image": "/images/doc10_img_2.jpg",
         "whyWeLoveIt": "Icy silver undertones on a precision-cut blunt bob silhouette.",
         "paragraphs": [
           "Sleek Ash Platinum Bob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2212,7 +2212,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Voluminous Ash Blonde Blowout with Face-Framing Highlights",
-        "image": "/images/doc10_img_3.jpg?v=20260902",
+        "image": "/images/doc10_img_3.jpg",
         "whyWeLoveIt": "Polished bounce paired with bright face-framing money pieces.",
         "paragraphs": [
           "Softly curled with polished bounce, this style adds fullness around facial contours.",
@@ -2223,7 +2223,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Textured Ash Blonde Mid-Length Layers",
-        "image": "/images/doc10_img_4.jpg?v=20260902",
+        "image": "/images/doc10_img_4.jpg",
         "whyWeLoveIt": "Casual touchable texture with shadow root depth.",
         "paragraphs": [
           "Layers of soft ash blonde tones are styled into casual, touchable waves.",
@@ -2234,7 +2234,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Smooth Ash Beige Lob with Subtle Highlights",
-        "image": "/images/doc10_img_5.jpg?v=20260902",
+        "image": "/images/doc10_img_5.jpg",
         "whyWeLoveIt": "Balanced neutral ash beige hue that flatters all complexions.",
         "paragraphs": [
           "This long bob features a balanced ash beige tone with understated highlights.",
@@ -2245,7 +2245,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Mid-Length Ash Blonde Waves with Curtain Fringe",
-        "image": "/images/doc10_img_6.jpg?v=20260902",
+        "image": "/images/doc10_img_6.jpg",
         "whyWeLoveIt": "Face-opening curtain bangs accented by neutral ash highlights.",
         "paragraphs": [
           "Effortless layers with soft curtain fringe give this wavy style movement and body.",
@@ -2256,7 +2256,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Straight Ash Olive Blonde Mid-Length Cut",
-        "image": "/images/doc10_img_7.jpg?v=20260902",
+        "image": "/images/doc10_img_7.jpg",
         "whyWeLoveIt": "Unique cool-toned ash olive undertones for a high-fashion look.",
         "paragraphs": [
           "A straight, blunt cut that showcases an olive-toned ash blonde from root to end.",
@@ -2267,7 +2267,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Softly Blended Ash Bronde Balayage",
-        "image": "/images/doc10_img_8.jpg?v=20260902",
+        "image": "/images/doc10_img_8.jpg",
         "whyWeLoveIt": "Smooth color melt between brunette roots and cool ash blonde ends.",
         "paragraphs": [
           "Long layers with a smooth transition between brunette roots and cool ash blonde ends.",
@@ -2278,7 +2278,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Layered Feathered Cut with Light Ash Blonde Tones",
-        "image": "/images/doc10_img_9.jpg?v=20260902",
+        "image": "/images/doc10_img_9.jpg",
         "whyWeLoveIt": "Airy feathered movement highlighted by bright ash blonde tones.",
         "paragraphs": [
           "Layered Feathered Cut with Light Ash Blonde Tones is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2289,7 +2289,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Long Ash Blonde Curls with Dimensional Streaks",
-        "image": "/images/doc10_img_10.jpg?v=20260902",
+        "image": "/images/doc10_img_10.jpg",
         "whyWeLoveIt": "Voluminous ringlets displaying multi-tonal ash blonde depth.",
         "paragraphs": [
           "Long Ash Blonde Curls with Dimensional Streaks is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2300,7 +2300,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Face-Framing Ash Beige Waves",
-        "image": "/images/doc10_img_11.jpg?v=20260902",
+        "image": "/images/doc10_img_11.jpg",
         "whyWeLoveIt": "Brightening money pieces that illuminate cheekbones and eyes.",
         "paragraphs": [
           "This soft, layered wave style is enhanced with a neutral ash beige tone.",
@@ -2311,7 +2311,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Extra Long Straight Ash Blonde Melt",
-        "image": "/images/doc10_img_12.jpg?v=20260902",
+        "image": "/images/doc10_img_12.jpg",
         "whyWeLoveIt": "Precision-blended color melt on ultra-sleek long hair.",
         "paragraphs": [
           "Precision-blended for a sleek finish, featuring a smooth ash blonde melt.",
@@ -2322,7 +2322,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Cool Ash Smoke Waves with Money Piece",
-        "image": "/images/doc10_img_13.jpg?v=20260902",
+        "image": "/images/doc10_img_13.jpg",
         "whyWeLoveIt": "Smoky ash base elevated by a bright blonde front money piece.",
         "paragraphs": [
           "This smoky ash look is elevated by soft waves and a bold front money piece.",
@@ -2338,7 +2338,7 @@ export const articles = [
     "title": "19+ Hairstyles for Older Women with Glasses",
     "category": "Hairstyles for Older Women",
     "categorySlug": "older-women",
-    "heroImage": "/images/doc11_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc11_cover_collage.jpg",
     "readTime": "10 min read",
     "date": "July 10, 2026",
     "isFeatured": true,
@@ -2393,7 +2393,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Feathered Silver Pixie with Side Volume",
-        "image": "/images/doc11_img_1.jpg?v=20260902",
+        "image": "/images/doc11_img_1.jpg",
         "whyWeLoveIt": "Feathery crown volume that frames eyeglass rims with silver brilliance.",
         "paragraphs": [
           "This layered pixie cut adds lift at the crown and soft, feathery texture along the sides.",
@@ -2404,7 +2404,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Soft Auburn Layered Bob with Face-Framing Ends",
-        "image": "/images/doc11_img_2.jpg?v=20260902",
+        "image": "/images/doc11_img_2.jpg",
         "whyWeLoveIt": "Rich auburn warmth paired with cheekbone-contouring layers.",
         "paragraphs": [
           "A classic bob elevated with soft layering around cheekbones to complement your glasses.",
@@ -2415,7 +2415,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Tapered Gray Crop with Textured Top",
-        "image": "/images/doc11_img_3.jpg?v=20260902",
+        "image": "/images/doc11_img_3.jpg",
         "whyWeLoveIt": "Tapered sides that keep temple arms clean paired with a voluminous crown.",
         "paragraphs": [
           "A closely tapered cut at the sides contrasts beautifully with a fuller, textured top.",
@@ -2426,7 +2426,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Ash Brown Shag with Curtain Bangs",
-        "image": "/images/doc11_img_4.jpg?v=20260902",
+        "image": "/images/doc11_img_4.jpg",
         "whyWeLoveIt": "Wispy curtain fringe that sweeps gently outward around glasses frames.",
         "paragraphs": [
           "The modern shag features wispy layers and curtain bangs that blend into your glasses.",
@@ -2437,7 +2437,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Golden Blonde Rounded Bob with Subtle Stacking",
-        "image": "/images/doc11_img_5.jpg?v=20260902",
+        "image": "/images/doc11_img_5.jpg",
         "whyWeLoveIt": "Nape-stacked volume paired with sun-kissed golden blonde light.",
         "paragraphs": [
           "A rounded bob with gentle stacking at the back gives natural volume and structure.",
@@ -2448,7 +2448,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Short Salt-and-Pepper Tousled Cut",
-        "image": "/images/doc11_img_6.jpg?v=20260902",
+        "image": "/images/doc11_img_6.jpg",
         "whyWeLoveIt": "Low-maintenance tousled texture celebrating natural salt-and-pepper tones.",
         "paragraphs": [
           "Short Salt-and-Pepper Tousled Cut is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2459,7 +2459,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Honey Brown Chin-Length Cut with Gentle Waves",
-        "image": "/images/doc11_img_7.jpg?v=20260902",
+        "image": "/images/doc11_img_7.jpg",
         "whyWeLoveIt": "Soft waves that balance angular eyeglass frames effortlessly.",
         "paragraphs": [
           "Subtle waves soften the structured geometry of dark or rectangular eyeglass frames.",
@@ -2470,7 +2470,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Neck-Length Straight Bob with Warm Chestnut Shine",
-        "image": "/images/doc11_img_8.jpg?v=20260902",
+        "image": "/images/doc11_img_8.jpg",
         "whyWeLoveIt": "Sleek neck-length perimeter displaying deep chestnut radiance.",
         "paragraphs": [
           "Neck-Length Straight Bob with Warm Chestnut Shine is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2481,7 +2481,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Sleek Black Crop with Clean Side Part",
-        "image": "/images/doc11_img_9.jpg?v=20260902",
+        "image": "/images/doc11_img_9.jpg",
         "whyWeLoveIt": "Bold side part contrasting with sleek jet black shine.",
         "paragraphs": [
           "This low-profile crop uses a clean side part to highlight statement frames.",
@@ -2492,7 +2492,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Layered Silver Lob with Soft Fringe",
-        "image": "/images/doc11_img_10.jpg?v=20260902",
+        "image": "/images/doc11_img_10.jpg",
         "whyWeLoveIt": "Textured silver layers that add movement to fine mature strands.",
         "paragraphs": [
           "A long bob with textured layers and soft fringe brings movement to fine mature hair.",
@@ -2503,7 +2503,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Ash Blonde Wispy Pixie with Layered Crown",
-        "image": "/images/doc11_img_11.jpg?v=20260902",
+        "image": "/images/doc11_img_11.jpg",
         "whyWeLoveIt": "Featherlight crown layers ideal for pairing with thin-rimmed glasses.",
         "paragraphs": [
           "A pixie with plenty of layered texture at the crown, ideal for thin-rimmed glasses.",
@@ -2514,7 +2514,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Copper-Tinted Wavy Mid-Length Cut",
-        "image": "/images/doc11_img_12.jpg?v=20260902",
+        "image": "/images/doc11_img_12.jpg",
         "whyWeLoveIt": "Subtle copper warmth that adds radiance around eyewear.",
         "paragraphs": [
           "Loose waves fall gently around shoulders, creating softness around your glasses.",
@@ -2525,7 +2525,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Short Gray Bob with Tucked-In Layers",
-        "image": "/images/doc11_img_13.jpg?v=20260902",
+        "image": "/images/doc11_img_13.jpg",
         "whyWeLoveIt": "Chin-grazing structure with clean tucked-in ends.",
         "paragraphs": [
           "Short Gray Bob with Tucked-In Layers is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2536,7 +2536,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Long White Layers with Middle Part",
-        "image": "/images/doc11_img_14.jpg?v=20260902",
+        "image": "/images/doc11_img_14.jpg",
         "whyWeLoveIt": "Ethereal long white layers complementing statement or oversized frames.",
         "paragraphs": [
           "Ethereal and graceful, this long layered cut with a center part complements oversized frames.",
@@ -2547,7 +2547,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Textured Dark Brunette Crop with Angular Shape",
-        "image": "/images/doc11_img_15.jpg?v=20260902",
+        "image": "/images/doc11_img_15.jpg",
         "whyWeLoveIt": "Modern angular pixie cut in rich espresso brunette.",
         "paragraphs": [
           "Textured Dark Brunette Crop with Angular Shape is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2558,7 +2558,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Beige Blonde Graduated Bob with Soft Angles",
-        "image": "/images/doc11_img_16.jpg?v=20260902",
+        "image": "/images/doc11_img_16.jpg",
         "whyWeLoveIt": "Graduated front length that elongates oval and round face shapes.",
         "paragraphs": [
           "This flattering bob tapers longer toward the front, ideal for round face shapes.",
@@ -2569,7 +2569,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Silver-Blue Blended Layers with Side Fringe",
-        "image": "/images/doc11_img_17.jpg?v=20260902",
+        "image": "/images/doc11_img_17.jpg",
         "whyWeLoveIt": "Playful pastel silver-blue tones paired with delicate side fringe.",
         "paragraphs": [
           "Natural silver strands lightly blended with soft blue hues in shoulder-length layers.",
@@ -2580,7 +2580,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Natural Brunette Pixie with Defined Sides",
-        "image": "/images/doc11_img_18.jpg?v=20260902",
+        "image": "/images/doc11_img_18.jpg",
         "whyWeLoveIt": "Clean side contours that curve neatly around frame arms.",
         "paragraphs": [
           "A structured pixie with neatly defined sides that curve gracefully around the ears.",
@@ -2591,7 +2591,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Strawberry Blonde Chin Bob with Flipped Ends",
-        "image": "/images/doc11_img_19.jpg?v=20260902",
+        "image": "/images/doc11_img_19.jpg",
         "whyWeLoveIt": "Playful flipped ends brightened by sunlit strawberry blonde warmth.",
         "paragraphs": [
           "A playful, chin-length bob with ends flipped outward in a carefree way.",
@@ -2602,7 +2602,7 @@ export const articles = [
       {
         "number": 20,
         "title": "White Cropped Cut with Soft Spiky Top",
-        "image": "/images/doc11_img_20.jpg?v=20260902",
+        "image": "/images/doc11_img_20.jpg",
         "whyWeLoveIt": "Edgy crown spikes balanced by pure white hair elegance.",
         "paragraphs": [
           "Edgy yet graceful, this cropped cut features light spiky texture on top.",
@@ -2618,7 +2618,7 @@ export const articles = [
     "title": "21+ Stunning Medium Length Hairstyles with Bangs That Turn Heads",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc12_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc12_cover_collage.jpg",
     "readTime": "11 min read",
     "date": "July 11, 2026",
     "isFeatured": true,
@@ -2673,7 +2673,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Layered Bob with Wispy Bangs for Thin Hair",
-        "image": "/images/doc12_img_2.jpg?v=20260902",
+        "image": "/images/doc12_img_2.jpg",
         "whyWeLoveIt": "Adds light texture and instant crown fullness for fine strands.",
         "paragraphs": [
           "This style is perfect for adding volume and texture to thin or fine hair.",
@@ -2684,7 +2684,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Summer-Ready Wavy Lob with Curtain Bangs",
-        "image": "/images/doc12_img_3.jpg?v=20260902",
+        "image": "/images/doc12_img_3.jpg",
         "whyWeLoveIt": "Effortless beachy waves paired with cheekbone-framing curtain fringe.",
         "paragraphs": [
           "Summer-Ready Wavy Lob with Curtain Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2695,7 +2695,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Chic Mid-Length Cut with Side Swept Bangs for Women Over 50",
-        "image": "/images/doc12_img_4.jpg?v=20260902",
+        "image": "/images/doc12_img_4.jpg",
         "whyWeLoveIt": "Sophisticated diagonal sweep that highlights eyes and cheekbones.",
         "paragraphs": [
           "This elegant hairstyle offers a sophisticated yet modern look for mature women.",
@@ -2706,7 +2706,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Romantic Curly Bob with Blunt Bangs for Weddings",
-        "image": "/images/doc12_img_5.jpg?v=20260902",
+        "image": "/images/doc12_img_5.jpg",
         "whyWeLoveIt": "Bouncy ringlets paired with bold eye-grazing blunt fringe.",
         "paragraphs": [
           "Romantic Curly Bob with Blunt Bangs for Weddings is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2717,7 +2717,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Easy Straight Lob with Fine Wispy Bangs",
-        "image": "/images/doc12_img_6.jpg?v=20260902",
+        "image": "/images/doc12_img_6.jpg",
         "whyWeLoveIt": "Simple glass-smooth collarbone length with delicate see-through fringe.",
         "paragraphs": [
           "For those with fine hair, this straight lob with wispy bangs is a stylish choice.",
@@ -2728,7 +2728,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Trendy Layered Mid-Length Cut with Aesthetic Ombre",
-        "image": "/images/doc12_img_7.jpg?v=20260902",
+        "image": "/images/doc12_img_7.jpg",
         "whyWeLoveIt": "Fluid internal movement accented by a soft color melt.",
         "paragraphs": [
           "Trendy Layered Mid-Length Cut with Aesthetic Ombre is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2739,7 +2739,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Cute Neck-Length Bob with Fringe for Round Faces",
-        "image": "/images/doc12_img_8.jpg?v=20260902",
+        "image": "/images/doc12_img_8.jpg",
         "whyWeLoveIt": "Jawline framing that elongates round face contours.",
         "paragraphs": [
           "A cute neck-length bob with fringe is tailored to flatter round face shapes.",
@@ -2750,7 +2750,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Winter-Ready Straight Bob with Korean-Inspired Bangs",
-        "image": "/images/doc12_img_9.jpg?v=20260902",
+        "image": "/images/doc12_img_9.jpg",
         "whyWeLoveIt": "Sleek Korean see-through fringe paired with a crisp straight bob.",
         "paragraphs": [
           "Winter-Ready Straight Bob with Korean-Inspired Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2761,7 +2761,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Edgy Angled Lob with Side Swept Bangs",
-        "image": "/images/doc12_img_10.jpg?v=20260902",
+        "image": "/images/doc12_img_10.jpg",
         "whyWeLoveIt": "Diagonal front angle that adds flair and modern attitude.",
         "paragraphs": [
           "Edgy Angled Lob with Side Swept Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2772,7 +2772,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Classic Layered Bob with Black Hair and Curtain Bangs",
-        "image": "/images/doc12_img_11.jpg?v=20260902",
+        "image": "/images/doc12_img_11.jpg",
         "whyWeLoveIt": "Timeless jet black shine paired with soft cheekbone curtain layers.",
         "paragraphs": [
           "This classic layered bob with curtain bangs works beautifully with jet black hair.",
@@ -2783,7 +2783,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Current Mid-Length Shag with Wispy Bangs",
-        "image": "/images/doc12_img_12.jpg?v=20260902",
+        "image": "/images/doc12_img_12.jpg",
         "whyWeLoveIt": "Choppy retro shag layers that build effortless crown volume.",
         "paragraphs": [
           "The mid-length shag with wispy bangs is a viral trend that is stylish and playful.",
@@ -2794,7 +2794,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Spring-Ready Wavy Lob with Blonde Curtain Bangs",
-        "image": "/images/doc12_img_13.jpg?v=20260902",
+        "image": "/images/doc12_img_13.jpg",
         "whyWeLoveIt": "Sunlit golden blonde highlights illuminating face-framing waves.",
         "paragraphs": [
           "Welcome warmer weather with a wavy lob and bright blonde curtain bangs.",
@@ -2805,7 +2805,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Sophisticated Straight Bob with Fine Side Swept Bangs for Women Over 60",
-        "image": "/images/doc12_img_14.jpg?v=20260902",
+        "image": "/images/doc12_img_14.jpg",
         "whyWeLoveIt": "Refined neck-length precision cut tailored for mature elegance.",
         "paragraphs": [
           "This sophisticated straight bob offers a refined look ideal for women over 60.",
@@ -2816,7 +2816,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Easy Layered Lob with Wispy Bangs for Fine Hair",
-        "image": "/images/doc12_img_15.jpg?v=20260902",
+        "image": "/images/doc12_img_15.jpg",
         "whyWeLoveIt": "Lightweight collarbone layers that lift flat roots.",
         "paragraphs": [
           "For fine hair, this layered lob with wispy bangs is a breezy styling choice.",
@@ -2827,7 +2827,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Trendy Mid-Length Cut with Ombre and Curtain Bangs",
-        "image": "/images/doc12_img_16.jpg?v=20260902",
+        "image": "/images/doc12_img_16.jpg",
         "whyWeLoveIt": "Multi-dimensional balayage ombre accentuating curtain fringe.",
         "paragraphs": [
           "This mid-length cut features a seamless balayage ombre and curtain bangs.",
@@ -2838,7 +2838,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Cute Curly Lob with Blunt Bangs for Fine Hair",
-        "image": "/images/doc12_img_17.jpg?v=20260902",
+        "image": "/images/doc12_img_17.jpg",
         "whyWeLoveIt": "Bouncy curl volume framed by crisp blunt fringe.",
         "paragraphs": [
           "This cute curly lob with blunt bangs builds instant density for fine hair.",
@@ -2849,7 +2849,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Sophisticated Straight Lob with Korean-Inspired Bangs for Women Over 50",
-        "image": "/images/doc12_img_18.jpg?v=20260902",
+        "image": "/images/doc12_img_18.jpg",
         "whyWeLoveIt": "Sleek glass lob paired with delicate see-through fringe.",
         "paragraphs": [
           "A straight lob with Korean-inspired see-through bangs offers modern elegance for women over 50.",
@@ -2860,7 +2860,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Romantic Layered Bob with Side Swept Bangs for Weddings",
-        "image": "/images/doc12_img_19.jpg?v=20260902",
+        "image": "/images/doc12_img_19.jpg",
         "whyWeLoveIt": "Fluid wave movement ideal for formal events and bridal wear.",
         "paragraphs": [
           "This romantic layered bob with side-swept fringe is perfect for special occasions.",
@@ -2871,7 +2871,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Easy Wavy Lob with Wispy Bangs for Summer",
-        "image": "/images/doc12_img_20.jpg?v=20260902",
+        "image": "/images/doc12_img_20.jpg",
         "whyWeLoveIt": "Beach-ready wave movement with featherlight wispy fringe.",
         "paragraphs": [
           "Easy Wavy Lob with Wispy Bangs for Summer is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -2882,7 +2882,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Chic Mid-Length Shag with Curtain Bangs for Fine Hair",
-        "image": "/images/doc12_img_21.jpg?v=20260902",
+        "image": "/images/doc12_img_21.jpg",
         "whyWeLoveIt": "Volumizing shag layers that prevent fine hair from sagging.",
         "paragraphs": [
           "This chic mid-length shag with curtain bangs brings texture and life to fine hair.",
@@ -2893,7 +2893,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Sophisticated Straight Bob with Blunt Bangs for Women Over 60",
-        "image": "/images/doc12_img_22.jpg?v=20260902",
+        "image": "/images/doc12_img_22.jpg",
         "whyWeLoveIt": "Architectural blunt fringe paired with a smooth neck-length bob.",
         "paragraphs": [
           "This sophisticated straight bob with blunt bangs offers timeless polish for women over 60.",
@@ -2904,7 +2904,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Current Layered Lob with Side Swept Bangs for Fine Hair",
-        "image": "/images/doc12_img_23.jpg?v=20260902",
+        "image": "/images/doc12_img_23.jpg",
         "whyWeLoveIt": "Versatile collarbone lob with soft diagonal side fringe.",
         "paragraphs": [
           "This current layered lob with side-swept fringe is tailored for fine strands.",
@@ -2920,7 +2920,7 @@ export const articles = [
     "title": "16+ Chic Bang Haircuts for Older Women to Inspire You",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc13_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc13_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "July 12, 2026",
     "isFeatured": true,
@@ -2975,7 +2975,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Bob with Wispy Bangs in Champagne Blonde",
-        "image": "/images/doc13_img_1.jpg?v=20260902",
+        "image": "/images/doc13_img_1.jpg",
         "whyWeLoveIt": "Airy featherlight fringe that softly grazes the brow line.",
         "paragraphs": [
           "This airy bob combines soft layers with featherlight bangs that gently graze the eyebrows.",
@@ -2986,7 +2986,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Textured Shag with Curtain Bangs in Honey Highlights",
-        "image": "/images/doc13_img_2.jpg?v=20260902",
+        "image": "/images/doc13_img_2.jpg",
         "whyWeLoveIt": "Modern tousled shag layers with flowing cheekbone curtain fringe.",
         "paragraphs": [
           "A modern twist on the classic shag featuring curtain bangs that blend into tousled layers.",
@@ -2997,7 +2997,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Classic Pixie with Side-Swept Bangs in Silver Ash",
-        "image": "/images/doc13_img_3.jpg?v=20260902",
+        "image": "/images/doc13_img_3.jpg",
         "whyWeLoveIt": "Effortless short pixie styling paired with a chic silver ash finish.",
         "paragraphs": [
           "The short pixie keeps morning styling effortless, while side-swept bangs add confident polish.",
@@ -3008,7 +3008,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Long Bob with Blunt Bangs in Caramel Brunette",
-        "image": "/images/doc13_img_4.jpg?v=20260902",
+        "image": "/images/doc13_img_4.jpg",
         "whyWeLoveIt": "Elegant face-framing lob paired with warm caramel brunette warmth.",
         "paragraphs": [
           "This sleek lob paired with blunt bangs frames mature facial features elegantly.",
@@ -3019,7 +3019,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Shoulder-Length Layers with Soft Fringe in Golden Wheat Blonde",
-        "image": "/images/doc13_img_5.jpg?v=20260902",
+        "image": "/images/doc13_img_5.jpg",
         "whyWeLoveIt": "Sun-kissed golden wheat tones paired with easy wispy fringe.",
         "paragraphs": [
           "This mid-length layered cut features a soft wispy fringe that is exceptionally easy to manage.",
@@ -3030,7 +3030,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Voluminous Shag with Piecey Bangs in Smoky Gray",
-        "image": "/images/doc13_img_6.jpg?v=20260902",
+        "image": "/images/doc13_img_6.jpg",
         "whyWeLoveIt": "Tousled crown volume paired with trendy smoky gray color.",
         "paragraphs": [
           "Featuring tousled volume and piecey bangs, this haircut feels modern yet carefree.",
@@ -3041,7 +3041,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Modern Bob with Micro Bangs in Espresso Brown",
-        "image": "/images/doc13_img_7.jpg?v=20260902",
+        "image": "/images/doc13_img_7.jpg",
         "whyWeLoveIt": "Artsy ultra-short micro fringe paired with a sharp espresso bob.",
         "paragraphs": [
           "A confident choice, this short bob with micro fringe gives an artsy, fashion-forward edge.",
@@ -3052,7 +3052,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Layered Pixie with Feathered Bangs in Platinum Silver",
-        "image": "/images/doc13_img_8.jpg?v=20260902",
+        "image": "/images/doc13_img_8.jpg",
         "whyWeLoveIt": "Body-building layers in luminous platinum silver reflection.",
         "paragraphs": [
           "Interior layers give body to fine hair, while feathered bangs provide a delicate face frame.",
@@ -3063,7 +3063,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Wavy Lob with Curtain Fringe in Rose Gold",
-        "image": "/images/doc13_img_9.jpg?v=20260902",
+        "image": "/images/doc13_img_9.jpg",
         "whyWeLoveIt": "Warm rose gold balayage on natural cascading waves.",
         "paragraphs": [
           "Ideal for naturally wavy texture, this lob includes curtain bangs that cascade effortlessly.",
@@ -3074,7 +3074,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Choppy Shoulder Cut with Textured Bangs in Warm Chestnut",
-        "image": "/images/doc13_img_10.jpg?v=20260902",
+        "image": "/images/doc13_img_10.jpg",
         "whyWeLoveIt": "Relaxed shoulder-grazing choppy layers in rich chestnut.",
         "paragraphs": [
           "This casual shoulder-length cut uses choppy layers and textured fringe for a relaxed finish.",
@@ -3085,7 +3085,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Soft Pixie with Long Bangs in Pearl White",
-        "image": "/images/doc13_img_11.jpg?v=20260902",
+        "image": "/images/doc13_img_11.jpg",
         "whyWeLoveIt": "Long sweeping fringe blending gracefully into pure pearl white hair.",
         "paragraphs": [
           "Soft Pixie with Long Bangs in Pearl White is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -3096,7 +3096,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Layered Mid-Length Cut with Side Bangs in Buttery Blonde",
-        "image": "/images/doc13_img_12.jpg?v=20260902",
+        "image": "/images/doc13_img_12.jpg",
         "whyWeLoveIt": "Sun-kissed buttery blonde highlights on bouncy mid-length layers.",
         "paragraphs": [
           "Mid-length layers add volume and bounce, while side-swept fringe flatters facial contours.",
@@ -3107,7 +3107,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Short Shag with Baby Bangs in Silver Frost",
-        "image": "/images/doc13_img_13.jpg?v=20260902",
+        "image": "/images/doc13_img_13.jpg",
         "whyWeLoveIt": "Cool silver frost tone paired with textured baby fringe.",
         "paragraphs": [
           "Short Shag with Baby Bangs in Silver Frost is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -3118,7 +3118,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Classic Bob with Rounded Bangs in Rich Auburn",
-        "image": "/images/doc13_img_14.jpg?v=20260902",
+        "image": "/images/doc13_img_14.jpg",
         "whyWeLoveIt": "Timeless rounded fringe in luxurious rich auburn warmth.",
         "paragraphs": [
           "This timeless bob features full, rounded bangs that complement fine or straight hair.",
@@ -3129,7 +3129,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Long Layers with Feathered Fringe in Champagne Silver",
-        "image": "/images/doc13_img_15.jpg?v=20260902",
+        "image": "/images/doc13_img_15.jpg",
         "whyWeLoveIt": "Ethereal long silver layers with delicate face feathering.",
         "paragraphs": [
           "Long Layers with Feathered Fringe in Champagne Silver is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -3140,7 +3140,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Tapered Pixie with Side Fringe in Golden Honey",
-        "image": "/images/doc13_img_16.jpg?v=20260902",
+        "image": "/images/doc13_img_16.jpg",
         "whyWeLoveIt": "Head-hugging tapered nape with radiant golden honey warmth.",
         "paragraphs": [
           "A pixie that hugs the head's shape, enhanced with side fringe for soft femininity.",
@@ -3151,7 +3151,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Curly Bob with Wispy Bangs in Cinnamon Brown",
-        "image": "/images/doc13_img_17.jpg?v=20260902",
+        "image": "/images/doc13_img_17.jpg",
         "whyWeLoveIt": "Defined natural ringlet volume paired with sheer wispy fringe.",
         "paragraphs": [
           "Ideal for curly textures, this bob balances volume with soft, wispy bangs.",
@@ -3167,7 +3167,7 @@ export const articles = [
     "title": "13+ Chic Haircuts for Women over 60 with Bangs",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc14_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc14_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 13, 2026",
     "isFeatured": true,
@@ -3222,7 +3222,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Feathered Bob with Side Bangs in Champagne Blonde",
-        "image": "/images/doc14_img_2.jpg?v=20260902",
+        "image": "/images/doc14_img_2.jpg",
         "whyWeLoveIt": "Soft interior layers and champagne blonde light that softens mature features.",
         "paragraphs": [
           "A feathered bob with side-swept bangs adds gentle softness around the face.",
@@ -3233,7 +3233,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Layered Shag with Curtain Bangs in Soft Auburn",
-        "image": "/images/doc14_img_3.jpg?v=20260902",
+        "image": "/images/doc14_img_3.jpg",
         "whyWeLoveIt": "Center-parted curtain fringe that lifts cheekbones and jaw contours.",
         "paragraphs": [
           "This mid-length shag features soft layers and center-parted curtain fringe.",
@@ -3244,7 +3244,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Classic Pixie with Wispy Bangs in Silver Gray",
-        "image": "/images/doc14_img_4.jpg?v=20260902",
+        "image": "/images/doc14_img_4.jpg",
         "whyWeLoveIt": "Timeless short pixie ease celebrating natural silver gray shine.",
         "paragraphs": [
           "A timeless short pixie with delicate wispy fringe offers clean structure and morning ease.",
@@ -3255,7 +3255,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Shoulder-Length Lob with Blunt Bangs in Rich Espresso",
-        "image": "/images/doc14_img_5.jpg?v=20260902",
+        "image": "/images/doc14_img_5.jpg",
         "whyWeLoveIt": "Bold architectural eye-grazing fringe in rich espresso brown.",
         "paragraphs": [
           "A blunt bang on a sleek shoulder-length lob makes a bold, refined statement.",
@@ -3266,7 +3266,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Soft Curls with Micro Bangs in Creamy Beige Blonde",
-        "image": "/images/doc14_img_6.jpg?v=20260902",
+        "image": "/images/doc14_img_6.jpg",
         "whyWeLoveIt": "Natural spiral curls paired with delicate short micro fringe.",
         "paragraphs": [
           "Perfect for women who embrace their natural curls, pairing spirals with micro fringe.",
@@ -3277,7 +3277,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Volumized Crop with Tapered Bangs in Salt-and-Pepper",
-        "image": "/images/doc14_img_7.jpg?v=20260902",
+        "image": "/images/doc14_img_7.jpg",
         "whyWeLoveIt": "Crown height paired with clean tapered salt-and-pepper sides.",
         "paragraphs": [
           "This cropped cut features crown volume and tapered fringe for a lifted profile.",
@@ -3288,7 +3288,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Textured Bob with Choppy Bangs in Mahogany Brown",
-        "image": "/images/doc14_img_8.jpg?v=20260902",
+        "image": "/images/doc14_img_8.jpg",
         "whyWeLoveIt": "Tousled interior texture enriched with deep mahogany warmth.",
         "paragraphs": [
           "Textured Bob with Choppy Bangs in Mahogany Brown is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -3299,7 +3299,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Layered Midi Cut with Side Fringe in Honey Caramel",
-        "image": "/images/doc14_img_9.jpg?v=20260902",
+        "image": "/images/doc14_img_9.jpg",
         "whyWeLoveIt": "Flattering mid-length layers illuminated by honey caramel highlights.",
         "paragraphs": [
           "Medium-length layers paired with side fringe flatter all mature face shapes.",
@@ -3310,7 +3310,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Wavy Bob with Peekaboo Bangs in Icy Platinum",
-        "image": "/images/doc14_img_10.jpg?v=20260902",
+        "image": "/images/doc14_img_10.jpg",
         "whyWeLoveIt": "Playful peekaboo fringe in high-shine icy platinum silver.",
         "paragraphs": [
           "Wavy Bob with Peekaboo Bangs in Icy Platinum is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -3321,7 +3321,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Curly Shag with Soft Bangs in Cinnamon Copper",
-        "image": "/images/doc14_img_11.jpg?v=20260902",
+        "image": "/images/doc14_img_11.jpg",
         "whyWeLoveIt": "Warm cinnamon copper warmth highlighting natural curl layers.",
         "paragraphs": [
           "Great for natural curls, this layered shag frames your face with soft fringe.",
@@ -3332,7 +3332,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Sleek Blunt Cut with Eyebrow-Grazing Bangs in Ash Brown",
-        "image": "/images/doc14_img_12.jpg?v=20260902",
+        "image": "/images/doc14_img_12.jpg",
         "whyWeLoveIt": "Minimalist straight bob with bold eyebrow-length fringe.",
         "paragraphs": [
           "Straight and polished, this blunt bob suits a clean minimalist aesthetic.",
@@ -3343,7 +3343,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Long Pixie with Asymmetrical Bangs in Dusty Rose",
-        "image": "/images/doc14_img_13.jpg?v=20260902",
+        "image": "/images/doc14_img_13.jpg",
         "whyWeLoveIt": "Artsy diagonal fringe enhanced with subtle dusty rose pastel.",
         "paragraphs": [
           "Long Pixie with Asymmetrical Bangs in Dusty Rose is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -3354,7 +3354,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Rounded Bob with Baby Bangs in Dark Mocha",
-        "image": "/images/doc14_img_14.jpg?v=20260902",
+        "image": "/images/doc14_img_14.jpg",
         "whyWeLoveIt": "Full face-framing round silhouette in deep dark mocha brown.",
         "paragraphs": [
           "Rounded layers frame facial features, while short baby bangs draw focus to your eyes.",
@@ -3365,7 +3365,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Shoulder-Grazing Flip with Feathered Bangs in Golden Blonde",
-        "image": "/images/doc14_img_15.jpg?v=20260902",
+        "image": "/images/doc14_img_15.jpg",
         "whyWeLoveIt": "Nostalgic flipped shoulder layers brightened by golden blonde warmth.",
         "paragraphs": [
           "Shoulder-Grazing Flip with Feathered Bangs in Golden Blonde is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -3381,7 +3381,7 @@ export const articles = [
     "title": "11+ Gorgeous Messy Fringe Haircut for Women to Save",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc15_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc15_cover_collage.jpg",
     "readTime": "7 min read",
     "date": "July 14, 2026",
     "isFeatured": true,
@@ -3436,7 +3436,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Shag with Tousled Curtain Fringe in Ash Brown",
-        "image": "/images/doc15_img_2.jpg?v=20260902",
+        "image": "/images/doc15_img_2.jpg",
         "whyWeLoveIt": "Tousled curtain fringe that cascades smoothly into layered ash brown waves.",
         "paragraphs": [
           "A modern twist on the classic shag featuring layered texture that naturally falls into soft waves.",
@@ -3447,7 +3447,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Layered Copper Shag with Wispy Bangs",
-        "image": "/images/doc15_img_3.jpg?v=20260902",
+        "image": "/images/doc15_img_3.jpg",
         "whyWeLoveIt": "Vibrant copper warmth paired with light, breezy wispy fringe.",
         "paragraphs": [
           "Warm copper layers cascade around the face, bringing a glowing vibrancy to your complexion.",
@@ -3458,7 +3458,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Bronzed Chestnut Layers with Airy Fringe",
-        "image": "/images/doc15_img_4.jpg?v=20260902",
+        "image": "/images/doc15_img_4.jpg",
         "whyWeLoveIt": "Delicate eye-grazing fringe paired with rich bronzed chestnut shine.",
         "paragraphs": [
           "This hairstyle blends long, feathered layers with a delicate fringe that softly grazes the eyes.",
@@ -3469,7 +3469,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Choppy Mullet-Inspired Cut with Honey Highlights",
-        "image": "/images/doc15_img_5.jpg?v=20260902",
+        "image": "/images/doc15_img_5.jpg",
         "whyWeLoveIt": "Bold mullet-inspired layers illuminated by sunlit honey highlights.",
         "paragraphs": [
           "A bold, textured cut combining shorter crown layers with tapered neck length.",
@@ -3480,7 +3480,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Soft Feathered Fringe with Light Walnut Layers",
-        "image": "/images/doc15_img_6.jpg?v=20260902",
+        "image": "/images/doc15_img_6.jpg",
         "whyWeLoveIt": "Natural flow and feathering around the eye and cheekbone area.",
         "paragraphs": [
           "This layered cut creates natural bounce and flow while framing eyes with a tousled fringe.",
@@ -3491,7 +3491,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Beachy Layers with Messy Fringe in Sandy Blonde",
-        "image": "/images/doc15_img_7.jpg?v=20260902",
+        "image": "/images/doc15_img_7.jpg",
         "whyWeLoveIt": "Sun-kissed sandy blonde tone paired with relaxed beachy waves.",
         "paragraphs": [
           "Beachy Layers with Messy Fringe in Sandy Blonde is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -3502,7 +3502,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Classic Shag Revival in Chestnut Brown",
-        "image": "/images/doc15_img_8.jpg?v=20260902",
+        "image": "/images/doc15_img_8.jpg",
         "whyWeLoveIt": "Voluminous crown body paired with full airy messy fringe.",
         "paragraphs": [
           "Voluminous layers and a full, airy fringe give this cut a timeless 70s feel with a modern update.",
@@ -3513,7 +3513,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Textured Copper Layers with Piecey Fringe",
-        "image": "/images/doc15_img_9.jpg?v=20260902",
+        "image": "/images/doc15_img_9.jpg",
         "whyWeLoveIt": "Piecey fringe piece-y-ness accentuating warm copper tones.",
         "paragraphs": [
           "Designed to accentuate natural hair texture, featuring soft piecey bangs.",
@@ -3524,7 +3524,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Dark Mocha Shag with Structured Bangs",
-        "image": "/images/doc15_img_10.jpg?v=20260902",
+        "image": "/images/doc15_img_10.jpg",
         "whyWeLoveIt": "Structured micro fringe contrasting with deep mocha shag volume.",
         "paragraphs": [
           "This bold look features structured micro bangs paired with voluminous collarbone layers.",
@@ -3535,7 +3535,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Soft Espresso Layers with Subtle Fringe",
-        "image": "/images/doc15_img_11.jpg?v=20260902",
+        "image": "/images/doc15_img_11.jpg",
         "whyWeLoveIt": "Multidimensional espresso shine paired with sheer subtle fringe.",
         "paragraphs": [
           "Softly layered espresso tones bring dimension and shine to this laid-back fringe style.",
@@ -3546,7 +3546,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Rusty Auburn Layers with Soft Fringe",
-        "image": "/images/doc15_img_12.jpg?v=20260902",
+        "image": "/images/doc15_img_12.jpg",
         "whyWeLoveIt": "Rich rusty auburn warmth framing mature facial contours.",
         "paragraphs": [
           "A smooth, layered cut in a rich rusty auburn tone that enhances warmth and facial glow.",
@@ -3557,7 +3557,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Glossy Espresso Shag with Curtain Fringe",
-        "image": "/images/doc15_img_13.jpg?v=20260902",
+        "image": "/images/doc15_img_13.jpg",
         "whyWeLoveIt": "High-shine espresso balance paired with sweeping curtain fringe.",
         "paragraphs": [
           "A luxurious espresso shade enhances this layered shag, giving it richness and high gloss.",
@@ -3573,7 +3573,7 @@ export const articles = [
     "title": "15+ Pretty Short Grunge Haircuts with Bangs Worth Saving",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc16_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc16_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "July 15, 2026",
     "isFeatured": true,
@@ -3628,7 +3628,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Ash Brown Shag with Choppy Bangs",
-        "image": "/images/doc16_img_2.jpg?v=20260902",
+        "image": "/images/doc16_img_2.jpg",
         "whyWeLoveIt": "Modern shag layers in a cool muted ash brown tone.",
         "paragraphs": [
           "A modern grunge shag cut with uneven layers and choppy bangs, dyed in a muted ash brown shade.",
@@ -3639,7 +3639,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Textured Pixie with Dark Brown Roots",
-        "image": "/images/doc16_img_4.jpg?v=20260902",
+        "image": "/images/doc16_img_4.jpg",
         "whyWeLoveIt": "Moody minimalist pixie with dimensional dark roots.",
         "paragraphs": [
           "A bold textured pixie cut featuring wispy fringe and deep dark brown root depth.",
@@ -3650,7 +3650,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Chestnut Layered Bob with Blunt Bangs",
-        "image": "/images/doc16_img_5.jpg?v=20260902",
+        "image": "/images/doc16_img_5.jpg",
         "whyWeLoveIt": "Strong blunt fringe contrasting with warm chestnut warmth.",
         "paragraphs": [
           "A short, layered bob featuring strong blunt bangs colored in warm chestnut brown.",
@@ -3661,7 +3661,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Messy Crop with Honey Highlights",
-        "image": "/images/doc16_img_6.jpg?v=20260902",
+        "image": "/images/doc16_img_6.jpg",
         "whyWeLoveIt": "Tousled crop layers brightened by honey brown highlights.",
         "paragraphs": [
           "A tousled crop with rough layers and messy fringe on a medium brunette base.",
@@ -3672,7 +3672,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Black Razored Lob with Micro Bangs",
-        "image": "/images/doc16_img_7.jpg?v=20260902",
+        "image": "/images/doc16_img_7.jpg",
         "whyWeLoveIt": "Sharp punk-inspired aesthetic with deep natural black shine.",
         "paragraphs": [
           "A razored long bob with short micro bangs, saturated in deep natural black.",
@@ -3683,7 +3683,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Warm Brunette French Bob with Curtain Bangs",
-        "image": "/images/doc16_img_8.jpg?v=20260902",
+        "image": "/images/doc16_img_8.jpg",
         "whyWeLoveIt": "Cool-girl French chin bob with soft curtain fringe.",
         "paragraphs": [
           "A chin-length French bob in a rich warm brunette tone, paired with soft curtain bangs.",
@@ -3694,7 +3694,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Sandy Brown Undercut Pixie with Side Bangs",
-        "image": "/images/doc16_img_9.jpg?v=20260902",
+        "image": "/images/doc16_img_9.jpg",
         "whyWeLoveIt": "Edgy undercut structure paired with sweeping sandy brown fringe.",
         "paragraphs": [
           "A sandy brown pixie cut featuring a clean undercut and long, side-swept fringe.",
@@ -3705,7 +3705,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Caramel Disconnected Bob with Layered Bangs",
-        "image": "/images/doc16_img_10.jpg?v=20260902",
+        "image": "/images/doc16_img_10.jpg",
         "whyWeLoveIt": "Golden caramel balayage on jagged disconnected layers.",
         "paragraphs": [
           "A disconnected, layered bob in a golden caramel shade with soft feathery bangs.",
@@ -3716,7 +3716,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Mushroom Brown Blunt Cut with Jagged Fringe",
-        "image": "/images/doc16_img_11.jpg?v=20260902",
+        "image": "/images/doc16_img_11.jpg",
         "whyWeLoveIt": "Understated cool-toned mushroom brown with jagged fringe.",
         "paragraphs": [
           "A solid blunt cut bob paired with sharp, jagged fringe in a cool mushroom brown hue.",
@@ -3727,7 +3727,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Dark Auburn Grunge Mullet with Short Bangs",
-        "image": "/images/doc16_img_12.jpg?v=20260902",
+        "image": "/images/doc16_img_12.jpg",
         "whyWeLoveIt": "Punk-meets-vintage mullet silhouette in rich dark auburn.",
         "paragraphs": [
           "A short grunge mullet in rich dark auburn featuring short, uneven fringe.",
@@ -3738,7 +3738,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Mocha Brown Cropped Shag with Wispy Fringe",
-        "image": "/images/doc16_img_13.jpg?v=20260902",
+        "image": "/images/doc16_img_13.jpg",
         "whyWeLoveIt": "Airy wispy fringe complementing a face-hugging mocha shag.",
         "paragraphs": [
           "A cropped shag haircut in rich mocha brown, featuring airy, wispy fringe.",
@@ -3749,7 +3749,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Natural Black Bowl Cut with Split Bangs",
-        "image": "/images/doc16_img_14.jpg?v=20260902",
+        "image": "/images/doc16_img_14.jpg",
         "whyWeLoveIt": "Avant-garde split fringe paired with a modern black bowl cut.",
         "paragraphs": [
           "A modern bowl cut in deep natural black, styled with center-split fringe.",
@@ -3760,7 +3760,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Golden Brown Choppy Bob with Side Fringe",
-        "image": "/images/doc16_img_15.jpg?v=20260902",
+        "image": "/images/doc16_img_15.jpg",
         "whyWeLoveIt": "Playful asymmetrical side fringe in radiant golden brown.",
         "paragraphs": [
           "A short choppy bob in golden brown, paired with asymmetrical side fringe.",
@@ -3771,7 +3771,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Dark Chocolate Layered Pixie with Fringe",
-        "image": "/images/doc16_img_16.jpg?v=20260902",
+        "image": "/images/doc16_img_16.jpg",
         "whyWeLoveIt": "Face-hugging dark chocolate fringe with deep layered texture.",
         "paragraphs": [
           "A deeply layered pixie cut in rich dark chocolate brown with face-hugging fringe.",
@@ -3782,7 +3782,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Ash Blonde Wavy Bob with Full Bangs",
-        "image": "/images/doc16_img_17.jpg?v=20260902",
+        "image": "/images/doc16_img_17.jpg",
         "whyWeLoveIt": "Cool ash blonde waves contrasted by a thick full fringe.",
         "paragraphs": [
           "A short, wavy bob in ashy blonde, complete with a full eyebrow-length fringe.",
@@ -3793,7 +3793,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Cinnamon Swirl Bob with Jagged Layers",
-        "image": "/images/doc16_img_18.jpg?v=20260902",
+        "image": "/images/doc16_img_18.jpg",
         "whyWeLoveIt": "Warm cinnamon brunette tones on textured jagged layers.",
         "paragraphs": [
           "A grunge bob featuring jagged, textured layers in a cinnamon brunette tone.",
@@ -3804,7 +3804,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Cool Brown Textured Cut with Shadow Bangs",
-        "image": "/images/doc16_img_19.jpg?v=20260902",
+        "image": "/images/doc16_img_19.jpg",
         "whyWeLoveIt": "Mysterious shadow-like curtain fringe in cool-toned brown.",
         "paragraphs": [
           "A cool-toned brown layered cut with shadow-like curtain fringe for mysterious appeal.",
@@ -3820,7 +3820,7 @@ export const articles = [
     "title": "13+ Amazing Straight Hairstyles with Bangs Worth Saving",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc17_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc17_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 16, 2026",
     "isFeatured": true,
@@ -3875,7 +3875,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Sleek Long Blonde Hair with Soft Full Bangs",
-        "image": "/images/doc17_img_1.jpg?v=20260902",
+        "image": "/images/doc17_img_1.jpg",
         "whyWeLoveIt": "Ultra-smooth long blonde lengths paired with brow-grazing soft full fringe.",
         "paragraphs": [
           "This look features ultra-smooth, straight lengths paired with softly cut full bangs.",
@@ -3886,7 +3886,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Extra-Long Ash Blonde with Blunt Fringe",
-        "image": "/images/doc17_img_2.jpg?v=20260902",
+        "image": "/images/doc17_img_2.jpg",
         "whyWeLoveIt": "Strong horizontal blunt line across extra-long ash blonde hair.",
         "paragraphs": [
           "Long, straight hair is elevated by a blunt fringe that creates a bold horizontal frame.",
@@ -3897,7 +3897,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Straight Mid-Length Brunette with Wispy Bangs",
-        "image": "/images/doc17_img_3.jpg?v=20260902",
+        "image": "/images/doc17_img_3.jpg",
         "whyWeLoveIt": "Airy see-through wispy fringe paired with soft brunette shine.",
         "paragraphs": [
           "A mid-length straight cut paired with airy, wispy bangs creates a balanced, natural finish.",
@@ -3908,7 +3908,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Shoulder-Length Blonde with Curtain Bangs",
-        "image": "/images/doc17_img_4.jpg?v=20260902",
+        "image": "/images/doc17_img_4.jpg",
         "whyWeLoveIt": "Gentle face-framing curtain fringe on a bright blonde shoulder cut.",
         "paragraphs": [
           "This straight, shoulder-length cut is shaped with curtain bangs that gently frame cheekbones.",
@@ -3919,7 +3919,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Long Straight Hair with Deep Green Color and Blunt Bangs",
-        "image": "/images/doc17_img_5.jpg?v=20260902",
+        "image": "/images/doc17_img_5.jpg",
         "whyWeLoveIt": "Striking deep emerald green color paired with structured blunt fringe.",
         "paragraphs": [
           "Precision-cut straight hair meets a deep green shade for a striking, alternative finish.",
@@ -3930,7 +3930,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Straight Auburn Lob with Full Bangs",
-        "image": "/images/doc17_img_6.jpg?v=20260902",
+        "image": "/images/doc17_img_6.jpg",
         "whyWeLoveIt": "Rich auburn warmth on a strong collarbone lob silhouette.",
         "paragraphs": [
           "A straight lob paired with full bangs creates a strong yet approachable silhouette.",
@@ -3941,7 +3941,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Long Layered Blonde with Soft Fringe",
-        "image": "/images/doc17_img_7.jpg?v=20260902",
+        "image": "/images/doc17_img_7.jpg",
         "whyWeLoveIt": "Pale blonde layers with delicate eyebrow-grazing fringe.",
         "paragraphs": [
           "Combines long, straight layers with a soft fringe that lightly grazes the eyebrows.",
@@ -3952,7 +3952,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Straight Dark Brown Hair with Rounded Bangs",
-        "image": "/images/doc17_img_8.jpg?v=20260902",
+        "image": "/images/doc17_img_8.jpg",
         "whyWeLoveIt": "Smooth dark brown precision paired with softly arched rounded fringe.",
         "paragraphs": [
           "Smooth, straight dark brown hair is paired with rounded bangs for a softer facial frame.",
@@ -3963,7 +3963,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Straight Medium Brown with Textured Bangs",
-        "image": "/images/doc17_img_9.jpg?v=20260902",
+        "image": "/images/doc17_img_9.jpg",
         "whyWeLoveIt": "Natural medium brown tone with piecey textured fringe interest.",
         "paragraphs": [
           "This medium-length straight cut features lightly textured bangs that add subtle dimension.",
@@ -3974,7 +3974,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Long Straight Chocolate Brown with Feathered Bangs",
-        "image": "/images/doc17_img_10.jpg?v=20260902",
+        "image": "/images/doc17_img_10.jpg",
         "whyWeLoveIt": "Refined chocolate brown lengths with delicate face-framing feathering.",
         "paragraphs": [
           "Feathered bangs blend smoothly into long, straight chocolate brown hair for a refined finish.",
@@ -3985,7 +3985,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Straight Medium Brown Hair with Micro Bangs",
-        "image": "/images/doc17_img_11.jpg?v=20260902",
+        "image": "/images/doc17_img_11.jpg",
         "whyWeLoveIt": "Edgy micro fringe sitting cleanly above the eyebrow line.",
         "paragraphs": [
           "This clean, straight medium brown cut is finished with precise micro bangs above the brows.",
@@ -3996,7 +3996,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Long Straight Copper Hair with Full Fringe",
-        "image": "/images/doc17_img_12.jpg?v=20260902",
+        "image": "/images/doc17_img_12.jpg",
         "whyWeLoveIt": "Radiant copper red warmth paired with thick full curtain fringe.",
         "paragraphs": [
           "Vibrant copper red highlights illuminate long, straight hair with full curtain fringe.",
@@ -4007,7 +4007,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Classic Straight Jet Black Bob with Brow Bangs",
-        "image": "/images/doc17_img_13.jpg?v=20260902",
+        "image": "/images/doc17_img_13.jpg",
         "whyWeLoveIt": "High-shine jet black precision bob with classic eyebrow fringe.",
         "paragraphs": [
           "A classic straight chin bob in deep jet black featuring eyebrow-length fringe.",
@@ -4023,7 +4023,7 @@ export const articles = [
     "title": "19+ Stunning Curly Hairstyles for Older Women over 50 with Bangs",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc18_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc18_cover_collage.jpg",
     "readTime": "10 min read",
     "date": "July 17, 2026",
     "isFeatured": true,
@@ -4078,7 +4078,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Curly Bob with Ash Brown Highlights",
-        "image": "/images/doc18_img_1.jpg?v=20260902",
+        "image": "/images/doc18_img_1.jpg",
         "whyWeLoveIt": "Bouncy short ringlets brightened by subtle ash brown highlights.",
         "paragraphs": [
           "This short curly bob features bouncy ringlets and subtle ash brown highlights that add visual depth.",
@@ -4089,7 +4089,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Layered Curly Lob with Chestnut Brown Tones",
-        "image": "/images/doc18_img_2.jpg?v=20260902",
+        "image": "/images/doc18_img_2.jpg",
         "whyWeLoveIt": "Voluminous layered lob base enriched with warm chestnut warmth.",
         "paragraphs": [
           "A long bob with voluminous layers enhances natural curls and adds bouncy movement.",
@@ -4100,7 +4100,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Voluminous Silver Curls with Side Bangs",
-        "image": "/images/doc18_img_3.jpg?v=20260902",
+        "image": "/images/doc18_img_3.jpg",
         "whyWeLoveIt": "Full-bodied natural silver curls paired with elegant side fringe.",
         "paragraphs": [
           "Embrace your natural silver with this full-bodied curly hairstyle for mature women.",
@@ -4111,7 +4111,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Curly Pixie with Sandy Blonde Hues",
-        "image": "/images/doc18_img_4.jpg?v=20260902",
+        "image": "/images/doc18_img_4.jpg",
         "whyWeLoveIt": "Breezy short curly pixie illuminated by sunlit sandy blonde.",
         "paragraphs": [
           "A cropped curly pixie cut infused with sun-kissed sandy blonde highlights.",
@@ -4122,7 +4122,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Shoulder-Length Curly Cut with Golden Highlights",
-        "image": "/images/doc18_img_5.jpg?v=20260902",
+        "image": "/images/doc18_img_5.jpg",
         "whyWeLoveIt": "Radiant golden highlights dancing across shoulder-grazing curls.",
         "paragraphs": [
           "Shoulder-grazing natural curls illuminated by multi-dimensional golden blonde highlights.",
@@ -4133,7 +4133,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Natural Gray Curly Shag with Curtain Fringe",
-        "image": "/images/doc18_img_6.jpg?v=20260902",
+        "image": "/images/doc18_img_6.jpg",
         "whyWeLoveIt": "Celebrates natural gray spirals in a modern retro shag shape.",
         "paragraphs": [
           "A retro-inspired curly shag designed to accentuate natural gray and white spirals.",
@@ -4144,7 +4144,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Cropped Curly Bob with Chocolate Tones",
-        "image": "/images/doc18_img_7.jpg?v=20260902",
+        "image": "/images/doc18_img_7.jpg",
         "whyWeLoveIt": "Deep chocolate brown richness on defined neck-length ringlets.",
         "paragraphs": [
           "A neck-length curly bob featuring tight ringlets and rich chocolate brown depth.",
@@ -4155,7 +4155,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Honey Blonde Curly Shag with Wispy Bangs",
-        "image": "/images/doc18_img_8.jpg?v=20260902",
+        "image": "/images/doc18_img_8.jpg",
         "whyWeLoveIt": "Warm honey blonde glow on textured shaggy curl layers.",
         "paragraphs": [
           "Shaggy curl layers build weightless crown volume without removing perimeter weight.",
@@ -4166,7 +4166,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Tight Spiral Curls with Side Bangs in Espresso",
-        "image": "/images/doc18_img_9.jpg?v=20260902",
+        "image": "/images/doc18_img_9.jpg",
         "whyWeLoveIt": "Defined espresso black spirals with sleek diagonal side fringe.",
         "paragraphs": [
           "High-density tight spiral curls saturated in deep natural espresso brown.",
@@ -4177,7 +4177,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Medium Curly Layers with Caramel Balayage",
-        "image": "/images/doc18_img_10.jpg?v=20260902",
+        "image": "/images/doc18_img_10.jpg",
         "whyWeLoveIt": "Seamless caramel balayage melt highlighting soft curly fringe.",
         "paragraphs": [
           "Mid-length curly layers enhanced with a seamless caramel balayage melt.",
@@ -4188,7 +4188,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Salt-and-Pepper Curly Crop with Piecey Fringe",
-        "image": "/images/doc18_img_11.jpg?v=20260902",
+        "image": "/images/doc18_img_11.jpg",
         "whyWeLoveIt": "Low-maintenance salt-and-pepper gray crop with piecey bangs.",
         "paragraphs": [
           "A low-maintenance cropped curly cut celebrating natural salt-and-pepper tones.",
@@ -4199,7 +4199,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Rich Auburn Curly Bob with Full Fringe",
-        "image": "/images/doc18_img_12.jpg?v=20260902",
+        "image": "/images/doc18_img_12.jpg",
         "whyWeLoveIt": "Vibrant auburn red warmth on a full bouncy curl perimeter.",
         "paragraphs": [
           "Rich Auburn Curly Bob with Full Fringe is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4210,7 +4210,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Tousled White Curly Shag with Soft Bangs",
-        "image": "/images/doc18_img_13.jpg?v=20260902",
+        "image": "/images/doc18_img_13.jpg",
         "whyWeLoveIt": "Ethereal pure white curls in a tousled face-framing shag.",
         "paragraphs": [
           "Ethereal and graceful, this white curly shag embraces mature beauty with pride.",
@@ -4221,7 +4221,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Chin-Length Curly Bob with Golden Blonde Highlights",
-        "image": "/images/doc18_img_14.jpg?v=20260902",
+        "image": "/images/doc18_img_14.jpg",
         "whyWeLoveIt": "Chin-grazing curl bounce brightened by golden blonde light.",
         "paragraphs": [
           "A chin-length bob tailored for natural waves and curls with golden highlights.",
@@ -4232,7 +4232,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Dark Brunette Curly Lob with Curtain Fringe",
-        "image": "/images/doc18_img_15.jpg?v=20260902",
+        "image": "/images/doc18_img_15.jpg",
         "whyWeLoveIt": "Deep brunette shine on collarbone-length bouncy curls.",
         "paragraphs": [
           "A collarbone-length lob in deep natural brunette featuring bouncy curl body.",
@@ -4243,7 +4243,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Short Gray Curly Pixie with Wispy Bangs",
-        "image": "/images/doc18_img_16.jpg?v=20260902",
+        "image": "/images/doc18_img_16.jpg",
         "whyWeLoveIt": "Breezy short gray pixie volume with delicate wispy fringe.",
         "paragraphs": [
           "Short Gray Curly Pixie with Wispy Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4254,7 +4254,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Warm Cinnamon Curly Shag with Layered Fringe",
-        "image": "/images/doc18_img_17.jpg?v=20260902",
+        "image": "/images/doc18_img_17.jpg",
         "whyWeLoveIt": "Rich cinnamon copper hue on layered retro shaggy curls.",
         "paragraphs": [
           "A warm cinnamon copper hue brings radiant depth to this layered retro shag.",
@@ -4265,7 +4265,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Asymmetrical Curly Bob with Side Fringe in Ash Blonde",
-        "image": "/images/doc18_img_18.jpg?v=20260902",
+        "image": "/images/doc18_img_18.jpg",
         "whyWeLoveIt": "Modern asymmetrical jawline bob in cool ash blonde.",
         "paragraphs": [
           "An asymmetrical chin bob featuring a longer front section in cool ash blonde.",
@@ -4276,7 +4276,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Soft Mocha Curly Mid-Length with Arched Fringe",
-        "image": "/images/doc18_img_19.jpg?v=20260902",
+        "image": "/images/doc18_img_19.jpg",
         "whyWeLoveIt": "Soft mocha brown warmth paired with arched forehead fringe.",
         "paragraphs": [
           "A mid-length cut featuring soft mocha brown tones and natural curl bounce.",
@@ -4287,7 +4287,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Platinum Silver Curly Crop with Micro Fringe",
-        "image": "/images/doc18_img_20.jpg?v=20260902",
+        "image": "/images/doc18_img_20.jpg",
         "whyWeLoveIt": "High-fashion platinum silver crop with short micro curly fringe.",
         "paragraphs": [
           "A high-fashion cropped cut in luminous platinum silver with short micro fringe.",
@@ -4303,7 +4303,7 @@ export const articles = [
     "title": "17+ Stunning Haircuts for Older Women over 60 with Bangs",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc19_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc19_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "July 18, 2026",
     "isFeatured": true,
@@ -4358,7 +4358,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Classic Silver Bob with Side-Swept Bangs",
-        "image": "/images/doc19_img_1.jpg?v=20260902",
+        "image": "/images/doc19_img_1.jpg",
         "whyWeLoveIt": "Natural silver-gray chin bob paired with soft eye-framing side fringe.",
         "paragraphs": [
           "A sleek chin-length bob in natural silver-gray, paired with side-swept bangs.",
@@ -4369,7 +4369,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Layered Ash Blonde Shag with Wispy Bangs",
-        "image": "/images/doc19_img_2.jpg?v=20260902",
+        "image": "/images/doc19_img_2.jpg",
         "whyWeLoveIt": "Airy ash blonde feathering that creates weightless crown volume.",
         "paragraphs": [
           "Layered Ash Blonde Shag with Wispy Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4380,7 +4380,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Soft Brown Lob with Curtain Bangs",
-        "image": "/images/doc19_img_3.jpg?v=20260902",
+        "image": "/images/doc19_img_3.jpg",
         "whyWeLoveIt": "Center-parted curtain fringe on a warm shoulder-length lob.",
         "paragraphs": [
           "A shoulder-grazing lob in warm medium brown, styled with soft curtain bangs.",
@@ -4391,7 +4391,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Textured White Pixie with Feathered Bangs",
-        "image": "/images/doc19_img_4.jpg?v=20260902",
+        "image": "/images/doc19_img_4.jpg",
         "whyWeLoveIt": "Ethereal white pixie body featuring soft, voluminous feathered fringe.",
         "paragraphs": [
           "A short white pixie cut with feathered bangs that add volume and softness.",
@@ -4402,7 +4402,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Salt-and-Pepper Layered Crop with Choppy Bangs",
-        "image": "/images/doc19_img_5.jpg?v=20260902",
+        "image": "/images/doc19_img_5.jpg",
         "whyWeLoveIt": "Embraces natural salt-and-pepper gray with modern choppy fringe.",
         "paragraphs": [
           "Salt-and-Pepper Layered Crop with Choppy Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4413,7 +4413,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Golden Blonde Bob with Blunt Bangs",
-        "image": "/images/doc19_img_6.jpg?v=20260902",
+        "image": "/images/doc19_img_6.jpg",
         "whyWeLoveIt": "Jawline golden blonde precision bob with straight blunt fringe.",
         "paragraphs": [
           "A sleek golden blonde bob cut right at the jawline with straight blunt bangs.",
@@ -4424,7 +4424,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Wavy Chestnut Lob with Side Bangs",
-        "image": "/images/doc19_img_7.jpg?v=20260902",
+        "image": "/images/doc19_img_7.jpg",
         "whyWeLoveIt": "Rich chestnut warmth paired with relaxed beachy side waves.",
         "paragraphs": [
           "A shoulder-length lob in rich chestnut brown featuring gentle natural waves.",
@@ -4435,7 +4435,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Silver Layered Shag with Curtain Bangs",
-        "image": "/images/doc19_img_8.jpg?v=20260902",
+        "image": "/images/doc19_img_8.jpg",
         "whyWeLoveIt": "Shimmering silver shag layers accented by face-framing curtain fringe.",
         "paragraphs": [
           "A trendy layered shag in shimmering silver, styled with curtain bangs.",
@@ -4446,7 +4446,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Dark Brown Pixie with Baby Bangs",
-        "image": "/images/doc19_img_9.jpg?v=20260902",
+        "image": "/images/doc19_img_9.jpg",
         "whyWeLoveIt": "Bold contemporary dark brown pixie featuring short micro baby fringe.",
         "paragraphs": [
           "A cropped dark brown pixie cut finished with precise short baby bangs.",
@@ -4457,7 +4457,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Honey Blonde Medium Cut with Layered Bangs",
-        "image": "/images/doc19_img_10.jpg?v=20260902",
+        "image": "/images/doc19_img_10.jpg",
         "whyWeLoveIt": "Sun-kissed honey blonde warmth on fluid mid-length layers.",
         "paragraphs": [
           "A medium-length honey blonde style with layered bangs merging into side layers.",
@@ -4468,7 +4468,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Gray Bob with Side-Parted Bangs",
-        "image": "/images/doc19_img_11.jpg?v=20260902",
+        "image": "/images/doc19_img_11.jpg",
         "whyWeLoveIt": "Graceful natural gray chin bob with a deep side-parted fringe.",
         "paragraphs": [
           "Gray Bob with Side-Parted Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4479,7 +4479,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Soft Black Shoulder Cut with Feathered Bangs",
-        "image": "/images/doc19_img_12.jpg?v=20260902",
+        "image": "/images/doc19_img_12.jpg",
         "whyWeLoveIt": "Deep natural soft black shine lightened by delicate feathered fringe.",
         "paragraphs": [
           "A sleek shoulder-length cut in natural soft black with feathered bangs.",
@@ -4490,7 +4490,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Silver Pixie Bob with Wispy Bangs",
-        "image": "/images/doc19_img_13.jpg?v=20260902",
+        "image": "/images/doc19_img_13.jpg",
         "whyWeLoveIt": "Chic pixie-bob hybrid in high-shine silver with wispy fringe.",
         "paragraphs": [
           "Silver Pixie Bob with Wispy Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4501,7 +4501,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Warm Brown Layered Lob with Curtain Bangs",
-        "image": "/images/doc19_img_14.jpg?v=20260902",
+        "image": "/images/doc19_img_14.jpg",
         "whyWeLoveIt": "Cheekbone-accentuating curtain fringe on a warm brown layered lob.",
         "paragraphs": [
           "A medium-length layered lob in warm brown, enhanced with curtain bangs.",
@@ -4512,7 +4512,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Ash Gray Crop with Textured Bangs",
-        "image": "/images/doc19_img_15.jpg?v=20260902",
+        "image": "/images/doc19_img_15.jpg",
         "whyWeLoveIt": "Cool ash gray tones on a modern textured cropped silhouette.",
         "paragraphs": [
           "Ash Gray Crop with Textured Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4523,7 +4523,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Golden Blonde Shag with Piecey Bangs",
-        "image": "/images/doc19_img_16.jpg?v=20260902",
+        "image": "/images/doc19_img_16.jpg",
         "whyWeLoveIt": "Casual golden blonde elegance with textured piecey fringe.",
         "paragraphs": [
           "Golden Blonde Shag with Piecey Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4534,7 +4534,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Chestnut Bob with Rounded Bangs",
-        "image": "/images/doc19_img_17.jpg?v=20260902",
+        "image": "/images/doc19_img_17.jpg",
         "whyWeLoveIt": "Rounded chin-length chestnut bob with soft classic fringe.",
         "paragraphs": [
           "Chestnut Bob with Rounded Bangs is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4545,7 +4545,7 @@ export const articles = [
       {
         "number": 18,
         "title": "White Shaggy Pixie with Fringe",
-        "image": "/images/doc19_img_18.jpg?v=20260902",
+        "image": "/images/doc19_img_18.jpg",
         "whyWeLoveIt": "Shag-inspired white pixie body featuring delicate forehead fringe.",
         "paragraphs": [
           "A shag-inspired pixie in natural white, styled with a light forehead fringe.",
@@ -4561,7 +4561,7 @@ export const articles = [
     "title": "15+ Gorgeous Long Haircuts with Bangs Worth Trying",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc20_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc20_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 19, 2026",
     "isFeatured": true,
@@ -4616,7 +4616,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Cut with Chestnut Brown Waves",
-        "image": "/images/doc20_img_1.jpg?v=20260902",
+        "image": "/images/doc20_img_1.jpg",
         "whyWeLoveIt": "Flowing long layers paired with featherlight wispy chestnut fringe.",
         "paragraphs": [
           "This timeless style features long, flowing layers that enhance volume and natural movement.",
@@ -4627,7 +4627,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Curtain Bangs with Honey Blonde Lengths",
-        "image": "/images/doc20_img_2.jpg?v=20260902",
+        "image": "/images/doc20_img_2.jpg",
         "whyWeLoveIt": "70s-inspired cheekbone curtain fringe on sunlit honey blonde locks.",
         "paragraphs": [
           "A modern take on the '70s-inspired cut featuring long layered locks with curtain bangs.",
@@ -4638,7 +4638,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Blunt Cut with Jet Black Shine",
-        "image": "/images/doc20_img_3.jpg?v=20260902",
+        "image": "/images/doc20_img_3.jpg",
         "whyWeLoveIt": "Glass-smooth long jet black hair with razor-sharp blunt fringe.",
         "paragraphs": [
           "A sleek and sophisticated choice, this blunt cut keeps long hair at one precise length.",
@@ -4649,7 +4649,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Wavy Layers with Deep Auburn Tones",
-        "image": "/images/doc20_img_4.jpg?v=20260902",
+        "image": "/images/doc20_img_4.jpg",
         "whyWeLoveIt": "Cascading wavy layers illuminated by rich deep auburn warmth.",
         "paragraphs": [
           "Cascading waves with soft, face-framing layers add effortless beauty to this long look.",
@@ -4660,7 +4660,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Feathered Cut with Golden Brown Highlights",
-        "image": "/images/doc20_img_5.jpg?v=20260902",
+        "image": "/images/doc20_img_5.jpg",
         "whyWeLoveIt": "Lightweight airy feathering brightened by golden brown highlights.",
         "paragraphs": [
           "This light, airy haircut is ideal for those who prefer a weightless feel on long hair.",
@@ -4671,7 +4671,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Long Shag with Dark Chocolate Tones",
-        "image": "/images/doc20_img_6.jpg?v=20260902",
+        "image": "/images/doc20_img_6.jpg",
         "whyWeLoveIt": "Laid-back shag texture on deep dark chocolate brown lengths.",
         "paragraphs": [
           "The classic shag gets an update with extra length and choppy interior layers.",
@@ -4682,7 +4682,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Side-Swept Bangs with Warm Brunette Waves",
-        "image": "/images/doc20_img_7.jpg?v=20260902",
+        "image": "/images/doc20_img_7.jpg",
         "whyWeLoveIt": "Soft diagonal side fringe blending smoothly into voluminous waves.",
         "paragraphs": [
           "A feminine choice featuring side-swept bangs that blend into voluminous long layers.",
@@ -4693,7 +4693,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Choppy Bangs with Espresso Brown Strands",
-        "image": "/images/doc20_img_8.jpg?v=20260902",
+        "image": "/images/doc20_img_8.jpg",
         "whyWeLoveIt": "Edgy choppy fringe contrasting with deep espresso brown shine.",
         "paragraphs": [
           "Bold yet wearable, this cut features textured, choppy bangs that add edge and flair.",
@@ -4704,7 +4704,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Face-Framing Layers with Caramel Balayage",
-        "image": "/images/doc20_img_9.jpg?v=20260902",
+        "image": "/images/doc20_img_9.jpg",
         "whyWeLoveIt": "Multi-dimensional caramel balayage accentuating flowing long layers.",
         "paragraphs": [
           "This elegant haircut enhances facial features with long flowing layers and soft fringe.",
@@ -4715,7 +4715,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Wispy Bangs with Soft Black Waves",
-        "image": "/images/doc20_img_10.jpg?v=20260902",
+        "image": "/images/doc20_img_10.jpg",
         "whyWeLoveIt": "Delicate see-through wispy fringe on glossy soft black waves.",
         "paragraphs": [
           "Delicate, airy bangs combined with long, natural waves create an chic style.",
@@ -4726,7 +4726,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Straight Layers with Rich Mahogany Undertones",
-        "image": "/images/doc20_img_11.jpg?v=20260902",
+        "image": "/images/doc20_img_11.jpg",
         "whyWeLoveIt": "Polished straight layers infused with deep mahogany richness.",
         "paragraphs": [
           "A polished and refined look featuring sleek, straight layers that add sophistication.",
@@ -4737,7 +4737,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Voluminous Layers with Dark Ash Brown Color",
-        "image": "/images/doc20_img_12.jpg?v=20260902",
+        "image": "/images/doc20_img_12.jpg",
         "whyWeLoveIt": "Thick voluminous body paired with cool dark ash brown tones.",
         "paragraphs": [
           "Thick, voluminous layers add body and movement to this long layered cut.",
@@ -4748,7 +4748,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Modern Wolf Cut with Deep Chestnut Highlights",
-        "image": "/images/doc20_img_13.jpg?v=20260902",
+        "image": "/images/doc20_img_13.jpg",
         "whyWeLoveIt": "Viral wolf cut volume with warm deep chestnut highlights.",
         "paragraphs": [
           "This trendy wolf cut brings volume and texture with a playful, tousled silhouette.",
@@ -4759,7 +4759,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Bohemian Waves with Sandy Brown Accents",
-        "image": "/images/doc20_img_14.jpg?v=20260902",
+        "image": "/images/doc20_img_14.jpg",
         "whyWeLoveIt": "Relaxed bohemian waves paired with parted sandy brown fringe.",
         "paragraphs": [
           "A relaxed, effortless style featuring long flowing waves and soft parted fringe.",
@@ -4770,7 +4770,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Romantic Curls with Warm Toffee Tones",
-        "image": "/images/doc20_img_15.jpg?v=20260902",
+        "image": "/images/doc20_img_15.jpg",
         "whyWeLoveIt": "Bouncy defined curls illuminated by warm toffee warmth.",
         "paragraphs": [
           "Ideal for defined curls, combining long, voluminous curls with gently blended fringe.",
@@ -4781,7 +4781,7 @@ export const articles = [
       {
         "number": 16,
         "title": "U-Cut Layers with Cinnamon Brown Highlights",
-        "image": "/images/doc20_img_16.jpg?v=20260902",
+        "image": "/images/doc20_img_16.jpg",
         "whyWeLoveIt": "Classic U-shaped perimeter with warm cinnamon brown highlights.",
         "paragraphs": [
           "U-Cut Layers with Cinnamon Brown Highlights is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4797,7 +4797,7 @@ export const articles = [
     "title": "14+ Beautiful Bob Hairstyles for Women over 60 with Fine Hair",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc21_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc21_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 20, 2026",
     "isFeatured": true,
@@ -4852,7 +4852,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Silver Bob",
-        "image": "/images/doc21_img_1.jpg?v=20260902",
+        "image": "/images/doc21_img_1.jpg",
         "whyWeLoveIt": "Classic silver-gray feathering that adds natural crown lift and movement.",
         "paragraphs": [
           "A classic layered bob in natural silver tones, designed with soft feathered layers.",
@@ -4863,7 +4863,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Blunt Chin-Length Bob with Warm Brown",
-        "image": "/images/doc21_img_2.jpg?v=20260902",
+        "image": "/images/doc21_img_2.jpg",
         "whyWeLoveIt": "Creates the optical illusion of thick, solid perimeter ends.",
         "paragraphs": [
           "A sleek chin-length blunt bob in warm brown that creates the illusion of thicker ends.",
@@ -4874,7 +4874,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Textured Lob with Honey Blonde Highlights",
-        "image": "/images/doc21_img_3.jpg?v=20260902",
+        "image": "/images/doc21_img_3.jpg",
         "whyWeLoveIt": "Multi-dimensional honey blonde highlights adding depth to collarbone lengths.",
         "paragraphs": [
           "A longer bob with subtle texture and sun-kissed honey blonde highlights.",
@@ -4885,7 +4885,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Wispy Bob with Soft Gray Blend",
-        "image": "/images/doc21_img_4.jpg?v=20260902",
+        "image": "/images/doc21_img_4.jpg",
         "whyWeLoveIt": "Featherlight wispy ends celebrating natural soft gray tones.",
         "paragraphs": [
           "Wispy Bob with Soft Gray Blend is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4896,7 +4896,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Angled Bob with Dark Espresso Tone",
-        "image": "/images/doc21_img_5.jpg?v=20260902",
+        "image": "/images/doc21_img_5.jpg",
         "whyWeLoveIt": "Slightly longer front angle framing cheekbones in rich espresso brown.",
         "paragraphs": [
           "A slightly angled bob in a rich espresso shade, longer in front to frame cheekbones.",
@@ -4907,7 +4907,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Feathered Bob with Ash Blonde Layers",
-        "image": "/images/doc21_img_6.jpg?v=20260902",
+        "image": "/images/doc21_img_6.jpg",
         "whyWeLoveIt": "Delicate ash blonde crown feathering creating a flowing silhouette.",
         "paragraphs": [
           "A feathered bob featuring delicate ash blonde layers that lift the crown naturally.",
@@ -4918,7 +4918,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Rounded Bob with Natural Gray",
-        "image": "/images/doc21_img_7.jpg?v=20260902",
+        "image": "/images/doc21_img_7.jpg",
         "whyWeLoveIt": "Builds side volume to balance fine hair contours in natural gray.",
         "paragraphs": [
           "Rounded Bob with Natural Gray is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -4929,7 +4929,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Short Stacked Bob with Salt-and-Pepper Color",
-        "image": "/images/doc21_img_8.jpg?v=20260902",
+        "image": "/images/doc21_img_8.jpg",
         "whyWeLoveIt": "Subtle nape stacking that adds instant height to salt-and-pepper hair.",
         "paragraphs": [
           "A stacked bob with subtle nape layering in a natural salt-and-pepper tone.",
@@ -4940,7 +4940,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Airy Bob with Light Beige Blonde",
-        "image": "/images/doc21_img_9.jpg?v=20260902",
+        "image": "/images/doc21_img_9.jpg",
         "whyWeLoveIt": "Effortless light beige blonde shade on a soft airy perimeter.",
         "paragraphs": [
           "A modern airy bob in light beige blonde featuring soft, natural movement.",
@@ -4951,7 +4951,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Classic Jaw-Length Bob with Jet Black",
-        "image": "/images/doc21_img_10.jpg?v=20260902",
+        "image": "/images/doc21_img_10.jpg",
         "whyWeLoveIt": "Sharp jawline framing in high-contrast deep jet black shine.",
         "paragraphs": [
           "A timeless jaw-length bob in jet black that enhances perimeter contrast.",
@@ -4962,7 +4962,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Choppy Bob with Soft Caramel Highlights",
-        "image": "/images/doc21_img_11.jpg?v=20260902",
+        "image": "/images/doc21_img_11.jpg",
         "whyWeLoveIt": "Textured choppy layers illuminated by warm caramel highlights.",
         "paragraphs": [
           "A choppy bob with light caramel highlights that introduce texture and visual fullness.",
@@ -4973,7 +4973,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Side-Parted Bob with Cool Gray Tones",
-        "image": "/images/doc21_img_12.jpg?v=20260902",
+        "image": "/images/doc21_img_12.jpg",
         "whyWeLoveIt": "Deep side parting that doubles crown height in cool gray.",
         "paragraphs": [
           "A sleek bob with a deep side part and cool gray tones that boost root volume.",
@@ -4984,7 +4984,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Layered Bob with Golden Blonde Shine",
-        "image": "/images/doc21_img_13.jpg?v=20260902",
+        "image": "/images/doc21_img_13.jpg",
         "whyWeLoveIt": "Radiant golden blonde light reflection making fine hair look healthy.",
         "paragraphs": [
           "A softly layered bob in golden blonde that reflects light beautifully.",
@@ -4995,7 +4995,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Tapered Bob with Natural Brunette",
-        "image": "/images/doc21_img_14.jpg?v=20260902",
+        "image": "/images/doc21_img_14.jpg",
         "whyWeLoveIt": "Tapered back lift with elegant longer front face-framing strands.",
         "paragraphs": [
           "A tapered bob in a natural brunette shade, shorter at the back for crown lift.",
@@ -5006,7 +5006,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Soft Shaggy Bob with Silver Highlights",
-        "image": "/images/doc21_img_15.jpg?v=20260902",
+        "image": "/images/doc21_img_15.jpg",
         "whyWeLoveIt": "Relaxed shag-inspired layers illuminated by shimmering silver highlights.",
         "paragraphs": [
           "Soft Shaggy Bob with Silver Highlights is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5022,7 +5022,7 @@ export const articles = [
     "title": "12+ Chic Long Layered Bob to Try Today",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc22_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc22_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 21, 2026",
     "isFeatured": true,
@@ -5077,7 +5077,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Wavy Long Layered Bob with Mushroom Brown Balayage",
-        "image": "/images/doc22_img_1.jpg?v=20260902",
+        "image": "/images/doc22_img_1.jpg",
         "whyWeLoveIt": "Beachy waves paired with a rich mushroom brown base and beige-blonde balayage.",
         "paragraphs": [
           "This long layered bob combines soft, beachy waves with a cool mushroom brown base.",
@@ -5088,7 +5088,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Curtain Layer Long Bob with Cool Beige Blonde Highlights",
-        "image": "/images/doc22_img_2.jpg?v=20260902",
+        "image": "/images/doc22_img_2.jpg",
         "whyWeLoveIt": "Face-framing curtain layers illuminated by cool beige blonde light.",
         "paragraphs": [
           "A sophisticated long layered bob featuring face-framing curtain layers and beige blonde highlights.",
@@ -5099,7 +5099,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Soft Layered Lob in Espresso Brown",
-        "image": "/images/doc22_img_3.jpg?v=20260902",
+        "image": "/images/doc22_img_3.jpg",
         "whyWeLoveIt": "Feathered espresso brown layers creating natural volume and high shine.",
         "paragraphs": [
           "This espresso brown long layered bob showcases feathered layers for natural volume.",
@@ -5110,7 +5110,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Rounded Long Layered Bob with Honey Blonde Money Piece",
-        "image": "/images/doc22_img_4.jpg?v=20260902",
+        "image": "/images/doc22_img_4.jpg",
         "whyWeLoveIt": "Face-brightening honey blonde money piece on softly rounded ends.",
         "paragraphs": [
           "A classic long layered bob elevated with a bright honey blonde money piece.",
@@ -5121,7 +5121,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Feathered Long Bob with Beige Blonde Dimension",
-        "image": "/images/doc22_img_5.jpg?v=20260902",
+        "image": "/images/doc22_img_5.jpg",
         "whyWeLoveIt": "Airy face-sweeping layers accented by beige blonde dimensional color.",
         "paragraphs": [
           "This elegant long layered bob features feathered layers that sweep away from cheekbones.",
@@ -5132,7 +5132,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Layered Long Bob with Soft Platinum Blonde Blend",
-        "image": "/images/doc22_img_6.jpg?v=20260902",
+        "image": "/images/doc22_img_6.jpg",
         "whyWeLoveIt": "Soft platinum blonde tones blending seamlessly into natural root depth.",
         "paragraphs": [
           "A beautifully blended long layered bob showcasing soft platinum blonde tones.",
@@ -5143,7 +5143,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Textured Long Layered Bob with Blonde Face-Framing Highlights",
-        "image": "/images/doc22_img_7.jpg?v=20260902",
+        "image": "/images/doc22_img_7.jpg",
         "whyWeLoveIt": "Strategic texturizing paired with delicate face-framing blonde pieces.",
         "paragraphs": [
           "This layered bob pairs textured perimeter ends with delicate blonde face-framing highlights.",
@@ -5154,7 +5154,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Icy Silver Wavy Long Bob",
-        "image": "/images/doc22_img_8.jpg?v=20260902",
+        "image": "/images/doc22_img_8.jpg",
         "whyWeLoveIt": "Loose silver waves emphasizing a striking dimensional finish.",
         "paragraphs": [
           "Icy Silver Wavy Long Bob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5165,7 +5165,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Sleek Long Layered Bob in Chestnut Brown",
-        "image": "/images/doc22_img_9.jpg?v=20260902",
+        "image": "/images/doc22_img_9.jpg",
         "whyWeLoveIt": "Subtle internal layering maintaining a glass-smooth chestnut profile.",
         "paragraphs": [
           "This sleek chestnut brown long layered bob features subtle internal layers for movement.",
@@ -5176,7 +5176,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Burgundy Long Layered Bob with Face-Framing Layers",
-        "image": "/images/doc22_img_10.jpg?v=20260902",
+        "image": "/images/doc22_img_10.jpg",
         "whyWeLoveIt": "Rich red-violet burgundy tone framing jawline and neck contours.",
         "paragraphs": [
           "A bold burgundy long layered bob featuring smooth layers that gently frame your face.",
@@ -5187,7 +5187,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Cool Silver Layered Lob with Soft Graduation",
-        "image": "/images/doc22_img_11.jpg?v=20260902",
+        "image": "/images/doc22_img_11.jpg",
         "whyWeLoveIt": "Seamless cool silver graduation building weightless back volume.",
         "paragraphs": [
           "This cool silver long layered bob combines seamless layering with a softly graduated shape.",
@@ -5198,7 +5198,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Layered Champagne Blonde Long Bob",
-        "image": "/images/doc22_img_12.jpg?v=20260902",
+        "image": "/images/doc22_img_12.jpg",
         "whyWeLoveIt": "Luxurious champagne blonde tones with expertly blended face layers.",
         "paragraphs": [
           "A luxurious long layered bob featuring champagne blonde tones and soft layers.",
@@ -5209,7 +5209,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Soft Brunette Long Layered Bob with Subtle Flicked Ends",
-        "image": "/images/doc22_img_13.jpg?v=20260902",
+        "image": "/images/doc22_img_13.jpg",
         "whyWeLoveIt": "Contemporary soft brunette layers with subtle flicked-out ends.",
         "paragraphs": [
           "This brunette long layered bob incorporates understated layers and softly flicked ends.",
@@ -5225,7 +5225,7 @@ export const articles = [
     "title": "17+ Beautiful Short Bob Haircuts for Women over 40",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc23_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc23_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "July 22, 2026",
     "isFeatured": true,
@@ -5280,7 +5280,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Classic Chin-Length Bob in Chestnut Brown",
-        "image": "/images/doc23_img_1.jpg?v=20260902",
+        "image": "/images/doc23_img_1.jpg",
         "whyWeLoveIt": "Universally flattering chin-skimming precision cut in warm chestnut brown.",
         "paragraphs": [
           "A universally flattering bob that skims the chin line with precision-cut lines.",
@@ -5291,7 +5291,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Feathered French Bob with Soft Black",
-        "image": "/images/doc23_img_2.jpg?v=20260902",
+        "image": "/images/doc23_img_2.jpg",
         "whyWeLoveIt": "Refined cheekbone French bob layers paired with deep soft black shine.",
         "paragraphs": [
           "This softly layered French bob hits just below cheekbones in deep soft black.",
@@ -5302,7 +5302,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Angled Bob with Dark Blonde Balayage",
-        "image": "/images/doc23_img_3.jpg?v=20260902",
+        "image": "/images/doc23_img_3.jpg",
         "whyWeLoveIt": "Elongating angled front length highlighted with dark blonde balayage.",
         "paragraphs": [
           "Angled Bob with Dark Blonde Balayage is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5313,7 +5313,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Layered Bob with Warm Auburn Blend",
-        "image": "/images/doc23_img_4.jpg?v=20260902",
+        "image": "/images/doc23_img_4.jpg",
         "whyWeLoveIt": "Subtle interior layers infused with warm auburn red brightness.",
         "paragraphs": [
           "Designed with subtle interior layers, this short bob features a warm auburn red hue.",
@@ -5324,7 +5324,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Textured Bob with Sandy Brown Lowlights",
-        "image": "/images/doc23_img_5.jpg?v=20260902",
+        "image": "/images/doc23_img_5.jpg",
         "whyWeLoveIt": "Softly tousled invisible layers enriched by sandy brown lowlights.",
         "paragraphs": [
           "A softly tousled short bob with invisible layers and sandy brown lowlights.",
@@ -5335,7 +5335,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Blunt Bob in Light Ash Brown",
-        "image": "/images/doc23_img_6.jpg?v=20260902",
+        "image": "/images/doc23_img_6.jpg",
         "whyWeLoveIt": "Sleek jawline straight-across cut polished in cool ash brown.",
         "paragraphs": [
           "A sleek, straight-across bob cut at the jawline, polished in a cool ash brown tone.",
@@ -5346,7 +5346,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Tapered Nape Bob with Dark Brunette Shine",
-        "image": "/images/doc23_img_7.jpg?v=20260902",
+        "image": "/images/doc23_img_7.jpg",
         "whyWeLoveIt": "Softly tapered nape with longer face-framing layers in dark brunette gloss.",
         "paragraphs": [
           "Tapered Nape Bob with Dark Brunette Shine is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5357,7 +5357,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Side-Parted Bob with Honey Blonde Highlights",
-        "image": "/images/doc23_img_8.jpg?v=20260902",
+        "image": "/images/doc23_img_8.jpg",
         "whyWeLoveIt": "Deep side parting that boosts root height with honey blonde light.",
         "paragraphs": [
           "This chin-grazing bob is styled with a deep side part and honey blonde highlights.",
@@ -5368,7 +5368,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Wispy Bob with Natural Medium Brown",
-        "image": "/images/doc23_img_9.jpg?v=20260902",
+        "image": "/images/doc23_img_9.jpg",
         "whyWeLoveIt": "Airy wispy ends paired with approachable medium brown warmth.",
         "paragraphs": [
           "Wispy Bob with Natural Medium Brown is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5379,7 +5379,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Choppy Layered Bob in Natural Copper Red",
-        "image": "/images/doc23_img_10.jpg?v=20260902",
+        "image": "/images/doc23_img_10.jpg",
         "whyWeLoveIt": "Full of energetic movement with choppy layers in natural copper red.",
         "paragraphs": [
           "Full of movement and edge, this choppy bob features textured uneven layers.",
@@ -5390,7 +5390,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Sculpted Bob with Salt-and-Pepper Dimension",
-        "image": "/images/doc23_img_11.jpg?v=20260902",
+        "image": "/images/doc23_img_11.jpg",
         "whyWeLoveIt": "Softly rounded shape celebrating natural salt-and-pepper graying tones.",
         "paragraphs": [
           "Perfect for embracing grays, this sculpted bob has a softly rounded silhouette.",
@@ -5401,7 +5401,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Pixie-Bob Hybrid in Golden Brown",
-        "image": "/images/doc23_img_12.jpg?v=20260902",
+        "image": "/images/doc23_img_12.jpg",
         "whyWeLoveIt": "Cropped nape volume on top in radiant golden brown.",
         "paragraphs": [
           "A cross between a pixie and a bob, cropped at the nape with volume on top.",
@@ -5412,7 +5412,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Soft Wavy Bob with Neutral Blonde",
-        "image": "/images/doc23_img_13.jpg?v=20260902",
+        "image": "/images/doc23_img_13.jpg",
         "whyWeLoveIt": "Cheekbone-length wave bounce in versatile neutral blonde.",
         "paragraphs": [
           "Soft Wavy Bob with Neutral Blonde is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5423,7 +5423,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Asymmetric Bob in Espresso Brown",
-        "image": "/images/doc23_img_14.jpg?v=20260902",
+        "image": "/images/doc23_img_14.jpg",
         "whyWeLoveIt": "Artistic asymmetric length in deep high-contrast espresso brown.",
         "paragraphs": [
           "One side longer than the other, this artistic bob brings dramatic flair.",
@@ -5434,7 +5434,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Inverted Bob with Caramel Tones",
-        "image": "/images/doc23_img_15.jpg?v=20260902",
+        "image": "/images/doc23_img_15.jpg",
         "whyWeLoveIt": "Stacked back volume with elongated caramel front layers.",
         "paragraphs": [
           "With its stacked back and elongated front, this bob brings instant root volume.",
@@ -5445,7 +5445,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Undercut Bob in Silvery Gray Blend",
-        "image": "/images/doc23_img_16.jpg?v=20260902",
+        "image": "/images/doc23_img_16.jpg",
         "whyWeLoveIt": "Bold undercut structure in chic silvery gray blend.",
         "paragraphs": [
           "A bold take for women embracing natural grays, featuring a discreet undercut.",
@@ -5456,7 +5456,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Graduated Bob in Soft Mocha Brown",
-        "image": "/images/doc23_img_17.jpg?v=20260902",
+        "image": "/images/doc23_img_17.jpg",
         "whyWeLoveIt": "Clean graduated silhouette in warm soft mocha brown.",
         "paragraphs": [
           "A graduated bob cut with precision layers in a warm soft mocha brown tone.",
@@ -5467,7 +5467,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Blunt Chin Bob with Soft Honey Balayage",
-        "image": "/images/doc23_img_18.jpg?v=20260902",
+        "image": "/images/doc23_img_18.jpg",
         "whyWeLoveIt": "Chin-skimming baseline illuminated by soft honey balayage.",
         "paragraphs": [
           "A classic chin bob with a blunt perimeter baseline lightened by soft honey balayage.",
@@ -5483,7 +5483,7 @@ export const articles = [
     "title": "18+ Stunning Short Bob Hairstyles with Bangs to Inspire You",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc24_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc24_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "July 23, 2026",
     "isFeatured": true,
@@ -5538,7 +5538,7 @@ export const articles = [
       {
         "number": 1,
         "title": "French Bob with Wispy Fringe in Chestnut Brown",
-        "image": "/images/doc24_img_1.jpg?v=20260902",
+        "image": "/images/doc24_img_1.jpg",
         "whyWeLoveIt": "Timeless jaw-length Parisian cut featuring light, airy wispy fringe.",
         "paragraphs": [
           "This timeless Parisian cut ends right at the jawline and features lightly feathered bangs.",
@@ -5549,7 +5549,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Blunt Micro Bob with Full Bangs in Jet Black",
-        "image": "/images/doc24_img_2.jpg?v=20260902",
+        "image": "/images/doc24_img_2.jpg",
         "whyWeLoveIt": "Edgy graphic cheekbone micro bob paired with thick blunt fringe.",
         "paragraphs": [
           "Edgy and graphic, this ultra-short micro bob skims cheekbones with thick straight bangs.",
@@ -5560,7 +5560,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Curved Bob with Baby Bangs in Golden Blonde",
-        "image": "/images/doc24_img_3.jpg?v=20260902",
+        "image": "/images/doc24_img_3.jpg",
         "whyWeLoveIt": "Sculpted rounded silhouette paired with playful micro baby fringe.",
         "paragraphs": [
           "Curved Bob with Baby Bangs in Golden Blonde is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5571,7 +5571,7 @@ export const articles = [
       {
         "number": 4,
         "title": "A-Line Bob with Curtain Bangs in Honey Balayage",
-        "image": "/images/doc24_img_4.jpg?v=20260902",
+        "image": "/images/doc24_img_4.jpg",
         "whyWeLoveIt": "Graduated front length frame illuminated by honey balayage.",
         "paragraphs": [
           "This cut angles longer toward the front, perfectly paired with curtain bangs.",
@@ -5582,7 +5582,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Feathered Bob with Side-Swept Bangs in Soft Copper",
-        "image": "/images/doc24_img_5.jpg?v=20260902",
+        "image": "/images/doc24_img_5.jpg",
         "whyWeLoveIt": "Lightweight feathering infused with warm soft copper red brightness.",
         "paragraphs": [
           "Layers and texturizing create a feathered shape with a side-swept fringe.",
@@ -5593,7 +5593,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Layered Chin-Length Bob with Arched Bangs in Espresso",
-        "image": "/images/doc24_img_6.jpg?v=20260902",
+        "image": "/images/doc24_img_6.jpg",
         "whyWeLoveIt": "Eye-accentuating arched fringe on a deep espresso brown chin bob.",
         "paragraphs": [
           "Interior layers build volume, while arched bangs draw attention directly to your eyes.",
@@ -5604,7 +5604,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Shaggy Bob with Choppy Bangs in Platinum Ash Blonde",
-        "image": "/images/doc24_img_7.jpg?v=20260902",
+        "image": "/images/doc24_img_7.jpg",
         "whyWeLoveIt": "Modern retro shag vibe in cool icy platinum ash blonde.",
         "paragraphs": [
           "A modern twist on the retro shag featuring tousled layers and choppy irregular fringe.",
@@ -5615,7 +5615,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Sleek Bob with Micro Fringe in Midnight Blue",
-        "image": "/images/doc24_img_8.jpg?v=20260902",
+        "image": "/images/doc24_img_8.jpg",
         "whyWeLoveIt": "Glass-smooth precision cut featuring dramatic midnight blue tones.",
         "paragraphs": [
           "Sleek Bob with Micro Fringe in Midnight Blue is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5626,7 +5626,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Blunt Bob with Brow-Grazing Bangs in Mocha Ombre",
-        "image": "/images/doc24_img_9.jpg?v=20260902",
+        "image": "/images/doc24_img_9.jpg",
         "whyWeLoveIt": "Clean chin baseline with warm mocha-to-caramel ombre glow.",
         "paragraphs": [
           "Blunt Bob with Brow-Grazing Bangs in Mocha Ombre is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5637,7 +5637,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Angled Bob with Piecey Bangs in Rose Gold",
-        "image": "/images/doc24_img_10.jpg?v=20260902",
+        "image": "/images/doc24_img_10.jpg",
         "whyWeLoveIt": "Sharp back-to-front angle colored in romantic rose gold.",
         "paragraphs": [
           "Angled Bob with Piecey Bangs in Rose Gold is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5648,7 +5648,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Choppy Bob with Textured Fringe in Smoky Lavender",
-        "image": "/images/doc24_img_11.jpg?v=20260902",
+        "image": "/images/doc24_img_11.jpg",
         "whyWeLoveIt": "Airy choppy movement painted in ethereal smoky lavender pastel.",
         "paragraphs": [
           "Choppy Bob with Textured Fringe in Smoky Lavender is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5659,7 +5659,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Box Bob with Blunt Bangs in Chocolate Brown",
-        "image": "/images/doc24_img_12.jpg?v=20260902",
+        "image": "/images/doc24_img_12.jpg",
         "whyWeLoveIt": "Structured boxy silhouette enhanced by thick chocolate brown fringe.",
         "paragraphs": [
           "The structured, boxy silhouette of this bob is enhanced by thick blunt bangs.",
@@ -5670,7 +5670,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Undercut Bob with Straight Fringe in Silver Blonde",
-        "image": "/images/doc24_img_13.jpg?v=20260902",
+        "image": "/images/doc24_img_13.jpg",
         "whyWeLoveIt": "Discreet undercut nape structure in cool-girl silver blonde.",
         "paragraphs": [
           "This edgy version includes a subtle undercut with sleek lines and a bold fringe.",
@@ -5681,7 +5681,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Soft Bob with Wispy Bangs in Sandy Beige",
-        "image": "/images/doc24_img_14.jpg?v=20260902",
+        "image": "/images/doc24_img_14.jpg",
         "whyWeLoveIt": "Barely-there romantic fringe in sun-kissed sandy beige blonde.",
         "paragraphs": [
           "Soft Bob with Wispy Bangs in Sandy Beige is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5692,7 +5692,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Stacked Bob with Rounded Bangs in Caramel Swirl",
-        "image": "/images/doc24_img_15.jpg?v=20260902",
+        "image": "/images/doc24_img_15.jpg",
         "whyWeLoveIt": "Stacked crown volume highlighted by caramel swirl dimension.",
         "paragraphs": [
           "Stacked Bob with Rounded Bangs in Caramel Swirl is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5703,7 +5703,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Minimal Bob with Centered Bangs in Charcoal Grey",
-        "image": "/images/doc24_img_16.jpg?v=20260902",
+        "image": "/images/doc24_img_16.jpg",
         "whyWeLoveIt": "Clean minimalist geometry in contemporary charcoal grey.",
         "paragraphs": [
           "Minimal Bob with Centered Bangs in Charcoal Grey is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5714,7 +5714,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Wavy Bob with Side Bangs in Bronde Balayage",
-        "image": "/images/doc24_img_17.jpg?v=20260902",
+        "image": "/images/doc24_img_17.jpg",
         "whyWeLoveIt": "Relaxed beachy waves paired with sweeping bronde balayage fringe.",
         "paragraphs": [
           "Loose waves and sweeping side bangs give this bob a relaxed beachy vibe.",
@@ -5725,7 +5725,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Jaw-Length Bob with Angled Fringe in Mahogany Red",
-        "image": "/images/doc24_img_18.jpg?v=20260902",
+        "image": "/images/doc24_img_18.jpg",
         "whyWeLoveIt": "Inward jawline curve colored in dramatic mahogany red.",
         "paragraphs": [
           "This bob frames the jawline with a slight inward curve and angled fringe.",
@@ -5736,7 +5736,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Asymmetrical Bob with Layered Bangs in Dusty Rose",
-        "image": "/images/doc24_img_19.jpg?v=20260902",
+        "image": "/images/doc24_img_19.jpg",
         "whyWeLoveIt": "Artistic asymmetrical contrast in trendy dusty rose pastel.",
         "paragraphs": [
           "Asymmetrical Bob with Layered Bangs in Dusty Rose is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -5752,7 +5752,7 @@ export const articles = [
     "title": "25+ Beautiful Short Layered Bob Hairstyles for Older Women",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc25_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc25_cover_collage.jpg",
     "readTime": "12 min read",
     "date": "July 24, 2026",
     "isFeatured": true,
@@ -5807,7 +5807,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Classic Silver Layered Bob",
-        "image": "/images/doc25_img_1.jpg?v=20260902",
+        "image": "/images/doc25_img_1.jpg",
         "whyWeLoveIt": "Chic silver hues celebrating natural gray texture with elegant crown lift.",
         "paragraphs": [
           "A short, layered bob cut in chic silver hues that brings out natural hair texture.",
@@ -5818,7 +5818,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Soft Blonde Feathered Bob",
-        "image": "/images/doc25_img_2.jpg?v=20260902",
+        "image": "/images/doc25_img_2.jpg",
         "whyWeLoveIt": "Face-framing light blonde feathering creating a sunlit youthful glow.",
         "paragraphs": [
           "This soft feathered bob features light blonde tones framing cheekbones gracefully.",
@@ -5829,7 +5829,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Textured Ash Brown Bob",
-        "image": "/images/doc25_img_3.jpg?v=20260902",
+        "image": "/images/doc25_img_3.jpg",
         "whyWeLoveIt": "Multi-dimensional ash brown layers providing understated elegance.",
         "paragraphs": [
           "Cool ash brown tones and added interior layers create a multi-dimensional look.",
@@ -5840,7 +5840,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Warm Caramel Highlights Bob",
-        "image": "/images/doc25_img_4.jpg?v=20260902",
+        "image": "/images/doc25_img_4.jpg",
         "whyWeLoveIt": "Warm caramel highlights over rich brunette depth.",
         "paragraphs": [
           "Short, warm caramel highlights over a rich brown base bring out interior layers.",
@@ -5851,7 +5851,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Chic Salt and Pepper Layers",
-        "image": "/images/doc25_img_5.jpg?v=20260902",
+        "image": "/images/doc25_img_5.jpg",
         "whyWeLoveIt": "Accentuates natural salt and pepper gray tones with graceful movement.",
         "paragraphs": [
           "A short bob featuring salt and pepper tones with soft, face-framing layers.",
@@ -5862,7 +5862,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Modern Platinum Layered Bob",
-        "image": "/images/doc25_img_6.jpg?v=20260902",
+        "image": "/images/doc25_img_6.jpg",
         "whyWeLoveIt": "High-fashion sleek platinum hue on a contemporary layered silhouette.",
         "paragraphs": [
           "With a bold platinum hue, this layered bob offers a sleek and modern take.",
@@ -5873,7 +5873,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Chestnut Layered Bob with Wispy Ends",
-        "image": "/images/doc25_img_7.jpg?v=20260902",
+        "image": "/images/doc25_img_7.jpg",
         "whyWeLoveIt": "Rich chestnut depth combined with delicate wispy layered ends.",
         "paragraphs": [
           "The rich chestnut color combined with wispy layered ends creates a soft style.",
@@ -5884,7 +5884,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Soft Grey Bob with Subtle Layers",
-        "image": "/images/doc25_img_8.jpg?v=20260902",
+        "image": "/images/doc25_img_8.jpg",
         "whyWeLoveIt": "Airy soft gray texture providing light, comfortable volume.",
         "paragraphs": [
           "This short bob in soft grey with subtle layers provides a light, airy texture.",
@@ -5895,7 +5895,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Honey Blonde Stacked Layers",
-        "image": "/images/doc25_img_9.jpg?v=20260902",
+        "image": "/images/doc25_img_9.jpg",
         "whyWeLoveIt": "Stacked nape layering adding volume and warm honey blonde lift.",
         "paragraphs": [
           "Honey blonde stacked layers add volume and lift to the back of the bob.",
@@ -5906,7 +5906,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Icy Blonde Tapered Bob",
-        "image": "/images/doc25_img_10.jpg?v=20260902",
+        "image": "/images/doc25_img_10.jpg",
         "whyWeLoveIt": "Tapered short layers in crisp icy blonde for a polished finish.",
         "paragraphs": [
           "Featuring icy blonde tones, this tapered bob creates a sharp yet soft look.",
@@ -5917,7 +5917,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Mushroom Brown Layered Bob",
-        "image": "/images/doc25_img_11.jpg?v=20260902",
+        "image": "/images/doc25_img_11.jpg",
         "whyWeLoveIt": "Cool earthy mushroom brown tones on a fluid layered cut.",
         "paragraphs": [
           "Earthy mushroom brown tones bring a cool, contemporary shade to this bob.",
@@ -5928,7 +5928,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Fiery Auburn Voluminous Bob",
-        "image": "/images/doc25_img_12.jpg?v=20260902",
+        "image": "/images/doc25_img_12.jpg",
         "whyWeLoveIt": "Vibrant auburn red warmth creating rich dimensional volume.",
         "paragraphs": [
           "A vibrant auburn red bob packed with interior layers for maximum volume.",
@@ -5939,7 +5939,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Asymmetrical Silver Grey Bob",
-        "image": "/images/doc25_img_13.jpg?v=20260902",
+        "image": "/images/doc25_img_13.jpg",
         "whyWeLoveIt": "Modern asymmetrical angle in striking silver gray.",
         "paragraphs": [
           "An artistic asymmetrical angle paired with shimmering silver gray tones.",
@@ -5950,7 +5950,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Golden Brown Swept-Back Bob",
-        "image": "/images/doc25_img_14.jpg?v=20260902",
+        "image": "/images/doc25_img_14.jpg",
         "whyWeLoveIt": "Swept-back face-framing layers in rich golden brown.",
         "paragraphs": [
           "Warm golden brown strands cut into face-framing layers that sweep backward.",
@@ -5961,7 +5961,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Blunt Cut Bob with Soft Gray Highlights",
-        "image": "/images/doc25_img_15.jpg?v=20260902",
+        "image": "/images/doc25_img_15.jpg",
         "whyWeLoveIt": "Clean perimeter baseline softened by subtle gray highlights.",
         "paragraphs": [
           "A precise blunt baseline cut softened by subtle gray highlights throughout.",
@@ -5972,7 +5972,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Rounded Sandy Blonde Bob",
-        "image": "/images/doc25_img_16.jpg?v=20260902",
+        "image": "/images/doc25_img_16.jpg",
         "whyWeLoveIt": "Softly rounded silhouette in warm sandy blonde.",
         "paragraphs": [
           "A softly rounded bob shape in warm sandy blonde that builds side volume.",
@@ -5983,7 +5983,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Dark Chocolate Pixie-Bob",
-        "image": "/images/doc25_img_17.jpg?v=20260902",
+        "image": "/images/doc25_img_17.jpg",
         "whyWeLoveIt": "Compact pixie-bob hybrid in deep dark chocolate brown.",
         "paragraphs": [
           "A compact hybrid between a pixie and a bob cut in deep dark chocolate brown.",
@@ -5994,7 +5994,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Soft Rose Blonde Layered Cut",
-        "image": "/images/doc25_img_18.jpg?v=20260902",
+        "image": "/images/doc25_img_18.jpg",
         "whyWeLoveIt": "Gentle rose blonde tint bringing a romantic flush to mature skin.",
         "paragraphs": [
           "Soft Rose Blonde Layered Cut is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6005,7 +6005,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Salt and Pepper Angled Bob",
-        "image": "/images/doc25_img_19.jpg?v=20260902",
+        "image": "/images/doc25_img_19.jpg",
         "whyWeLoveIt": "Forward-angled salt and pepper perimeter that elongates the neck.",
         "paragraphs": [
           "Salt and Pepper Angled Bob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6016,7 +6016,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Warm Honey Blonde Choppy Bob",
-        "image": "/images/doc25_img_20.jpg?v=20260902",
+        "image": "/images/doc25_img_20.jpg",
         "whyWeLoveIt": "Lived-in choppy layers illuminated by golden honey blonde.",
         "paragraphs": [
           "A choppy bob featuring textured interior layers and warm honey blonde tones.",
@@ -6027,7 +6027,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Deep Espresso Textured Bob",
-        "image": "/images/doc25_img_21.jpg?v=20260902",
+        "image": "/images/doc25_img_21.jpg",
         "whyWeLoveIt": "Rich dark espresso brown depth with textured crown lift.",
         "paragraphs": [
           "A short textured bob in rich dark espresso brown that enhances density.",
@@ -6038,7 +6038,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Icy Silver Feathered Crop",
-        "image": "/images/doc25_img_22.jpg?v=20260902",
+        "image": "/images/doc25_img_22.jpg",
         "whyWeLoveIt": "Featherlight icy silver layers delivering airy elegance.",
         "paragraphs": [
           "Icy Silver Feathered Crop is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6049,7 +6049,7 @@ export const articles = [
       {
         "number": 23,
         "title": "Warm Chestnut Shaggy Bob",
-        "image": "/images/doc25_img_23.jpg?v=20260902",
+        "image": "/images/doc25_img_23.jpg",
         "whyWeLoveIt": "Shag-inspired chestnut brown layers with natural movement.",
         "paragraphs": [
           "Warm Chestnut Shaggy Bob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6060,7 +6060,7 @@ export const articles = [
       {
         "number": 24,
         "title": "Soft Platinum Side-Part Bob",
-        "image": "/images/doc25_img_24.jpg?v=20260902",
+        "image": "/images/doc25_img_24.jpg",
         "whyWeLoveIt": "Deep side parting in radiant soft platinum blonde.",
         "paragraphs": [
           "Soft Platinum Side-Part Bob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6071,7 +6071,7 @@ export const articles = [
       {
         "number": 25,
         "title": "Mocha Brown Stacked Bob",
-        "image": "/images/doc25_img_25.jpg?v=20260902",
+        "image": "/images/doc25_img_25.jpg",
         "whyWeLoveIt": "Stacked nape structure in smooth mocha brown.",
         "paragraphs": [
           "A stacked short bob in rich mocha brown that builds structured nape volume.",
@@ -6082,7 +6082,7 @@ export const articles = [
       {
         "number": 26,
         "title": "Silver White Rounded Bob",
-        "image": "/images/doc25_img_26.jpg?v=20260902",
+        "image": "/images/doc25_img_26.jpg",
         "whyWeLoveIt": "Rounded chin bob in luminous silver white.",
         "paragraphs": [
           "Silver White Rounded Bob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6098,7 +6098,7 @@ export const articles = [
     "title": "11+ Chic Angled Bob Hairstyles That Stand Out",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc26_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc26_cover_collage.jpg",
     "readTime": "7 min read",
     "date": "July 25, 2026",
     "isFeatured": true,
@@ -6153,7 +6153,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Textured Angled Bob with Lived-In Beige Blonde Balayage",
-        "image": "/images/doc26_img_1.jpg?v=20260902",
+        "image": "/images/doc26_img_1.jpg",
         "whyWeLoveIt": "Softly stacked back with airy texture through beige blonde balayage ends.",
         "paragraphs": [
           "This angled bob is softly stacked in the back with airy texture through the ends.",
@@ -6164,7 +6164,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Wavy Angled Bob with Bronde Ribbons and Soft Dimension",
-        "image": "/images/doc26_img_2.jpg?v=20260902",
+        "image": "/images/doc26_img_2.jpg",
         "whyWeLoveIt": "Loose beachy waves showcasing multi-dimensional bronde ribbon highlights.",
         "paragraphs": [
           "A modern angled bob styled with loose waves to showcase subtle back layering.",
@@ -6175,7 +6175,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Sleek Angled Bob with Silver Gray Blending",
-        "image": "/images/doc26_img_3.jpg?v=20260902",
+        "image": "/images/doc26_img_3.jpg",
         "whyWeLoveIt": "Glass-smooth perimeter highlighting clean silver-gray color transition.",
         "paragraphs": [
           "This polished angled bob features a clean perimeter and glass-smooth styling.",
@@ -6186,7 +6186,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Classic Angled Bob with Sandy Blonde Shine",
-        "image": "/images/doc26_img_4.jpg?v=20260902",
+        "image": "/images/doc26_img_4.jpg",
         "whyWeLoveIt": "Rounded back silhouette with longer face-framing sandy blonde pieces.",
         "paragraphs": [
           "A timeless angled bob with a smooth, rounded silhouette and longer front pieces.",
@@ -6197,7 +6197,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Tousled Angled Bob with Smoky Ash Brown and Honey Highlights",
-        "image": "/images/doc26_img_5.jpg?v=20260902",
+        "image": "/images/doc26_img_5.jpg",
         "whyWeLoveIt": "Piecey, relaxed wave texture in smoky ash brown and honey tones.",
         "paragraphs": [
           "This textured angled bob leans into natural movement with piecey, relaxed layers.",
@@ -6208,7 +6208,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Precision Angled Bob with Soft Vanilla Blonde",
-        "image": "/images/doc26_img_6.jpg?v=20260902",
+        "image": "/images/doc26_img_6.jpg",
         "whyWeLoveIt": "Sharp diagonal baseline showing off radiant vanilla blonde clarity.",
         "paragraphs": [
           "A sharp, clean angled bob with a smooth finish that displays strong diagonal lines.",
@@ -6219,7 +6219,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Piecey Angled Bob with Warm Mocha Brown Dimension",
-        "image": "/images/doc26_img_7.jpg?v=20260902",
+        "image": "/images/doc26_img_7.jpg",
         "whyWeLoveIt": "Casual choppy perimeter ends in rich warm mocha brown depth.",
         "paragraphs": [
           "This angled bob has a choppy, textured edge and a slightly undone finish.",
@@ -6230,7 +6230,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Smooth Angled Bob with Cool Champagne Blonde",
-        "image": "/images/doc26_img_8.jpg?v=20260902",
+        "image": "/images/doc26_img_8.jpg",
         "whyWeLoveIt": "Flattering cheekbone frame illuminated by cool champagne blonde light.",
         "paragraphs": [
           "A sleek angled bob with a rounded back and longer front face-framing strands.",
@@ -6241,7 +6241,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Layered Angled Bob with Golden Caramel Highlights",
-        "image": "/images/doc26_img_9.jpg?v=20260902",
+        "image": "/images/doc26_img_9.jpg",
         "whyWeLoveIt": "Stacked back volume accented by sweeping golden caramel highlights.",
         "paragraphs": [
           "Cut with stacked nape layering in the back and a sweeping front for volume.",
@@ -6252,7 +6252,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Stacked Angled Bob with Dark Brunette Base and Blonde Balayage",
-        "image": "/images/doc26_img_10.jpg?v=20260902",
+        "image": "/images/doc26_img_10.jpg",
         "whyWeLoveIt": "Dramatic steep diagonal gradient with dark brunette to blonde balayage.",
         "paragraphs": [
           "A bold angled bob with a noticeable stacked back and strong front silhouette.",
@@ -6263,7 +6263,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Softly Waved Angled Bob with Deep Violet Indigo",
-        "image": "/images/doc26_img_11.jpg?v=20260902",
+        "image": "/images/doc26_img_11.jpg",
         "whyWeLoveIt": "Touchable loose waves painted in rich deep violet indigo tones.",
         "paragraphs": [
           "Softly Waved Angled Bob with Deep Violet Indigo is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6274,7 +6274,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Sleek Angled Bob with Golden Beige Blonde",
-        "image": "/images/doc26_img_12.jpg?v=20260902",
+        "image": "/images/doc26_img_12.jpg",
         "whyWeLoveIt": "Precision-cut sharp angle in radiant golden beige blonde.",
         "paragraphs": [
           "A clean, sharply angled bob with a smooth finish showing precision lines.",
@@ -6290,7 +6290,7 @@ export const articles = [
     "title": "15+ Chic Bob Haircuts for Fine Hair That Turn Heads",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc27_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc27_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 26, 2026",
     "isFeatured": true,
@@ -6345,7 +6345,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Bob in Ash Brown",
-        "image": "/images/doc27_img_1.jpg?v=20260902",
+        "image": "/images/doc27_img_1.jpg",
         "whyWeLoveIt": "Feathery soft layers creating movement and fuller volume in cool ash brown.",
         "paragraphs": [
           "This bob features soft, feathery layers that create movement and volume.",
@@ -6356,7 +6356,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Chin-Length Blunt Bob in Classic Brunette",
-        "image": "/images/doc27_img_2.jpg?v=20260902",
+        "image": "/images/doc27_img_2.jpg",
         "whyWeLoveIt": "Sharp chin-skimming baseline giving the illusion of thick hair ends.",
         "paragraphs": [
           "Chin-Length Blunt Bob in Classic Brunette is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6367,7 +6367,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Angled Bob with Caramel Balayage",
-        "image": "/images/doc27_img_3.jpg?v=20260902",
+        "image": "/images/doc27_img_3.jpg",
         "whyWeLoveIt": "Slightly longer front angle highlighted by warm caramel balayage.",
         "paragraphs": [
           "This chic bob is slightly longer in the front than the back for a sophisticated edge.",
@@ -6378,7 +6378,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Wavy Bob in Dark Chocolate Brown",
-        "image": "/images/doc27_img_4.jpg?v=20260902",
+        "image": "/images/doc27_img_4.jpg",
         "whyWeLoveIt": "Effortless tousled shoulder waves building deep dark chocolate texture.",
         "paragraphs": [
           "A tousled, shoulder-grazing bob with effortless waves creating the illusion of thicker hair.",
@@ -6389,7 +6389,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Shaggy Bob in Light Chestnut",
-        "image": "/images/doc27_img_5.jpg?v=20260902",
+        "image": "/images/doc27_img_5.jpg",
         "whyWeLoveIt": "Choppy lived-in layers illuminated by warm light chestnut brown.",
         "paragraphs": [
           "Featuring choppy layers and a carefree finish for a modern textured look.",
@@ -6400,7 +6400,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Layered Pixie Bob in Cool Espresso",
-        "image": "/images/doc27_img_6.jpg?v=20260902",
+        "image": "/images/doc27_img_6.jpg",
         "whyWeLoveIt": "Stacked nape layers building crown volume in deep cool espresso brown.",
         "paragraphs": [
           "A hybrid between a pixie and a bob cut, featuring stacked nape layers for back volume.",
@@ -6411,7 +6411,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Asymmetrical Bob in Golden Brown",
-        "image": "/images/doc27_img_7.jpg?v=20260902",
+        "image": "/images/doc27_img_7.jpg",
         "whyWeLoveIt": "Dynamic longer front side highlighted by radiant golden brown tones.",
         "paragraphs": [
           "With one side slightly longer than the other, offering a dynamic modern appeal.",
@@ -6422,7 +6422,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Long Bob (Lob) in Natural Black",
-        "image": "/images/doc27_img_8.jpg?v=20260902",
+        "image": "/images/doc27_img_8.jpg",
         "whyWeLoveIt": "Timeless shoulder-length lob in high-contrast natural black shine.",
         "paragraphs": [
           "A timeless shoulder-length lob with subtle interior layers to enhance movement.",
@@ -6433,7 +6433,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Sleek Inverted Bob in Smoky Brown",
-        "image": "/images/doc27_img_9.jpg?v=20260902",
+        "image": "/images/doc27_img_9.jpg",
         "whyWeLoveIt": "Structured nape taper with longer front length in cool smoky brown.",
         "paragraphs": [
           "This structured bob tapers toward the nape while maintaining length in the front.",
@@ -6444,7 +6444,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Feathered Bob in Soft Auburn",
-        "image": "/images/doc27_img_10.jpg?v=20260902",
+        "image": "/images/doc27_img_10.jpg",
         "whyWeLoveIt": "Delicate face-framing feathering infused with warm soft auburn red.",
         "paragraphs": [
           "Delicate, airy layers frame the face, creating a light and voluminous effect.",
@@ -6455,7 +6455,7 @@ export const articles = [
       {
         "number": 11,
         "title": "French Bob in Warm Chestnut",
-        "image": "/images/doc27_img_11.jpg?v=20260902",
+        "image": "/images/doc27_img_11.jpg",
         "whyWeLoveIt": "Parisian jawline bob with subtle waves in rich warm chestnut brown.",
         "paragraphs": [
           "A classic Parisian-inspired bob sitting just below the jawline with subtle waves.",
@@ -6466,7 +6466,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Textured Bob in Dark Mahogany",
-        "image": "/images/doc27_img_12.jpg?v=20260902",
+        "image": "/images/doc27_img_12.jpg",
         "whyWeLoveIt": "Choppy uneven layers in deep red-violet dark mahogany brown.",
         "paragraphs": [
           "This style features choppy, uneven layers that add a stylish messy vibe.",
@@ -6477,7 +6477,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Collarbone Bob in Deep Mocha",
-        "image": "/images/doc27_img_13.jpg?v=20260902",
+        "image": "/images/doc27_img_13.jpg",
         "whyWeLoveIt": "Flattering collarbone-grazing silhouette in rich deep mocha brown.",
         "paragraphs": [
           "A slightly longer bob falling around collarbones for an elongated shape.",
@@ -6488,7 +6488,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Stacked Bob in Medium Brown",
-        "image": "/images/doc27_img_14.jpg?v=20260902",
+        "image": "/images/doc27_img_14.jpg",
         "whyWeLoveIt": "Stacked nape layers lifting fine hair crown sections naturally.",
         "paragraphs": [
           "With layers stacked at the back for extra volume, lifting fine hair roots.",
@@ -6499,7 +6499,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Curved Bob in Golden Auburn",
-        "image": "/images/doc27_img_15.jpg?v=20260902",
+        "image": "/images/doc27_img_15.jpg",
         "whyWeLoveIt": "Gently curved jawline silhouette illuminated by golden auburn red.",
         "paragraphs": [
           "This gently curved bob follows the jawline, enhancing natural cheek contours.",
@@ -6510,7 +6510,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Tapered Bob in Honey Blonde",
-        "image": "/images/doc27_img_16.jpg?v=20260902",
+        "image": "/images/doc27_img_16.jpg",
         "whyWeLoveIt": "Refined tapered ends in warm sun-kissed honey blonde light.",
         "paragraphs": [
           "A refined cut that tapers slightly at the ends for a neat, voluminous look.",
@@ -6526,7 +6526,7 @@ export const articles = [
     "title": "10+ Chic Bob Hairstyles with Bangs to Try Now",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc28_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc28_cover_collage.jpg",
     "readTime": "7 min read",
     "date": "July 27, 2026",
     "isFeatured": true,
@@ -6581,7 +6581,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Textured Brunette Bob with Full Fringe",
-        "image": "/images/doc28_img_1.jpg?v=20260902",
+        "image": "/images/doc28_img_1.jpg",
         "whyWeLoveIt": "Softly shaped brunette bob paired with a face-balancing full fringe.",
         "paragraphs": [
           "A softly shaped bob paired with a full fringe creates a balanced, wearable look.",
@@ -6592,7 +6592,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Precision Copper Bob with Blunt Bangs",
-        "image": "/images/doc28_img_2.jpg?v=20260902",
+        "image": "/images/doc28_img_2.jpg",
         "whyWeLoveIt": "Sharply cut graphic lines enhanced by rich fiery copper red warmth.",
         "paragraphs": [
           "This sharply cut bob features clean lines and a straight-across blunt fringe.",
@@ -6603,7 +6603,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Platinum Blonde Bob with Light Micro Bangs",
-        "image": "/images/doc28_img_3.jpg?v=20260902",
+        "image": "/images/doc28_img_3.jpg",
         "whyWeLoveIt": "Refined fashion-forward micro fringe in cool icy platinum blonde.",
         "paragraphs": [
           "A refined bob cut combined with short, airy micro bangs for a fashion-forward result.",
@@ -6614,7 +6614,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Classic Chocolate Bob with Straight Fringe",
-        "image": "/images/doc28_img_4.jpg?v=20260902",
+        "image": "/images/doc28_img_4.jpg",
         "whyWeLoveIt": "Jawline precision framing in deep rich chocolate brown shine.",
         "paragraphs": [
           "This timeless bob is shaped close to the jawline and finished with a straight fringe.",
@@ -6625,7 +6625,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Warm Blonde Bob with Rounded Bangs",
-        "image": "/images/doc28_img_5.jpg?v=20260902",
+        "image": "/images/doc28_img_5.jpg",
         "whyWeLoveIt": "Softly rounded face-framing curve in warm golden blonde.",
         "paragraphs": [
           "A softly rounded bob paired with curved bangs frames cheeks beautifully.",
@@ -6636,7 +6636,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Short Blonde Bob with Wispy Fringe",
-        "image": "/images/doc28_img_6.jpg?v=20260902",
+        "image": "/images/doc28_img_6.jpg",
         "whyWeLoveIt": "Airy chin-length lightness featuring featherweight wispy bangs.",
         "paragraphs": [
           "This chin-length bob is paired with a wispy fringe that keeps the look light.",
@@ -6647,7 +6647,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Two-Tone Blonde Bob with Blunt Micro Bangs",
-        "image": "/images/doc28_img_7.jpg?v=20260902",
+        "image": "/images/doc28_img_7.jpg",
         "whyWeLoveIt": "High-contrast dark root shadow with icy blonde micro fringe.",
         "paragraphs": [
           "A modern bob featuring short, blunt micro bangs and root-shadow contrast.",
@@ -6658,7 +6658,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Glossy Black Bob with Rounded Fringe",
-        "image": "/images/doc28_img_8.jpg?v=20260902",
+        "image": "/images/doc28_img_8.jpg",
         "whyWeLoveIt": "Seamlessly blended rounded fringe in deep glossy black shine.",
         "paragraphs": [
           "This smooth bob is shaped with a rounded fringe that blends into the sides.",
@@ -6669,7 +6669,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Soft Black Bob with Curtain-Style Bangs",
-        "image": "/images/doc28_img_9.jpg?v=20260902",
+        "image": "/images/doc28_img_9.jpg",
         "whyWeLoveIt": "Gentle face movement created by center-parted curtain fringe.",
         "paragraphs": [
           "A gently layered bob combined with curtain-style bangs creates movement.",
@@ -6680,7 +6680,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Mocha Brown Bob with Feathered Bangs",
-        "image": "/images/doc28_img_10.jpg?v=20260902",
+        "image": "/images/doc28_img_10.jpg",
         "whyWeLoveIt": "Airy cheekbone feathering in rich mocha brown depth.",
         "paragraphs": [
           "This bob features feathered bangs that open up the face and blend seamlessly.",
@@ -6691,7 +6691,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Soft Copper Bob with Textured Bangs",
-        "image": "/images/doc28_img_11.jpg?v=20260902",
+        "image": "/images/doc28_img_11.jpg",
         "whyWeLoveIt": "Light end layering and brow-grazing textured fringe in warm copper.",
         "paragraphs": [
           "This softly shaped bob features light layering through ends and textured bangs.",
@@ -6707,7 +6707,7 @@ export const articles = [
     "title": "19+ Trending Choppy Bob Hairstyles to Save Now",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
-    "heroImage": "/images/doc29_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc29_cover_collage.jpg",
     "readTime": "10 min read",
     "date": "July 28, 2026",
     "isFeatured": true,
@@ -6762,7 +6762,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Textured Blonde Bob with Shadow Root",
-        "image": "/images/doc29_img_1.jpg?v=20260902",
+        "image": "/images/doc29_img_1.jpg",
         "whyWeLoveIt": "Expertly feathered creamy blonde ends anchored by a low-maintenance shadow root.",
         "paragraphs": [
           "This choppy bob features expertly feathered ends and a softly layered crown structure.",
@@ -6773,7 +6773,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Sleek Caramel Brown Bob",
-        "image": "/images/doc29_img_2.jpg?v=20260902",
+        "image": "/images/doc29_img_2.jpg",
         "whyWeLoveIt": "Precision-cut caramel ends slightly undercut to hug neck contours.",
         "paragraphs": [
           "Precision-cut with blunt choppy ends, this rich caramel brown bob hugs the neck.",
@@ -6784,7 +6784,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Classic Ash Beige Graduated Bob",
-        "image": "/images/doc29_img_3.jpg?v=20260902",
+        "image": "/images/doc29_img_3.jpg",
         "whyWeLoveIt": "Stacked nape shape providing built-in crown volume in cool ash beige.",
         "paragraphs": [
           "Designed with a stacked nape shape at the back for built-in volume and structure.",
@@ -6795,7 +6795,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Golden Honey Bob with Airy Layers",
-        "image": "/images/doc29_img_4.jpg?v=20260902",
+        "image": "/images/doc29_img_4.jpg",
         "whyWeLoveIt": "Golden honey warmth paired with weightless wispy canopy layers.",
         "paragraphs": [
           "A golden honey base meets light, wispy layers that create a breezy silhouette.",
@@ -6806,7 +6806,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Creamy Blonde Bob with Subtle Waves",
-        "image": "/images/doc29_img_5.jpg?v=20260902",
+        "image": "/images/doc29_img_5.jpg",
         "whyWeLoveIt": "Soft undone wave texture on a pale creamy blonde canvas.",
         "paragraphs": [
           "Styled with gentle waves, this creamy blonde bob exudes touchable softness.",
@@ -6817,7 +6817,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Sun-Kissed Beige Blonde Bob",
-        "image": "/images/doc29_img_6.jpg?v=20260902",
+        "image": "/images/doc29_img_6.jpg",
         "whyWeLoveIt": "Luminous beige blonde highlights illuminating a softly structured bob.",
         "paragraphs": [
           "A luminous beige blonde tone pairs with airy layers to form a soft structure.",
@@ -6828,7 +6828,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Dimensional Blonde Bob with Fine Texture",
-        "image": "/images/doc29_img_7.jpg?v=20260902",
+        "image": "/images/doc29_img_7.jpg",
         "whyWeLoveIt": "Multi-tonal blonde highlights accentuating piecey razor-cut ends.",
         "paragraphs": [
           "Blending light blonde highlights with a natural base enhances texture.",
@@ -6839,7 +6839,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Platinum-Tipped Bob with Face Frame",
-        "image": "/images/doc29_img_8.jpg?v=20260902",
+        "image": "/images/doc29_img_8.jpg",
         "whyWeLoveIt": "Bright icy platinum tips framing cheeks with edgy contrast.",
         "paragraphs": [
           "A cool-toned blonde with icy platinum tips gives this bob a bright, edgy finish.",
@@ -6850,7 +6850,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Ash Blonde Bob with Heavy Texture",
-        "image": "/images/doc29_img_9.jpg?v=20260902",
+        "image": "/images/doc29_img_9.jpg",
         "whyWeLoveIt": "Heavy point-cutting building choppy movement across cool ash blonde.",
         "paragraphs": [
           "This heavily textured bob features an ash blonde palette amplifying choppy ends.",
@@ -6861,7 +6861,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Mocha Bob with Tousled Ends",
-        "image": "/images/doc29_img_10.jpg?v=20260902",
+        "image": "/images/doc29_img_10.jpg",
         "whyWeLoveIt": "Rich mocha brown base with relaxed undone wave ends.",
         "paragraphs": [
           "Mocha Bob with Tousled Ends is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6872,7 +6872,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Platinum Cream Choppy Bob",
-        "image": "/images/doc29_img_11.jpg?v=20260902",
+        "image": "/images/doc29_img_11.jpg",
         "whyWeLoveIt": "Shattered perimeter baseline in glowing platinum cream blonde.",
         "paragraphs": [
           "A softly shattered perimeter baseline adds life to this icy platinum bob.",
@@ -6883,7 +6883,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Volumized Dark Chocolate Bob",
-        "image": "/images/doc29_img_12.jpg?v=20260902",
+        "image": "/images/doc29_img_12.jpg",
         "whyWeLoveIt": "Crown height and soft layered ends in deep dark chocolate brown.",
         "paragraphs": [
           "Volumized Dark Chocolate Bob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6894,7 +6894,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Burnt Copper Bob with Blunt Fringe",
-        "image": "/images/doc29_img_13.jpg?v=20260902",
+        "image": "/images/doc29_img_13.jpg",
         "whyWeLoveIt": "Vibrant burnt copper red tone paired with structured blunt bangs.",
         "paragraphs": [
           "Burnt Copper Bob with Blunt Fringe is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6905,7 +6905,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Pink Pastel Bob with Shaggy Ends",
-        "image": "/images/doc29_img_14.jpg?v=20260902",
+        "image": "/images/doc29_img_14.jpg",
         "whyWeLoveIt": "Soft razored shag ends tinted in playful pastel rose pink.",
         "paragraphs": [
           "Pink Pastel Bob with Shaggy Ends is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6916,7 +6916,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Honey Bronde Bob with Soft Ombre",
-        "image": "/images/doc29_img_15.jpg?v=20260902",
+        "image": "/images/doc29_img_15.jpg",
         "whyWeLoveIt": "Seamless bronde ombre transition from dark roots to honey tips.",
         "paragraphs": [
           "Warm honey bronde highlights melt seamlessly into a deeper natural root.",
@@ -6927,7 +6927,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Textured Silver Gray Bob",
-        "image": "/images/doc29_img_16.jpg?v=20260902",
+        "image": "/images/doc29_img_16.jpg",
         "whyWeLoveIt": "High-shine silver gray tones with choppy crown separation.",
         "paragraphs": [
           "Shimmering silver gray tones bring high-fashion polish to choppy layers.",
@@ -6938,7 +6938,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Warm Cinnamon Layered Chop",
-        "image": "/images/doc29_img_17.jpg?v=20260902",
+        "image": "/images/doc29_img_17.jpg",
         "whyWeLoveIt": "Rich cinnamon brown warmth on a choppy jawline bob.",
         "paragraphs": [
           "Warm cinnamon brown highlights add glowing reflection across layered ends.",
@@ -6949,7 +6949,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Sandy Blonde Shag Bob",
-        "image": "/images/doc29_img_18.jpg?v=20260902",
+        "image": "/images/doc29_img_18.jpg",
         "whyWeLoveIt": "Breezy beachy shag layers in natural sandy blonde.",
         "paragraphs": [
           "Sandy Blonde Shag Bob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6960,7 +6960,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Icy Ash Bob with Deep Parting",
-        "image": "/images/doc29_img_19.jpg?v=20260902",
+        "image": "/images/doc29_img_19.jpg",
         "whyWeLoveIt": "Deep side parting creating asymmetrical volume in icy ash blonde.",
         "paragraphs": [
           "Icy Ash Bob with Deep Parting is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6971,7 +6971,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Espresso Black Choppy Lob",
-        "image": "/images/doc29_img_20.jpg?v=20260902",
+        "image": "/images/doc29_img_20.jpg",
         "whyWeLoveIt": "Collarbone choppy lob in high-contrast espresso black shine.",
         "paragraphs": [
           "Espresso Black Choppy Lob is a standout hairstyle choice that offers a perfect balance of elegance, structure, and low-maintenance daily polish.",
@@ -6987,7 +6987,7 @@ export const articles = [
     "title": "12+ Chic Waterfall Braid Hairstyles to Try Now",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc30_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc30_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 29, 2026",
     "isFeatured": true,
@@ -7042,7 +7042,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Boho Waterfall Crown Braid on Dimensional Brunette Balayage",
-        "image": "/images/doc30_img_1.jpg?v=20260902",
+        "image": "/images/doc30_img_1.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Boho Waterfall Crown Braid on Dimensional Brunette Balayage is a gorgeous braided style offering texture and beauty.",
@@ -7053,7 +7053,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Sleek Side Waterfall Braid on Creamy Blonde Hair",
-        "image": "/images/doc30_img_2.jpg?v=20260902",
+        "image": "/images/doc30_img_2.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Sleek Side Waterfall Braid on Creamy Blonde Hair is a gorgeous braided style offering texture and beauty.",
@@ -7064,7 +7064,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Textured Waterfall Braid with Soft Blonde Waves",
-        "image": "/images/doc30_img_3.jpg?v=20260902",
+        "image": "/images/doc30_img_3.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Textured Waterfall Braid with Soft Blonde Waves is a gorgeous braided style offering texture and beauty.",
@@ -7075,7 +7075,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Golden Copper Waterfall Braid with Glam Curls",
-        "image": "/images/doc30_img_4.jpg?v=20260902",
+        "image": "/images/doc30_img_4.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Golden Copper Waterfall Braid with Glam Curls is a gorgeous braided style offering texture and beauty.",
@@ -7086,7 +7086,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Dimensional Brunette Waterfall Braid with Barrel Waves",
-        "image": "/images/doc30_img_5.jpg?v=20260902",
+        "image": "/images/doc30_img_5.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Dimensional Brunette Waterfall Braid with Barrel Waves is a gorgeous braided style offering texture and beauty.",
@@ -7097,7 +7097,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Champagne Blonde Waterfall Braid with Loose Waves",
-        "image": "/images/doc30_img_6.jpg?v=20260902",
+        "image": "/images/doc30_img_6.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Champagne Blonde Waterfall Braid with Loose Waves is a gorgeous braided style offering texture and beauty.",
@@ -7108,7 +7108,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Auburn Waterfall Braid with Glossy Spiral Curls",
-        "image": "/images/doc30_img_7.jpg?v=20260902",
+        "image": "/images/doc30_img_7.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Auburn Waterfall Braid with Glossy Spiral Curls is a gorgeous braided style offering texture and beauty.",
@@ -7119,7 +7119,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Platinum Blonde Waterfall Braid on Straight Hair",
-        "image": "/images/doc30_img_8.jpg?v=20260902",
+        "image": "/images/doc30_img_8.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Platinum Blonde Waterfall Braid on Straight Hair is a gorgeous braided style offering texture and beauty.",
@@ -7130,7 +7130,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Rooted Blonde Waterfall Braid with Beachy Waves",
-        "image": "/images/doc30_img_9.jpg?v=20260902",
+        "image": "/images/doc30_img_9.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Rooted Blonde Waterfall Braid with Beachy Waves is a gorgeous braided style offering texture and beauty.",
@@ -7141,7 +7141,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Golden Blonde Waterfall Braid with Defined Ringlets",
-        "image": "/images/doc30_img_10.jpg?v=20260902",
+        "image": "/images/doc30_img_10.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Golden Blonde Waterfall Braid with Defined Ringlets is a gorgeous braided style offering texture and beauty.",
@@ -7152,7 +7152,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Honey Blonde Waterfall Braid with Loose Curls",
-        "image": "/images/doc30_img_11.jpg?v=20260902",
+        "image": "/images/doc30_img_11.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Honey Blonde Waterfall Braid with Loose Curls is a gorgeous braided style offering texture and beauty.",
@@ -7163,7 +7163,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Short Brunette Waterfall Braid with Sparkling Hair Clip",
-        "image": "/images/doc30_img_12.jpg?v=20260902",
+        "image": "/images/doc30_img_12.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Short Brunette Waterfall Braid with Sparkling Hair Clip is a gorgeous braided style offering texture and beauty.",
@@ -7174,7 +7174,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Light Brown Waterfall Braid with Soft Waves",
-        "image": "/images/doc30_img_13.jpg?v=20260902",
+        "image": "/images/doc30_img_13.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Light Brown Waterfall Braid with Soft Waves is a gorgeous braided style offering texture and beauty.",
@@ -7190,7 +7190,7 @@ export const articles = [
     "title": "11+ Trendy Double Dutch Braids to Save",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc31_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc31_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 30, 2026",
     "isFeatured": true,
@@ -7245,7 +7245,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Sleek Double Dutch Braids on Ash-Blonde Hair",
-        "image": "/images/doc31_img_1.jpg?v=20260902",
+        "image": "/images/doc31_img_1.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Sleek Double Dutch Braids on Ash-Blonde Hair is a gorgeous braided style offering texture and beauty.",
@@ -7256,7 +7256,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Rich Brunette Double Dutch Braids with Soft Dimension",
-        "image": "/images/doc31_img_2.jpg?v=20260902",
+        "image": "/images/doc31_img_2.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Rich Brunette Double Dutch Braids with Soft Dimension is a gorgeous braided style offering texture and beauty.",
@@ -7267,7 +7267,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Cool-Toned Blonde Dutch Braids with High Shine",
-        "image": "/images/doc31_img_3.jpg?v=20260902",
+        "image": "/images/doc31_img_3.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Cool-Toned Blonde Dutch Braids with High Shine is a gorgeous braided style offering texture and beauty.",
@@ -7278,7 +7278,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Ultra-Defined Dutch Braids on Dark Espresso Hair",
-        "image": "/images/doc31_img_4.jpg?v=20260902",
+        "image": "/images/doc31_img_4.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Ultra-Defined Dutch Braids on Dark Espresso Hair is a gorgeous braided style offering texture and beauty.",
@@ -7289,7 +7289,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Caramel-Brown Dutch Braids with Natural Lift",
-        "image": "/images/doc31_img_5.jpg?v=20260902",
+        "image": "/images/doc31_img_5.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Caramel-Brown Dutch Braids with Natural Lift is a gorgeous braided style offering texture and beauty.",
@@ -7300,7 +7300,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Honey-Brown Dutch Braids with Clean Parting",
-        "image": "/images/doc31_img_6.jpg?v=20260902",
+        "image": "/images/doc31_img_6.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Honey-Brown Dutch Braids with Clean Parting is a gorgeous braided style offering texture and beauty.",
@@ -7311,7 +7311,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Jet-Black Double Dutch Braids with a Gloss Finish",
-        "image": "/images/doc31_img_7.jpg?v=20260902",
+        "image": "/images/doc31_img_7.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Jet-Black Double Dutch Braids with a Gloss Finish is a gorgeous braided style offering texture and beauty.",
@@ -7322,7 +7322,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Golden-Brown Dutch Braids with Accent Rings",
-        "image": "/images/doc31_img_8.jpg?v=20260902",
+        "image": "/images/doc31_img_8.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Golden-Brown Dutch Braids with Accent Rings is a gorgeous braided style offering texture and beauty.",
@@ -7333,7 +7333,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Warm Brunette Dutch Braids with Shorter Ends",
-        "image": "/images/doc31_img_9.jpg?v=20260902",
+        "image": "/images/doc31_img_9.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Warm Brunette Dutch Braids with Shorter Ends is a gorgeous braided style offering texture and beauty.",
@@ -7344,7 +7344,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Buttery Blonde Dutch Braids with Extra Fullness",
-        "image": "/images/doc31_img_10.jpg?v=20260902",
+        "image": "/images/doc31_img_10.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Buttery Blonde Dutch Braids with Extra Fullness is a gorgeous braided style offering texture and beauty.",
@@ -7355,7 +7355,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Voluminous Dutch Braids with Soft Chestnut Waves",
-        "image": "/images/doc31_img_11.jpg?v=20260902",
+        "image": "/images/doc31_img_11.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Voluminous Dutch Braids with Soft Chestnut Waves is a gorgeous braided style offering texture and beauty.",
@@ -7366,7 +7366,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Classic Double Dutch Braids on Neutral Blonde Hair",
-        "image": "/images/doc31_img_12.jpg?v=20260902",
+        "image": "/images/doc31_img_12.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Classic Double Dutch Braids on Neutral Blonde Hair is a gorgeous braided style offering texture and beauty.",
@@ -7382,7 +7382,7 @@ export const articles = [
     "title": "13+ Chic Crown Braid Hairstyles to Try",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc32_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc32_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "July 31, 2026",
     "isFeatured": true,
@@ -7437,7 +7437,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Blonde Crown Braid Updo",
-        "image": "/images/doc32_img_1.jpg?v=20260902",
+        "image": "/images/doc32_img_1.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Soft Blonde Crown Braid Updo is a gorgeous braided style offering texture and beauty.",
@@ -7448,7 +7448,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Bridal Blonde Crown Braid Bun with Floral Accessory",
-        "image": "/images/doc32_img_2.jpg?v=20260902",
+        "image": "/images/doc32_img_2.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Bridal Blonde Crown Braid Bun with Floral Accessory is a gorgeous braided style offering texture and beauty.",
@@ -7459,7 +7459,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Rich Chocolate Brown Crown Braid Updo",
-        "image": "/images/doc32_img_3.jpg?v=20260902",
+        "image": "/images/doc32_img_3.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Rich Chocolate Brown Crown Braid Updo is a gorgeous braided style offering texture and beauty.",
@@ -7470,7 +7470,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Dimensional Brunette Crown Braid Bun",
-        "image": "/images/doc32_img_4.jpg?v=20260902",
+        "image": "/images/doc32_img_4.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Dimensional Brunette Crown Braid Bun is a gorgeous braided style offering texture and beauty.",
@@ -7481,7 +7481,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Golden Blonde Dutch Crown Braid Updo",
-        "image": "/images/doc32_img_5.jpg?v=20260902",
+        "image": "/images/doc32_img_5.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Golden Blonde Dutch Crown Braid Updo is a gorgeous braided style offering texture and beauty.",
@@ -7492,7 +7492,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Honey Blonde Braided Crown Chignon",
-        "image": "/images/doc32_img_6.jpg?v=20260902",
+        "image": "/images/doc32_img_6.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Honey Blonde Braided Crown Chignon is a gorgeous braided style offering texture and beauty.",
@@ -7503,7 +7503,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Highlighted Blonde Crown Braid Twist",
-        "image": "/images/doc32_img_7.jpg?v=20260902",
+        "image": "/images/doc32_img_7.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Highlighted Blonde Crown Braid Twist is a gorgeous braided style offering texture and beauty.",
@@ -7514,7 +7514,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Ash Blonde Crown Braid Updo",
-        "image": "/images/doc32_img_8.jpg?v=20260902",
+        "image": "/images/doc32_img_8.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Ash Blonde Crown Braid Updo is a gorgeous braided style offering texture and beauty.",
@@ -7525,7 +7525,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Brunette Crown Braid with Gold Floral Vine",
-        "image": "/images/doc32_img_9.jpg?v=20260902",
+        "image": "/images/doc32_img_9.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Brunette Crown Braid with Gold Floral Vine is a gorgeous braided style offering texture and beauty.",
@@ -7536,7 +7536,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Classic Black Crown Braid Updo",
-        "image": "/images/doc32_img_10.jpg?v=20260902",
+        "image": "/images/doc32_img_10.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Classic Black Crown Braid Updo is a gorgeous braided style offering texture and beauty.",
@@ -7547,7 +7547,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Double Dutch Crown Braid for Short Hair",
-        "image": "/images/doc32_img_11.jpg?v=20260902",
+        "image": "/images/doc32_img_11.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Double Dutch Crown Braid for Short Hair is a gorgeous braided style offering texture and beauty.",
@@ -7558,7 +7558,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Textured Blonde Crown Braid Bun with Ribbon Accents",
-        "image": "/images/doc32_img_12.jpg?v=20260902",
+        "image": "/images/doc32_img_12.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Textured Blonde Crown Braid Bun with Ribbon Accents is a gorgeous braided style offering texture and beauty.",
@@ -7569,7 +7569,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Balayage Crown Braid Updo",
-        "image": "/images/doc32_img_13.jpg?v=20260902",
+        "image": "/images/doc32_img_13.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Balayage Crown Braid Updo is a gorgeous braided style offering texture and beauty.",
@@ -7580,7 +7580,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Pearl Blonde Crown Twist Updo",
-        "image": "/images/doc32_img_14.jpg?v=20260902",
+        "image": "/images/doc32_img_14.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Pearl Blonde Crown Twist Updo is a gorgeous braided style offering texture and beauty.",
@@ -7596,7 +7596,7 @@ export const articles = [
     "title": "14+ Stunning Cornrow Hairstyles to Copy",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc33_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc33_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 1, 2026",
     "isFeatured": true,
@@ -7651,7 +7651,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Cornrows with Wooden Beads",
-        "image": "/images/doc33_img_1.jpg?v=20260902",
+        "image": "/images/doc33_img_1.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Cornrows with Wooden Beads is a gorgeous braided style offering texture and beauty.",
@@ -7662,7 +7662,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Thick Cornrows with Metallic Accents",
-        "image": "/images/doc33_img_2.jpg?v=20260902",
+        "image": "/images/doc33_img_2.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Thick Cornrows with Metallic Accents is a gorgeous braided style offering texture and beauty.",
@@ -7673,7 +7673,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Blonde Cornrow Ponytail",
-        "image": "/images/doc33_img_3.jpg?v=20260902",
+        "image": "/images/doc33_img_3.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Blonde Cornrow Ponytail is a gorgeous braided style offering texture and beauty.",
@@ -7684,7 +7684,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Spiral Cornrow Side Design",
-        "image": "/images/doc33_img_4.jpg?v=20260902",
+        "image": "/images/doc33_img_4.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Spiral Cornrow Side Design is a gorgeous braided style offering texture and beauty.",
@@ -7695,7 +7695,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Neat Straight-Back Cornrows",
-        "image": "/images/doc33_img_5.jpg?v=20260902",
+        "image": "/images/doc33_img_5.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Neat Straight-Back Cornrows is a gorgeous braided style offering texture and beauty.",
@@ -7706,7 +7706,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Long Cornrow Ponytail",
-        "image": "/images/doc33_img_6.jpg?v=20260902",
+        "image": "/images/doc33_img_6.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Long Cornrow Ponytail is a gorgeous braided style offering texture and beauty.",
@@ -7717,7 +7717,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Burgundy Braided Bun",
-        "image": "/images/doc33_img_7.jpg?v=20260902",
+        "image": "/images/doc33_img_7.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Burgundy Braided Bun is a gorgeous braided style offering texture and beauty.",
@@ -7728,7 +7728,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Cornrows with Twists and Bangs",
-        "image": "/images/doc33_img_8.jpg?v=20260902",
+        "image": "/images/doc33_img_8.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Cornrows with Twists and Bangs is a gorgeous braided style offering texture and beauty.",
@@ -7739,7 +7739,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Cornrows with Pink Highlights",
-        "image": "/images/doc33_img_9.jpg?v=20260902",
+        "image": "/images/doc33_img_9.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Cornrows with Pink Highlights is a gorgeous braided style offering texture and beauty.",
@@ -7750,7 +7750,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Curved Cornrows with Long Braids",
-        "image": "/images/doc33_img_10.jpg?v=20260902",
+        "image": "/images/doc33_img_10.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Curved Cornrows with Long Braids is a gorgeous braided style offering texture and beauty.",
@@ -7761,7 +7761,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Heart-Shaped Cornrow Design",
-        "image": "/images/doc33_img_11.jpg?v=20260902",
+        "image": "/images/doc33_img_11.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Heart-Shaped Cornrow Design is a gorgeous braided style offering texture and beauty.",
@@ -7772,7 +7772,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Burgundy Cornrow Ponytail",
-        "image": "/images/doc33_img_12.jpg?v=20260902",
+        "image": "/images/doc33_img_12.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Burgundy Cornrow Ponytail is a gorgeous braided style offering texture and beauty.",
@@ -7783,7 +7783,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Side-Swept Cornrows with Defined Edges",
-        "image": "/images/doc33_img_13.jpg?v=20260902",
+        "image": "/images/doc33_img_13.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Side-Swept Cornrows with Defined Edges is a gorgeous braided style offering texture and beauty.",
@@ -7794,7 +7794,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Sleek Straight-Back Cornrows",
-        "image": "/images/doc33_img_14.jpg?v=20260902",
+        "image": "/images/doc33_img_14.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Sleek Straight-Back Cornrows is a gorgeous braided style offering texture and beauty.",
@@ -7805,7 +7805,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Cornrows with Face-Framing Braids",
-        "image": "/images/doc33_img_15.jpg?v=20260902",
+        "image": "/images/doc33_img_15.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Cornrows with Face-Framing Braids is a gorgeous braided style offering texture and beauty.",
@@ -7821,7 +7821,7 @@ export const articles = [
     "title": "13+ Chic Fishtail Braid Hairstyles to Try Now",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc34_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc34_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 2, 2026",
     "isFeatured": true,
@@ -7876,7 +7876,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Half-Up Fishtail Twist on Golden Blonde Curls",
-        "image": "/images/doc34_img_1.jpg?v=20260902",
+        "image": "/images/doc34_img_1.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Half-Up Fishtail Twist on Golden Blonde Curls is a gorgeous braided style offering texture and beauty.",
@@ -7887,7 +7887,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Low Fishtail Ponytail on Dimensional Honey Blonde",
-        "image": "/images/doc34_img_2.jpg?v=20260902",
+        "image": "/images/doc34_img_2.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Low Fishtail Ponytail on Dimensional Honey Blonde is a gorgeous braided style offering texture and beauty.",
@@ -7898,7 +7898,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Braided Side Bun with Soft Beige Blonde Tones",
-        "image": "/images/doc34_img_3.jpg?v=20260902",
+        "image": "/images/doc34_img_3.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Braided Side Bun with Soft Beige Blonde Tones is a gorgeous braided style offering texture and beauty.",
@@ -7909,7 +7909,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Voluminous Fishtail Braid on Ash-Blonde Highlights",
-        "image": "/images/doc34_img_4.jpg?v=20260902",
+        "image": "/images/doc34_img_4.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Voluminous Fishtail Braid on Ash-Blonde Highlights is a gorgeous braided style offering texture and beauty.",
@@ -7920,7 +7920,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Detailed Braided Updo with Caramel and Chestnut Accents",
-        "image": "/images/doc34_img_5.jpg?v=20260902",
+        "image": "/images/doc34_img_5.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Detailed Braided Updo with Caramel and Chestnut Accents is a gorgeous braided style offering texture and beauty.",
@@ -7931,7 +7931,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Side Braided Bun on Light Neutral Blonde",
-        "image": "/images/doc34_img_6.jpg?v=20260902",
+        "image": "/images/doc34_img_6.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Side Braided Bun on Light Neutral Blonde is a gorgeous braided style offering texture and beauty.",
@@ -7942,7 +7942,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Full Fishtail Braid on Platinum-Blonde Blend",
-        "image": "/images/doc34_img_7.jpg?v=20260902",
+        "image": "/images/doc34_img_7.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Full Fishtail Braid on Platinum-Blonde Blend is a gorgeous braided style offering texture and beauty.",
@@ -7953,7 +7953,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Half-Up Fishtail Weave on Deep Brunette Waves",
-        "image": "/images/doc34_img_8.jpg?v=20260902",
+        "image": "/images/doc34_img_8.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Half-Up Fishtail Weave on Deep Brunette Waves is a gorgeous braided style offering texture and beauty.",
@@ -7964,7 +7964,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Half-Up Fishtail Detail on Copper Bob",
-        "image": "/images/doc34_img_9.jpg?v=20260902",
+        "image": "/images/doc34_img_9.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Half-Up Fishtail Detail on Copper Bob is a gorgeous braided style offering texture and beauty.",
@@ -7975,7 +7975,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Soft Fishtail Braid on Sunlit Blonde Layers",
-        "image": "/images/doc34_img_10.jpg?v=20260902",
+        "image": "/images/doc34_img_10.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Soft Fishtail Braid on Sunlit Blonde Layers is a gorgeous braided style offering texture and beauty.",
@@ -7986,7 +7986,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Classic Tight Fishtail Braid on Warm Honey Blonde",
-        "image": "/images/doc34_img_11.jpg?v=20260902",
+        "image": "/images/doc34_img_11.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Classic Tight Fishtail Braid on Warm Honey Blonde is a gorgeous braided style offering texture and beauty.",
@@ -7997,7 +7997,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Half-Up Fishtail Detail on Champagne Blonde Waves",
-        "image": "/images/doc34_img_12.jpg?v=20260902",
+        "image": "/images/doc34_img_12.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Half-Up Fishtail Detail on Champagne Blonde Waves is a gorgeous braided style offering texture and beauty.",
@@ -8008,7 +8008,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Voluminous Fishtail Ponytail on Deep Jet Black Hair",
-        "image": "/images/doc34_img_13.jpg?v=20260902",
+        "image": "/images/doc34_img_13.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Voluminous Fishtail Ponytail on Deep Jet Black Hair is a gorgeous braided style offering texture and beauty.",
@@ -8019,7 +8019,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Soft Fishtail Braid on Light Beige Blonde",
-        "image": "/images/doc34_img_14.jpg?v=20260902",
+        "image": "/images/doc34_img_14.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Soft Fishtail Braid on Light Beige Blonde is a gorgeous braided style offering texture and beauty.",
@@ -8030,7 +8030,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Textured Fishtail Cascade on Dark Chocolate Brown",
-        "image": "/images/doc34_img_15.jpg?v=20260902",
+        "image": "/images/doc34_img_15.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Textured Fishtail Cascade on Dark Chocolate Brown is a gorgeous braided style offering texture and beauty.",
@@ -8046,7 +8046,7 @@ export const articles = [
     "title": "12+ Beautiful Braided Hairstyles Women Love",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc35_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc35_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 3, 2026",
     "isFeatured": true,
@@ -8101,7 +8101,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Platinum Blonde Jumbo Dutch Braid",
-        "image": "/images/doc35_img_1.jpg?v=20260902",
+        "image": "/images/doc35_img_1.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Platinum Blonde Jumbo Dutch Braid is a gorgeous braided style offering texture and beauty.",
@@ -8112,7 +8112,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Soft Brown Classic French Braid",
-        "image": "/images/doc35_img_2.jpg?v=20260902",
+        "image": "/images/doc35_img_2.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Soft Brown Classic French Braid is a gorgeous braided style offering texture and beauty.",
@@ -8123,7 +8123,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Copper Auburn Tight Braided Ponytail",
-        "image": "/images/doc35_img_3.jpg?v=20260902",
+        "image": "/images/doc35_img_3.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Copper Auburn Tight Braided Ponytail is a gorgeous braided style offering texture and beauty.",
@@ -8134,7 +8134,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Silver Blonde Double Dutch Braids",
-        "image": "/images/doc35_img_4.jpg?v=20260902",
+        "image": "/images/doc35_img_4.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Silver Blonde Double Dutch Braids is a gorgeous braided style offering texture and beauty.",
@@ -8145,7 +8145,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Golden Blonde Braided Half-Up Curls",
-        "image": "/images/doc35_img_5.jpg?v=20260902",
+        "image": "/images/doc35_img_5.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Golden Blonde Braided Half-Up Curls is a gorgeous braided style offering texture and beauty.",
@@ -8156,7 +8156,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Ash Blonde Braided Low Bun",
-        "image": "/images/doc35_img_6.jpg?v=20260902",
+        "image": "/images/doc35_img_6.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Ash Blonde Braided Low Bun is a gorgeous braided style offering texture and beauty.",
@@ -8167,7 +8167,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Honey Blonde Braided Chignon",
-        "image": "/images/doc35_img_7.jpg?v=20260902",
+        "image": "/images/doc35_img_7.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Honey Blonde Braided Chignon is a gorgeous braided style offering texture and beauty.",
@@ -8178,7 +8178,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Caramel Brunette Braided Low Updo",
-        "image": "/images/doc35_img_8.jpg?v=20260902",
+        "image": "/images/doc35_img_8.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Caramel Brunette Braided Low Updo is a gorgeous braided style offering texture and beauty.",
@@ -8189,7 +8189,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Cinnamon Copper Braided Half-Up Waves",
-        "image": "/images/doc35_img_9.jpg?v=20260902",
+        "image": "/images/doc35_img_9.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Cinnamon Copper Braided Half-Up Waves is a gorgeous braided style offering texture and beauty.",
@@ -8200,7 +8200,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Pearl Blonde Sleek Dutch Braid",
-        "image": "/images/doc35_img_10.jpg?v=20260902",
+        "image": "/images/doc35_img_10.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Pearl Blonde Sleek Dutch Braid is a gorgeous braided style offering texture and beauty.",
@@ -8211,7 +8211,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Chocolate Brown Textured Side Braid Ponytail",
-        "image": "/images/doc35_img_11.jpg?v=20260902",
+        "image": "/images/doc35_img_11.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Chocolate Brown Textured Side Braid Ponytail is a gorgeous braided style offering texture and beauty.",
@@ -8222,7 +8222,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Beige Blonde Braided Half-Up Waves",
-        "image": "/images/doc35_img_12.jpg?v=20260902",
+        "image": "/images/doc35_img_12.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Beige Blonde Braided Half-Up Waves is a gorgeous braided style offering texture and beauty.",
@@ -8233,7 +8233,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Mocha Brown Double Dutch Braids with Blonde Balayage",
-        "image": "/images/doc35_img_13.jpg?v=20260902",
+        "image": "/images/doc35_img_13.jpg",
         "whyWeLoveIt": "Stunning braided structure with touchable texture.",
         "paragraphs": [
           "Mocha Brown Double Dutch Braids with Blonde Balayage is a gorgeous braided style offering texture and beauty.",
@@ -8249,7 +8249,7 @@ export const articles = [
     "title": "11+ Stunning Rope Braid Hairstyles to Consider",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc36_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc36_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 4, 2026",
     "isFeatured": true,
@@ -8304,7 +8304,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Twisted Crown Bun on Light Blonde Hair",
-        "image": "/images/doc36_img_1.jpg?v=20260902",
+        "image": "/images/doc36_img_1.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Twisted Crown Bun on Light Blonde Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8315,7 +8315,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Half-Up Rope Twist on Rich Copper Hair",
-        "image": "/images/doc36_img_2.jpg?v=20260902",
+        "image": "/images/doc36_img_2.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Half-Up Rope Twist on Rich Copper Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8326,7 +8326,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Rope Twist Ponytail on Bronde Waves",
-        "image": "/images/doc36_img_3.jpg?v=20260902",
+        "image": "/images/doc36_img_3.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Rope Twist Ponytail on Bronde Waves is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8337,7 +8337,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Minimal Rope Detail on Straight Golden Blonde Hair",
-        "image": "/images/doc36_img_4.jpg?v=20260902",
+        "image": "/images/doc36_img_4.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Minimal Rope Detail on Straight Golden Blonde Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8348,7 +8348,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Rope Twist Accent on Soft Brown Wavy Hair",
-        "image": "/images/doc36_img_5.jpg?v=20260902",
+        "image": "/images/doc36_img_5.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Rope Twist Accent on Soft Brown Wavy Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8359,7 +8359,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Twin Rope Braids on Medium Brown Hair",
-        "image": "/images/doc36_img_6.jpg?v=20260902",
+        "image": "/images/doc36_img_6.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Twin Rope Braids on Medium Brown Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8370,7 +8370,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Half-Up Rope Twist Cascade on Honey Blonde Hair",
-        "image": "/images/doc36_img_7.jpg?v=20260902",
+        "image": "/images/doc36_img_7.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Half-Up Rope Twist Cascade on Honey Blonde Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8381,7 +8381,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Rope Braids with Teal Accents on Auburn Hair",
-        "image": "/images/doc36_img_8.jpg?v=20260902",
+        "image": "/images/doc36_img_8.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Rope Braids with Teal Accents on Auburn Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8392,7 +8392,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Low Rope Braid Ponytail with Crystal Detailing on Beige Blonde Hair",
-        "image": "/images/doc36_img_9.jpg?v=20260902",
+        "image": "/images/doc36_img_9.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Low Rope Braid Ponytail with Crystal Detailing on Beige Blonde Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8403,7 +8403,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Rope Twist Low Bun on Platinum Blonde Hair",
-        "image": "/images/doc36_img_10.jpg?v=20260902",
+        "image": "/images/doc36_img_10.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Rope Twist Low Bun on Platinum Blonde Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8414,7 +8414,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Soft Rope Twist Half-Up on Beige Blonde Waves",
-        "image": "/images/doc36_img_11.jpg?v=20260902",
+        "image": "/images/doc36_img_11.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Soft Rope Twist Half-Up on Beige Blonde Waves is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8425,7 +8425,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Classic Rope Twist Half-Up on Warm Copper Hair",
-        "image": "/images/doc36_img_12.jpg?v=20260902",
+        "image": "/images/doc36_img_12.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Classic Rope Twist Half-Up on Warm Copper Hair is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8441,7 +8441,7 @@ export const articles = [
     "title": "12+ Trendy Twist Braid Hairstyles Women Are Loving",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc37_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc37_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 5, 2026",
     "isFeatured": true,
@@ -8496,7 +8496,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Long Box Braids with Wavy Ends",
-        "image": "/images/doc37_img_1.jpg?v=20260902",
+        "image": "/images/doc37_img_1.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Long Box Braids with Wavy Ends is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8507,7 +8507,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Boho Box Braids with Loose Curls",
-        "image": "/images/doc37_img_2.jpg?v=20260902",
+        "image": "/images/doc37_img_2.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Boho Box Braids with Loose Curls is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8518,7 +8518,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Honey Brown Box Braids with Curly Tips",
-        "image": "/images/doc37_img_3.jpg?v=20260902",
+        "image": "/images/doc37_img_3.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Honey Brown Box Braids with Curly Tips is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8529,7 +8529,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Medium-Length Two-Strand Twists",
-        "image": "/images/doc37_img_4.jpg?v=20260902",
+        "image": "/images/doc37_img_4.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Medium-Length Two-Strand Twists is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8540,7 +8540,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Short Twists with Defined Parting",
-        "image": "/images/doc37_img_5.jpg?v=20260902",
+        "image": "/images/doc37_img_5.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Short Twists with Defined Parting is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8551,7 +8551,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Spring Twists with Full Volume",
-        "image": "/images/doc37_img_6.jpg?v=20260902",
+        "image": "/images/doc37_img_6.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Spring Twists with Full Volume is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8562,7 +8562,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Classic Waist-Length Box Braids",
-        "image": "/images/doc37_img_7.jpg?v=20260902",
+        "image": "/images/doc37_img_7.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Classic Waist-Length Box Braids is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8573,7 +8573,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Curly Twists with Ombre Ends",
-        "image": "/images/doc37_img_8.jpg?v=20260902",
+        "image": "/images/doc37_img_8.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Curly Twists with Ombre Ends is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8584,7 +8584,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Cornrow Braids with Curly Extensions",
-        "image": "/images/doc37_img_9.jpg?v=20260902",
+        "image": "/images/doc37_img_9.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Cornrow Braids with Curly Extensions is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8595,7 +8595,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Jumbo Rope Twists",
-        "image": "/images/doc37_img_10.jpg?v=20260902",
+        "image": "/images/doc37_img_10.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Jumbo Rope Twists is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8606,7 +8606,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Jumbo Twists with High Bun",
-        "image": "/images/doc37_img_11.jpg?v=20260902",
+        "image": "/images/doc37_img_11.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Jumbo Twists with High Bun is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8617,7 +8617,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Classic Long Senegalese Twists",
-        "image": "/images/doc37_img_12.jpg?v=20260902",
+        "image": "/images/doc37_img_12.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Classic Long Senegalese Twists is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8628,7 +8628,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Golden Brown Twist Braids with Curly Ends",
-        "image": "/images/doc37_img_13.jpg?v=20260902",
+        "image": "/images/doc37_img_13.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Golden Brown Twist Braids with Curly Ends is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8644,7 +8644,7 @@ export const articles = [
     "title": "14+ Modern Braided Hairstyles You Can't Miss",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
-    "heroImage": "/images/doc38_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc38_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 6, 2026",
     "isFeatured": true,
@@ -8699,7 +8699,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Sleek Cornrow Rows on Honey Blonde",
-        "image": "/images/doc38_img_1.jpg?v=20260902",
+        "image": "/images/doc38_img_1.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Sleek Cornrow Rows on Honey Blonde is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8710,7 +8710,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Classic Dutch Braid with Satin Bow",
-        "image": "/images/doc38_img_2.jpg?v=20260902",
+        "image": "/images/doc38_img_2.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Classic Dutch Braid with Satin Bow is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8721,7 +8721,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Crowned Braid with Straight Lengths",
-        "image": "/images/doc38_img_3.jpg?v=20260902",
+        "image": "/images/doc38_img_3.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Crowned Braid with Straight Lengths is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8732,7 +8732,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Cornrow Braids with Metallic Accents",
-        "image": "/images/doc38_img_4.jpg?v=20260902",
+        "image": "/images/doc38_img_4.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Cornrow Braids with Metallic Accents is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8743,7 +8743,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Geometric Side-Swept Cornrows",
-        "image": "/images/doc38_img_5.jpg?v=20260902",
+        "image": "/images/doc38_img_5.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Geometric Side-Swept Cornrows is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8754,7 +8754,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Braided Space Buns with Contrast Roots",
-        "image": "/images/doc38_img_6.jpg?v=20260902",
+        "image": "/images/doc38_img_6.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Braided Space Buns with Contrast Roots is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8765,7 +8765,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Side Braid into Curled Ponytail",
-        "image": "/images/doc38_img_7.jpg?v=20260902",
+        "image": "/images/doc38_img_7.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Side Braid into Curled Ponytail is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8776,7 +8776,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Twin Dutch Braids on Golden Brown",
-        "image": "/images/doc38_img_8.jpg?v=20260902",
+        "image": "/images/doc38_img_8.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Twin Dutch Braids on Golden Brown is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8787,7 +8787,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Braided Crown into High Ponytail",
-        "image": "/images/doc38_img_9.jpg?v=20260902",
+        "image": "/images/doc38_img_9.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Braided Crown into High Ponytail is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8798,7 +8798,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Spiral Braid Design with Ponytail",
-        "image": "/images/doc38_img_10.jpg?v=20260902",
+        "image": "/images/doc38_img_10.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Spiral Braid Design with Ponytail is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8809,7 +8809,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Sleek Side Braid on Dark Brunette",
-        "image": "/images/doc38_img_11.jpg?v=20260902",
+        "image": "/images/doc38_img_11.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Sleek Side Braid on Dark Brunette is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8820,7 +8820,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Voluminous Bubble Braid on Jet Black",
-        "image": "/images/doc38_img_12.jpg?v=20260902",
+        "image": "/images/doc38_img_12.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Voluminous Bubble Braid on Jet Black is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8831,7 +8831,7 @@ export const articles = [
       {
         "number": 13,
         "title": "High Ponytail with Braided Accent and Red Highlights",
-        "image": "/images/doc38_img_13.jpg?v=20260902",
+        "image": "/images/doc38_img_13.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "High Ponytail with Braided Accent and Red Highlights is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8842,7 +8842,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Half-Up Braid with Golden Curls",
-        "image": "/images/doc38_img_14.jpg?v=20260902",
+        "image": "/images/doc38_img_14.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Half-Up Braid with Golden Curls is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8853,7 +8853,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Waterfall Braid on Chocolate Brown Waves",
-        "image": "/images/doc38_img_15.jpg?v=20260902",
+        "image": "/images/doc38_img_15.jpg",
         "whyWeLoveIt": "Intricate braided pattern with touchable texture and shine.",
         "paragraphs": [
           "Waterfall Braid on Chocolate Brown Waves is a beautiful braided style featuring intricate patterns and soft texture.",
@@ -8869,7 +8869,7 @@ export const articles = [
     "title": "14+ Stunning Curly Fluffy Hair Worth Trying",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc43_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc43_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 7, 2026",
     "isFeatured": true,
@@ -8924,7 +8924,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Deep Espresso Ringlets with Natural Volume",
-        "image": "/images/doc43_img_1.jpg?v=20260902",
+        "image": "/images/doc43_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Deep Espresso Ringlets with Natural Volume is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -8935,7 +8935,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Golden Corkscrew Bob with Glossy Definition",
-        "image": "/images/doc43_img_2.jpg?v=20260902",
+        "image": "/images/doc43_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Golden Corkscrew Bob with Glossy Definition is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -8946,7 +8946,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Soft Jet-Black Spirals with Gloss Finish",
-        "image": "/images/doc43_img_3.jpg?v=20260902",
+        "image": "/images/doc43_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Soft Jet-Black Spirals with Gloss Finish is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -8957,7 +8957,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Sun-Kissed Blonde Spiral Layers with Shaping Fringe",
-        "image": "/images/doc43_img_4.jpg?v=20260902",
+        "image": "/images/doc43_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Sun-Kissed Blonde Spiral Layers with Shaping Fringe is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -8968,7 +8968,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Copper Spice Curls with Side Volume Sweep",
-        "image": "/images/doc43_img_5.jpg?v=20260902",
+        "image": "/images/doc43_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Copper Spice Curls with Side Volume Sweep is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -8979,7 +8979,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Rustic Auburn Spiral Cascade",
-        "image": "/images/doc43_img_6.jpg?v=20260902",
+        "image": "/images/doc43_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Rustic Auburn Spiral Cascade is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -8990,7 +8990,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Caramel Curly Shag with Vintage Lift",
-        "image": "/images/doc43_img_7.jpg?v=20260902",
+        "image": "/images/doc43_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Caramel Curly Shag with Vintage Lift is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9001,7 +9001,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Honey Blonde Coils with Root Shadow Blend",
-        "image": "/images/doc43_img_8.jpg?v=20260902",
+        "image": "/images/doc43_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Honey Blonde Coils with Root Shadow Blend is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9012,7 +9012,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Champagne Blonde Waves with Subtle Definition",
-        "image": "/images/doc43_img_9.jpg?v=20260902",
+        "image": "/images/doc43_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Champagne Blonde Waves with Subtle Definition is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9023,7 +9023,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Ash Brown Curly Bob with Natural Lift",
-        "image": "/images/doc43_img_10.jpg?v=20260902",
+        "image": "/images/doc43_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Ash Brown Curly Bob with Natural Lift is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9034,7 +9034,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Buttered Caramel Ringlets with Layered Volume",
-        "image": "/images/doc43_img_11.jpg?v=20260902",
+        "image": "/images/doc43_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Buttered Caramel Ringlets with Layered Volume is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9045,7 +9045,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Midnight Waves with Feathered Fringe",
-        "image": "/images/doc43_img_12.jpg?v=20260902",
+        "image": "/images/doc43_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Midnight Waves with Feathered Fringe is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9056,7 +9056,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Chestnut Spiral Layers with Polished Definition",
-        "image": "/images/doc43_img_13.jpg?v=20260902",
+        "image": "/images/doc43_img_13.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Chestnut Spiral Layers with Polished Definition is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9067,7 +9067,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Espresso Cascade Curls with Vintage Headband Accent",
-        "image": "/images/doc43_img_14.jpg?v=20260902",
+        "image": "/images/doc43_img_14.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Espresso Cascade Curls with Vintage Headband Accent is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9078,7 +9078,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Mocha Loose Spirals with Airy Length",
-        "image": "/images/doc43_img_15.jpg?v=20260902",
+        "image": "/images/doc43_img_15.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Mocha Loose Spirals with Airy Length is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9094,7 +9094,7 @@ export const articles = [
     "title": "12+ Pretty Messy Curly Hair Worth Saving",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc39_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc39_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 8, 2026",
     "isFeatured": true,
@@ -9149,7 +9149,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Shoulder-Length Messy Curly Bob in Medium Ash Brown",
-        "image": "/images/doc39_img_1.jpg?v=20260902",
+        "image": "/images/doc39_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Shoulder-Length Messy Curly Bob in Medium Ash Brown is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9160,7 +9160,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Defined Ringlet Lob in Deep Espresso Brown",
-        "image": "/images/doc39_img_2.jpg?v=20260902",
+        "image": "/images/doc39_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Defined Ringlet Lob in Deep Espresso Brown is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9171,7 +9171,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Voluminous Curly Shag with Chocolate Brown Color",
-        "image": "/images/doc39_img_3.jpg?v=20260902",
+        "image": "/images/doc39_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Voluminous Curly Shag with Chocolate Brown Color is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9182,7 +9182,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Extra-Long Messy Corkscrew Curls with Blonde and Caramel Blend",
-        "image": "/images/doc39_img_4.jpg?v=20260902",
+        "image": "/images/doc39_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Extra-Long Messy Corkscrew Curls with Blonde and Caramel Blend is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9193,7 +9193,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Side-Parted Curly Bob in Golden Beige Blonde",
-        "image": "/images/doc39_img_5.jpg?v=20260902",
+        "image": "/images/doc39_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Side-Parted Curly Bob in Golden Beige Blonde is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9204,7 +9204,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Long Defined Curls in Dark Mocha Brown",
-        "image": "/images/doc39_img_6.jpg?v=20260902",
+        "image": "/images/doc39_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long Defined Curls in Dark Mocha Brown is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9215,7 +9215,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Soft Spiral Curls with Bright Blonde Color",
-        "image": "/images/doc39_img_7.jpg?v=20260902",
+        "image": "/images/doc39_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Soft Spiral Curls with Bright Blonde Color is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9226,7 +9226,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Long Layered Curly Hair in Copper Auburn",
-        "image": "/images/doc39_img_8.jpg?v=20260902",
+        "image": "/images/doc39_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long Layered Curly Hair in Copper Auburn is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9237,7 +9237,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Face-Framing Curly Layers in Warm Ginger Red",
-        "image": "/images/doc39_img_9.jpg?v=20260902",
+        "image": "/images/doc39_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Face-Framing Curly Layers in Warm Ginger Red is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9248,7 +9248,7 @@ export const articles = [
       {
         "number": 10,
         "title": "High-Contrast Curly Balayage with Blonde Ends",
-        "image": "/images/doc39_img_10.jpg?v=20260902",
+        "image": "/images/doc39_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "High-Contrast Curly Balayage with Blonde Ends is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9259,7 +9259,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Layered Messy Curly Hair in Honey Bronde",
-        "image": "/images/doc39_img_11.jpg?v=20260902",
+        "image": "/images/doc39_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Layered Messy Curly Hair in Honey Bronde is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9270,7 +9270,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Soft Textured Waves in Smoky Lavender Brown",
-        "image": "/images/doc39_img_12.jpg?v=20260902",
+        "image": "/images/doc39_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Soft Textured Waves in Smoky Lavender Brown is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9281,7 +9281,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Messy Curly Updo in Chestnut Brown",
-        "image": "/images/doc39_img_13.jpg?v=20260902",
+        "image": "/images/doc39_img_13.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Messy Curly Updo in Chestnut Brown is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -9297,7 +9297,7 @@ export const articles = [
     "title": "23+ Chic Short Curly Hairstyles for Older Women to Try Now",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc40_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc40_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 9, 2026",
     "isFeatured": true,
@@ -9352,7 +9352,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Curly Pixie with Silver Blonde",
-        "image": "/images/doc40_img_1.jpg?v=20260902",
+        "image": "/images/doc40_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Wispy layers give this curly pixie a light and airy shape, while silver blonde tones brighten the face beautifully.",
@@ -9364,7 +9364,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Espresso Brown Curly French Bob",
-        "image": "/images/doc40_img_2.jpg?v=20260902",
+        "image": "/images/doc40_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A curly french bob paired with rich espresso brown color creates a polished yet relaxed look. The chin-length shape frames the jawline nicely, and natural curls give the haircut texture without heavy styling products.",
@@ -9375,7 +9375,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Feathered Crop with Warm Chestnut Curls",
-        "image": "/images/doc40_img_3.jpg?v=20260902",
+        "image": "/images/doc40_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Short feathered layers throughout this crop add softness and volume, especially for fine curly hair. Warm chestnut tones enhance dimension and make the curls appear fuller and more defined.",
@@ -9386,7 +9386,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Salt-and-Pepper Tapered Curly Cut",
-        "image": "/images/doc40_img_4.jpg?v=20260902",
+        "image": "/images/doc40_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Blending salt-and-pepper shades with a tapered shape creates a stylish and easygoing haircut. The tighter sides keep the silhouette neat while fuller curls on top add personality and natural texture.",
@@ -9397,7 +9397,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Layered Curly Bob with Honey Brown Highlights",
-        "image": "/images/doc40_img_5.jpg?v=20260902",
+        "image": "/images/doc40_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Soft curls paired with honey brown highlights bring warmth and depth to this layered bob. The stacked layers in the back help create volume while keeping the neckline clean and flattering.",
@@ -9408,7 +9408,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Short Rounded Curls in Dark Auburn",
-        "image": "/images/doc40_img_6.jpg?v=20260902",
+        "image": "/images/doc40_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Rounded shaping gives these short curls a balanced silhouette that works beautifully with dark auburn color. The rich tone catches light subtly, making the curls appear more defined and lively.",
@@ -9419,7 +9419,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Classic Curly Pixie in Natural Gray",
-        "image": "/images/doc40_img_7.jpg?v=20260902",
+        "image": "/images/doc40_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A classic curly pixie becomes effortlessly sophisticated in natural gray. Short layers around the crown add lift, while soft curls around the forehead create a gentle frame for mature features.",
@@ -9430,7 +9430,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Chin-Length Curly Cut with Golden Brown Balayage",
-        "image": "/images/doc40_img_8.jpg?v=20260902",
+        "image": "/images/doc40_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Golden brown balayage woven through natural curls adds brightness and dimension to this chin-length cut. Light layering keeps the shape from becoming bulky and helps curls fall naturally.",
@@ -9441,7 +9441,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Tapered Curly Crop with Deep Black Hair",
-        "image": "/images/doc40_img_9.jpg?v=20260902",
+        "image": "/images/doc40_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Deep black color enhances the shine and structure of this tapered curly crop. The close-cut sides contrast beautifully with fuller curls at the crown for a sleek but textured finish.",
@@ -9452,7 +9452,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Short Shaggy Curls with Caramel Highlights",
-        "image": "/images/doc40_img_10.jpg?v=20260902",
+        "image": "/images/doc40_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Shag-inspired layers bring movement and softness to short curls, while caramel highlights create a sunlit effect. This style works especially well for women wanting a more relaxed and youthful haircut.",
@@ -9463,7 +9463,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Layered Curly Bob in Soft White Gray",
-        "image": "/images/doc40_img_11.jpg?v=20260902",
+        "image": "/images/doc40_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Soft white gray color gives this layered curly bob an elegant finish. The shape sits just above the shoulders, with gentle layers throughout to encourage bounce and easy styling.",
@@ -9474,7 +9474,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Voluminous Curly Pixie with Ash Brown Color",
-        "image": "/images/doc40_img_12.jpg?v=20260902",
+        "image": "/images/doc40_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Plenty of crown layers help this curly pixie achieve a fuller shape without feeling heavy. Ash brown tones keep the overall look refined and pair well with naturally graying hair.",
@@ -9485,7 +9485,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Cropped Ringlets with Cinnamon Brown Tones",
-        "image": "/images/doc40_img_13.jpg?v=20260902",
+        "image": "/images/doc40_img_13.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Defined ringlets cut close to the head create a neat yet lively style. Cinnamon brown shades warm up the complexion and make the curl pattern stand out beautifully.",
@@ -9496,7 +9496,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Textured Curly Bob with Sandy Blonde Highlights",
-        "image": "/images/doc40_img_14.jpg?v=20260902",
+        "image": "/images/doc40_img_14.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Sandy blonde highlights woven into textured curls give this bob a soft dimensional effect. The slightly tousled finish keeps the haircut casual and easy to wear every day.",
@@ -9507,7 +9507,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Ear-Length Curly Cut in Rich Mocha Brown",
-        "image": "/images/doc40_img_15.jpg?v=20260902",
+        "image": "/images/doc40_img_15.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Rich mocha brown color adds shine and depth to this ear-length curly hairstyle. The shorter length keeps maintenance manageable while allowing natural curls to maintain their shape.",
@@ -9518,7 +9518,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Curly Layered Crop with Silver Highlights",
-        "image": "/images/doc40_img_16.jpg?v=20260902",
+        "image": "/images/doc40_img_16.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Silver highlights scattered through layered curls create a fresh and bright appearance. This cropped style uses soft shaping around the face to maintain a flattering and lightweight finish.",
@@ -9529,7 +9529,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Short Spiral Curls with Dark Chocolate Color",
-        "image": "/images/doc40_img_17.jpg?v=20260902",
+        "image": "/images/doc40_img_17.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Spiral curls gain extra definition with a deep dark chocolate shade. The shorter shape keeps the curls springy and controlled while still allowing plenty of natural texture to show through.",
@@ -9540,7 +9540,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Curved Curly Bob in Medium Brown",
-        "image": "/images/doc40_img_18.jpg?v=20260902",
+        "image": "/images/doc40_img_18.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A softly curved silhouette gives this curly bob a timeless feel. Medium brown tones create natural-looking richness, while layers prevent the curls from appearing too dense.",
@@ -9551,7 +9551,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Tapered Salt Gray Curly Pixie",
-        "image": "/images/doc40_img_19.jpg?v=20260902",
+        "image": "/images/doc40_img_19.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Tapered edges and soft salt gray color make this pixie feel clean and sophisticated. The added height on top gives fine curly hair extra lift and structure without heavy styling.",
@@ -9562,7 +9562,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Layered Curly Crop with Auburn Highlights",
-        "image": "/images/doc40_img_20.jpg?v=20260902",
+        "image": "/images/doc40_img_20.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Auburn highlights brighten this layered crop and create subtle contrast throughout the curls. Shorter layers at the crown add movement, making the hairstyle appear fuller and more textured.",
@@ -9573,7 +9573,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Soft Curly Bob with Beige Blonde Tones",
-        "image": "/images/doc40_img_21.jpg?v=20260902",
+        "image": "/images/doc40_img_21.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Beige blonde shades soften the appearance of natural curls and add gentle brightness around the face. The bob length keeps the style manageable while preserving bounce and body.",
@@ -9584,7 +9584,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Natural Gray Curly Shag",
-        "image": "/images/doc40_img_22.jpg?v=20260902",
+        "image": "/images/doc40_img_22.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Shaggy layers bring effortless movement to natural gray curls. The textured shape works especially well for women who want a low-maintenance haircut with plenty of softness and volume.",
@@ -9595,7 +9595,7 @@ export const articles = [
       {
         "number": 23,
         "title": "Short Curly Wedge in Chestnut Brown",
-        "image": "/images/doc40_img_23.jpg?v=20260902",
+        "image": "/images/doc40_img_23.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "The wedge shape creates fullness in the back while maintaining a clean neckline. Chestnut brown color enhances the rounded silhouette and gives curls a healthy-looking shine.",
@@ -9606,7 +9606,7 @@ export const articles = [
       {
         "number": 24,
         "title": "Tousled Curly Pixie with Light Brown Highlights",
-        "image": "/images/doc40_img_24.jpg?v=20260902",
+        "image": "/images/doc40_img_24.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Light brown highlights scattered through tousled curls create a naturally sun-kissed effect. The pixie shape keeps the sides neat while allowing playful texture on top.",
@@ -9622,7 +9622,7 @@ export const articles = [
     "title": "19+ Short Curly Hairstyles for Women over 50 Gray Hair Haircuts",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc41_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc41_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 10, 2026",
     "isFeatured": true,
@@ -9677,7 +9677,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Silver Tousled Pixie with Dark Roots",
-        "image": "/images/doc41_img_1.jpg?v=20260902",
+        "image": "/images/doc41_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "The tousled pixie is a youthful, low-maintenance cut with short, choppy layers that enhance natural curls.",
@@ -9689,7 +9689,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Salt-and-Pepper Curly Bob",
-        "image": "/images/doc41_img_2.jpg?v=20260902",
+        "image": "/images/doc41_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This classic bob cut hits just below the ears, showcasing a salt-and-pepper mix of grays and dark browns. Soft, round layers add bounce to the curls, giving fullness and movement.",
@@ -9700,7 +9700,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Layered Charcoal Gray Shag",
-        "image": "/images/doc41_img_3.jpg?v=20260902",
+        "image": "/images/doc41_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A modern shag with soft, rounded layers perfect for natural curls. The charcoal gray tone adds richness, while the fringe gives it a playful, modern twist.",
@@ -9711,7 +9711,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Tapered Ash Gray Curls",
-        "image": "/images/doc41_img_4.jpg?v=20260902",
+        "image": "/images/doc41_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This tapered cut features tight curls that gradually shorten at the nape, offering a neat silhouette. The ash gray tone provides a fresh, modern contrast to warm complexions.",
@@ -9722,7 +9722,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Snowy White Curly Crop",
-        "image": "/images/doc41_img_5.jpg?v=20260902",
+        "image": "/images/doc41_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A short crop that emphasizes volume at the crown with structured curls. The snowy white color is bright and striking, working well with naturally white or light gray hair.",
@@ -9733,7 +9733,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Soft Mocha Gray Coils",
-        "image": "/images/doc41_img_6.jpg?v=20260902",
+        "image": "/images/doc41_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A curly style that frames the face with layers that bring out the natural shape of coiled hair. The mocha gray hue blends brown and gray for a rich, natural look.",
@@ -9744,7 +9744,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Icy Gray Finger Curls",
-        "image": "/images/doc41_img_7.jpg?v=20260902",
+        "image": "/images/doc41_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This retro-inspired look features sculpted finger curls with a defined shape. The icy gray color enhances the vintage vibe while staying modern with a soft sheen.",
@@ -9755,7 +9755,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Feathered Pearl Gray Bob",
-        "image": "/images/doc41_img_8.jpg?v=20260902",
+        "image": "/images/doc41_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A rounded bob with light feathered layers that enhance curl and movement. The pearl gray shade reflects light and adds a soft glow to the overall style.",
@@ -9766,7 +9766,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Steel Gray Spiral Pixie",
-        "image": "/images/doc41_img_9.jpg?v=20260902",
+        "image": "/images/doc41_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A cropped pixie cut with longer top layers to highlight spiral curls. The steel gray color adds strength and elegance, especially on cool-toned skin.",
@@ -9777,7 +9777,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Short Cinnamon Gray Fro",
-        "image": "/images/doc41_img_10.jpg?v=20260902",
+        "image": "/images/doc41_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A natural afro style with soft, rounded shaping. The cinnamon gray tone—blending warm brown with subtle silver—adds depth and earthiness.",
@@ -9788,7 +9788,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Cloud White Curly Undercut",
-        "image": "/images/doc41_img_11.jpg?v=20260902",
+        "image": "/images/doc41_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This edgy undercut keeps the sides short while curls on top add softness and height. The cloud white tone gives the cut an airy, light finish.",
@@ -9799,7 +9799,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Volumized Iron Gray Bob",
-        "image": "/images/doc41_img_12.jpg?v=20260902",
+        "image": "/images/doc41_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A volumized bob with stacked layers at the back and curls flowing forward. The iron gray color adds a sophisticated, polished edge.",
@@ -9810,7 +9810,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Short Chestnut Gray Halo Curls",
-        "image": "/images/doc41_img_13.jpg?v=20260902",
+        "image": "/images/doc41_img_13.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This round halo cut accentuates natural curls with even length all around. The chestnut gray color blends brown warmth with hints of silver.",
@@ -9821,7 +9821,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Curly Granite Pixie with Side Bangs",
-        "image": "/images/doc41_img_14.jpg?v=20260902",
+        "image": "/images/doc41_img_14.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A playful pixie cut featuring soft side bangs and textured curls. The granite gray tone gives a grounding, natural appearance.",
@@ -9832,7 +9832,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Soft Cloud Gray Curly Crop",
-        "image": "/images/doc41_img_15.jpg?v=20260902",
+        "image": "/images/doc41_img_15.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A very short crop with delicate curls and a soft silhouette. The cloud gray shade enhances the gentle texture of the style.",
@@ -9843,7 +9843,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Ash Brown Curly Bowl Cut",
-        "image": "/images/doc41_img_16.jpg?v=20260902",
+        "image": "/images/doc41_img_16.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This modern take on the bowl cut features defined curls and a rounded fringe. The ash brown color is soft and earthy, great for gray transitions.",
@@ -9854,7 +9854,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Layered Ivory Gray Tapered Cut",
-        "image": "/images/doc41_img_17.jpg?v=20260902",
+        "image": "/images/doc41_img_17.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A tapered cut with stacked layers that build volume at the top. The ivory gray hue is bright and elegant, perfect for a clean, natural finish.",
@@ -9865,7 +9865,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Espresso Gray Textured Pixie",
-        "image": "/images/doc41_img_18.jpg?v=20260902",
+        "image": "/images/doc41_img_18.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This textured pixie cut is full of movement with wispy curls and layers. The espresso gray color adds richness while blending grays seamlessly.",
@@ -9876,7 +9876,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Warm Beige Curly Side Part",
-        "image": "/images/doc41_img_19.jpg?v=20260902",
+        "image": "/images/doc41_img_19.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A chic short cut parted to the side to highlight curls. The warm beige-gray tone adds brightness and softness to the face.",
@@ -9887,7 +9887,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Short Natural Gray Curls with Lifted Crown",
-        "image": "/images/doc41_img_20.jpg?v=20260902",
+        "image": "/images/doc41_img_20.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A short style with curls shaped to lift at the crown for volume. Natural gray tones give an effortless, authentic look.",
@@ -9903,7 +9903,7 @@ export const articles = [
     "title": "21+ Chic Curly Hairstyles for Women over 40 to Inspire You",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc42_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc42_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 11, 2026",
     "isFeatured": true,
@@ -9958,7 +9958,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Layered Curly Lob with Honey Blonde Highlights",
-        "image": "/images/doc42_img_1.jpg?v=20260902",
+        "image": "/images/doc42_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A layered lob (long bob) sits just above the shoulders, giving curls plenty of bounce and volume.",
@@ -9970,7 +9970,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Shoulder-Length Chestnut Waves with Curtain Bangs",
-        "image": "/images/doc42_img_2.jpg?v=20260902",
+        "image": "/images/doc42_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This shoulder-length style adds dimension with layered waves and curtain bangs, perfect for adding volume to finer curls.",
@@ -9982,7 +9982,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Asymmetrical Pixie Cut in Jet Black",
-        "image": "/images/doc42_img_3.jpg?v=20260902",
+        "image": "/images/doc42_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A bold pixie cut with an asymmetrical twist, this style plays with length and contrast, giving curls a contemporary edge.",
@@ -9994,7 +9994,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Soft Curly Shag with Auburn Highlights",
-        "image": "/images/doc42_img_4.jpg?v=20260902",
+        "image": "/images/doc42_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This curly shag uses soft, wispy layers to create movement and texture, perfect for natural curls.",
@@ -10006,7 +10006,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Classic Bob with Sandy Blonde Ombre",
-        "image": "/images/doc42_img_5.jpg?v=20260902",
+        "image": "/images/doc42_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This timeless bob rests just at the jawline, emphasizing natural curls with a touch of volume.",
@@ -10018,7 +10018,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Defined Curls with Rose Gold Balayage",
-        "image": "/images/doc42_img_6.jpg?v=20260902",
+        "image": "/images/doc42_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long, defined curls are brought to life with rose gold balayage, adding a playful hint of pink to each curl.",
@@ -10030,7 +10030,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Mid-Length Curly Layers with Burgundy Highlights",
-        "image": "/images/doc42_img_7.jpg?v=20260902",
+        "image": "/images/doc42_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Layers bring volume and lift to this mid-length style, allowing natural curls to stand out.",
@@ -10042,7 +10042,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Silver Curly Pixie Cut with Side-Swept Bangs",
-        "image": "/images/doc42_img_8.jpg?v=20260902",
+        "image": "/images/doc42_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This chic pixie cut combines tight curls with a silver hue that’s striking and sophisticated. Side-swept bangs soften the face, giving this style a fresh and modern touch that’s ideal for women with fine, curly hair.",
@@ -10053,7 +10053,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Curly Shoulder-Length Bob with Ash Blonde Tips",
-        "image": "/images/doc42_img_9.jpg?v=20260902",
+        "image": "/images/doc42_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This shoulder-length bob provides natural volume for curls, with ash blonde tips giving it an on-trend color twist.",
@@ -10065,7 +10065,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Long Curly Layers with Copper Highlights",
-        "image": "/images/doc42_img_10.jpg?v=20260902",
+        "image": "/images/doc42_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long, cascading curls get an extra dimension with soft layers, while copper highlights add warmth and brightness, enhancing the shape and flow of each curl.",
@@ -10077,7 +10077,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Textured Curly Shag in Platinum Blonde",
-        "image": "/images/doc42_img_11.jpg?v=20260902",
+        "image": "/images/doc42_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "For those ready to embrace a bold look, a textured shag with platinum blonde color brings brightness and edge to curls. The layers are designed to create volume and shape, perfect for enhancing naturally curly hair.",
@@ -10088,7 +10088,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Tousled Curly Bob with Light Brown Balayage",
-        "image": "/images/doc42_img_12.jpg?v=20260902",
+        "image": "/images/doc42_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A tousled bob gives curls a soft, effortless look, with light brown balayage adding depth and warmth. This style is low-maintenance and provides a relaxed, natural feel, making it perfect for everyday wear.",
@@ -10099,7 +10099,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Long Curly Layers with Pastel Pink Accents",
-        "image": "/images/doc42_img_13.jpg?v=20260902",
+        "image": "/images/doc42_img_13.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This long, curly cut is defined by layers that frame the face, with pastel pink accents adding a playful, modern touch.",
@@ -10111,7 +10111,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Shoulder-Length Curly Cut with Gray Highlights",
-        "image": "/images/doc42_img_14.jpg?v=20260902",
+        "image": "/images/doc42_img_14.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This shoulder-length style uses gray highlights to give curls a touch of sophistication, creating a salt-and-pepper effect. Perfect for naturally graying hair, this look embraces the beauty of mature curls.",
@@ -10122,7 +10122,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Angled Bob with Dark Brunette Base and Strawberry Blonde Ends",
-        "image": "/images/doc42_img_15.jpg?v=20260902",
+        "image": "/images/doc42_img_15.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "An angled bob with a dark brunette base and strawberry blonde ends adds contrast and interest to curls.",
@@ -10134,7 +10134,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Loose Curls with Lilac Balayage",
-        "image": "/images/doc42_img_16.jpg?v=20260902",
+        "image": "/images/doc42_img_16.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This mid-length cut with loose, flowing curls is brought to life with lilac balayage, creating a gentle wash of color that’s fun yet refined. The lilac adds a soft, unexpected pop to dark or brunette curls.",
@@ -10145,7 +10145,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Rounded Curly Bob with Dark Red Hues",
-        "image": "/images/doc42_img_17.jpg?v=20260902",
+        "image": "/images/doc42_img_17.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A rounded bob gives curly hair a soft, flattering shape, while dark red hues add a rich, vibrant tone. This combination creates a stylish, polished look that’s easy to maintain and suits various face shapes.",
@@ -10156,7 +10156,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Long Curly Layers with Blonde Ombre",
-        "image": "/images/doc42_img_18.jpg?v=20260902",
+        "image": "/images/doc42_img_18.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long layers add structure to curls while a blonde ombre effect brings brightness from the mid-lengths to the ends, creating a sun-kissed look that enhances the natural beauty of curly hair.",
@@ -10167,7 +10167,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Classic Curly Bob with Soft Lavender Highlights",
-        "image": "/images/doc42_img_19.jpg?v=20260902",
+        "image": "/images/doc42_img_19.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A chin-length bob pairs well with soft lavender highlights, offering a contemporary twist on a classic cut. This color adds a subtle hint of color that enhances the texture and movement of curls.",
@@ -10178,7 +10178,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Textured Curly Cut with Sandy Blonde Highlights",
-        "image": "/images/doc42_img_20.jpg?v=20260902",
+        "image": "/images/doc42_img_20.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A textured cut works well for short to medium-length curly hair, adding shape and volume. Sandy blonde highlights bring a natural brightness, creating a beach-inspired look that’s casual and chic.",
@@ -10189,7 +10189,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Layered Curly Lob with Silver Streaks",
-        "image": "/images/doc42_img_21.jpg?v=20260902",
+        "image": "/images/doc42_img_21.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This layered lob features defined curls and silver streaks, bringing dimension and a touch of elegance to the style. Perfect for embracing natural grays or adding an eye-catching contrast to dark hair.",
@@ -10200,7 +10200,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Soft Waves with Ash Blonde Highlights",
-        "image": "/images/doc42_img_22.jpg?v=20260902",
+        "image": "/images/doc42_img_22.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This shoulder-length cut softens curls into loose waves with delicate ash blonde highlights for a natural, soft look. Great for those seeking a style that’s both professional and easy-going.",
@@ -10216,7 +10216,7 @@ export const articles = [
     "title": "18+ Stylish Curly Hairstyles for Women over 60 to Try",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc44_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc44_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 12, 2026",
     "isFeatured": true,
@@ -10271,7 +10271,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Elegant Medium-Length Curls",
-        "image": "/images/doc44_img_1.jpg?v=20260902",
+        "image": "/images/doc44_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Medium-length curls add volume and bounce, ideal for showcasing natural gray hair. This style works perfectly for both casual and formal settings, offering a balance between length and manageability.",
@@ -10282,7 +10282,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Short Curly Bob with Bangs",
-        "image": "/images/doc44_img_2.jpg?v=20260902",
+        "image": "/images/doc44_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A chic and modern short curly bob with bangs that frame the face beautifully. Perfect for a fresh and youthful look, this cut is easy to maintain and style daily.",
@@ -10293,7 +10293,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Long Curly Layers",
-        "image": "/images/doc44_img_3.jpg?v=20260902",
+        "image": "/images/doc44_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Layers in long curly hair add dimension and reduce bulk, making the hair look lighter and more dynamic. This style is great for women who love to keep their hair long and flowing.",
@@ -10304,7 +10304,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Natural Shoulder-Length Curls",
-        "image": "/images/doc44_img_4.jpg?v=20260902",
+        "image": "/images/doc44_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Embrace your natural texture with shoulder-length curls that offer a timeless and elegant appearance. This versatile length suits any face shape and is easy to style.",
@@ -10315,7 +10315,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Curly Gray Bob",
-        "image": "/images/doc44_img_5.jpg?v=20260902",
+        "image": "/images/doc44_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A classic curly bob tailored for gray hair, offering a sophisticated and polished look. This cut is perfect for those who want a stylish yet low-maintenance hairstyle.",
@@ -10326,7 +10326,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Medium Curly Updo for Weddings",
-        "image": "/images/doc44_img_6.jpg?v=20260902",
+        "image": "/images/doc44_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "An elegant updo that highlights medium-length curls, perfect for weddings or formal events. Adding a flower accessory can enhance the romantic feel of this style.",
@@ -10337,7 +10337,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Short Natural Curls",
-        "image": "/images/doc44_img_7.jpg?v=20260902",
+        "image": "/images/doc44_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Short and natural curls provide a carefree and youthful appearance. This low-maintenance style is perfect for summer and spring, keeping you cool and chic.",
@@ -10348,7 +10348,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Side-Swept Curly Bangs",
-        "image": "/images/doc44_img_8.jpg?v=20260902",
+        "image": "/images/doc44_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Side-swept curly bangs add a playful twist to any hairstyle. This look can be paired with both short and long curls, offering versatility and charm.",
@@ -10359,7 +10359,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Curly Blonde Layers",
-        "image": "/images/doc44_img_9.jpg?v=20260902",
+        "image": "/images/doc44_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Blonde highlights on curly hair can brighten your look and add depth. Layering enhances the curls' natural bounce, creating a lively and youthful appearance.",
@@ -10370,7 +10370,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Medium Curly Bob with Volume",
-        "image": "/images/doc44_img_10.jpg?v=20260902",
+        "image": "/images/doc44_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This medium-length curly bob focuses on volume and body, making it ideal for women who want a fuller hair look. It's stylish and easy to maintain.",
@@ -10381,7 +10381,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Messy Curly Bun for Fall",
-        "image": "/images/doc44_img_11.jpg?v=20260902",
+        "image": "/images/doc44_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A messy curly bun is perfect for the fall season, combining elegance with a relaxed vibe. This updo is suitable for both everyday wear and special occasions.",
@@ -10392,7 +10392,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Curly Braided Updo",
-        "image": "/images/doc44_img_12.jpg?v=20260902",
+        "image": "/images/doc44_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Combining braids with curls in an updo creates a unique and stylish look. This hairstyle is perfect for formal events or a chic summer outing.",
@@ -10403,7 +10403,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Shoulder-Length Curly with Highlights",
-        "image": "/images/doc44_img_13.jpg?v=20260902",
+        "image": "/images/doc44_img_13.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Adding highlights to shoulder-length curly hair can create a beautiful contrast and enhance the curls. This style is perfect for adding a fresh and modern twist.",
@@ -10414,7 +10414,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Simple Curly Bob for Everyday",
-        "image": "/images/doc44_img_14.jpg?v=20260902",
+        "image": "/images/doc44_img_14.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A simple and classic curly bob that is easy to style and perfect for everyday wear. This look is ideal for women who prefer a no-fuss, stylish appearance.",
@@ -10425,7 +10425,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Formal Curly Updo with Accessories",
-        "image": "/images/doc44_img_15.jpg?v=20260902",
+        "image": "/images/doc44_img_15.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A formal curly updo adorned with elegant accessories, perfect for weddings or black-tie events. This style exudes sophistication and grace.",
@@ -10436,7 +10436,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Curly Waterfall Braid",
-        "image": "/images/doc44_img_16.jpg?v=20260902",
+        "image": "/images/doc44_img_16.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A waterfall braid with curls adds a romantic and intricate detail to your hairstyle. This look is perfect for prom or any special occasion.",
@@ -10447,7 +10447,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Long Black Curly Hair",
-        "image": "/images/doc44_img_17.jpg?v=20260902",
+        "image": "/images/doc44_img_17.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long and luscious black curls offer a striking and bold look. This style celebrates natural texture and volume, making a powerful statement.",
@@ -10458,7 +10458,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Medium-Length Curly Hair for Winter",
-        "image": "/images/doc44_img_18.jpg?v=20260902",
+        "image": "/images/doc44_img_18.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Medium-length curly hair is ideal for the winter season, providing warmth and style. This versatile length is easy to manage and looks great with layers.",
@@ -10469,7 +10469,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Curly Bob with Side Part",
-        "image": "/images/doc44_img_19.jpg?v=20260902",
+        "image": "/images/doc44_img_19.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A curly bob with a side part adds an element of asymmetry, making the hairstyle more interesting and dynamic. It's perfect for a modern and stylish look.",
@@ -10480,7 +10480,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Half-Up Curly Hairstyle",
-        "image": "/images/doc44_img_20.jpg?v=20260902",
+        "image": "/images/doc44_img_20.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A half-up style with curls is both elegant and practical, keeping hair away from the face while showcasing beautiful curls. Ideal for both casual and formal settings.",
@@ -10496,7 +10496,7 @@ export const articles = [
     "title": "16+ Trendy Hairstyles for Women over 40 with Curly Hair",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc45_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc45_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 13, 2026",
     "isFeatured": true,
@@ -10551,7 +10551,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Copper Curly Shag with Face-Framing Layers",
-        "image": "/images/doc45_img_1.jpg?v=20260902",
+        "image": "/images/doc45_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A modern shag with chin-length layering and warm copper tones. Perfect for defining natural curl movement while softening facial features.",
@@ -10562,7 +10562,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Salted Caramel Chin-Length Curly Bob",
-        "image": "/images/doc45_img_2.jpg?v=20260902",
+        "image": "/images/doc45_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A structured chin-length bob with subtle layering and a delicious salted caramel hue that flatters warm skin tones. Great for volume and shine.",
@@ -10573,7 +10573,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Layered Lob with Mocha Brown Highlights",
-        "image": "/images/doc45_img_3.jpg?v=20260902",
+        "image": "/images/doc45_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A long bob with internal layers that enhance bounce, paired with soft mocha brown highlights to add richness and dimension to curls.",
@@ -10584,7 +10584,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Shoulder-Length Tapered Cut with Cinnamon Swirl Balayage",
-        "image": "/images/doc45_img_4.jpg?v=20260902",
+        "image": "/images/doc45_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This tapered cut tapers slightly at the ends to reduce bulk and is paired with a cinnamon swirl balayage for warmth and movement.",
@@ -10595,7 +10595,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Bouncy Mid-Length Cut with Honey Blonde Ribbons",
-        "image": "/images/doc45_img_5.jpg?v=20260902",
+        "image": "/images/doc45_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Defined, rounded layers at medium length give springy curls movement, while honey blonde ribbons create contrast and glow.",
@@ -10606,7 +10606,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Textured Pixie with Chestnut Undertones",
-        "image": "/images/doc45_img_6.jpg?v=20260902",
+        "image": "/images/doc45_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A daring cropped curly pixie with tapered sides and textured top, enhanced by deep chestnut undertones for depth and polish.",
@@ -10617,7 +10617,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Soft Curly Wolf Cut in Auburn Red",
-        "image": "/images/doc45_img_7.jpg?v=20260902",
+        "image": "/images/doc45_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This hybrid wolf cut features volume at the crown and a softly layered back. Auburn red tones add vibrancy and flair.",
@@ -10628,7 +10628,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Curly Bob with Deep Side Part and Bronze Highlights",
-        "image": "/images/doc45_img_8.jpg?v=20260902",
+        "image": "/images/doc45_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A slightly asymmetrical curly bob, styled with a deep side part and warm bronze highlights to bring out dimension and structure.",
@@ -10639,7 +10639,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Layered Midi Cut with Toffee Balayage",
-        "image": "/images/doc45_img_9.jpg?v=20260902",
+        "image": "/images/doc45_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Mid-length curls are layered for bounce and flow, highlighted with toffee-colored balayage for a soft, sunlit effect.",
@@ -10650,7 +10650,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Wavy Lob with Sunkissed Brown Accents",
-        "image": "/images/doc45_img_10.jpg?v=20260902",
+        "image": "/images/doc45_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Loose curls styled in a lob, with sunkissed brown accents throughout the layers. An elegant, lived-in finish.",
@@ -10661,7 +10661,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Curly Tapered Afro with Golden Brown Tones",
-        "image": "/images/doc45_img_11.jpg?v=20260902",
+        "image": "/images/doc45_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Natural texture takes center stage with this tapered shape, enhanced by golden brown color that catches the light beautifully.",
@@ -10672,7 +10672,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Voluminous Rounded Cut with Burgundy Highlights",
-        "image": "/images/doc45_img_12.jpg?v=20260902",
+        "image": "/images/doc45_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A rounded silhouette that lifts at the crown, with burgundy highlights weaving through the curls for a rich, dimensional style.",
@@ -10683,7 +10683,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Asymmetrical Curly Cut with Ash Brown Balayage",
-        "image": "/images/doc45_img_13.jpg?v=20260902",
+        "image": "/images/doc45_img_13.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This playful cut features longer curls on one side, softened by an ash brown balayage for a cool-toned, modern touch.",
@@ -10694,7 +10694,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Classic Bob with Defined Layers in Chocolate Black",
-        "image": "/images/doc45_img_14.jpg?v=20260902",
+        "image": "/images/doc45_img_14.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A well-defined layered bob that gives shape and hold to tight curls. The rich chocolate black shade adds sleekness.",
@@ -10705,7 +10705,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Elongated Pixie with Platinum Curls",
-        "image": "/images/doc45_img_15.jpg?v=20260902",
+        "image": "/images/doc45_img_15.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A fashion-forward pixie where platinum curls are emphasized with volume on top and tapered sides, offering edge and elegance.",
@@ -10716,7 +10716,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Shoulder-Length Round Cut with Caramel Drizzle Color",
-        "image": "/images/doc45_img_16.jpg?v=20260902",
+        "image": "/images/doc45_img_16.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Perfect for thick curls, this round cut creates natural fullness, and the caramel drizzle highlights enhance the texture.",
@@ -10727,7 +10727,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Mid-Length Curly Cut with Lavender Tones",
-        "image": "/images/doc45_img_17.jpg?v=20260902",
+        "image": "/images/doc45_img_17.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A bold take for 2025: lavender-hinted highlights on mid-length layers. Soft, cool, and whimsical.",
@@ -10743,7 +10743,7 @@ export const articles = [
     "title": "11+ Beautiful Layered Curly Hairstyles to Inspire You",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc46_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc46_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 14, 2026",
     "isFeatured": true,
@@ -10798,7 +10798,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Long Layered Espresso Curls",
-        "image": "/images/doc46_img_1.jpg?v=20260902",
+        "image": "/images/doc46_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long Layered Espresso Curls is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10809,7 +10809,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Layered Copper Spiral Volume",
-        "image": "/images/doc46_img_2.jpg?v=20260902",
+        "image": "/images/doc46_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Layered Copper Spiral Volume is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10820,7 +10820,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Soft Auburn Curly Bob with Layers",
-        "image": "/images/doc46_img_3.jpg?v=20260902",
+        "image": "/images/doc46_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Soft Auburn Curly Bob with Layers is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10831,7 +10831,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Shaggy Chestnut Curly Layers with Fringe",
-        "image": "/images/doc46_img_4.jpg?v=20260902",
+        "image": "/images/doc46_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Shaggy Chestnut Curly Layers with Fringe is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10842,7 +10842,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Dimensional Brunette Layered Ringlets",
-        "image": "/images/doc46_img_5.jpg?v=20260902",
+        "image": "/images/doc46_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Dimensional Brunette Layered Ringlets is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10853,7 +10853,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Golden Blonde Highlighted Curly Layers",
-        "image": "/images/doc46_img_6.jpg?v=20260902",
+        "image": "/images/doc46_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Golden Blonde Highlighted Curly Layers is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10864,7 +10864,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Caramel Ribbon Layered Curls",
-        "image": "/images/doc46_img_7.jpg?v=20260902",
+        "image": "/images/doc46_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Caramel Ribbon Layered Curls is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10875,7 +10875,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Sculpted Cinnamon Curly Lob",
-        "image": "/images/doc46_img_8.jpg?v=20260902",
+        "image": "/images/doc46_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Sculpted Cinnamon Curly Lob is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10886,7 +10886,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Honey Blonde Layered Spiral Cut",
-        "image": "/images/doc46_img_9.jpg?v=20260902",
+        "image": "/images/doc46_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Honey Blonde Layered Spiral Cut is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10897,7 +10897,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Voluminous Ash Brown Curly Shag",
-        "image": "/images/doc46_img_10.jpg?v=20260902",
+        "image": "/images/doc46_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Voluminous Ash Brown Curly Shag is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10908,7 +10908,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Chocolate Brown Layered Spiral Shag",
-        "image": "/images/doc46_img_11.jpg?v=20260902",
+        "image": "/images/doc46_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Chocolate Brown Layered Spiral Shag is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10919,7 +10919,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Copper Cinnamon Layered Curly Bob",
-        "image": "/images/doc46_img_12.jpg?v=20260902",
+        "image": "/images/doc46_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Copper Cinnamon Layered Curly Bob is a gorgeous curly haircut that celebrates natural ringlets and wavy volume.",
@@ -10935,7 +10935,7 @@ export const articles = [
     "title": "19+ Beautiful Natural Curly Hairstyles for Women over 50",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
-    "heroImage": "/images/doc47_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc47_cover_collage.jpg",
     "readTime": "9 min read",
     "date": "August 15, 2026",
     "isFeatured": true,
@@ -10990,7 +10990,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Curly Bob – Warm Chestnut",
-        "image": "/images/doc47_img_1.jpg?v=20260902",
+        "image": "/images/doc47_img_1.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This layered curly bob uses gentle shaping to enhance natural curl definition, while warm chestnut adds richness and depth to soften facial features.",
@@ -11001,7 +11001,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Tapered Curly Pixie – Natural Salt and Pepper",
-        "image": "/images/doc47_img_2.jpg?v=20260902",
+        "image": "/images/doc47_img_2.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A tapered curly pixie keeps the sides clean and the curls textured on top, allowing natural salt and pepper tones to shine confidently.",
@@ -11012,7 +11012,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Shoulder-Length Curly Cut – Honey Brown",
-        "image": "/images/doc47_img_3.jpg?v=20260902",
+        "image": "/images/doc47_img_3.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This shoulder-length curly haircut features long layers that reduce bulk while honey brown adds warmth and dimension to each curl.",
@@ -11023,7 +11023,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Curly Shag with Bangs – Soft Auburn",
-        "image": "/images/doc47_img_4.jpg?v=20260902",
+        "image": "/images/doc47_img_4.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A modern curly shag with light bangs creates movement and volume, while soft auburn enhances the layered texture beautifully.",
@@ -11034,7 +11034,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Chin-Length Curly Bob – Silver Gray",
-        "image": "/images/doc47_img_5.jpg?v=20260902",
+        "image": "/images/doc47_img_5.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This chin-length curly bob offers structure and bounce, paired with silver gray to highlight natural elegance and curl definition.",
@@ -11045,7 +11045,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Long Layered Curly Cut – Espresso Brown",
-        "image": "/images/doc47_img_6.jpg?v=20260902",
+        "image": "/images/doc47_img_6.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long layers keep curls from feeling heavy, and espresso brown adds a deep, polished finish that enhances curl contrast.",
@@ -11056,7 +11056,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Curly Lob with Face Framing – Caramel Highlights",
-        "image": "/images/doc47_img_7.jpg?v=20260902",
+        "image": "/images/doc47_img_7.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A curly lob with face-framing layers opens up the face, while caramel highlights add brightness and dimension.",
@@ -11067,7 +11067,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Rounded Curly Afro – Natural Black",
-        "image": "/images/doc47_img_8.jpg?v=20260902",
+        "image": "/images/doc47_img_8.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This rounded curly afro celebrates natural volume and shape, with natural black keeping the look bold and timeless.",
@@ -11078,7 +11078,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Curly Crop Cut – Cool Charcoal Gray",
-        "image": "/images/doc47_img_9.jpg?v=20260902",
+        "image": "/images/doc47_img_9.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A short curly crop offers easy maintenance, and charcoal gray gives a modern edge while enhancing curl texture.",
@@ -11089,7 +11089,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Medium Curly Layers – Golden Brown",
-        "image": "/images/doc47_img_10.jpg?v=20260902",
+        "image": "/images/doc47_img_10.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Medium-length curls with layered shaping create lift and balance, complemented by golden brown for a youthful glow.",
@@ -11100,7 +11100,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Curly Bob with Side Part – Soft Mocha",
-        "image": "/images/doc47_img_11.jpg?v=20260902",
+        "image": "/images/doc47_img_11.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A side-parted curly bob adds asymmetry and movement, while soft mocha brings subtle warmth and polish.",
@@ -11111,7 +11111,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Curly Pixie with Volume – Ash Brown",
-        "image": "/images/doc47_img_12.jpg?v=20260902",
+        "image": "/images/doc47_img_12.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This voluminous curly pixie focuses on height at the crown, with ash brown keeping the look refined and contemporary.",
@@ -11122,7 +11122,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Shoulder-Length Curly Shag – Sandy Blonde",
-        "image": "/images/doc47_img_13.jpg?v=20260902",
+        "image": "/images/doc47_img_13.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A curly shag at shoulder length blends layers and texture, with sandy blonde adding lightness and softness.",
@@ -11133,7 +11133,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Short Curly Taper – Natural Gray",
-        "image": "/images/doc47_img_14.jpg?v=20260902",
+        "image": "/images/doc47_img_14.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This short tapered curly cut creates a clean silhouette, allowing natural gray curls to stand out beautifully.",
@@ -11144,7 +11144,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Long Curly Layers with Bangs – Dark Chocolate",
-        "image": "/images/doc47_img_15.jpg?v=20260902",
+        "image": "/images/doc47_img_15.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Long curly layers paired with soft bangs frame the face, while dark chocolate enhances shine and depth.",
@@ -11155,7 +11155,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Curly Bob with Wispy Ends – Champagne Blonde",
-        "image": "/images/doc47_img_16.jpg?v=20260902",
+        "image": "/images/doc47_img_16.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "Wispy ends keep this curly bob light and airy, and champagne blonde adds brightness without overpowering curls.",
@@ -11166,7 +11166,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Textured Curly Lob – Warm Cinnamon",
-        "image": "/images/doc47_img_17.jpg?v=20260902",
+        "image": "/images/doc47_img_17.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A textured curly lob balances volume and movement, with warm cinnamon adding a subtle pop of color.",
@@ -11177,7 +11177,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Curly Pixie Bob – Soft Silver",
-        "image": "/images/doc47_img_18.jpg?v=20260902",
+        "image": "/images/doc47_img_18.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "This pixie bob blends short layers with curl texture, while soft silver delivers a graceful, modern finish.",
@@ -11188,7 +11188,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Medium Curly Cut with Layers – Chestnut Brown",
-        "image": "/images/doc47_img_19.jpg?v=20260902",
+        "image": "/images/doc47_img_19.jpg",
         "whyWeLoveIt": "Springy curl definition with touchable hydration and shine.",
         "paragraphs": [
           "A layered medium-length curly cut provides shape and flexibility, enhanced by classic chestnut brown tones.",
@@ -11204,7 +11204,7 @@ export const articles = [
     "title": "13+ Stunning Sleek Low Ponytail That Stand Out",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc48_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc48_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 16, 2026",
     "isFeatured": true,
@@ -11259,7 +11259,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Polished Espresso Sleek Ponytail",
-        "image": "/images/doc48_img_1.jpg?v=20260902",
+        "image": "/images/doc48_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Polished Espresso Sleek Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11270,7 +11270,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Golden Caramel Wave Ponytail",
-        "image": "/images/doc48_img_2.jpg?v=20260902",
+        "image": "/images/doc48_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Golden Caramel Wave Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11281,7 +11281,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Midnight Gloss Low Ponytail",
-        "image": "/images/doc48_img_3.jpg?v=20260902",
+        "image": "/images/doc48_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Midnight Gloss Low Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11292,7 +11292,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Ash Beige Low Ponytail with Gentle Waves",
-        "image": "/images/doc48_img_4.jpg?v=20260902",
+        "image": "/images/doc48_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Ash Beige Low Ponytail with Gentle Waves is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11303,7 +11303,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Honey Ombre Sleek Ponytail",
-        "image": "/images/doc48_img_5.jpg?v=20260902",
+        "image": "/images/doc48_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Honey Ombre Sleek Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11314,7 +11314,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Glossy Mocha Straight Ponytail",
-        "image": "/images/doc48_img_6.jpg?v=20260902",
+        "image": "/images/doc48_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Glossy Mocha Straight Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11325,7 +11325,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Smoky Ash Sleek Ponytail",
-        "image": "/images/doc48_img_7.jpg?v=20260902",
+        "image": "/images/doc48_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Smoky Ash Sleek Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11336,7 +11336,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Platinum Blonde Wave Ponytail",
-        "image": "/images/doc48_img_8.jpg?v=20260902",
+        "image": "/images/doc48_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Platinum Blonde Wave Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11347,7 +11347,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Soft Chestnut Sleek Ponytail",
-        "image": "/images/doc48_img_9.jpg?v=20260902",
+        "image": "/images/doc48_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Chestnut Sleek Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11358,7 +11358,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Cinnamon Brown Straight Ponytail",
-        "image": "/images/doc48_img_10.jpg?v=20260902",
+        "image": "/images/doc48_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Cinnamon Brown Straight Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11369,7 +11369,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Golden Chestnut Wave Ponytail",
-        "image": "/images/doc48_img_11.jpg?v=20260902",
+        "image": "/images/doc48_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Golden Chestnut Wave Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11380,7 +11380,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Gloss Black Sculpted Ponytail",
-        "image": "/images/doc48_img_12.jpg?v=20260902",
+        "image": "/images/doc48_img_12.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Gloss Black Sculpted Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11391,7 +11391,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Honey Beige Low Ponytail",
-        "image": "/images/doc48_img_13.jpg?v=20260902",
+        "image": "/images/doc48_img_13.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Honey Beige Low Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11402,7 +11402,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Ebony Silk Low Ponytail",
-        "image": "/images/doc48_img_14.jpg?v=20260902",
+        "image": "/images/doc48_img_14.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Ebony Silk Low Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11418,7 +11418,7 @@ export const articles = [
     "title": "15+ Stylish Updo Hairstyles to Save Now",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc49_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc49_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 17, 2026",
     "isFeatured": true,
@@ -11473,7 +11473,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Sleek Low Chignon with Pearl Floral Accents on Warm Brunette Hair",
-        "image": "/images/doc49_img_1.jpg?v=20260902",
+        "image": "/images/doc49_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Low Chignon with Pearl Floral Accents on Warm Brunette Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11484,7 +11484,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Textured Copper Updo with Soft Tendrils",
-        "image": "/images/doc49_img_2.jpg?v=20260902",
+        "image": "/images/doc49_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Textured Copper Updo with Soft Tendrils is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11495,7 +11495,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Twisted Blonde Low Bun with Soft Shine Finish",
-        "image": "/images/doc49_img_3.jpg?v=20260902",
+        "image": "/images/doc49_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Twisted Blonde Low Bun with Soft Shine Finish is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11506,7 +11506,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Modern Loose Bun with Face-Framing Highlights on Light Brown Hair",
-        "image": "/images/doc49_img_4.jpg?v=20260902",
+        "image": "/images/doc49_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Modern Loose Bun with Face-Framing Highlights on Light Brown Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11517,7 +11517,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Classic Sleek Low Knot on Platinum Blonde Hair",
-        "image": "/images/doc49_img_5.jpg?v=20260902",
+        "image": "/images/doc49_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Classic Sleek Low Knot on Platinum Blonde Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11528,7 +11528,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Voluminous Braided Updo on Multi-Tonal Blonde Hair",
-        "image": "/images/doc49_img_6.jpg?v=20260902",
+        "image": "/images/doc49_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Voluminous Braided Updo on Multi-Tonal Blonde Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11539,7 +11539,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Sculpted Blonde Twist Bun with Soft Layers",
-        "image": "/images/doc49_img_7.jpg?v=20260902",
+        "image": "/images/doc49_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sculpted Blonde Twist Bun with Soft Layers is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11550,7 +11550,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Low Bun with Pearl Pin Detail on Golden Blonde Hair",
-        "image": "/images/doc49_img_8.jpg?v=20260902",
+        "image": "/images/doc49_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Low Bun with Pearl Pin Detail on Golden Blonde Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11561,7 +11561,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Braided Low Bun with Pearl and Floral Embellishments on Honey Blonde Hair",
-        "image": "/images/doc49_img_9.jpg?v=20260902",
+        "image": "/images/doc49_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Braided Low Bun with Pearl and Floral Embellishments on Honey Blonde Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11572,7 +11572,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Textured Curly Updo with Floral Pins on Deep Brunette Hair",
-        "image": "/images/doc49_img_10.jpg?v=20260902",
+        "image": "/images/doc49_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Textured Curly Updo with Floral Pins on Deep Brunette Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11583,7 +11583,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Intricate Braided Bun on Golden Brown Hair",
-        "image": "/images/doc49_img_11.jpg?v=20260902",
+        "image": "/images/doc49_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Intricate Braided Bun on Golden Brown Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11594,7 +11594,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Soft Twisted Updo with Side Detail on Light Blonde Hair",
-        "image": "/images/doc49_img_12.jpg?v=20260902",
+        "image": "/images/doc49_img_12.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Twisted Updo with Side Detail on Light Blonde Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11605,7 +11605,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Elegant Low Knot with Soft Volume on Ash Blonde Hair",
-        "image": "/images/doc49_img_13.jpg?v=20260902",
+        "image": "/images/doc49_img_13.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Elegant Low Knot with Soft Volume on Ash Blonde Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11616,7 +11616,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Loose Textured Bun on Cool Blonde Hair",
-        "image": "/images/doc49_img_14.jpg?v=20260902",
+        "image": "/images/doc49_img_14.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Loose Textured Bun on Cool Blonde Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11627,7 +11627,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Braided Crown into Low Bun on Warm Blonde Hair",
-        "image": "/images/doc49_img_15.jpg?v=20260902",
+        "image": "/images/doc49_img_15.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Braided Crown into Low Bun on Warm Blonde Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11638,7 +11638,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Twisted Braided Bun with Dimensional Blonde Highlights",
-        "image": "/images/doc49_img_16.jpg?v=20260902",
+        "image": "/images/doc49_img_16.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Twisted Braided Bun with Dimensional Blonde Highlights is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11654,7 +11654,7 @@ export const articles = [
     "title": "11+ Beautiful Bun Hairstyles You’ll Love",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc50_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc50_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 18, 2026",
     "isFeatured": true,
@@ -11709,7 +11709,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Sculpted Auburn Double Bun Updo",
-        "image": "/images/doc50_img_1.jpg?v=20260902",
+        "image": "/images/doc50_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sculpted Auburn Double Bun Updo is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11720,7 +11720,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Classic Cinnamon Brown Twisted Bun",
-        "image": "/images/doc50_img_2.jpg?v=20260902",
+        "image": "/images/doc50_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Classic Cinnamon Brown Twisted Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11731,7 +11731,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Sleek Brunette Knot Bun with Blonde Ribbon Highlights",
-        "image": "/images/doc50_img_3.jpg?v=20260902",
+        "image": "/images/doc50_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Brunette Knot Bun with Blonde Ribbon Highlights is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11742,7 +11742,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Soft Blonde Low Chignon",
-        "image": "/images/doc50_img_4.jpg?v=20260902",
+        "image": "/images/doc50_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Blonde Low Chignon is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11753,7 +11753,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Dimensional Blonde Folded Bun",
-        "image": "/images/doc50_img_5.jpg?v=20260902",
+        "image": "/images/doc50_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Dimensional Blonde Folded Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11764,7 +11764,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Glossy Champagne Blonde Knot Bun",
-        "image": "/images/doc50_img_6.jpg?v=20260902",
+        "image": "/images/doc50_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Glossy Champagne Blonde Knot Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11775,7 +11775,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Rich Copper Sleek Low Bun",
-        "image": "/images/doc50_img_7.jpg?v=20260902",
+        "image": "/images/doc50_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Rich Copper Sleek Low Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11786,7 +11786,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Ash Blonde Twisted Bridal Bun",
-        "image": "/images/doc50_img_8.jpg?v=20260902",
+        "image": "/images/doc50_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Ash Blonde Twisted Bridal Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11797,7 +11797,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Soft Beige Blonde Textured Bun",
-        "image": "/images/doc50_img_9.jpg?v=20260902",
+        "image": "/images/doc50_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Beige Blonde Textured Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11808,7 +11808,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Deep Espresso Rolled Bun",
-        "image": "/images/doc50_img_10.jpg?v=20260902",
+        "image": "/images/doc50_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Deep Espresso Rolled Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11819,7 +11819,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Espresso Brown Sculpted Twisted Bun",
-        "image": "/images/doc50_img_11.jpg?v=20260902",
+        "image": "/images/doc50_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Espresso Brown Sculpted Twisted Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11830,7 +11830,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Dimensional Blonde Swirl Bun",
-        "image": "/images/doc50_img_12.jpg?v=20260902",
+        "image": "/images/doc50_img_12.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Dimensional Blonde Swirl Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11846,7 +11846,7 @@ export const articles = [
     "title": "12+ Chic Messy Bun Hairstyles That Stand Out",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc51_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc51_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 19, 2026",
     "isFeatured": true,
@@ -11901,7 +11901,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Romantic Chocolate Brown Textured Messy Bun",
-        "image": "/images/doc51_img_1.jpg?v=20260902",
+        "image": "/images/doc51_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Romantic Chocolate Brown Textured Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11912,7 +11912,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Soft Blonde Twisted Messy Bun Updo",
-        "image": "/images/doc51_img_2.jpg?v=20260902",
+        "image": "/images/doc51_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Blonde Twisted Messy Bun Updo is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11923,7 +11923,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Dimensional Honey Blonde Statement Messy Bun",
-        "image": "/images/doc51_img_3.jpg?v=20260902",
+        "image": "/images/doc51_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Dimensional Honey Blonde Statement Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11934,7 +11934,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Ash Blonde Volume-Rich Messy Bun",
-        "image": "/images/doc51_img_4.jpg?v=20260902",
+        "image": "/images/doc51_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Ash Blonde Volume-Rich Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11945,7 +11945,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Caramel Balayage Glamorous Messy Bun",
-        "image": "/images/doc51_img_5.jpg?v=20260902",
+        "image": "/images/doc51_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Caramel Balayage Glamorous Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11956,7 +11956,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Deep Espresso Curled Messy Bun",
-        "image": "/images/doc51_img_6.jpg?v=20260902",
+        "image": "/images/doc51_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Deep Espresso Curled Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11967,7 +11967,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Golden Blonde Draped Messy Bun",
-        "image": "/images/doc51_img_7.jpg?v=20260902",
+        "image": "/images/doc51_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Golden Blonde Draped Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11978,7 +11978,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Blonde and Brunette Dimensional Messy Bun",
-        "image": "/images/doc51_img_8.jpg?v=20260902",
+        "image": "/images/doc51_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Blonde and Brunette Dimensional Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -11989,7 +11989,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Soft Brunette Low-Texture Messy Bun",
-        "image": "/images/doc51_img_9.jpg?v=20260902",
+        "image": "/images/doc51_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Brunette Low-Texture Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12000,7 +12000,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Midnight Black Textured Messy Bun",
-        "image": "/images/doc51_img_10.jpg?v=20260902",
+        "image": "/images/doc51_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Midnight Black Textured Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12011,7 +12011,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Copper Brown Voluminous Messy Bun",
-        "image": "/images/doc51_img_11.jpg?v=20260902",
+        "image": "/images/doc51_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Copper Brown Voluminous Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12022,7 +12022,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Icy Platinum Wrapped Messy Bun",
-        "image": "/images/doc51_img_12.jpg?v=20260902",
+        "image": "/images/doc51_img_12.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Icy Platinum Wrapped Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12033,7 +12033,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Sunlit Blonde Soft Messy Bun",
-        "image": "/images/doc51_img_13.jpg?v=20260902",
+        "image": "/images/doc51_img_13.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sunlit Blonde Soft Messy Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12049,7 +12049,7 @@ export const articles = [
     "title": "10+ Trendy Bandana Hairstyles That Turn Heads",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc52_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc52_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 20, 2026",
     "isFeatured": true,
@@ -12104,7 +12104,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Blonde Waves with Minimalist Pink Bandana",
-        "image": "/images/doc52_img_1.jpg?v=20260902",
+        "image": "/images/doc52_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Blonde Waves with Minimalist Pink Bandana is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12115,7 +12115,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Sleek Brunette Ponytail with Printed Scarf Wrap",
-        "image": "/images/doc52_img_2.jpg?v=20260902",
+        "image": "/images/doc52_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Brunette Ponytail with Printed Scarf Wrap is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12126,7 +12126,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Braided Updo with Mustard Bandana Headband",
-        "image": "/images/doc52_img_3.jpg?v=20260902",
+        "image": "/images/doc52_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Braided Updo with Mustard Bandana Headband is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12137,7 +12137,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Loose Blonde Hair with Black Patterned Bandana",
-        "image": "/images/doc52_img_4.jpg?v=20260902",
+        "image": "/images/doc52_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Loose Blonde Hair with Black Patterned Bandana is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12148,7 +12148,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Shoulder-Length Brunette Hair with Lavender Bandana Wrap",
-        "image": "/images/doc52_img_5.jpg?v=20260902",
+        "image": "/images/doc52_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Shoulder-Length Brunette Hair with Lavender Bandana Wrap is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12159,7 +12159,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Messy Blonde Bun with Red Floral Bandana",
-        "image": "/images/doc52_img_6.jpg?v=20260902",
+        "image": "/images/doc52_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Messy Blonde Bun with Red Floral Bandana is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12170,7 +12170,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Straight Brunette Lob with Classic White Bandana",
-        "image": "/images/doc52_img_7.jpg?v=20260902",
+        "image": "/images/doc52_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Straight Brunette Lob with Classic White Bandana is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12181,7 +12181,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Long Auburn Waves with Oversized Printed Bandana",
-        "image": "/images/doc52_img_8.jpg?v=20260902",
+        "image": "/images/doc52_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Long Auburn Waves with Oversized Printed Bandana is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12192,7 +12192,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Soft Blonde Layers with Sheer Blue Bandana",
-        "image": "/images/doc52_img_9.jpg?v=20260902",
+        "image": "/images/doc52_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Blonde Layers with Sheer Blue Bandana is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12203,7 +12203,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Double Braided Ponytail with Yellow Bandana Tie",
-        "image": "/images/doc52_img_10.jpg?v=20260902",
+        "image": "/images/doc52_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Double Braided Ponytail with Yellow Bandana Tie is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12214,7 +12214,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Low Brunette Ponytail with Red Micro-Print Bandana Tie",
-        "image": "/images/doc52_img_11.jpg?v=20260902",
+        "image": "/images/doc52_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Low Brunette Ponytail with Red Micro-Print Bandana Tie is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12230,7 +12230,7 @@ export const articles = [
     "title": "13+ Chic Claw Clip Hairstyles to Try Today",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc53_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc53_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 21, 2026",
     "isFeatured": true,
@@ -12285,7 +12285,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Brunette Balayage Half-Up Claw Clip",
-        "image": "/images/doc53_img_1.jpg?v=20260902",
+        "image": "/images/doc53_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Brunette Balayage Half-Up Claw Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12296,7 +12296,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Creamy Blonde Loose Half-Up Clip Style",
-        "image": "/images/doc53_img_2.jpg?v=20260902",
+        "image": "/images/doc53_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Creamy Blonde Loose Half-Up Clip Style is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12307,7 +12307,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Sleek Brunette Low Bun with Statement Clip",
-        "image": "/images/doc53_img_3.jpg?v=20260902",
+        "image": "/images/doc53_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Brunette Low Bun with Statement Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12318,7 +12318,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Dimensional Blonde Half-Up Twist with Minimal Clip",
-        "image": "/images/doc53_img_4.jpg?v=20260902",
+        "image": "/images/doc53_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Dimensional Blonde Half-Up Twist with Minimal Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12329,7 +12329,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Textured Brunette Updo with Metallic Claw Clip",
-        "image": "/images/doc53_img_5.jpg?v=20260902",
+        "image": "/images/doc53_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Textured Brunette Updo with Metallic Claw Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12340,7 +12340,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Curly Blonde Half-Up Clip with Decorative Detail",
-        "image": "/images/doc53_img_6.jpg?v=20260902",
+        "image": "/images/doc53_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Curly Blonde Half-Up Clip with Decorative Detail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12351,7 +12351,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Glossy Brunette Twist with Tortoiseshell Clip",
-        "image": "/images/doc53_img_7.jpg?v=20260902",
+        "image": "/images/doc53_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Glossy Brunette Twist with Tortoiseshell Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12362,7 +12362,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Warm Brunette Half-Up Floral Clip Style",
-        "image": "/images/doc53_img_8.jpg?v=20260902",
+        "image": "/images/doc53_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Warm Brunette Half-Up Floral Clip Style is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12373,7 +12373,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Ash Blonde Layered Half-Up with Classic Clip",
-        "image": "/images/doc53_img_9.jpg?v=20260902",
+        "image": "/images/doc53_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Ash Blonde Layered Half-Up with Classic Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12384,7 +12384,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Natural Brunette Half-Up Street Style Clip",
-        "image": "/images/doc53_img_10.jpg?v=20260902",
+        "image": "/images/doc53_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Natural Brunette Half-Up Street Style Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12395,7 +12395,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Rainbow Prism Half-Up Claw Clip Pony",
-        "image": "/images/doc53_img_11.jpg?v=20260902",
+        "image": "/images/doc53_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Rainbow Prism Half-Up Claw Clip Pony is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12406,7 +12406,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Soft Golden Blonde Textured Half-Up Clip",
-        "image": "/images/doc53_img_12.jpg?v=20260902",
+        "image": "/images/doc53_img_12.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Golden Blonde Textured Half-Up Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12417,7 +12417,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Beachy Blonde Waves with Mini Claw Clip Accent",
-        "image": "/images/doc53_img_13.jpg?v=20260902",
+        "image": "/images/doc53_img_13.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Beachy Blonde Waves with Mini Claw Clip Accent is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12428,7 +12428,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Chic Ash Blonde Low Bun with Matte Claw Clip",
-        "image": "/images/doc53_img_14.jpg?v=20260902",
+        "image": "/images/doc53_img_14.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Chic Ash Blonde Low Bun with Matte Claw Clip is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12444,7 +12444,7 @@ export const articles = [
     "title": "12+ Easy Hairstyles Worth Saving",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc54_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc54_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 22, 2026",
     "isFeatured": true,
@@ -12499,7 +12499,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Sleek Cinnamon Low Bun",
-        "image": "/images/doc54_img_1.jpg?v=20260902",
+        "image": "/images/doc54_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Cinnamon Low Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12510,7 +12510,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Soft Caramel Half-Up Ponytail Waves",
-        "image": "/images/doc54_img_2.jpg?v=20260902",
+        "image": "/images/doc54_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Caramel Half-Up Ponytail Waves is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12521,7 +12521,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Espresso Bubble Braid Ponytail",
-        "image": "/images/doc54_img_3.jpg?v=20260902",
+        "image": "/images/doc54_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Espresso Bubble Braid Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12532,7 +12532,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Glossy Mocha High Ponytail",
-        "image": "/images/doc54_img_4.jpg?v=20260902",
+        "image": "/images/doc54_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Glossy Mocha High Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12543,7 +12543,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Champagne Blonde Bubble Braid",
-        "image": "/images/doc54_img_5.jpg?v=20260902",
+        "image": "/images/doc54_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Champagne Blonde Bubble Braid is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12554,7 +12554,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Textured Dark Chocolate Updo",
-        "image": "/images/doc54_img_6.jpg?v=20260902",
+        "image": "/images/doc54_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Textured Dark Chocolate Updo is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12565,7 +12565,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Rich Brunette Half-Up Waves",
-        "image": "/images/doc54_img_7.jpg?v=20260902",
+        "image": "/images/doc54_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Rich Brunette Half-Up Waves is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12576,7 +12576,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Soft Ash Blonde Twisted Bun",
-        "image": "/images/doc54_img_8.jpg?v=20260902",
+        "image": "/images/doc54_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Ash Blonde Twisted Bun is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12587,7 +12587,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Honey Blonde Floral Updo",
-        "image": "/images/doc54_img_9.jpg?v=20260902",
+        "image": "/images/doc54_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Honey Blonde Floral Updo is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12598,7 +12598,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Dimensional Brunette Braided Half-Up Style",
-        "image": "/images/doc54_img_10.jpg?v=20260902",
+        "image": "/images/doc54_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Dimensional Brunette Braided Half-Up Style is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12609,7 +12609,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Soft Beige Blonde Half-Up Twist",
-        "image": "/images/doc54_img_11.jpg?v=20260902",
+        "image": "/images/doc54_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Beige Blonde Half-Up Twist is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12620,7 +12620,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Glossy Jet Black Curled Updo",
-        "image": "/images/doc54_img_12.jpg?v=20260902",
+        "image": "/images/doc54_img_12.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Glossy Jet Black Curled Updo is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12631,7 +12631,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Golden Blonde Half-Up Ponytail Waves",
-        "image": "/images/doc54_img_13.jpg?v=20260902",
+        "image": "/images/doc54_img_13.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Golden Blonde Half-Up Ponytail Waves is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12647,7 +12647,7 @@ export const articles = [
     "title": "11+ Amazing Ponytail Hairstyles That Turn Heads",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc55_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc55_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 23, 2026",
     "isFeatured": true,
@@ -12702,7 +12702,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Blonde Low Ponytail with Face-Framing Layers",
-        "image": "/images/doc55_img_1.jpg?v=20260902",
+        "image": "/images/doc55_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Soft Blonde Low Ponytail with Face-Framing Layers is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12713,7 +12713,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Glossy Brunette Twisted Low Ponytail",
-        "image": "/images/doc55_img_2.jpg?v=20260902",
+        "image": "/images/doc55_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Glossy Brunette Twisted Low Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12724,7 +12724,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Warm Honey Blonde Sleek Low Ponytail",
-        "image": "/images/doc55_img_3.jpg?v=20260902",
+        "image": "/images/doc55_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Warm Honey Blonde Sleek Low Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12735,7 +12735,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Classic Straight Champagne Blonde Ponytail",
-        "image": "/images/doc55_img_4.jpg?v=20260902",
+        "image": "/images/doc55_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Classic Straight Champagne Blonde Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12746,7 +12746,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Dimensional Blonde Curled Low Ponytail",
-        "image": "/images/doc55_img_5.jpg?v=20260902",
+        "image": "/images/doc55_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Dimensional Blonde Curled Low Ponytail is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12757,7 +12757,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Polished Ash Blonde Low Ponytail with Loose Waves",
-        "image": "/images/doc55_img_6.jpg?v=20260902",
+        "image": "/images/doc55_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Polished Ash Blonde Low Ponytail with Loose Waves is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12768,7 +12768,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Sleek Dark Brunette Ponytail with Natural Movement",
-        "image": "/images/doc55_img_7.jpg?v=20260902",
+        "image": "/images/doc55_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Dark Brunette Ponytail with Natural Movement is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12779,7 +12779,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Espresso Brown Ponytail with Statement Bow Accent",
-        "image": "/images/doc55_img_8.jpg?v=20260902",
+        "image": "/images/doc55_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Espresso Brown Ponytail with Statement Bow Accent is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12790,7 +12790,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Golden Blonde Low Ponytail with Soft Glam Waves",
-        "image": "/images/doc55_img_9.jpg?v=20260902",
+        "image": "/images/doc55_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Golden Blonde Low Ponytail with Soft Glam Waves is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12801,7 +12801,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Textured Blonde Ponytail with Decorative Pins",
-        "image": "/images/doc55_img_10.jpg?v=20260902",
+        "image": "/images/doc55_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Textured Blonde Ponytail with Decorative Pins is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12812,7 +12812,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Sunlit Blonde Low Ponytail with Defined Waves",
-        "image": "/images/doc55_img_11.jpg?v=20260902",
+        "image": "/images/doc55_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sunlit Blonde Low Ponytail with Defined Waves is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12823,7 +12823,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Tousled Brunette Ponytail with Soft Volume",
-        "image": "/images/doc55_img_12.jpg?v=20260902",
+        "image": "/images/doc55_img_12.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Tousled Brunette Ponytail with Soft Volume is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12839,7 +12839,7 @@ export const articles = [
     "title": "12+ Stylish Slick Back Hairstyles to Inspire You",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc56_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc56_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 24, 2026",
     "isFeatured": true,
@@ -12894,7 +12894,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Elegant Low Bun with Glossy Black Hair",
-        "image": "/images/doc56_img_1.jpg?v=20260902",
+        "image": "/images/doc56_img_1.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Elegant Low Bun with Glossy Black Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12905,7 +12905,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Shimmer-Accented Slick Back with Dark Brunette Hair",
-        "image": "/images/doc56_img_2.jpg?v=20260902",
+        "image": "/images/doc56_img_2.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Shimmer-Accented Slick Back with Dark Brunette Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12916,7 +12916,7 @@ export const articles = [
       {
         "number": 3,
         "title": "High Ponytail with Ash Blonde Dimension",
-        "image": "/images/doc56_img_3.jpg?v=20260902",
+        "image": "/images/doc56_img_3.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "High Ponytail with Ash Blonde Dimension is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12927,7 +12927,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Sleek Braided Ponytail with Espresso Hair",
-        "image": "/images/doc56_img_4.jpg?v=20260902",
+        "image": "/images/doc56_img_4.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Braided Ponytail with Espresso Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12938,7 +12938,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Bubble Ponytail with Jet Black Shine",
-        "image": "/images/doc56_img_5.jpg?v=20260902",
+        "image": "/images/doc56_img_5.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Bubble Ponytail with Jet Black Shine is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12949,7 +12949,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Minimalist Slick Ponytail with Natural Brunette Hair",
-        "image": "/images/doc56_img_6.jpg?v=20260902",
+        "image": "/images/doc56_img_6.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Minimalist Slick Ponytail with Natural Brunette Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12960,7 +12960,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Top Knot with Platinum Blonde Contrast",
-        "image": "/images/doc56_img_7.jpg?v=20260902",
+        "image": "/images/doc56_img_7.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Top Knot with Platinum Blonde Contrast is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12971,7 +12971,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Sleek Back with Natural Black Gloss",
-        "image": "/images/doc56_img_8.jpg?v=20260902",
+        "image": "/images/doc56_img_8.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Back with Natural Black Gloss is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12982,7 +12982,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Sleek Knot with Honey Blonde Finish",
-        "image": "/images/doc56_img_9.jpg?v=20260902",
+        "image": "/images/doc56_img_9.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Knot with Honey Blonde Finish is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -12993,7 +12993,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Side-Parted Slick Waves with Jet Black Hair",
-        "image": "/images/doc56_img_10.jpg?v=20260902",
+        "image": "/images/doc56_img_10.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Side-Parted Slick Waves with Jet Black Hair is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -13004,7 +13004,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Twisted Slick Bun with Dark Brunette Finish",
-        "image": "/images/doc56_img_11.jpg?v=20260902",
+        "image": "/images/doc56_img_11.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Twisted Slick Bun with Dark Brunette Finish is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -13015,7 +13015,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Glossy Slick Waves with Espresso Brown Shine",
-        "image": "/images/doc56_img_12.jpg?v=20260902",
+        "image": "/images/doc56_img_12.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Glossy Slick Waves with Espresso Brown Shine is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -13026,7 +13026,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Sleek Updo with Platinum Blonde Face Frames",
-        "image": "/images/doc56_img_13.jpg?v=20260902",
+        "image": "/images/doc56_img_13.jpg",
         "whyWeLoveIt": "Quick 5-minute everyday styling with natural movement and polish.",
         "paragraphs": [
           "Sleek Updo with Platinum Blonde Face Frames is a chic, low-maintenance everyday hairstyle designed for busy mornings.",
@@ -13042,7 +13042,7 @@ export const articles = [
     "title": "27+ Best Haircuts for Men with Oval Faces",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc57_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc57_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 25, 2026",
     "isFeatured": true,
@@ -13097,7 +13097,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Classic Undercut",
-        "image": "/images/doc57_img_1.jpg?v=20260902",
+        "image": "/images/doc57_img_1.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "This timeless style features short sides with a longer top, perfect for adding volume. Pair with a cool ash brown color for a contemporary twist.",
@@ -13108,7 +13108,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Textured Buzz Cut",
-        "image": "/images/doc57_img_2.jpg?v=20260902",
+        "image": "/images/doc57_img_2.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Ideal for those who prefer low maintenance, this cut keeps it short and sharp. Opt for a subtle dark chocolate hue to add depth.",
@@ -13119,7 +13119,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Messy Waves",
-        "image": "/images/doc57_img_3.jpg?v=20260902",
+        "image": "/images/doc57_img_3.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Let your natural waves shine with this relaxed look. Highlights in a sun-kissed blonde will enhance the texture.",
@@ -13130,7 +13130,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Curly Fade",
-        "image": "/images/doc57_img_4.jpg?v=20260902",
+        "image": "/images/doc57_img_4.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "This cut blends curly hair with a gradual fade, providing a modern edge. A rich auburn color can add warmth to the curls.",
@@ -13141,7 +13141,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Long Layered Cut",
-        "image": "/images/doc57_img_5.jpg?v=20260902",
+        "image": "/images/doc57_img_5.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Keep it long and layered for a sophisticated appearance. A balayage in caramel tones can add dimension.",
@@ -13152,7 +13152,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Short Pompadour",
-        "image": "/images/doc57_img_6.jpg?v=20260902",
+        "image": "/images/doc57_img_6.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Elevate your style with a short pompadour, slicked back for a polished finish. Jet black color can intensify the sleekness.",
@@ -13163,7 +13163,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Wavy Fringe",
-        "image": "/images/doc57_img_7.jpg?v=20260902",
+        "image": "/images/doc57_img_7.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Combine a fringe with wavy hair for a trendy, youthful look. Light chestnut highlights will bring out the waves.",
@@ -13174,7 +13174,7 @@ export const articles = [
       {
         "number": 8,
         "title": "High and Tight Fade",
-        "image": "/images/doc57_img_8.jpg?v=20260902",
+        "image": "/images/doc57_img_8.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "This military-inspired cut features very short sides with a slightly longer top. Platinum blonde can add a striking contrast.",
@@ -13185,7 +13185,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Textured Crop",
-        "image": "/images/doc57_img_9.jpg?v=20260902",
+        "image": "/images/doc57_img_9.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A cropped cut with plenty of texture is ideal for thick hair. Go for a sandy blonde to emphasize the layers.",
@@ -13196,7 +13196,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Disconnected Undercut",
-        "image": "/images/doc57_img_10.jpg?v=20260902",
+        "image": "/images/doc57_img_10.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "With a clear distinction between the top and the sides, this undercut is bold. A deep mocha color can add sophistication.",
@@ -13207,7 +13207,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Buzz Cut with Beard",
-        "image": "/images/doc57_img_11.jpg?v=20260902",
+        "image": "/images/doc57_img_11.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Pair a buzz cut with a well-groomed beard for a rugged look. Keeping the hair natural in color maintains a cohesive appearance.",
@@ -13218,7 +13218,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Side Swept Fringe",
-        "image": "/images/doc57_img_12.jpg?v=20260902",
+        "image": "/images/doc57_img_12.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "This style features a longer top swept to the side, perfect for adding volume. Warm honey tones can add a summery vibe.",
@@ -13229,7 +13229,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Curly Top with Tapered Sides",
-        "image": "/images/doc57_img_13.jpg?v=20260902",
+        "image": "/images/doc57_img_13.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Keep the curls voluminous on top with tapered sides for a balanced look. A deep burgundy color can make the curls pop.",
@@ -13240,7 +13240,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Classic Crew Cut",
-        "image": "/images/doc57_img_14.jpg?v=20260902",
+        "image": "/images/doc57_img_14.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Simple yet effective, the crew cut works well for oval faces. A dark espresso color enhances its clean look.",
@@ -13251,7 +13251,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Modern Quiff",
-        "image": "/images/doc57_img_15.jpg?v=20260902",
+        "image": "/images/doc57_img_15.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Add height with a modern quiff, styled upwards. A frosted tips look can add a trendy element.",
@@ -13262,7 +13262,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Long Curly Hair",
-        "image": "/images/doc57_img_16.jpg?v=20260902",
+        "image": "/images/doc57_img_16.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Embrace natural curls with a longer length. Golden highlights can bring out the curls' texture.",
@@ -13273,7 +13273,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Short Spiky Hair",
-        "image": "/images/doc57_img_17.jpg?v=20260902",
+        "image": "/images/doc57_img_17.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "For a playful, edgy look, opt for short spiky hair. Icy silver tones can make the spikes stand out.",
@@ -13284,7 +13284,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Faux Hawk Fade",
-        "image": "/images/doc57_img_18.jpg?v=20260902",
+        "image": "/images/doc57_img_18.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "This cut combines a faux hawk with a gradual fade for a dynamic look. Midnight blue highlights can add an unexpected twist.",
@@ -13295,7 +13295,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Layered Undercut",
-        "image": "/images/doc57_img_19.jpg?v=20260902",
+        "image": "/images/doc57_img_19.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Layers on top with an undercut create a stylish contrast. A rich caramel color can add warmth and depth.",
@@ -13306,7 +13306,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Taper Fade with Part",
-        "image": "/images/doc57_img_20.jpg?v=20260902",
+        "image": "/images/doc57_img_20.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Add a hard part to a taper fade for a defined look. A cool chestnut color keeps it modern.",
@@ -13317,7 +13317,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Medium Length Waves",
-        "image": "/images/doc57_img_21.jpg?v=20260902",
+        "image": "/images/doc57_img_21.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Keep medium-length hair wavy and tousled for a relaxed style. Ash blonde highlights can add a beachy feel.",
@@ -13328,7 +13328,7 @@ export const articles = [
       {
         "number": 22,
         "title": "High Fade with Short Top",
-        "image": "/images/doc57_img_22.jpg?v=20260902",
+        "image": "/images/doc57_img_22.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A high fade with a shorter top is both trendy and low maintenance. A sleek black color adds to its sharpness.",
@@ -13339,7 +13339,7 @@ export const articles = [
       {
         "number": 23,
         "title": "Side Part Undercut",
-        "image": "/images/doc57_img_23.jpg?v=20260902",
+        "image": "/images/doc57_img_23.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Combine a side part with an undercut for a distinguished appearance. Dark bronze tones can add a touch of class.",
@@ -13350,7 +13350,7 @@ export const articles = [
       {
         "number": 24,
         "title": "Cropped Curls",
-        "image": "/images/doc57_img_24.jpg?v=20260902",
+        "image": "/images/doc57_img_24.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Keep curls short and neat for a fresh look. A deep mahogany color can enhance the curls' natural beauty.",
@@ -13361,7 +13361,7 @@ export const articles = [
       {
         "number": 25,
         "title": "Short Layered Cut",
-        "image": "/images/doc57_img_25.jpg?v=20260902",
+        "image": "/images/doc57_img_25.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Short layers add texture and movement to this cut. A sandy blonde color keeps it light and modern.",
@@ -13372,7 +13372,7 @@ export const articles = [
       {
         "number": 26,
         "title": "Long Hair with Beard",
-        "image": "/images/doc57_img_26.jpg?v=20260902",
+        "image": "/images/doc57_img_26.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "For a rugged, yet polished look, pair long hair with a beard. Natural highlights can add dimension.",
@@ -13383,7 +13383,7 @@ export const articles = [
       {
         "number": 27,
         "title": "Buzz Cut with Fade",
-        "image": "/images/doc57_img_27.jpg?v=20260902",
+        "image": "/images/doc57_img_27.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A buzz cut combined with a fade offers a clean, sharp look. A natural brown color keeps it versatile.",
@@ -13394,7 +13394,7 @@ export const articles = [
       {
         "number": 28,
         "title": "Curly Mohawk",
-        "image": "/images/doc57_img_28.jpg?v=20260902",
+        "image": "/images/doc57_img_28.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "This bold style features curls styled into a mohawk. Copper highlights can add a fiery touch.",
@@ -13410,7 +13410,7 @@ export const articles = [
     "title": "21+ Stylish Hairstyles for Long Faces in 2026",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc58_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc58_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 26, 2026",
     "isFeatured": true,
@@ -13465,7 +13465,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Soft Layered Lob in Champagne Blonde",
-        "image": "/images/doc58_img_1.jpg?v=20260902",
+        "image": "/images/doc58_img_1.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A shoulder-skimming long bob with soft, face-framing layers. The champagne blonde color adds warmth and softness, perfect for elongating and brightening the overall appearance.",
@@ -13476,7 +13476,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Textured Pixie in Salt-and-Pepper Hues",
-        "image": "/images/doc58_img_2.jpg?v=20260902",
+        "image": "/images/doc58_img_2.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A playful pixie cut featuring choppy layers that add volume and texture. The salt-and-pepper color enhances natural silver tones, creating depth and dimension.",
@@ -13487,7 +13487,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Wispy Curtain Bangs with Ash Brown Waves",
-        "image": "/images/doc58_img_3.jpg?v=20260902",
+        "image": "/images/doc58_img_3.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Long, wispy curtain bangs paired with soft, flowing waves in an ash brown shade. This style brings attention to the eyes while balancing the length of the face.",
@@ -13498,7 +13498,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Classic Bob with Platinum Highlights",
-        "image": "/images/doc58_img_4.jpg?v=20260902",
+        "image": "/images/doc58_img_4.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A chin-length classic bob with sharp edges and subtle platinum highlights to accentuate the jawline. Ideal for a chic, timeless look that flatters a long face.",
@@ -13509,7 +13509,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Tousled Shag in Honey Blonde",
-        "image": "/images/doc58_img_5.jpg?v=20260902",
+        "image": "/images/doc58_img_5.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A modern shag haircut with tousled layers and a honey blonde hue. The texture and warm tone create movement and soften the face's overall structure.",
@@ -13520,7 +13520,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Side-Swept Curls in Auburn Ombre",
-        "image": "/images/doc58_img_6.jpg?v=20260902",
+        "image": "/images/doc58_img_6.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Romantic side-swept curls cascading in an auburn ombre color. This style adds fullness around the cheeks and jawline for a balanced, elegant silhouette.",
@@ -13531,7 +13531,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Long Layers with Balayage Highlights",
-        "image": "/images/doc58_img_7.jpg?v=20260902",
+        "image": "/images/doc58_img_7.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Soft, flowing layers enhanced with sun-kissed balayage highlights. The multidimensional color creates lightness and draws attention away from face length.",
@@ -13542,7 +13542,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Face-Framing Layers in Caramel Brown",
-        "image": "/images/doc58_img_8.jpg?v=20260902",
+        "image": "/images/doc58_img_8.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A medium-length cut with strategic layers framing the face. The caramel brown color provides warmth, making this style versatile and flattering.",
@@ -13553,7 +13553,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Feathered Ends with Chestnut Undertones",
-        "image": "/images/doc58_img_9.jpg?v=20260902",
+        "image": "/images/doc58_img_9.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Long, feathered layers that taper into chestnut undertones. This design elongates the neck while creating a harmonious flow with a long face shape.",
@@ -13564,7 +13564,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Soft Waves with Golden Blonde Balayage",
-        "image": "/images/doc58_img_10.jpg?v=20260902",
+        "image": "/images/doc58_img_10.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Loose, soft waves enhanced by a golden blonde balayage for a luminous, sunlit effect. Perfect for adding a touch of effortless elegance.",
@@ -13575,7 +13575,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Angled Bob with Chocolate Lowlights",
-        "image": "/images/doc58_img_11.jpg?v=20260902",
+        "image": "/images/doc58_img_11.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A slightly angled bob with a sleek finish and rich chocolate lowlights. The angled shape frames the jaw beautifully, while the color adds depth.",
@@ -13586,7 +13586,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Voluminous Blowout in Sandy Blonde",
-        "image": "/images/doc58_img_12.jpg?v=20260902",
+        "image": "/images/doc58_img_12.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A polished blowout featuring volume at the roots and smooth ends. The sandy blonde shade pairs well with warm or cool undertones for a sophisticated finish.",
@@ -13597,7 +13597,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Curly Shag with Copper Highlights",
-        "image": "/images/doc58_img_13.jpg?v=20260902",
+        "image": "/images/doc58_img_13.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A layered shag cut with natural curls, complemented by vibrant copper highlights. This style emphasizes texture and frames the face beautifully.",
@@ -13608,7 +13608,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Beachy Waves with Bronde Highlights",
-        "image": "/images/doc58_img_14.jpg?v=20260902",
+        "image": "/images/doc58_img_14.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Relaxed, beach-inspired waves with bronde (brown-blonde) highlights. This low-maintenance look is ideal for adding fullness and a sunkissed glow.",
@@ -13619,7 +13619,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Blunt Cut with Ice Blonde Gloss",
-        "image": "/images/doc58_img_15.jpg?v=20260902",
+        "image": "/images/doc58_img_15.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A sleek, blunt-cut hairstyle finished with an icy blonde gloss. This bold, contemporary style accentuates angular features while maintaining symmetry.",
@@ -13630,7 +13630,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Side-Parted Lob with Chestnut Balayage",
-        "image": "/images/doc58_img_16.jpg?v=20260902",
+        "image": "/images/doc58_img_16.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A side-parted long bob featuring chestnut balayage for a natural, earthy feel. This cut softens sharp angles and provides a polished, professional look.",
@@ -13641,7 +13641,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Asymmetrical Bob in Rose Gold",
-        "image": "/images/doc58_img_17.jpg?v=20260902",
+        "image": "/images/doc58_img_17.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A bold, asymmetrical bob with rose gold accents for a playful, youthful vibe. The asymmetry balances the proportions of a long face effectively.",
@@ -13652,7 +13652,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Long Waves with Mahogany Ombre",
-        "image": "/images/doc58_img_18.jpg?v=20260902",
+        "image": "/images/doc58_img_18.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Deep mahogany ombre flowing through long, layered waves. This style adds a rich vibrancy and enhances the natural shape of a long face.",
@@ -13663,7 +13663,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Sleek Ponytail with Jet Black Shine",
-        "image": "/images/doc58_img_19.jpg?v=20260902",
+        "image": "/images/doc58_img_19.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A high-shine, jet-black sleek ponytail for a chic, minimalist aesthetic. This style highlights the jawline while elongating the neck.",
@@ -13674,7 +13674,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Wavy Bob with Cinnamon Highlights",
-        "image": "/images/doc58_img_20.jpg?v=20260902",
+        "image": "/images/doc58_img_20.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A wavy bob in a warm cinnamon tone, perfect for adding dimension and a hint of spice to your overall look.",
@@ -13685,7 +13685,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Bardot Bangs with Honey Balayage",
-        "image": "/images/doc58_img_21.jpg?v=20260902",
+        "image": "/images/doc58_img_21.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Soft Bardot bangs paired with long layers and honey balayage. This versatile style creates softness and frames the forehead gracefully.",
@@ -13696,7 +13696,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Medium Shag in Cool Beige Blonde",
-        "image": "/images/doc58_img_22.jpg?v=20260902",
+        "image": "/images/doc58_img_22.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A mid-length shag haircut with cool beige blonde highlights. The textured ends create movement while the color adds a trendy, modern touch.",
@@ -13712,7 +13712,7 @@ export const articles = [
     "title": "14+ Short Haircuts for Round Faces You’ll Love",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc59_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc59_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 27, 2026",
     "isFeatured": true,
@@ -13767,7 +13767,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Long Layers",
-        "image": "/images/doc65_img_1.jpg?v=20260902",
+        "image": "/images/doc65_img_1.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Long Layers is one of the most flattering choices for women with round face shapes.",
@@ -13778,7 +13778,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Side-Swept Bangs",
-        "image": "/images/doc65_img_2.jpg?v=20260902",
+        "image": "/images/doc65_img_2.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Side-Swept Bangs is one of the most flattering choices for women with round face shapes.",
@@ -13789,7 +13789,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Asymmetrical Bob",
-        "image": "/images/doc65_img_3.jpg?v=20260902",
+        "image": "/images/doc65_img_3.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Asymmetrical Bob is one of the most flattering choices for women with round face shapes.",
@@ -13800,7 +13800,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Voluminous Waves",
-        "image": "/images/doc65_img_4.jpg?v=20260902",
+        "image": "/images/doc65_img_4.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Voluminous Waves is one of the most flattering choices for women with round face shapes.",
@@ -13811,7 +13811,7 @@ export const articles = [
       {
         "number": 5,
         "title": "High Ponytail",
-        "image": "/images/doc65_img_5.jpg?v=20260902",
+        "image": "/images/doc65_img_5.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "High Ponytail is one of the most flattering choices for women with round face shapes.",
@@ -13822,7 +13822,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Pixie Cut",
-        "image": "/images/doc65_img_6.jpg?v=20260902",
+        "image": "/images/doc65_img_6.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Pixie Cut is one of the most flattering choices for women with round face shapes.",
@@ -13833,7 +13833,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Angled Lob",
-        "image": "/images/doc65_img_7.jpg?v=20260902",
+        "image": "/images/doc65_img_7.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Angled Lob is one of the most flattering choices for women with round face shapes.",
@@ -13844,7 +13844,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Shaggy Layers",
-        "image": "/images/doc65_img_8.jpg?v=20260902",
+        "image": "/images/doc65_img_8.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Shaggy Layers is one of the most flattering choices for women with round face shapes.",
@@ -13855,7 +13855,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Textured Fringe",
-        "image": "/images/doc65_img_9.jpg?v=20260902",
+        "image": "/images/doc65_img_9.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Textured Fringe is one of the most flattering choices for women with round face shapes.",
@@ -13866,7 +13866,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Sleek Middle Part",
-        "image": "/images/doc65_img_10.jpg?v=20260902",
+        "image": "/images/doc65_img_10.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Sleek Middle Part is one of the most flattering choices for women with round face shapes.",
@@ -13877,7 +13877,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Half-Up, Half-Down",
-        "image": "/images/doc65_img_11.jpg?v=20260902",
+        "image": "/images/doc65_img_11.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Half-Up, Half-Down is one of the most flattering choices for women with round face shapes.",
@@ -13888,7 +13888,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Tousled Bob",
-        "image": "/images/doc65_img_12.jpg?v=20260902",
+        "image": "/images/doc65_img_12.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Tousled Bob is one of the most flattering choices for women with round face shapes.",
@@ -13899,7 +13899,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Curly Layers",
-        "image": "/images/doc65_img_13.jpg?v=20260902",
+        "image": "/images/doc65_img_13.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Curly Layers is one of the most flattering choices for women with round face shapes.",
@@ -13910,7 +13910,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Full Fringe",
-        "image": "/images/doc65_img_14.jpg?v=20260902",
+        "image": "/images/doc65_img_14.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Full Fringe is one of the most flattering choices for women with round face shapes.",
@@ -13921,7 +13921,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Sleek Updo",
-        "image": "/images/doc65_img_15.jpg?v=20260902",
+        "image": "/images/doc65_img_15.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Sleek Updo is one of the most flattering choices for women with round face shapes.",
@@ -13932,7 +13932,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Wispy Bangs",
-        "image": "/images/doc65_img_16.jpg?v=20260902",
+        "image": "/images/doc65_img_16.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Wispy Bangs is one of the most flattering choices for women with round face shapes.",
@@ -13943,7 +13943,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Choppy Pixie",
-        "image": "/images/doc65_img_17.jpg?v=20260902",
+        "image": "/images/doc65_img_17.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Choppy Pixie is one of the most flattering choices for women with round face shapes.",
@@ -13954,7 +13954,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Soft Curls",
-        "image": "/images/doc65_img_18.jpg?v=20260902",
+        "image": "/images/doc65_img_18.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Soft Curls is one of the most flattering choices for women with round face shapes.",
@@ -13965,7 +13965,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Slicked Back",
-        "image": "/images/doc65_img_19.jpg?v=20260902",
+        "image": "/images/doc65_img_19.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Slicked Back is one of the most flattering choices for women with round face shapes.",
@@ -13976,7 +13976,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Layered Bob",
-        "image": "/images/doc65_img_20.jpg?v=20260902",
+        "image": "/images/doc65_img_20.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Layered Bob is one of the most flattering choices for women with round face shapes.",
@@ -13987,7 +13987,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Side Part",
-        "image": "/images/doc65_img_21.jpg?v=20260902",
+        "image": "/images/doc65_img_21.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Side Part is one of the most flattering choices for women with round face shapes.",
@@ -13998,7 +13998,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Bouffant Style",
-        "image": "/images/doc65_img_22.jpg?v=20260902",
+        "image": "/images/doc65_img_22.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Bouffant Style is one of the most flattering choices for women with round face shapes.",
@@ -14009,7 +14009,7 @@ export const articles = [
       {
         "number": 23,
         "title": "Cascading Curls",
-        "image": "/images/doc65_img_23.jpg?v=20260902",
+        "image": "/images/doc65_img_23.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Cascading Curls is one of the most flattering choices for women with round face shapes.",
@@ -14020,7 +14020,7 @@ export const articles = [
       {
         "number": 24,
         "title": "Pinned Back",
-        "image": "/images/doc65_img_24.jpg?v=20260902",
+        "image": "/images/doc65_img_24.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Pinned Back is one of the most flattering choices for women with round face shapes.",
@@ -14031,7 +14031,7 @@ export const articles = [
       {
         "number": 25,
         "title": "Feathered Cut",
-        "image": "/images/doc65_img_25.jpg?v=20260902",
+        "image": "/images/doc65_img_25.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Feathered Cut is one of the most flattering choices for women with round face shapes.",
@@ -14042,7 +14042,7 @@ export const articles = [
       {
         "number": 26,
         "title": "Blunt Lob",
-        "image": "/images/doc65_img_26.jpg?v=20260902",
+        "image": "/images/doc65_img_26.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Blunt Lob is one of the most flattering choices for women with round face shapes.",
@@ -14053,7 +14053,7 @@ export const articles = [
       {
         "number": 27,
         "title": "Defined Waves",
-        "image": "/images/doc65_img_27.jpg?v=20260902",
+        "image": "/images/doc65_img_27.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Defined Waves is one of the most flattering choices for women with round face shapes.",
@@ -14064,7 +14064,7 @@ export const articles = [
       {
         "number": 28,
         "title": "Braided Crown",
-        "image": "/images/doc65_img_28.jpg?v=20260902",
+        "image": "/images/doc65_img_28.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Braided Crown is one of the most flattering choices for women with round face shapes.",
@@ -14075,7 +14075,7 @@ export const articles = [
       {
         "number": 29,
         "title": "Undercut",
-        "image": "/images/doc65_img_29.jpg?v=20260902",
+        "image": "/images/doc65_img_29.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Undercut is one of the most flattering choices for women with round face shapes.",
@@ -14086,7 +14086,7 @@ export const articles = [
       {
         "number": 30,
         "title": "Box Braids",
-        "image": "/images/doc65_img_30.jpg?v=20260902",
+        "image": "/images/doc65_img_30.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Box Braids is one of the most flattering choices for women with round face shapes.",
@@ -14097,7 +14097,7 @@ export const articles = [
       {
         "number": 31,
         "title": "Classic Straight Cut",
-        "image": "/images/doc65_img_31.jpg?v=20260902",
+        "image": "/images/doc65_img_31.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Classic Straight Cut is one of the most flattering choices for women with round face shapes.",
@@ -14108,7 +14108,7 @@ export const articles = [
       {
         "number": 32,
         "title": "Beachy Waves",
-        "image": "/images/doc65_img_32.jpg?v=20260902",
+        "image": "/images/doc65_img_32.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Beachy Waves is one of the most flattering choices for women with round face shapes.",
@@ -14119,7 +14119,7 @@ export const articles = [
       {
         "number": 33,
         "title": "Dutch Braids",
-        "image": "/images/doc65_img_33.jpg?v=20260902",
+        "image": "/images/doc65_img_33.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Dutch Braids is one of the most flattering choices for women with round face shapes.",
@@ -14130,7 +14130,7 @@ export const articles = [
       {
         "number": 34,
         "title": "Space Buns",
-        "image": "/images/doc65_img_34.jpg?v=20260902",
+        "image": "/images/doc65_img_34.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Space Buns is one of the most flattering choices for women with round face shapes.",
@@ -14141,7 +14141,7 @@ export const articles = [
       {
         "number": 35,
         "title": "Low Bun",
-        "image": "/images/doc65_img_35.jpg?v=20260902",
+        "image": "/images/doc65_img_35.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Low Bun is one of the most flattering choices for women with round face shapes.",
@@ -14152,7 +14152,7 @@ export const articles = [
       {
         "number": 36,
         "title": "Fishtail Braid",
-        "image": "/images/doc65_img_36.jpg?v=20260902",
+        "image": "/images/doc65_img_36.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Fishtail Braid is one of the most flattering choices for women with round face shapes.",
@@ -14168,7 +14168,7 @@ export const articles = [
     "title": "13+ Flattering Short Haircut for Women with Glasses",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc60_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc60_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 28, 2026",
     "isFeatured": true,
@@ -14223,7 +14223,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Feathered Pixie Cut With Glasses",
-        "image": "/images/doc60_img_1.jpg?v=20260902",
+        "image": "/images/doc60_img_1.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Can you imagine a hairstyle that feels light as a feather while making your eyewear the star of the show?",
@@ -14235,7 +14235,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Textured Bob Haircut With Glasses",
-        "image": "/images/doc60_img_2.jpg?v=20260902",
+        "image": "/images/doc60_img_2.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Picture a chic, ruffled bob that moves naturally every time you turn your head during a busy afternoon.",
@@ -14251,7 +14251,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Side Swept Pixie Cut With Glasses",
-        "image": "/images/doc60_img_3.jpg?v=20260902",
+        "image": "/images/doc60_img_3.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Imagine the elegance of a sleek fringe that gracefully skims the top of your favorite frames without ever obstructing your vision.",
@@ -14267,7 +14267,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Bixie Shag Haircut With Glasses",
-        "image": "/images/doc60_img_4.jpg?v=20260902",
+        "image": "/images/doc60_img_4.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Have you ever felt caught between the boldness of a pixie and the classic appeal of a short bob?",
@@ -14279,7 +14279,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Micro Bob Haircut With Glasses",
-        "image": "/images/doc60_img_5.jpg?v=20260902",
+        "image": "/images/doc60_img_5.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Step into the room with a sharp, chin-length style that screams sophistication and highlights your unique personal style immediately.",
@@ -14295,7 +14295,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Layered French Bob With Glasses",
-        "image": "/images/doc60_img_6.jpg?v=20260902",
+        "image": "/images/doc60_img_6.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Imagine the effortless charm of a Parisian street as you rock a short, tousled style that frames your glasses perfectly.",
@@ -14311,7 +14311,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Curly Pixie Cut With Glasses",
-        "image": "/images/doc60_img_7.jpg?v=20260902",
+        "image": "/images/doc60_img_7.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Curls can often feel like they are competing with your frames, but the right cut makes them work together in harmony.",
@@ -14326,7 +14326,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Stacked Bob Haircut With Glasses",
-        "image": "/images/doc60_img_8.jpg?v=20260902",
+        "image": "/images/doc60_img_8.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Does your current hairstyle feel flat and uninspired when you put on your glasses in the morning?",
@@ -14338,7 +14338,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Tapered Pixie Haircut With Glasses",
-        "image": "/images/doc60_img_9.jpg?v=20260902",
+        "image": "/images/doc60_img_9.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Experience the ultimate comfort and style with a cut that is neatly trimmed around the ears and the back of the neck.",
@@ -14354,7 +14354,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Undercut Pixie Cut With Glasses",
-        "image": "/images/doc60_img_10.jpg?v=20260902",
+        "image": "/images/doc60_img_10.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Are you looking for a daring and edgy way to show off your bold personality and your favorite pair of frames?",
@@ -14370,7 +14370,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Short Shaggy Bob With Glasses",
-        "image": "/images/doc60_img_11.jpg?v=20260902",
+        "image": "/images/doc60_img_11.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Imagine a playful, layered style that creates a flattering ‘halo’ effect around your face and your stylish spectacles.",
@@ -14386,7 +14386,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Chin Length Bob With Glasses",
-        "image": "/images/doc60_img_12.jpg?v=20260902",
+        "image": "/images/doc60_img_12.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "What if your haircut could act as the perfect frame for your face, just like your glasses do?",
@@ -14402,7 +14402,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Trixie Haircut With Glasses",
-        "image": "/images/doc60_img_13.jpg?v=20260902",
+        "image": "/images/doc60_img_13.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Have you heard about the latest trend that combines the best of a pixie and a traditional crop for a fresh look?",
@@ -14418,7 +14418,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Halo Cut With Glasses",
-        "image": "/images/doc60_img_14.jpg?v=20260902",
+        "image": "/images/doc60_img_14.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Picture a soft, rounded silhouette that celebrates your natural curls while framing your eyewear with a gentle, voluminous shape.",
@@ -14439,7 +14439,7 @@ export const articles = [
     "title": "16+ Gray Hairstyles for Women with Glasses to Inspire You",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc61_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc61_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 29, 2026",
     "isFeatured": true,
@@ -14494,7 +14494,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Silver Pixie With Tapered Sides",
-        "image": "/images/doc61_img_1.jpg?v=20260902",
+        "image": "/images/doc61_img_1.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A silver pixie with tapered sides is an excellent choice for women who wear bold or oversized glasses.",
@@ -14509,7 +14509,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Gray Bob With Wispy Layers",
-        "image": "/images/doc61_img_2.jpg?v=20260902",
+        "image": "/images/doc61_img_2.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Opting for a gray bob with wispy layers creates a soft, feminine frame around your face that balances the linear look of rectangular glasses.",
@@ -14524,7 +14524,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Silver Inverted Bob",
-        "image": "/images/doc61_img_3.jpg?v=20260902",
+        "image": "/images/doc61_img_3.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The silver inverted bob This style gives you an effortless, flattering look that is easy to maintain every day.",
@@ -14535,7 +14535,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Salt And Pepper Shag",
-        "image": "/images/doc61_img_4.jpg?v=20260902",
+        "image": "/images/doc61_img_4.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A salt and pepper shag is a trendy, retro-inspired choice that brings a sense of effortless cool to your daily look.",
@@ -14550,7 +14550,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Short Silver Textured Crop",
-        "image": "/images/doc61_img_5.jpg?v=20260902",
+        "image": "/images/doc61_img_5.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Choosing a short silver textured crop This style gives you an effortless, flattering look that is easy to maintain every day.",
@@ -14561,7 +14561,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Gray Lob With Curtain Bangs",
-        "image": "/images/doc61_img_6.jpg?v=20260902",
+        "image": "/images/doc61_img_6.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The gray lob with curtain bangs is a sophisticated medium-length option that offers incredible styling flexibility for those who wear glasses.",
@@ -14576,7 +14576,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Wavy Silver Pixie Bob",
-        "image": "/images/doc61_img_7.jpg?v=20260902",
+        "image": "/images/doc61_img_7.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A wavy silver pixie bob, often called a “bixie,” combines the length of a bob with the feathered texture of a pixie.",
@@ -14588,7 +14588,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Classic Silver Pageboy Cut",
-        "image": "/images/doc61_img_8.jpg?v=20260902",
+        "image": "/images/doc61_img_8.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The classic silver pageboy cut This style gives you an effortless, flattering look that is easy to maintain every day.",
@@ -14599,7 +14599,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Layered Silver Shoulder Cut",
-        "image": "/images/doc61_img_9.jpg?v=20260902",
+        "image": "/images/doc61_img_9.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A layered silver shoulder cut is a go-to for women who want to maintain some length while embracing their natural gray transition.",
@@ -14614,7 +14614,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Silver Pixie With Side Bangs",
-        "image": "/images/doc61_img_10.jpg?v=20260902",
+        "image": "/images/doc61_img_10.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The silver pixie with side bangs is a classic for a reason; it is incredibly flattering and practical for everyday wear.",
@@ -14629,7 +14629,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Choppy Gray Midi Cut",
-        "image": "/images/doc61_img_11.jpg?v=20260902",
+        "image": "/images/doc61_img_11.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A choppy gray midi cut offers a modern, deconstructed look that is perfect for women who enjoy a bit of “rock and roll” in their style.",
@@ -14644,7 +14644,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Sleek Silver Blunt Bob",
-        "image": "/images/doc61_img_12.jpg?v=20260902",
+        "image": "/images/doc61_img_12.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The sleek silver blunt bob is the ultimate choice for a woman who loves a crisp, minimalist aesthetic.",
@@ -14659,7 +14659,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Feathered Silver Long Pixie",
-        "image": "/images/doc61_img_13.jpg?v=20260902",
+        "image": "/images/doc61_img_13.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A feathered silver long pixie offers more length and volume than a traditional pixie, providing a softer and more versatile silhouette.",
@@ -14674,7 +14674,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Silver Shag With Bottleneck Bangs",
-        "image": "/images/doc61_img_14.jpg?v=20260902",
+        "image": "/images/doc61_img_14.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Combining a silver shag with bottleneck bangs gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
@@ -14685,7 +14685,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Asymmetrical Silver Bob",
-        "image": "/images/doc61_img_15.jpg?v=20260902",
+        "image": "/images/doc61_img_15.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The asymmetrical silver bob features one side that is notably longer than the other, creating a dynamic and interesting visual line.",
@@ -14700,7 +14700,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Spiky Silver Pixie Cut",
-        "image": "/images/doc61_img_16.jpg?v=20260902",
+        "image": "/images/doc61_img_16.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "spiky silver pixie cut is all about height and texture, making it an excellent option for women who want to add some verticality to their appearance.",
@@ -14715,7 +14715,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Rounded Silver Wedge Cut",
-        "image": "/images/doc61_img_17.jpg?v=20260902",
+        "image": "/images/doc61_img_17.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The rounded silver wedge cut is a classic short hairstyle that features a lot of volume at the back and sides, tapering down toward the neck.",
@@ -14735,7 +14735,7 @@ export const articles = [
     "title": "15+ Hairstyles for Women with Glasses over 60 to Save",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc62_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc62_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 30, 2026",
     "isFeatured": true,
@@ -14790,7 +14790,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Ash Blonde Balayage On Long Layers",
-        "image": "/images/doc62_img_1.jpg?v=20260902",
+        "image": "/images/doc62_img_1.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Cool, smoky ash blonde balayage This style gives you an effortless, flattering look that is easy to maintain every day.",
@@ -14801,7 +14801,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Honey Blonde Highlights On Layered Hair",
-        "image": "/images/doc62_img_2.jpg?v=20260902",
+        "image": "/images/doc62_img_2.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Warm honey blonde highlights are ideal if you want bright, sun-kissed hair that still looks soft and natural on long layers.",
@@ -14816,7 +14816,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Chocolate Brown With Caramel Balayage",
-        "image": "/images/doc62_img_3.jpg?v=20260902",
+        "image": "/images/doc62_img_3.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Rich chocolate brown with caramel balayage is a perfect match for long layered hair if you want depth at the roots and brightness through the lengths.",
@@ -14831,7 +14831,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Soft Copper On Long Layered Hair",
-        "image": "/images/doc62_img_4.jpg?v=20260902",
+        "image": "/images/doc62_img_4.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Soft copper is a beautiful choice if you want your long layered hair to feel warm, vibrant, and eye-catching without veering into neon or overly bright orange.",
@@ -14846,7 +14846,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Caramel Face Framing On Long Layers",
-        "image": "/images/doc62_img_5.jpg?v=20260902",
+        "image": "/images/doc62_img_5.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "If you want a subtle change that still brightens your features, caramel face framing on long layered hair is a great option.",
@@ -14862,7 +14862,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Dimensional Brunette With Subtle Highlights",
-        "image": "/images/doc62_img_6.jpg?v=20260902",
+        "image": "/images/doc62_img_6.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Dimensional brunette with subtle highlights is perfect if you want your long layered hair to look rich, glossy, and natural rather than obviously colored.",
@@ -14877,7 +14877,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Platinum Ends Ombre On Long Layered Hair",
-        "image": "/images/doc62_img_7.jpg?v=20260902",
+        "image": "/images/doc62_img_7.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Platinum ends ombre on long layered hair gives you a high-impact, fashion-forward look while still leaving your roots darker and easier to maintain.",
@@ -14893,7 +14893,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Rose Gold Long Layered Hair",
-        "image": "/images/doc62_img_8.jpg?v=20260902",
+        "image": "/images/doc62_img_8.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Rose gold is an amazing way to make long layered hair look romantic and trendy at the same time.",
@@ -14909,7 +14909,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Burgundy Balayage On Long Layers",
-        "image": "/images/doc62_img_9.jpg?v=20260902",
+        "image": "/images/doc62_img_9.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Burgundy balayage is perfect if you love darker hair but still want a bold twist that stands out on your long layers.",
@@ -14925,7 +14925,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Chestnut Brown With Golden Highlights",
-        "image": "/images/doc62_img_10.jpg?v=20260902",
+        "image": "/images/doc62_img_10.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Chestnut brown with golden highlights is a classic choice that makes long layered hair look warm, healthy, and shiny.",
@@ -14941,7 +14941,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Soft Balayage On Dark Layered Hair",
-        "image": "/images/doc62_img_11.jpg?v=20260902",
+        "image": "/images/doc62_img_11.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Soft balayage on dark layered hair is a great choice if you want brightness and dimension without losing your natural depth.",
@@ -14957,7 +14957,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Cool Brown Long Layered Hair",
-        "image": "/images/doc62_img_12.jpg?v=20260902",
+        "image": "/images/doc62_img_12.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Cool brown long layered hair is perfect if you dislike warmth or brass and want a sleek, sophisticated color that looks almost reflective.",
@@ -14973,7 +14973,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Strawberry Blonde On Long Layers",
-        "image": "/images/doc62_img_13.jpg?v=20260902",
+        "image": "/images/doc62_img_13.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Strawberry blonde on long layers creates a soft, romantic look that blends light copper and warm blonde tones.",
@@ -14989,7 +14989,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Espresso Brown With Subtle Balayage",
-        "image": "/images/doc62_img_14.jpg?v=20260902",
+        "image": "/images/doc62_img_14.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Espresso brown with subtle balayage is ideal if you love deep, dark hair but still want a hint of light and movement in your long layers.",
@@ -15004,7 +15004,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Silver Blonde On Long Layered Hair",
-        "image": "/images/doc62_img_15.jpg?v=20260902",
+        "image": "/images/doc62_img_15.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Silver blonde on long layered hair is a striking choice if you love cool, futuristic tones and aren’t afraid of a little maintenance.",
@@ -15020,7 +15020,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Face Framing Blonde On Long Layers",
-        "image": "/images/doc62_img_16.jpg?v=20260902",
+        "image": "/images/doc62_img_16.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Face framing blonde on long layers focuses brightness exactly where it has the most impact—around your face and through the shortest front pieces.",
@@ -15040,7 +15040,7 @@ export const articles = [
     "title": "13+ Flattering Haircut for Oblong Face Women",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc63_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc63_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "August 31, 2026",
     "isFeatured": true,
@@ -15095,7 +15095,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Curly Shag",
-        "image": "/images/doc63_img_1.jpg?v=20260902",
+        "image": "/images/doc63_img_1.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A curly shag is a masterclass in texture and movement, making it an exceptional choice for oblong faces.",
@@ -15110,7 +15110,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Center-Parted Ponytail",
-        "image": "/images/doc63_img_2.jpg?v=20260902",
+        "image": "/images/doc63_img_2.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A sleek, center-parted ponytail positioned low on the head is a surprisingly effective style for oblong faces.",
@@ -15124,7 +15124,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Piecy Pixie",
-        "image": "/images/doc63_img_3.jpg?v=20260902",
+        "image": "/images/doc63_img_3.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A textured, piecy pixie cut proves that short hair can be incredibly flattering for oblong faces.",
@@ -15136,7 +15136,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Curtain Bangs",
-        "image": "/images/doc63_img_4.jpg?v=20260902",
+        "image": "/images/doc63_img_4.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Curtain bangs are a universally flattering choice, but they are particularly strategic for oblong face shapes.",
@@ -15150,7 +15150,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Blunt Bangs",
-        "image": "/images/doc63_img_5.jpg?v=20260902",
+        "image": "/images/doc63_img_5.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Blunt, brow-grazing bangs offer a striking way to balance an oblong face.",
@@ -15164,7 +15164,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Curly Ponytail",
-        "image": "/images/doc63_img_6.jpg?v=20260902",
+        "image": "/images/doc63_img_6.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A curly ponytail leverages the natural volume and width of curls to balance an oblong face.",
@@ -15178,7 +15178,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Perfectly Messy Bun",
-        "image": "/images/doc63_img_7.jpg?v=20260902",
+        "image": "/images/doc63_img_7.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A perfectly messy bun, when styled correctly, can be a go-to flattering option for oblong faces.",
@@ -15192,7 +15192,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Angled Bob",
-        "image": "/images/doc63_img_8.jpg?v=20260902",
+        "image": "/images/doc63_img_8.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The angled bob is a powerhouse haircut for oblong faces, as it strategically uses angles and often bangs to create width.",
@@ -15206,7 +15206,7 @@ export const articles = [
       {
         "number": 9,
         "title": "French Bob",
-        "image": "/images/doc63_img_9.jpg?v=20260902",
+        "image": "/images/doc63_img_9.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "The French bob, characterized by its earlobe-grazing length and rounded silhouette gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
@@ -15217,7 +15217,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Sculpted Curls With Side Part",
-        "image": "/images/doc63_img_10.jpg?v=20260902",
+        "image": "/images/doc63_img_10.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Sculpted, defined curls paired with a deep side part offer glamorous balance for an oblong face shape.",
@@ -15231,7 +15231,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Layered Bob",
-        "image": "/images/doc63_img_11.jpg?v=20260902",
+        "image": "/images/doc63_img_11.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A layered bob is a highly recommended style for oblong faces because the layers add essential movement and volume.",
@@ -15245,7 +15245,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Side-Swept Bob",
-        "image": "/images/doc63_img_12.jpg?v=20260902",
+        "image": "/images/doc63_img_12.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A side-swept bob is a variation that uses diagonal lines to flatter an oblong face.",
@@ -15258,7 +15258,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Long Layers",
-        "image": "/images/doc63_img_13.jpg?v=20260902",
+        "image": "/images/doc63_img_13.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Long layers are a fundamental and versatile choice for oblong faces with longer hair.",
@@ -15272,7 +15272,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Shoulder-Length Waves",
-        "image": "/images/doc63_img_14.jpg?v=20260902",
+        "image": "/images/doc63_img_14.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Shoulder-length hair styled into loose, tousled waves is effortlessly flattering for oblong faces.",
@@ -15291,7 +15291,7 @@ export const articles = [
     "title": "17+ Interview Hairstyle with Glasses to Save Now",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc64_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc64_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "September 1, 2026",
     "isFeatured": true,
@@ -15346,7 +15346,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Sleek Low Bun",
-        "image": "/images/doc64_img_1.jpg?v=20260902",
+        "image": "/images/doc64_img_1.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Nothing says professional quite like a sleek low bun when you are heading into an important meeting.",
@@ -15361,7 +15361,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Classic French Twist",
-        "image": "/images/doc64_img_2.jpg?v=20260902",
+        "image": "/images/doc64_img_2.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Have you ever considered a vintage-inspired updo for your next career move? A classic French twist brings an air of elegance that matches flawlessly with statement glasses.",
@@ -15377,7 +15377,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Straight Lob Haircut",
-        "image": "/images/doc64_img_3.jpg?v=20260902",
+        "image": "/images/doc64_img_3.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Stepping into an interview with a straight lob haircut gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
@@ -15388,7 +15388,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Tucked Behind Ears Long Hair",
-        "image": "/images/doc64_img_4.jpg?v=20260902",
+        "image": "/images/doc64_img_4.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Sometimes the simplest approach makes the strongest impression in a corporate environment.",
@@ -15404,7 +15404,7 @@ export const articles = [
       {
         "number": 5,
         "title": "Half Up Half Down Curls",
-        "image": "/images/doc64_img_5.jpg?v=20260902",
+        "image": "/images/doc64_img_5.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Want to show off your personality while staying interview appropriate?",
@@ -15415,7 +15415,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Sleek High Ponytail",
-        "image": "/images/doc64_img_6.jpg?v=20260902",
+        "image": "/images/doc64_img_6.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Pulling your hair up into a sleek high ponytail instantly gives you a lifted, energetic look.",
@@ -15431,7 +15431,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Side Part Bob",
-        "image": "/images/doc64_img_7.jpg?v=20260902",
+        "image": "/images/doc64_img_7.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A side part bob is a masterclass in professional styling that looks exceptionally smart with glasses.",
@@ -15447,7 +15447,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Soft Waves With Face Framing",
-        "image": "/images/doc64_img_8.jpg?v=20260902",
+        "image": "/images/doc64_img_8.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Soft waves with face framing layers bring a gentle, welcoming energy to any interview room.",
@@ -15462,7 +15462,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Neat Chignon",
-        "image": "/images/doc64_img_9.jpg?v=20260902",
+        "image": "/images/doc64_img_9.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "For a truly sophisticated and traditional approach, a neat chignon gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
@@ -15473,7 +15473,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Blunt Cut Long Hair",
-        "image": "/images/doc64_img_10.jpg?v=20260902",
+        "image": "/images/doc64_img_10.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Do you prefer wearing your hair long but still want a professional edge? A blunt cut on long hair provides a clean, dramatic line that looks incredibly sharp with glasses.",
@@ -15488,7 +15488,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Textured Pixie Cut",
-        "image": "/images/doc64_img_11.jpg?v=20260902",
+        "image": "/images/doc64_img_11.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A textured pixie cut is a bold, low-maintenance option that radiates self-assurance.",
@@ -15504,7 +15504,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Low Side Ponytail",
-        "image": "/images/doc64_img_12.jpg?v=20260902",
+        "image": "/images/doc64_img_12.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A low side ponytail offers a slightly softer alternative to a traditional center placement.",
@@ -15520,7 +15520,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Braided Crown",
-        "image": "/images/doc64_img_13.jpg?v=20260902",
+        "image": "/images/doc64_img_13.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Looking for an updo that stays firmly in place while looking intricate and refined?",
@@ -15531,7 +15531,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Curly Bob",
-        "image": "/images/doc64_img_14.jpg?v=20260902",
+        "image": "/images/doc64_img_14.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Embracing your natural texture with a curly bob is a fantastic way to present your authentic self.",
@@ -15547,7 +15547,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Center Part Straight Hair",
-        "image": "/images/doc64_img_15.jpg?v=20260902",
+        "image": "/images/doc64_img_15.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A center part on straight hair delivers a sleek, symmetrical appearance that photographs beautifully and looks incredibly sharp.",
@@ -15563,7 +15563,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Twisted Half Updo",
-        "image": "/images/doc64_img_16.jpg?v=20260902",
+        "image": "/images/doc64_img_16.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "A twisted half updo provides a wonderful blend of elegance and ease for your big day.",
@@ -15578,7 +15578,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Short Layered Wedge Cut",
-        "image": "/images/doc64_img_17.jpg?v=20260902",
+        "image": "/images/doc64_img_17.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "short layered wedge cut brings a touch of vintage charm mixed with modern precision.",
@@ -15594,7 +15594,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Voluminous Blowout",
-        "image": "/images/doc64_img_18.jpg?v=20260902",
+        "image": "/images/doc64_img_18.jpg",
         "whyWeLoveIt": "Flattering frame balance and facial contouring.",
         "paragraphs": [
           "Nothing boosts your confidence quite like a voluminous blowout before meeting a potential employer.",
@@ -15615,7 +15615,7 @@ export const articles = [
     "title": "35+ Haircuts and Hairstyles for Women with Round Faces",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc65_cover_collage.jpg?v=20260902",
+    "heroImage": "/images/doc65_cover_collage.jpg",
     "readTime": "8 min read",
     "date": "September 2, 2026",
     "isFeatured": true,
@@ -15670,7 +15670,7 @@ export const articles = [
       {
         "number": 1,
         "title": "Long Layers",
-        "image": "/images/doc65_img_1.jpg?v=20260902",
+        "image": "/images/doc65_img_1.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Long Layers is one of the most flattering choices for women with round face shapes.",
@@ -15681,7 +15681,7 @@ export const articles = [
       {
         "number": 2,
         "title": "Side-Swept Bangs",
-        "image": "/images/doc65_img_2.jpg?v=20260902",
+        "image": "/images/doc65_img_2.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Side-Swept Bangs is one of the most flattering choices for women with round face shapes.",
@@ -15692,7 +15692,7 @@ export const articles = [
       {
         "number": 3,
         "title": "Asymmetrical Bob",
-        "image": "/images/doc65_img_3.jpg?v=20260902",
+        "image": "/images/doc65_img_3.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Asymmetrical Bob is one of the most flattering choices for women with round face shapes.",
@@ -15703,7 +15703,7 @@ export const articles = [
       {
         "number": 4,
         "title": "Voluminous Waves",
-        "image": "/images/doc65_img_4.jpg?v=20260902",
+        "image": "/images/doc65_img_4.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Voluminous Waves is one of the most flattering choices for women with round face shapes.",
@@ -15714,7 +15714,7 @@ export const articles = [
       {
         "number": 5,
         "title": "High Ponytail",
-        "image": "/images/doc65_img_5.jpg?v=20260902",
+        "image": "/images/doc65_img_5.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "High Ponytail is one of the most flattering choices for women with round face shapes.",
@@ -15725,7 +15725,7 @@ export const articles = [
       {
         "number": 6,
         "title": "Pixie Cut",
-        "image": "/images/doc65_img_6.jpg?v=20260902",
+        "image": "/images/doc65_img_6.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Pixie Cut is one of the most flattering choices for women with round face shapes.",
@@ -15736,7 +15736,7 @@ export const articles = [
       {
         "number": 7,
         "title": "Angled Lob",
-        "image": "/images/doc65_img_7.jpg?v=20260902",
+        "image": "/images/doc65_img_7.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Angled Lob is one of the most flattering choices for women with round face shapes.",
@@ -15747,7 +15747,7 @@ export const articles = [
       {
         "number": 8,
         "title": "Shaggy Layers",
-        "image": "/images/doc65_img_8.jpg?v=20260902",
+        "image": "/images/doc65_img_8.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Shaggy Layers is one of the most flattering choices for women with round face shapes.",
@@ -15758,7 +15758,7 @@ export const articles = [
       {
         "number": 9,
         "title": "Textured Fringe",
-        "image": "/images/doc65_img_9.jpg?v=20260902",
+        "image": "/images/doc65_img_9.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Textured Fringe is one of the most flattering choices for women with round face shapes.",
@@ -15769,7 +15769,7 @@ export const articles = [
       {
         "number": 10,
         "title": "Sleek Middle Part",
-        "image": "/images/doc65_img_10.jpg?v=20260902",
+        "image": "/images/doc65_img_10.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Sleek Middle Part is one of the most flattering choices for women with round face shapes.",
@@ -15780,7 +15780,7 @@ export const articles = [
       {
         "number": 11,
         "title": "Half-Up, Half-Down",
-        "image": "/images/doc65_img_11.jpg?v=20260902",
+        "image": "/images/doc65_img_11.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Half-Up, Half-Down is one of the most flattering choices for women with round face shapes.",
@@ -15791,7 +15791,7 @@ export const articles = [
       {
         "number": 12,
         "title": "Tousled Bob",
-        "image": "/images/doc65_img_12.jpg?v=20260902",
+        "image": "/images/doc65_img_12.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Tousled Bob is one of the most flattering choices for women with round face shapes.",
@@ -15802,7 +15802,7 @@ export const articles = [
       {
         "number": 13,
         "title": "Curly Layers",
-        "image": "/images/doc65_img_13.jpg?v=20260902",
+        "image": "/images/doc65_img_13.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Curly Layers is one of the most flattering choices for women with round face shapes.",
@@ -15813,7 +15813,7 @@ export const articles = [
       {
         "number": 14,
         "title": "Full Fringe",
-        "image": "/images/doc65_img_14.jpg?v=20260902",
+        "image": "/images/doc65_img_14.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Full Fringe is one of the most flattering choices for women with round face shapes.",
@@ -15824,7 +15824,7 @@ export const articles = [
       {
         "number": 15,
         "title": "Sleek Updo",
-        "image": "/images/doc65_img_15.jpg?v=20260902",
+        "image": "/images/doc65_img_15.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Sleek Updo is one of the most flattering choices for women with round face shapes.",
@@ -15835,7 +15835,7 @@ export const articles = [
       {
         "number": 16,
         "title": "Wispy Bangs",
-        "image": "/images/doc65_img_16.jpg?v=20260902",
+        "image": "/images/doc65_img_16.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Wispy Bangs is one of the most flattering choices for women with round face shapes.",
@@ -15846,7 +15846,7 @@ export const articles = [
       {
         "number": 17,
         "title": "Choppy Pixie",
-        "image": "/images/doc65_img_17.jpg?v=20260902",
+        "image": "/images/doc65_img_17.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Choppy Pixie is one of the most flattering choices for women with round face shapes.",
@@ -15857,7 +15857,7 @@ export const articles = [
       {
         "number": 18,
         "title": "Soft Curls",
-        "image": "/images/doc65_img_18.jpg?v=20260902",
+        "image": "/images/doc65_img_18.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Soft Curls is one of the most flattering choices for women with round face shapes.",
@@ -15868,7 +15868,7 @@ export const articles = [
       {
         "number": 19,
         "title": "Slicked Back",
-        "image": "/images/doc65_img_19.jpg?v=20260902",
+        "image": "/images/doc65_img_19.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Slicked Back is one of the most flattering choices for women with round face shapes.",
@@ -15879,7 +15879,7 @@ export const articles = [
       {
         "number": 20,
         "title": "Layered Bob",
-        "image": "/images/doc65_img_20.jpg?v=20260902",
+        "image": "/images/doc65_img_20.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Layered Bob is one of the most flattering choices for women with round face shapes.",
@@ -15890,7 +15890,7 @@ export const articles = [
       {
         "number": 21,
         "title": "Side Part",
-        "image": "/images/doc65_img_21.jpg?v=20260902",
+        "image": "/images/doc65_img_21.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Side Part is one of the most flattering choices for women with round face shapes.",
@@ -15901,7 +15901,7 @@ export const articles = [
       {
         "number": 22,
         "title": "Bouffant Style",
-        "image": "/images/doc65_img_22.jpg?v=20260902",
+        "image": "/images/doc65_img_22.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Bouffant Style is one of the most flattering choices for women with round face shapes.",
@@ -15912,7 +15912,7 @@ export const articles = [
       {
         "number": 23,
         "title": "Cascading Curls",
-        "image": "/images/doc65_img_23.jpg?v=20260902",
+        "image": "/images/doc65_img_23.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Cascading Curls is one of the most flattering choices for women with round face shapes.",
@@ -15923,7 +15923,7 @@ export const articles = [
       {
         "number": 24,
         "title": "Pinned Back",
-        "image": "/images/doc65_img_24.jpg?v=20260902",
+        "image": "/images/doc65_img_24.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Pinned Back is one of the most flattering choices for women with round face shapes.",
@@ -15934,7 +15934,7 @@ export const articles = [
       {
         "number": 25,
         "title": "Feathered Cut",
-        "image": "/images/doc65_img_25.jpg?v=20260902",
+        "image": "/images/doc65_img_25.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Feathered Cut is one of the most flattering choices for women with round face shapes.",
@@ -15945,7 +15945,7 @@ export const articles = [
       {
         "number": 26,
         "title": "Blunt Lob",
-        "image": "/images/doc65_img_26.jpg?v=20260902",
+        "image": "/images/doc65_img_26.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Blunt Lob is one of the most flattering choices for women with round face shapes.",
@@ -15956,7 +15956,7 @@ export const articles = [
       {
         "number": 27,
         "title": "Defined Waves",
-        "image": "/images/doc65_img_27.jpg?v=20260902",
+        "image": "/images/doc65_img_27.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Defined Waves is one of the most flattering choices for women with round face shapes.",
@@ -15967,7 +15967,7 @@ export const articles = [
       {
         "number": 28,
         "title": "Braided Crown",
-        "image": "/images/doc65_img_28.jpg?v=20260902",
+        "image": "/images/doc65_img_28.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Braided Crown is one of the most flattering choices for women with round face shapes.",
@@ -15978,7 +15978,7 @@ export const articles = [
       {
         "number": 29,
         "title": "Undercut",
-        "image": "/images/doc65_img_29.jpg?v=20260902",
+        "image": "/images/doc65_img_29.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Undercut is one of the most flattering choices for women with round face shapes.",
@@ -15989,7 +15989,7 @@ export const articles = [
       {
         "number": 30,
         "title": "Box Braids",
-        "image": "/images/doc65_img_30.jpg?v=20260902",
+        "image": "/images/doc65_img_30.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Box Braids is one of the most flattering choices for women with round face shapes.",
@@ -16000,7 +16000,7 @@ export const articles = [
       {
         "number": 31,
         "title": "Classic Straight Cut",
-        "image": "/images/doc65_img_31.jpg?v=20260902",
+        "image": "/images/doc65_img_31.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Classic Straight Cut is one of the most flattering choices for women with round face shapes.",
@@ -16011,7 +16011,7 @@ export const articles = [
       {
         "number": 32,
         "title": "Beachy Waves",
-        "image": "/images/doc65_img_32.jpg?v=20260902",
+        "image": "/images/doc65_img_32.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Beachy Waves is one of the most flattering choices for women with round face shapes.",
@@ -16022,7 +16022,7 @@ export const articles = [
       {
         "number": 33,
         "title": "Dutch Braids",
-        "image": "/images/doc65_img_33.jpg?v=20260902",
+        "image": "/images/doc65_img_33.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Dutch Braids is one of the most flattering choices for women with round face shapes.",
@@ -16033,7 +16033,7 @@ export const articles = [
       {
         "number": 34,
         "title": "Space Buns",
-        "image": "/images/doc65_img_34.jpg?v=20260902",
+        "image": "/images/doc65_img_34.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Space Buns is one of the most flattering choices for women with round face shapes.",
@@ -16044,7 +16044,7 @@ export const articles = [
       {
         "number": 35,
         "title": "Low Bun",
-        "image": "/images/doc65_img_35.jpg?v=20260902",
+        "image": "/images/doc65_img_35.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Low Bun is one of the most flattering choices for women with round face shapes.",
@@ -16055,7 +16055,7 @@ export const articles = [
       {
         "number": 36,
         "title": "Fishtail Braid",
-        "image": "/images/doc65_img_36.jpg?v=20260902",
+        "image": "/images/doc65_img_36.jpg",
         "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
         "paragraphs": [
           "Fishtail Braid is one of the most flattering choices for women with round face shapes.",
