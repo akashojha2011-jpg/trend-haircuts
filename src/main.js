@@ -476,5 +476,9 @@ window.renderAppGlobal = renderApp;
 window.addEventListener('popstate', renderApp);
 window.addEventListener('render-app', renderApp);
 
-// Initial App Launch
-document.addEventListener('DOMContentLoaded', renderApp);
+// Initial App Launch (runs immediately if DOM is already parsed)
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', renderApp);
+} else {
+  renderApp();
+}
