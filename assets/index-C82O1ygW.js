@@ -288,13 +288,18 @@
     </section>
   `}function M(a){return a?`
     <section class="section-padding container">
+      <div class="section-header text-center" style="display:block; margin-bottom: 1.75rem;">
+        <h2 class="section-title">Editor's Spotlight</h2>
+        <p class="subheading">Our featured haircut masterclass of the week</p>
+      </div>
+
       <div class="editorial-card">
         <div class="editorial-img-wrap">
           <img src="${a.heroImage}" alt="${a.title}" loading="lazy" />
         </div>
 
         <div class="editorial-content">
-          <span class="editorial-badge">Featured Editor's Pick</span>
+          <span class="editorial-badge">Featured Masterclass</span>
           <h2 class="editorial-title">${a.title}</h2>
           <p class="editorial-desc">
             ${a.intro.substring(0,180)}...

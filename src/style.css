@@ -1915,6 +1915,82 @@ h1, h2, h3, h4, .font-serif {
     object-position: top center;
   }
 
+  /* Homepage Section & Title-to-Image Spacing */
+  .section-padding {
+    padding: 2.25rem 0;
+  }
+
+  .section-header {
+    margin-bottom: 1.35rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+
+  .section-title {
+    font-size: clamp(1.45rem, 5vw, 1.85rem);
+    line-height: 1.25;
+    margin-bottom: 0.25rem;
+  }
+
+  .subheading {
+    font-size: 0.9rem;
+    line-height: 1.45;
+    color: var(--text-secondary);
+  }
+
+  /* Grid Spacing on Mobile */
+  .masonry-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .category-cards-grid {
+    grid-template-columns: 1fr;
+    gap: 1.15rem;
+  }
+
+  .hair-length-grid {
+    grid-template-columns: 1fr;
+    gap: 1.15rem;
+  }
+
+  .length-card {
+    height: 270px;
+    border-radius: var(--radius-md);
+  }
+
+  .chips-flex {
+    gap: 0.6rem 0.5rem;
+    justify-content: center;
+  }
+
+  .chip-btn {
+    padding: 0.5rem 0.95rem;
+    font-size: 0.85rem;
+  }
+
+  .editorial-card {
+    border-radius: var(--radius-md);
+    margin-top: 0.5rem;
+  }
+
+  .editorial-img-wrap {
+    height: 280px;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+  }
+
+  .editorial-content {
+    padding: 1.5rem 1.25rem;
+  }
+
+  .editorial-title {
+    font-size: 1.45rem;
+    line-height: 1.25;
+    margin-bottom: 0.75rem;
+  }
+
   /* Article Body & Listicles */
   .article-body-wrap {
     padding: 0;
