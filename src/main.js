@@ -149,14 +149,35 @@ function renderApp() {
     );
 
     const featuredArticle = articles.find(a => a.isFeatured) || articles[0];
-    const trendingArticles = articles.filter(a => a.isTrending);
+    
+    // Select 6 latest blogs, ensuring no two blogs are from the same category
+    const sortedArticles = [...articles].sort((a, b) => new Date(b.date || '2026-07-01') - new Date(a.date || '2026-07-01'));
+    const trendingArticles = [];
+    const usedCategories = new Set();
+    
+    for (const art of sortedArticles) {
+      if (!usedCategories.has(art.category)) {
+        trendingArticles.push(art);
+        usedCategories.add(art.category);
+        if (trendingArticles.length === 6) break;
+      }
+    }
+    if (trendingArticles.length < 6) {
+      for (const art of sortedArticles) {
+        if (!trendingArticles.includes(art)) {
+          trendingArticles.push(art);
+          if (trendingArticles.length === 6) break;
+        }
+      }
+    }
+
     const visibleArticles = articles.slice(0, appState.loadedArticlesCount);
 
     bodyContent = `
       ${renderHero()}
       ${renderCategoryGrid()}
       
-      <!-- Section 3: Trending Now -->
+      <!-- Section 3: Trending Now (6 latest blogs from unique categories, no pagination) -->
       <section class="section-padding container">
         <div class="section-header">
           <div>
@@ -164,8 +185,9 @@ function renderApp() {
             <p class="subheading">Viral haircuts and color trends currently inspiring stylists worldwide</p>
           </div>
         </div>
-        ${renderMasonryGrid(trendingArticles, { gridId: 'trending-grid', itemsPerPage: 3 })}
-      </section>
+        ${renderMasonryGrid(trendingArticles, { gridId: 'trending-grid', itemsPerPage: 6, showPagination: false })}
+      </section>`,\
+StartLine:150,TargetContent:
 
       ${renderHairLengthSection()}
 

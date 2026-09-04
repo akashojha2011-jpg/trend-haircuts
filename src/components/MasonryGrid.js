@@ -46,7 +46,7 @@ export function renderMasonryGrid(articlesList = [], options = {}) {
 
   // Pagination HTML with Arrow Controls
   let paginationHtml = '';
-  if (totalPages > 1) {
+  if (totalPages > 1 && options.showPagination !== false && !options.hidePagination) {
     let pageNumbersHtml = '';
     for (let i = 1; i <= totalPages; i++) {
       const activeClass = i === currentPage ? 'active' : '';
