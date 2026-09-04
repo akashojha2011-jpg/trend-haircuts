@@ -64,11 +64,16 @@ export function renderArticleView(article) {
   ` : '';
 
   // Investopedia-style TOC items HTML (PRESERVE ITEM HEADING NUMBERS IN TOC)
-  const mainTocItemsHtml = article.items.map(item => `
-    <li class="investopedia-toc-item">
-      <a href="#item-${item.number}">${item.number}. ${item.title}</a>
-    </li>
-  `).join('');
+  const mainTocItemsHtml = article.items.map((item, idx) => {
+    const itemNum = item.number || (idx + 1);
+    const rawTitle = item.title || '';
+    const titleWithoutNum = rawTitle.replace(/^\d+\.\s*/, '');
+    return `
+      <li class="investopedia-toc-item">
+        <a href="#item-${itemNum}">${itemNum}. ${titleWithoutNum}</a>
+      </li>
+    `;
+  }).join('');
 
   const extraTocItemsTopHtml = article.extraSections ? article.extraSections.map(sec => `
     <li class="investopedia-toc-item special-toc-item">
@@ -83,14 +88,18 @@ export function renderArticleView(article) {
   ` : '';
 
   // Listicle Items HTML
-  const itemsHtml = article.items.map(item => {
+  const itemsHtml = article.items.map((item, idx) => {
+    const itemNum = item.number || (idx + 1);
+    const rawTitle = item.title || '';
+    const titleWithoutNum = rawTitle.replace(/^\d+\.\s*/, '');
+
     const descHtml = item.paragraphs && Array.isArray(item.paragraphs)
       ? item.paragraphs.map(p => `<p class="listicle-desc">${p}</p>`).join('')
       : `<p class="listicle-desc">${item.description}</p>`;
 
     return `
-      <div class="listicle-item" id="item-${item.number}" style="scroll-margin-top: 100px;">
-        <h2 class="listicle-item-title" id="heading-${item.number}">${item.number}. ${item.title}</h2>
+      <div class="listicle-item" id="item-${itemNum}" style="scroll-margin-top: 100px;">
+        <h2 class="listicle-item-title" id="heading-${itemNum}">${itemNum}. ${titleWithoutNum}</h2>
         
         <div class="listicle-item-img">
           <img src="${item.image}" alt="${item.title}" loading="lazy" />
