@@ -1823,9 +1823,18 @@ h1, h2, h3, h4, .font-serif {
 }
 
 @media (max-width: 600px) {
-  /* Homepage & General Container Whitespace (LHS/RHS) */
+  html, body, #app {
+    overflow-x: hidden !important;
+    width: 100% !important;
+  }
+
+  /* Universal Container Side Whitespace (Homepage & All Pages) */
   .container {
-    padding: 0 1.25rem;
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    max-width: 100% !important;
   }
 
   .site-header {
