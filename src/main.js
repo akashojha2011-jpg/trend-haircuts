@@ -186,8 +186,7 @@ function renderApp() {
           </div>
         </div>
         ${renderMasonryGrid(trendingArticles, { gridId: 'trending-grid', itemsPerPage: 6, showPagination: false })}
-      </section>`,\
-StartLine:150,TargetContent:
+      </section>
 
       ${renderHairLengthSection()}
 
