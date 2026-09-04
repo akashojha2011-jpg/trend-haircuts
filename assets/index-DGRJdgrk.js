@@ -78,36 +78,36 @@
           </button>
         </div>
       </div>
+    </header>
 
-      <!-- Mobile Navigation Drawer Overlay -->
-      <div class="mobile-drawer-overlay" id="mobile-drawer-overlay">
-        <div class="mobile-drawer-content">
-          <div class="mobile-drawer-header">
-            <a href="/" class="logo" data-route="home">
-              <img src="/images/logo.png" alt="Trend Haircuts" class="site-logo-img" />
-            </a>
-            <button class="icon-btn" id="close-mobile-drawer-btn" aria-label="Close menu">
-              <i data-lucide="x"></i>
-            </button>
-          </div>
+    <!-- Mobile Navigation Drawer Overlay (Outside Header) -->
+    <div class="mobile-drawer-overlay" id="mobile-drawer-overlay">
+      <div class="mobile-drawer-content">
+        <div class="mobile-drawer-header">
+          <a href="/" class="logo" data-route="home">
+            <img src="/images/logo.png" alt="Trend Haircuts" class="site-logo-img" />
+          </a>
+          <button class="icon-btn" id="close-mobile-drawer-btn" aria-label="Close menu">
+            <i data-lucide="x"></i>
+          </button>
+        </div>
 
-          <div class="mobile-drawer-body">
-            <ul class="mobile-drawer-list">
-              ${o}
-            </ul>
+        <div class="mobile-drawer-body">
+          <ul class="mobile-drawer-list">
+            ${o}
+          </ul>
 
-            <div class="mobile-drawer-footer">
-              <a href="/about" data-route="about">About Us</a>
-              <a href="/contact" data-route="contact">Contact Editorial</a>
-              <a href="/sitemap" data-route="sitemap">Sitemap</a>
-              <a href="/privacy" data-route="privacy">Privacy Policy</a>
-              <a href="/terms" data-route="terms">Terms of Service</a>
-              <a href="/disclaimer" data-route="disclaimer">Editorial Disclaimer</a>
-            </div>
+          <div class="mobile-drawer-footer">
+            <a href="/about" data-route="about">About Us</a>
+            <a href="/contact" data-route="contact">Contact Editorial</a>
+            <a href="/sitemap" data-route="sitemap">Sitemap</a>
+            <a href="/privacy" data-route="privacy">Privacy Policy</a>
+            <a href="/terms" data-route="terms">Terms of Service</a>
+            <a href="/disclaimer" data-route="disclaimer">Editorial Disclaimer</a>
           </div>
         </div>
       </div>
-    </header>
+    </div>
   `}function H(){return`
     <section class="hero-section">
       <div class="container hero-content">
