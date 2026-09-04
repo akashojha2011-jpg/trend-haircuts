@@ -17,17 +17,17 @@ export function renderArticleView(article) {
   const extraSectionsHtml = article.extraSections ? article.extraSections.map(sec => {
     if (sec.stats) {
       const statsGrid = sec.stats.map(st => `
-        <div style="background: white; padding: 1rem; border-radius: var(--radius-md); text-align: center;">
-          <strong style="color: var(--accent-pink); font-size: 1.15rem; display:block; margin-bottom: 0.2rem;">${st.val}</strong>
-          <span style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">${st.label}</span>
+        <div class="stat-card-box">
+          <strong class="stat-card-val">${st.val}</strong>
+          <span class="stat-card-label">${st.label}</span>
         </div>
       `).join('');
 
       return `
-        <div id="${sec.id}" style="background: var(--bg-secondary); border-radius: var(--radius-lg); padding: 2rem; margin-bottom: 3.5rem; border: 1px solid var(--accent-pink-light); scroll-margin-top: 100px;">
-          <h3 class="font-serif" style="font-size: 1.6rem; margin-bottom: 0.75rem;">${sec.title}</h3>
-          <p style="font-size: 1rem; color: var(--text-secondary); line-height: 1.7; margin-bottom: 1.25rem;">${sec.content}</p>
-          <div style="display: grid; grid-template-columns: repeat(${sec.stats.length}, 1fr); gap: 1rem; margin-top: 1.25rem;">
+        <div id="${sec.id}" class="editorial-feature-box">
+          <h3 class="font-serif editorial-feature-title">${sec.title}</h3>
+          <p class="editorial-feature-desc">${sec.content}</p>
+          <div class="stats-grid-wrap">
             ${statsGrid}
           </div>
         </div>

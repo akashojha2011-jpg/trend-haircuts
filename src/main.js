@@ -408,6 +408,42 @@ function attachEventListeners() {
     }
   });
 
+  // Mobile Menu Drawer Handler
+  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+  const closeMobileDrawerBtn = document.getElementById('close-mobile-drawer-btn');
+  const mobileDrawerOverlay = document.getElementById('mobile-drawer-overlay');
+
+  const openMobileDrawer = () => {
+    mobileDrawerOverlay?.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  };
+
+  const closeMobileDrawer = () => {
+    mobileDrawerOverlay?.classList.remove('active');
+    document.body.style.overflow = '';
+  };
+
+  mobileMenuBtn?.addEventListener('click', openMobileDrawer);
+  closeMobileDrawerBtn?.addEventListener('click', closeMobileDrawer);
+  mobileDrawerOverlay?.addEventListener('click', (e) => {
+    if (e.target === mobileDrawerOverlay) closeMobileDrawer();
+  });
+
+  // Mobile Accordion Toggle
+  document.querySelectorAll('.mobile-drawer-accordion-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const targetId = btn.dataset.accordion;
+      const targetEl = document.getElementById(targetId);
+      btn.classList.toggle('active');
+      targetEl?.classList.toggle('active');
+    });
+  });
+
+  // Close mobile drawer on link navigation
+  document.querySelectorAll('#mobile-drawer-overlay a').forEach(link => {
+    link.addEventListener('click', closeMobileDrawer);
+  });
+
   // Search Modal Trigger
   const searchBtn = document.getElementById('search-trigger-btn');
   const searchModal = document.getElementById('search-modal');

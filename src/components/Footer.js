@@ -56,8 +56,8 @@ export function renderFooter() {
         </div>
 
         <div class="footer-bottom">
-          <p>&copy; 2017–${new Date().getFullYear()} Trend Haircuts — Inspiring Hair Trends Since 2017. All rights reserved.</p>
-          <div style="display:flex; gap:1.5rem;">
+          <p class="footer-copyright">&copy; 2017–${new Date().getFullYear()} Trend Haircuts — Inspiring Hair Trends Since 2017. All rights reserved.</p>
+          <div class="footer-bottom-links">
             <a href="/sitemap" data-route="sitemap">Sitemap</a>
             <a href="/privacy" data-route="privacy">Privacy</a>
             <a href="/terms" data-route="terms">Terms</a>
