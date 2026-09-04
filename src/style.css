@@ -1991,9 +1991,82 @@ h1, h2, h3, h4, .font-serif {
     margin-bottom: 0.75rem;
   }
 
+/* Masterclass & FAQ Base Styles */
+.masterclass-box {
+  background: white;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: 2.25rem 2.5rem;
+  margin: 3.5rem 0;
+  box-shadow: var(--shadow-sm);
+  scroll-margin-top: 100px;
+}
+
+.masterclass-title {
+  font-size: 1.8rem;
+  margin-bottom: 1.25rem;
+}
+
+.masterclass-steps-list {
+  padding-left: 1.25rem;
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+.article-faqs-wrap {
+  margin: 3.5rem 0;
+  scroll-margin-top: 100px;
+}
+
+.faqs-heading {
+  font-size: 1.85rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.faqs-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.faq-card-box {
+  background: var(--bg-secondary);
+  padding: 1.5rem 1.75rem;
+  border-radius: var(--radius-md);
+  border-left: 4px solid var(--accent-pink);
+}
+
+.faq-question {
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-bottom: 0.4rem;
+  color: var(--text-primary);
+}
+
+.faq-answer {
+  font-size: 0.98rem;
+  color: var(--text-secondary);
+  margin: 0;
+  line-height: 1.65;
+}
+
+@media (max-width: 600px) {
+  /* Article Container & Side Whitespace (PREVENT TEXT/IMAGE SIDE CROPPING) */
+  .article-page {
+    overflow-x: hidden;
+  }
+  .article-page .container {
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+    box-sizing: border-box !important;
+  }
+
   /* Article Body & Listicles */
   .article-body-wrap {
-    padding: 0;
+    padding: 0 !important;
+    width: 100% !important;
   }
   .article-intro {
     font-size: 1.05rem;
@@ -2033,6 +2106,33 @@ h1, h2, h3, h4, .font-serif {
   .investopedia-toc-container {
     padding: 1.15rem 1.25rem;
     margin-bottom: 2.25rem;
+    border-radius: var(--radius-md);
+  }
+
+  .masterclass-box {
+    padding: 1.25rem 1.15rem;
+    margin: 2rem 0;
+    border-radius: var(--radius-md);
+  }
+  .masterclass-title {
+    font-size: 1.35rem;
+    line-height: 1.25;
+    margin-bottom: 0.85rem;
+  }
+  .masterclass-steps-list {
+    font-size: 0.95rem;
+    line-height: 1.65;
+    padding-left: 1.1rem;
+  }
+  .article-faqs-wrap {
+    margin: 2.25rem 0;
+  }
+  .faqs-heading {
+    font-size: 1.4rem;
+    margin-bottom: 1.15rem;
+  }
+  .faq-card-box {
+    padding: 1.15rem 1.1rem;
     border-radius: var(--radius-md);
   }
 }

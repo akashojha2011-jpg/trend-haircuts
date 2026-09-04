@@ -36,10 +36,10 @@ export function renderArticleView(article) {
       const stepsList = sec.steps.map(st => `<li style="margin-bottom: 0.75rem;">${st}</li>`).join('');
 
       return `
-        <div id="${sec.id}" style="background: white; border: 1px solid var(--border-light); border-radius: var(--radius-lg); padding: 2.5rem; margin: 4rem 0; box-shadow: var(--shadow-sm); scroll-margin-top: 100px;">
+        <div id="${sec.id}" class="masterclass-box">
           <span class="blog-category-badge">Editorial Masterclass</span>
-          <h3 class="font-serif" style="font-size: 1.8rem; margin-bottom: 1.25rem;">${sec.title}</h3>
-          <ol style="padding-left: 1.25rem; font-size: 1.05rem; color: var(--text-secondary); line-height: 1.8;">
+          <h3 class="font-serif masterclass-title">${sec.title}</h3>
+          <ol class="masterclass-steps-list">
             ${stepsList}
           </ol>
         </div>
@@ -50,13 +50,13 @@ export function renderArticleView(article) {
 
   // Generate dynamic FAQs HTML
   const faqsHtml = article.faqs ? `
-    <div id="section-faq" style="margin: 4rem 0; scroll-margin-top: 100px;">
-      <h3 class="font-serif" style="font-size: 1.85rem; margin-bottom: 1.5rem; text-align: center;">Frequently Asked Questions</h3>
-      <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <div id="section-faq" class="article-faqs-wrap">
+      <h3 class="font-serif faqs-heading">Frequently Asked Questions</h3>
+      <div class="faqs-list">
         ${article.faqs.map(faq => `
-          <div style="background: var(--bg-secondary); padding: 1.5rem 1.75rem; border-radius: var(--radius-md); border-left: 3px solid var(--accent-pink);">
-            <h4 style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.4rem; color: var(--text-primary);">${faq.q}</h4>
-            <p style="font-size: 0.98rem; color: var(--text-secondary); margin: 0; line-height: 1.65;">${faq.a}</p>
+          <div class="faq-card-box">
+            <h4 class="faq-question">${faq.q}</h4>
+            <p class="faq-answer">${faq.a}</p>
           </div>
         `).join('')}
       </div>
