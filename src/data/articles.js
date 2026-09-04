@@ -8,7 +8,7 @@ export const articles = [
     "date": "September 7, 2026",
     "readTime": "4 min read",
     "heroImage": "/images/doc70_cover_collage.jpg",
-    "intro": "Natural looking silver highlights have become the gold standard for those seeking a sophisticated, low-maintenance glow that defies traditional aging stereotypes. This trend has shifted away from high-contrast, stark white streaks toward a more seamless, “lived-in” aesthetic that mimics how hair naturally catches the light. By incorporating cool-toned metallic ribbons into various base colors, stylists can create a multidimensional effect that looks intentional rather than artificial. Whether you are aiming to blend existing gray strands or simply want to add a modern, icy edge to your brunette or blonde base, these highlights offer a versatile solution. The key to achieving a truly natural finish lies in professional techniques like balayage and babylights, which ensure the transitions are soft and the grow-out period remains elegant and effortless for months.",
+    "intro": "Natural looking silver highlights have become the gold standard for those seeking a sophisticated, low-maintenance glow that defies traditional aging stereotypes. This trend has shifted away from high-contrast, stark white streaks toward a more seamless, “lived-in” aesthetic that mimics how hair naturally catches the light. By incorporating cool-toned metallic ribbons into various base colors, stylists can create a multidimensional effect that looks intentional rather than artificial. Whether you are aiming to blend existing gray strands or simply want to add a modern, icy edge to your brunette or blonde base, these highlights offer a versatile solution. The key to achieving a truly natural finish lies in professional techniques like balayage and babylights, which ensure the transitions are soft and the grow-out period remains elegant and effortless for months.",
     "isFeatured": false,
     "isTrending": true,
     "items": [
@@ -35,12 +35,12 @@ export const articles = [
       {
         "title": "5. Platinum Hair With Silver Blonde Foil Highlights",
         "image": "/images/doc70_img_5.jpg",
-        "description": "For those who are already light blonde or platinum, adding silver highlights is the ultimate way to achieve an icy, ethereal glow. This look blends nearly white platinum shades with cool silver-blonde ribbons to create a multidimensional “arctic” effect. Because the base is already light, the silver highlights look like natural shadows and highlights within the blonde rather than distinct stripes. This technique is perfect for hiding early grays, as the silver tones blend perfectly with natural depigmented hair. The foil application ensures that the brightness is consistent from root to tip, giving the hair a healthy, luminous finish. It is a high-maintenance color but offers an unparalleled level of sophistication for those who love a cool, bright aesthetic."
+        "description": "For those who are already light blonde or platinum, adding silver highlights is the ultimate way to achieve an icy, ethereal glow. This look blends nearly white platinum shades with cool silver-blonde ribbons to create a multidimensional “arctic” effect. Because the base is already light, the silver highlights look like natural shadows and highlights within the blonde rather than distinct stripes. This technique is perfect for hiding early grays, as the silver tones blend perfectly with natural depigmented hair. The foil application ensures that the brightness is consistent from root to tip, giving the hair a healthy, luminous finish. It is a high-maintenance color but offers an unparalleled level of sophistication for those who love a cool, bright aesthetic."
       },
       {
         "title": "6. Black Hair With Gray Foil Highlights",
         "image": "/images/doc70_img_6.jpg",
-        "description": "Creating a natural look on jet-black hair requires a delicate balance to avoid a “salt and pepper” effect that looks too harsh or aged. Gray foil highlights on a black base provide a charcoal-like dimension that feels moody and modern. Instead of stark white, choosing a deeper steel or gunmetal gray allows the highlights to melt into the dark background more effectively. This technique creates a high-fashion metallic shimmer that looks like natural shine rather than a dye job. It is an excellent choice for those with thick hair, as the foils help break up the density of solid black pigment. The contrast remains striking but becomes much more wearable when the gray tones are kept within a cool, muted color palette."
+        "description": "Creating a natural look on jet-black hair requires a delicate balance to avoid a “salt and pepper” effect that looks too harsh or aged. Gray foil highlights on a black base provide a charcoal-like dimension that feels moody and modern. Instead of stark white, choosing a deeper steel or gunmetal gray allows the highlights to melt into the dark background more effectively. This technique creates a high-fashion metallic shimmer that looks like natural shine rather than a dye job. It is an excellent choice for those with thick hair, as the foils help break up the density of solid black pigment. The contrast remains striking but becomes much more wearable when the gray tones are kept within a cool, muted color palette."
       },
       {
         "title": "7. Ash Brown Hair With Gray Balayage",
@@ -80,7 +80,7 @@ export const articles = [
       {
         "title": "14. Steel Gray Highlights On Natural Gray Hair",
         "image": "/images/doc70_img_14.jpg",
-        "description": "For women who are already embracing their natural gray, adding steel gray highlights can help refine the look and make it feel more intentional. Often, natural gray can grow in patchy or with yellowish undertones. Adding a darker, metallic steel gray throughout the hair helps create a cohesive “designed” color. This technique adds “lowlights” of gray to give the hair more depth and prevent it from looking washed out. It turns a natural transition into a high-fashion statement. The result is a thick, voluminous look that celebrates silver rather than hiding it. This is a very empowering style for women who want to look polished while staying true to their natural color progression."
+        "description": "For women who are already embracing their natural gray, adding steel gray highlights can help refine the look and make it feel more intentional. Often, natural gray can grow in patchy or with yellowish undertones. Adding a darker, metallic steel gray throughout the hair helps create a cohesive “designed” color. This technique adds “lowlights” of gray to give the hair more depth and prevent it from looking washed out. It turns a natural transition into a high-fashion statement. The result is a thick, voluminous look that celebrates silver rather than hiding it. This is a very empowering style for women who want to look polished while staying true to their natural color progression."
       }
     ],
     "categorySlug": "hair-color-ideas"
@@ -101,7 +101,7 @@ export const articles = [
       {
         "title": "1. Caramel golden blonde",
         "image": "/images/doc69_img_1.jpg",
-        "description": "Caramel golden blonde is a decadent and creamy shade that sits perfectly between blonde and light brown. This hue is characterized by its rich, toasted undertones that provide a sophisticated glow to the skin. It is an ideal choice for women with olive or deeper skin tones, as the warm caramel reflects light beautifully. This color looks particularly stunning on long, wavy hair where the different tones can mingle and catch the light. You can easily customize this shade to be more golden or more brown depending on your personal preference. Using a sulfate-free shampoo is essential to prevent the color from fading and to keep those rich, warm tones looking fresh and vibrant."
+        "description": "Caramel golden blonde is a decadent and creamy shade that sits perfectly between blonde and light brown. This hue is characterized by its rich, toasted undertones that provide a sophisticated glow to the skin. It is an ideal choice for women with olive or deeper skin tones, as the warm caramel reflects light beautifully. This color looks particularly stunning on long, wavy hair where the different tones can mingle and catch the light. You can easily customize this shade to be more golden or more brown depending on your personal preference. Using a sulfate-free shampoo is essential to prevent the color from fading and to keep those rich, warm tones looking fresh and vibrant."
       },
       {
         "title": "2. Sun kissed golden blonde",
@@ -116,12 +116,12 @@ export const articles = [
       {
         "title": "4. Champagne golden blonde",
         "image": "/images/doc69_img_4.jpg",
-        "description": "Champagne golden blonde is a sophisticated and sparkling shade that mixes cool pale tones with warm golden flecks. Think of it as a celebratory color that brings a touch of luxury to your everyday look. It is less yellow than traditional gold, making it a great middle ground for those who struggle to choose between ash and golden tones. This shade reflects light beautifully, giving the hair a healthy and glossy appearance. It works best on light to medium complexions and can be customized with subtle highlights or a delicate balayage. Keeping this color fresh involves using high-quality hair oils that enhance shine without weighing down the hair strands or dulling the delicate champagne shimmer."
+        "description": "Champagne golden blonde is a sophisticated and sparkling shade that mixes cool pale tones with warm golden flecks. Think of it as a celebratory color that brings a touch of luxury to your everyday look. It is less yellow than traditional gold, making it a great middle ground for those who struggle to choose between ash and golden tones. This shade reflects light beautifully, giving the hair a healthy and glossy appearance. It works best on light to medium complexions and can be customized with subtle highlights or a delicate balayage. Keeping this color fresh involves using high-quality hair oils that enhance shine without weighing down the hair strands or dulling the delicate champagne shimmer."
       },
       {
         "title": "5. Copper golden blonde",
         "image": "/images/doc69_img_5.jpg",
-        "description": "Copper golden blonde is a warm and fiery shade that leans heavily into the orange and red spectrum while remaining firmly in the blonde family. It is a vibrant and energetic color that looks stunning during the autumn months. The golden undertones provide a metallic shine that makes the copper tones look more natural and less like a solid dye job. This shade is perfect for those who want to stand out and embrace a bold, warm palette. It looks incredible on people with green or blue eyes, as the orange tones make the eye color pop. Using a color-protecting mask once a week is vital to keep the copper from losing its intensity and brilliance."
+        "description": "Copper golden blonde is a warm and fiery shade that leans heavily into the orange and red spectrum while remaining firmly in the blonde family. It is a vibrant and energetic color that looks stunning during the autumn months. The golden undertones provide a metallic shine that makes the copper tones look more natural and less like a solid dye job. This shade is perfect for those who want to stand out and embrace a bold, warm palette. It looks incredible on people with green or blue eyes, as the orange tones make the eye color pop. Using a color-protecting mask once a week is vital to keep the copper from losing its intensity and brilliance."
       },
       {
         "title": "6. Honey golden blonde",
@@ -141,7 +141,7 @@ export const articles = [
       {
         "title": "9. Strawberry golden blonde",
         "image": "/images/doc69_img_9.jpg",
-        "description": "Strawberry golden blonde is a unique and playful color that incorporates a hint of red or rose into a golden base. This creates a warm, peachy glow that is both trendy and timeless. It is a fantastic option for those who want to experiment with red tones without fully committing to a ginger or copper look. The golden undertones keep the color looking bright and prevent it from appearing too flat or dark. This shade works wonderfully with fair skin, especially if you have natural freckles to highlight. To keep the strawberry tint from fading too quickly, consider using a color-depositing conditioner once a week. It is a feminine and ethereal choice for any season."
+        "description": "Strawberry golden blonde is a unique and playful color that incorporates a hint of red or rose into a golden base. This creates a warm, peachy glow that is both trendy and timeless. It is a fantastic option for those who want to experiment with red tones without fully committing to a ginger or copper look. The golden undertones keep the color looking bright and prevent it from appearing too flat or dark. This shade works wonderfully with fair skin, especially if you have natural freckles to highlight. To keep the strawberry tint from fading too quickly, consider using a color-depositing conditioner once a week. It is a feminine and ethereal choice for any season."
       },
       {
         "title": "10. Ash golden blonde",
@@ -151,7 +151,7 @@ export const articles = [
       {
         "title": "11. Butter golden blonde",
         "image": "/images/doc69_img_11.jpg",
-        "description": "Butter golden blonde is a soft, creamy, and pale shade that looks almost like melted butter in the sun. It is a very light blonde that avoids the coolness of platinum by embracing a warm, yellow-gold undertone. This color is highly sought after for its ability to look expensive and well-maintained. It provides a soft frame for the face and can make your complexion look smoother and more radiant. This shade is best achieved on naturally light hair or through careful lightening processes. Because it is a lighter tone, using a heat protectant is vital when styling to prevent damage and keep the creamy texture looking silky and healthy for longer periods."
+        "description": "Butter golden blonde is a soft, creamy, and pale shade that looks almost like melted butter in the sun. It is a very light blonde that avoids the coolness of platinum by embracing a warm, yellow-gold undertone. This color is highly sought after for its ability to look expensive and well-maintained. It provides a soft frame for the face and can make your complexion look smoother and more radiant. This shade is best achieved on naturally light hair or through careful lightening processes. Because it is a lighter tone, using a heat protectant is vital when styling to prevent damage and keep the creamy texture looking silky and healthy for longer periods."
       },
       {
         "title": "12. Warm golden balayage",
@@ -217,7 +217,7 @@ export const articles = [
       {
         "title": "4. Copper Contour Highlights Hair",
         "image": "/images/doc68_img_4.jpg",
-        "description": "Do you want to embrace the vibrant trend of red hair without the full commitment? Copper contour highlights hair is an exciting way to add spice to your look using rich, metallic tones. These highlights are strategically placed to catch the light around the jawline and forehead. Copper is a fantastic choice for those with green or blue eyes, as the warm contrast makes the eye color stand out. This contouring style looks particularly stunning on deep brunette or auburn bases. It adds a fiery energy to your hairstyle while keeping the overall look grounded and wearable. Many people choose this for the autumn season, but its brightening effect is perfect for any time of the year."
+        "description": "Do you want to embrace the vibrant trend of red hair without the full commitment? Copper contour highlights hair is an exciting way to add spice to your look using rich, metallic tones. These highlights are strategically placed to catch the light around the jawline and forehead. Copper is a fantastic choice for those with green or blue eyes, as the warm contrast makes the eye color stand out. This contouring style looks particularly stunning on deep brunette or auburn bases. It adds a fiery energy to your hairstyle while keeping the overall look grounded and wearable. Many people choose this for the autumn season, but its brightening effect is perfect for any time of the year."
       },
       {
         "title": "5. Honey Blonde Face Framing",
@@ -237,7 +237,7 @@ export const articles = [
       {
         "title": "8. Ash Blonde Hair Contour",
         "image": "/images/doc68_img_8.jpg",
-        "description": "Are you tired of seeing warm or brassy tones in your hair every time you get highlights? Ash blonde hair contour is the perfect solution for those who prefer a cool-toned, sophisticated aesthetic. This technique uses smoky, silvery, or pearl-like shades of blonde to frame the face. It is particularly flattering for individuals with cool skin undertones or those with blue and gray eyes. The ash tones help to neutralize any natural redness in the skin, providing a calming and balanced appearance. Because cool blonde can be tricky to maintain, using a purple shampoo is recommended to keep the contour looking fresh. It offers a modern, icy vibe that feels very high-end and fashion-forward."
+        "description": "Are you tired of seeing warm or brassy tones in your hair every time you get highlights? Ash blonde hair contour is the perfect solution for those who prefer a cool-toned, sophisticated aesthetic. This technique uses smoky, silvery, or pearl-like shades of blonde to frame the face. It is particularly flattering for individuals with cool skin undertones or those with blue and gray eyes. The ash tones help to neutralize any natural redness in the skin, providing a calming and balanced appearance. Because cool blonde can be tricky to maintain, using a purple shampoo is recommended to keep the contour looking fresh. It offers a modern, icy vibe that feels very high-end and fashion-forward."
       },
       {
         "title": "9. Curly Hair Contour Highlights",
@@ -272,7 +272,7 @@ export const articles = [
       {
         "title": "15. Mocha Brown Hair Contour",
         "image": "/images/doc68_img_15.jpg",
-        "description": "Can brunettes enjoy the benefits of contouring without using any blonde dye at all? Mocha brown hair contour is a sophisticated way to add dimension using slightly lighter shades of chocolate and coffee. This look is all about “tonal” contouring, where the highlights are just a few shades different from the base. It creates a rich, expensive-looking finish that adds incredible shine to the hair. This is an excellent choice for those with a professional career who want a subtle enhancement. The mocha tones help to define the cheekbones without the harshness of high-contrast colors. It looks particularly stunning on bob haircuts or sleek, shoulder-length styles that require a bit of movement."
+        "description": "Can brunettes enjoy the benefits of contouring without using any blonde dye at all? Mocha brown hair contour is a sophisticated way to add dimension using slightly lighter shades of chocolate and coffee. This look is all about “tonal” contouring, where the highlights are just a few shades different from the base. It creates a rich, expensive-looking finish that adds incredible shine to the hair. This is an excellent choice for those with a professional career who want a subtle enhancement. The mocha tones help to define the cheekbones without the harshness of high-contrast colors. It looks particularly stunning on bob haircuts or sleek, shoulder-length styles that require a bit of movement."
       }
     ],
     "categorySlug": "hair-color-ideas"
@@ -358,7 +358,7 @@ export const articles = [
       {
         "title": "14. Cranberry Wine Balayage",
         "image": "/images/doc67_img_14.jpg",
-        "description": "Cranberry wine balayage takes the burgundy palette in a slightly brighter, more energetic direction. This variation features a mix of deep burgundy and vivid cranberry-red tones that create a lively, spirited feel. It is perfect for anyone who wants their hair color to feel fun and youthful while still being rooted in the sophisticated wine color family. The cranberry highlights add pops of brightness throughout the hair, especially in the mid-lengths and ends, which keeps the look from feeling too heavy or dark. This color is a showstopper on medium to long hair where the dimensional placement really gets a chance to shine. It transitions beautifully through seasons and looks just as good in summer as it does in winter."
+        "description": "Cranberry wine balayage takes the burgundy palette in a slightly brighter, more energetic direction. This variation features a mix of deep burgundy and vivid cranberry-red tones that create a lively, spirited feel. It is perfect for anyone who wants their hair color to feel fun and youthful while still being rooted in the sophisticated wine color family. The cranberry highlights add pops of brightness throughout the hair, especially in the mid-lengths and ends, which keeps the look from feeling too heavy or dark. This color is a showstopper on medium to long hair where the dimensional placement really gets a chance to shine. It transitions beautifully through seasons and looks just as good in summer as it does in winter."
       },
       {
         "title": "15. Dark Chocolate Burgundy Wine Balayage",
@@ -373,7 +373,7 @@ export const articles = [
       {
         "title": "17. Violet Tinged Burgundy Wine Balayage",
         "image": "/images/doc67_img_17.jpg",
-        "description": "Adding violet tones to burgundy wine balayage creates a mesmerizing, otherworldly color effect. The purple undertones give the balayage a cooler, more ethereal quality that feels modern and fashion-forward. In certain lighting, the violet tinge becomes almost iridescent, shifting between burgundy and purple depending on the angle. This variation is perfect for anyone who loves experimenting with color and wants something that feels unique and artistic. It pairs especially well with cooler skin tones because the purple notes complement that natural coloring. The violet influence also helps the color last longer because purple pigments tend to hold onto hair fibers more stubbornly than pure red tones. The result is a long-lasting, head-turning color that never gets boring."
+        "description": "Adding violet tones to burgundy wine balayage creates a mesmerizing, otherworldly color effect. The purple undertones give the balayage a cooler, more ethereal quality that feels modern and fashion-forward. In certain lighting, the violet tinge becomes almost iridescent, shifting between burgundy and purple depending on the angle. This variation is perfect for anyone who loves experimenting with color and wants something that feels unique and artistic. It pairs especially well with cooler skin tones because the purple notes complement that natural coloring. The violet influence also helps the color last longer because purple pigments tend to hold onto hair fibers more stubbornly than pure red tones. The result is a long-lasting, head-turning color that never gets boring."
       },
       {
         "title": "18. Burgundy Wine Balayage on Wavy Hair",
@@ -399,7 +399,7 @@ export const articles = [
       {
         "title": "1. Caramel almond brown hair color",
         "image": "/images/doc66_img_1.jpg",
-        "description": "Caramel almond brown hair color is a delicious blend of two of the most popular brunette shades, resulting in a rich and creamy finish. This color features the nutty base of almond mixed with the buttery, sweet tones of caramel. It is a universally flattering shade that adds a lot of warmth to the face and works well for almost every age group. The caramel ribbons of color help to break up the solid brown, adding a sense of luxury and depth. This look is particularly effective on layered haircuts, as the different lengths catch the light and show off the intricate mix of tones. It is a classic and timeless choice."
+        "description": "Caramel almond brown hair color is a delicious blend of two of the most popular brunette shades, resulting in a rich and creamy finish. This color features the nutty base of almond mixed with the buttery, sweet tones of caramel. It is a universally flattering shade that adds a lot of warmth to the face and works well for almost every age group. The caramel ribbons of color help to break up the solid brown, adding a sense of luxury and depth. This look is particularly effective on layered haircuts, as the different lengths catch the light and show off the intricate mix of tones. It is a classic and timeless choice."
       },
       {
         "title": "2. Warm almond brown hair color",
@@ -434,7 +434,7 @@ export const articles = [
       {
         "title": "8. Deep almond brown hair color",
         "image": "/images/doc66_img_8.jpg",
-        "description": "Deep almond brown hair color provides a rich and sultry alternative for those who prefer a more grounded, brunette-focused appearance. This shade leans into the darker, toasted skin of an almond, featuring deep cocoa undertones mixed with subtle warm reflections. It is a fantastic choice for people with medium to dark complexions, as the richness of the brown creates a stunning contrast against the skin. Because this color is more saturated, it often results in a high-shine finish that looks incredibly healthy and thick. Maintaining this deep tone typically requires a color-safe shampoo and occasional gloss treatments to keep the warmth from fading into a flat or dull brown over several weeks."
+        "description": "Deep almond brown hair color provides a rich and sultry alternative for those who prefer a more grounded, brunette-focused appearance. This shade leans into the darker, toasted skin of an almond, featuring deep cocoa undertones mixed with subtle warm reflections. It is a fantastic choice for people with medium to dark complexions, as the richness of the brown creates a stunning contrast against the skin. Because this color is more saturated, it often results in a high-shine finish that looks incredibly healthy and thick. Maintaining this deep tone typically requires a color-safe shampoo and occasional gloss treatments to keep the warmth from fading into a flat or dull brown over several weeks."
       },
       {
         "title": "9. Almond brown hair color balayage",
@@ -444,12 +444,12 @@ export const articles = [
       {
         "title": "10. Roasted almond brown hair color",
         "image": "/images/doc66_img_10.jpg",
-        "description": "Roasted almond brown hair color is a slightly deeper, more intense version of the traditional shade that features smoky and charred undertones. It looks like a classic almond brown that has been deepened with a touch of espresso or dark mahogany. This result is a very sophisticated and moody brown that still retains enough warmth to avoid looking like a solid black. It is an excellent choice for the winter months when darker, richer tones are more in style. The “roasted” aspect gives the hair a unique dimension that looks particularly stunning on straight, sleek hair where the subtle shifts in tone can be clearly seen by everyone."
+        "description": "Roasted almond brown hair color is a slightly deeper, more intense version of the traditional shade that features smoky and charred undertones. It looks like a classic almond brown that has been deepened with a touch of espresso or dark mahogany. This result is a very sophisticated and moody brown that still retains enough warmth to avoid looking like a solid black. It is an excellent choice for the winter months when darker, richer tones are more in style. The “roasted” aspect gives the hair a unique dimension that looks particularly stunning on straight, sleek hair where the subtle shifts in tone can be clearly seen by everyone."
       },
       {
         "title": "11. Almond brown hair color blonde highlights",
         "image": "/images/doc66_img_11.jpg",
-        "description": "Almond brown hair color with blonde highlights offers a high-contrast look that is perfect for adding significant brightness and texture to your mane. By using an almond brown base, the blonde highlights appear more natural and less stark than they would against a black or dark espresso background. This combination is great for creating a “bronde” effect that works well across all seasons and occasions. The highlights can be thin and delicate for a sun-kissed look, or thicker and chunkier for a more dramatic, face-framing style. This approach is excellent for hiding gray hairs or adding the illusion of volume to finer hair types through the use of strategic light and shadow."
+        "description": "Almond brown hair color with blonde highlights offers a high-contrast look that is perfect for adding significant brightness and texture to your mane. By using an almond brown base, the blonde highlights appear more natural and less stark than they would against a black or dark espresso background. This combination is great for creating a “bronde” effect that works well across all seasons and occasions. The highlights can be thin and delicate for a sun-kissed look, or thicker and chunkier for a more dramatic, face-framing style. This approach is excellent for hiding gray hairs or adding the illusion of volume to finer hair types through the use of strategic light and shadow."
       },
       {
         "title": "12. Honey almond brown hair color",
@@ -464,7 +464,7 @@ export const articles = [
       {
         "title": "14. Almond brown hair color fair skin",
         "image": "/images/doc66_img_14.jpg",
-        "description": "Almond brown hair color for fair skin is carefully formulated to avoid washing out a pale complexion. By choosing a version of almond brown that has a balance of cool and warm tones, fair-skinned individuals can achieve a look that adds color and definition to their face. Often, a “sandy” almond or a “light ash” almond works best for those with cool undertones in their skin. This prevents the hair from looking too orange or brassy against a light background. Adding some very fine, pale babylights around the face can also help to brighten the eyes and give the skin a healthy, rosy appearance that looks very natural."
+        "description": "Almond brown hair color for fair skin is carefully formulated to avoid washing out a pale complexion. By choosing a version of almond brown that has a balance of cool and warm tones, fair-skinned individuals can achieve a look that adds color and definition to their face. Often, a “sandy” almond or a “light ash” almond works best for those with cool undertones in their skin. This prevents the hair from looking too orange or brassy against a light background. Adding some very fine, pale babylights around the face can also help to brighten the eyes and give the skin a healthy, rosy appearance that looks very natural."
       },
       {
         "title": "15. Ash almond brown hair color",
@@ -474,7 +474,7 @@ export const articles = [
       {
         "title": "16. Almond brown hair color tan skin",
         "image": "/images/doc66_img_16.jpg",
-        "description": "Almond brown hair color for tan skin looks incredibly vibrant and sun-kissed, as the warm brown tones complement the golden hues of a tan perfectly. This combination creates a monochromatic and harmonious look that feels very summery and tropical. For those with deeper tan or olive skin, a golden or honey almond brown is usually the most flattering choice. The richness of the nut tones helps to highlight the warmth in the skin, making the overall look appear very radiant. This color is often paired with beachy waves and a bit of sea salt spray to enhance the relaxed, “just came from the coast” vibe that it naturally exudes."
+        "description": "Almond brown hair color for tan skin looks incredibly vibrant and sun-kissed, as the warm brown tones complement the golden hues of a tan perfectly. This combination creates a monochromatic and harmonious look that feels very summery and tropical. For those with deeper tan or olive skin, a golden or honey almond brown is usually the most flattering choice. The richness of the nut tones helps to highlight the warmth in the skin, making the overall look appear very radiant. This color is often paired with beachy waves and a bit of sea salt spray to enhance the relaxed, “just came from the coast” vibe that it naturally exudes."
       }
     ],
     "categorySlug": "hair-color-ideas"
