@@ -21,7 +21,21 @@
   
   <!-- Lucide Icons -->
   <script src="https://unpkg.com/lucide@latest"></script>
-  <script type="module" crossorigin src="/assets/index-CUH-1grj.js"></script>
+  
+  <!-- Auto-purge stale browser cache script -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function(regs) {
+        for(let r of regs) { r.unregister(); }
+      });
+    }
+    if ('caches' in window) {
+      caches.keys().then(function(names) {
+        for (let name of names) caches.delete(name);
+      });
+    }
+  </script>
+  <script type="module" crossorigin src="/assets/index-OWp9i_sj.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-wieOF0jL.css">
 </head>
 <body>
