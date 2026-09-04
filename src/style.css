@@ -326,7 +326,7 @@ h1, h2, h3, h4, .font-serif {
 }
 
 .site-logo-img {
-  height: 44px;
+  height: 50px;
   width: auto;
   object-fit: contain;
   display: block;
@@ -334,7 +334,7 @@ h1, h2, h3, h4, .font-serif {
 
 @media (max-width: 768px) {
   .site-logo-img {
-    height: 36px;
+    height: 42px;
   }
 }
 
@@ -538,6 +538,8 @@ h1, h2, h3, h4, .font-serif {
 }
 
 .search-input {
+  flex: 1;
+  min-width: 0;
   width: 100%;
   border: none;
   outline: none;
@@ -559,6 +561,7 @@ h1, h2, h3, h4, .font-serif {
   font-size: 0.9rem;
   font-weight: 600;
   transition: background 0.2s;
+  flex-shrink: 0;
 }
 
 .search-submit-btn:hover {
@@ -1522,10 +1525,10 @@ h1, h2, h3, h4, .font-serif {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(36, 33, 36, 0.6);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  z-index: 2500;
+  background: rgba(20, 18, 20, 0.65);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: 3000;
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.3s var(--ease-smooth);
@@ -1537,11 +1540,11 @@ h1, h2, h3, h4, .font-serif {
 }
 
 .mobile-drawer-content {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
-  width: 85%;
-  max-width: 360px;
+  width: 100%;
+  max-width: 420px;
   height: 100%;
   background: #ffffff;
   box-shadow: -10px 0 30px rgba(0, 0, 0, 0.15);
@@ -1549,6 +1552,13 @@ h1, h2, h3, h4, .font-serif {
   flex-direction: column;
   transform: translateX(100%);
   transition: transform 0.35s var(--ease-smooth);
+}
+
+@media (max-width: 600px) {
+  .mobile-drawer-content {
+    width: 100%;
+    max-width: 100%;
+  }
 }
 
 .mobile-drawer-overlay.active .mobile-drawer-content {
@@ -1806,19 +1816,134 @@ h1, h2, h3, h4, .font-serif {
 }
 
 @media (max-width: 600px) {
+  /* Homepage & General Container Whitespace (LHS/RHS) */
+  .container {
+    padding: 0 1.25rem;
+  }
+
+  .site-header {
+    height: 68px;
+  }
+  .site-logo-img {
+    height: 42px;
+  }
+
+  .hero-section {
+    padding: 2.25rem 0 1.5rem;
+  }
+  .hero-title {
+    font-size: clamp(2.1rem, 6.8vw, 2.75rem);
+    line-height: 1.16;
+    margin-bottom: 0.75rem;
+  }
+  .hero-subtitle {
+    font-size: 0.98rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    padding: 0 0.25rem;
+  }
+  .search-bar-wrap {
+    margin-bottom: 1.25rem;
+  }
+  .search-input-group {
+    padding: 0.35rem 0.35rem 0.35rem 0.95rem;
+  }
+  .search-input {
+    font-size: 0.92rem;
+  }
+  .search-submit-btn {
+    padding: 0.55rem 1.05rem;
+    font-size: 0.85rem;
+  }
+
+  /* Individual Article Header & Meta Strip Formatting */
   .article-header {
     padding: 1.5rem 0 1.25rem;
   }
+  .article-category {
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.5rem;
+  }
   .article-title {
-    font-size: 1.75rem;
-    line-height: 1.25;
+    font-size: clamp(1.7rem, 5.4vw, 2.2rem);
+    line-height: 1.22;
     margin-bottom: 1rem;
   }
   .article-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem 0.5rem;
     font-size: 0.825rem;
-    gap: 0.35rem 0.6rem;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+  }
+  .article-meta .meta-item {
+    white-space: nowrap;
+    font-weight: 500;
+  }
+  .article-meta .meta-dot {
+    color: #D2C9D4;
+    font-size: 0.8rem;
+    user-select: none;
   }
   .breadcrumb-clean .bc-active {
     max-width: 110px;
+  }
+
+  /* Hero & Collage Cover Images */
+  .article-main-hero-img {
+    margin: 0 auto 2.25rem;
+    border-radius: var(--radius-md);
+    aspect-ratio: auto;
+    min-height: auto;
+    max-height: 480px;
+    box-shadow: var(--shadow-sm);
+  }
+  .article-main-hero-img img {
+    width: 100%;
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+  }
+
+  /* Article Body & Listicles */
+  .article-body-wrap {
+    padding: 0;
+  }
+  .article-intro {
+    font-size: 1.05rem;
+    line-height: 1.72;
+    color: #2D2A2E;
+    margin-bottom: 1.25rem;
+  }
+  .listicle-item {
+    margin-bottom: 3.25rem;
+  }
+  .listicle-item-title {
+    font-size: clamp(1.4rem, 4.8vw, 1.75rem);
+    line-height: 1.25;
+    margin-bottom: 0.85rem;
+  }
+  .listicle-item-img {
+    border-radius: var(--radius-md);
+    margin-bottom: 1.15rem;
+  }
+  .listicle-desc {
+    font-size: 1.02rem;
+    line-height: 1.72;
+    color: var(--text-secondary);
+    margin-bottom: 0.85rem;
+  }
+  .styling-tip-box {
+    padding: 1.1rem 1.25rem;
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  }
+  .investopedia-toc-container {
+    padding: 1.15rem 1.25rem;
+    margin-bottom: 2.25rem;
+    border-radius: var(--radius-md);
   }
 }

@@ -407,11 +407,11 @@
         <h1 class="article-title">${a.title}</h1>
         
         <div class="article-meta">
-          <span>Updated ${a.date}</span>
-          <span>•</span>
-          <span>${a.readTime}</span>
-          <span>•</span>
-          <span>By Trend Haircuts Editorial Team</span>
+          <span class="meta-item">Updated ${a.date}</span>
+          <span class="meta-dot">•</span>
+          <span class="meta-item">${a.readTime}</span>
+          <span class="meta-dot">•</span>
+          <span class="meta-item">By Trend Haircuts Editorial Team</span>
         </div>
       </header>
 

@@ -154,11 +154,11 @@ export function renderArticleView(article) {
         <h1 class="article-title">${article.title}</h1>
         
         <div class="article-meta">
-          <span>Updated ${article.date}</span>
-          <span>•</span>
-          <span>${article.readTime}</span>
-          <span>•</span>
-          <span>By Trend Haircuts Editorial Team</span>
+          <span class="meta-item">Updated ${article.date}</span>
+          <span class="meta-dot">•</span>
+          <span class="meta-item">${article.readTime}</span>
+          <span class="meta-dot">•</span>
+          <span class="meta-item">By Trend Haircuts Editorial Team</span>
         </div>
       </header>
 
