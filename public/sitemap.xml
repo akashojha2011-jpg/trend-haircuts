@@ -10,52 +10,52 @@
     <loc>https://www.trendhaircuts.com/about</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/contact</loc>
+    <loc>https://www.trendhaircuts.com/privacy-policy</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/privacy</loc>
+    <loc>https://www.trendhaircuts.com/terms-of-service</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.trendhaircuts.com/terms</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.trendhaircuts.com/disclaimer</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/contact</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.trendhaircuts.com/sitemap</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/short-hairstyles</loc>
+    <loc>https://www.trendhaircuts.com/category/haircuts-and-lengths</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/bob-lob-haircuts</loc>
+    <loc>https://www.trendhaircuts.com/category/hairstyles-and-trends</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/bangs-fringe</loc>
+    <loc>https://www.trendhaircuts.com/category/hair-types-and-age</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -67,13 +67,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/long-hairstyles</loc>
+    <loc>https://www.trendhaircuts.com/category/easy-everyday-hairstyles</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/curly-hairstyles</loc>
+    <loc>https://www.trendhaircuts.com/category/curly-hairstyles-haircuts</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/bob-lob-haircuts</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/bangs-fringe-hairstyles</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -85,19 +97,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/women-over-40</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.trendhaircuts.com/category/easy-everyday-hairstyles</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.trendhaircuts.com/category/face-shape-glasses</loc>
+    <loc>https://www.trendhaircuts.com/category/face-shape-glasses-hairstyles</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
