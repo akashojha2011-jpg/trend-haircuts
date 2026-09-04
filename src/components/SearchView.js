@@ -18,7 +18,7 @@ export function renderSearchModal(savedPins = []) {
             type="text" 
             id="modal-search-input" 
             class="search-input" 
-            placeholder="Search curtain bangs, bobs, honey blonde, braids, shags..." 
+            placeholder="Search hairstyles, haircuts & more..." 
             autofocus
           />
         </div>

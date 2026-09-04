@@ -124,7 +124,7 @@
               type="text" 
               id="hero-search-input"
               class="search-input" 
-              placeholder="Search hairstyles, haircuts, colors and more..."
+              placeholder="Search hairstyles, haircuts & more..."
               autocomplete="off"
             />
             <button type="submit" class="search-submit-btn">Search</button>
@@ -514,7 +514,7 @@
             type="text" 
             id="modal-search-input" 
             class="search-input" 
-            placeholder="Search curtain bangs, bobs, honey blonde, braids, shags..." 
+            placeholder="Search hairstyles, haircuts & more..." 
             autofocus
           />
         </div>
