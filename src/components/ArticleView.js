@@ -172,7 +172,9 @@ export function renderArticleView(article) {
       <!-- Article Body Container -->
       <div class="container article-body-wrap">
         <!-- Intro -->
-        <p class="article-intro">${article.intro}</p>
+        ${article.introParagraphs && Array.isArray(article.introParagraphs)
+          ? article.introParagraphs.map(p => `<p class="article-intro">${p}</p>`).join('')
+          : `<p class="article-intro">${article.intro}</p>`}
 
         <!-- INVESTOPEDIA-STYLE COLLAPSIBLE TABLE OF CONTENTS -->
         <div class="investopedia-toc-container" id="investopedia-toc">

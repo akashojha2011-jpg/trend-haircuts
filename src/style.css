@@ -1133,6 +1133,10 @@ h1, h2, h3, h4, .font-serif {
   font-size: 1.2rem;
   line-height: 1.8;
   color: var(--text-secondary);
+  margin-bottom: 1.25rem;
+}
+
+.article-intro:last-of-type {
   margin-bottom: 2.5rem;
 }
 
