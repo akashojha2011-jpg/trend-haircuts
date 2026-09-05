@@ -59,6 +59,19 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Allow images to be clicked, saved, or copied */
+img, picture, svg, .article-item-image, .article-hero-img {
+  -webkit-user-select: auto;
+  -moz-user-select: auto;
+  -ms-user-select: auto;
+  user-select: auto;
+  pointer-events: auto;
 }
 
 a {

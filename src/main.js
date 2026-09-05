@@ -518,3 +518,25 @@ if (document.readyState === 'loading') {
 } else {
   renderApp();
 }
+
+// Bulk Content Copy & Select All Protection (Preserves Image Copying & Input Fields)
+document.addEventListener('copy', (e) => {
+  const selection = window.getSelection();
+  const selectedText = selection ? selection.toString() : '';
+  if (selectedText && selectedText.trim().length > 30) {
+    e.preventDefault();
+    if (e.clipboardData) {
+      e.clipboardData.setData('text/plain', '');
+    }
+  }
+});
+
+document.addEventListener('keydown', (e) => {
+  if ((e.ctrlKey || e.metaKey) && (e.key === 'a' || e.key === 'A')) {
+    const target = e.target;
+    if (target && (target.tagName === 'INPUT' || target.tagName === 'TEXTAREA')) {
+      return;
+    }
+    e.preventDefault();
+  }
+});
