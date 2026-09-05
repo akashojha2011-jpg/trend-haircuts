@@ -2,7 +2,7 @@ export const articles = [
   {
     "id": "pumpkin-spice-balayage-ideas",
     "slug": "pumpkin-spice-balayage-ideas",
-    "title": "19+ Stunning Pumpkin Spice Balayage Ideas to Warm Up Your Look",
+    "title": "13+ Stunning Pumpkin Spice Balayage Ideas to Warm Up Your Look",
     "category": "Hair Color Ideas",
     "categorySlug": "hair-color-ideas",
     "author": "Trend Haircuts Team",
@@ -276,7 +276,7 @@ export const articles = [
   {
     "id": "salt-and-pepper-balayage",
     "slug": "salt-and-pepper-balayage",
-    "title": "17+ Gorgeous Salt and Pepper Balayage Styles for a Chic Modern Look",
+    "title": "14+ Gorgeous Salt and Pepper Balayage Styles for a Chic Modern Look",
     "category": "Hair Color Ideas",
     "categorySlug": "hair-color-ideas",
     "author": "Trend Haircuts Team",
@@ -546,7 +546,7 @@ export const articles = [
   {
     "id": "summer-honey-highlights",
     "slug": "summer-honey-highlights",
-    "title": "18+ Beautiful Summer Honey Highlights You’ll Love to Try This Season",
+    "title": "17+ Beautiful Summer Honey Highlights You’ll Love to Try This Season",
     "category": "Hair Color Ideas",
     "categorySlug": "hair-color-ideas",
     "author": "Trend Haircuts Team",
@@ -845,7 +845,7 @@ export const articles = [
   {
     "id": "vibrant-violet-balayage",
     "slug": "vibrant-violet-balayage",
-    "title": "18+ Vibrant Violet Balayage Hair Color Ideas to Refresh Your Style",
+    "title": "15+ Vibrant Violet Balayage Hair Color Ideas to Refresh Your Style",
     "category": "Hair Color Ideas",
     "categorySlug": "hair-color-ideas",
     "author": "Trend Haircuts Team",
@@ -1127,7 +1127,7 @@ export const articles = [
   {
     "id": "balayage-for-straight-hair",
     "slug": "balayage-for-straight-hair",
-    "title": "19+ Chic Balayage for Straight Hair Ideas to Elevate Your Everyday Look",
+    "title": "16+ Chic Balayage for Straight Hair Ideas to Elevate Your Everyday Look",
     "category": "Hair Color Ideas",
     "categorySlug": "hair-color-ideas",
     "author": "Trend Haircuts Team",
