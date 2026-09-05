@@ -89,29 +89,30 @@ img, picture, svg, .article-item-image, .article-hero-img {
   z-index: 30;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 7px;
   background-color: #E60023;
   color: #FFFFFF;
-  font-family: var(--font-sans);
+  font-family: var(--font-sans, system-ui, -apple-system, sans-serif);
   font-size: 13px;
   font-weight: 700;
-  padding: 8px 15px;
+  padding: 8px 16px 8px 14px;
   border-radius: 999px;
   border: none;
   cursor: pointer;
   box-shadow: 0 4px 14px rgba(230, 0, 35, 0.4), 0 2px 6px rgba(0, 0, 0, 0.15);
   transition: all 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  opacity: 0.95;
+  opacity: 0.98;
   text-decoration: none;
   -webkit-user-select: auto;
   user-select: auto;
   pointer-events: auto;
+  letter-spacing: -0.01em;
 }
 
 .pinterest-pin-btn:hover {
   background-color: #AD081B;
   color: #FFFFFF;
-  transform: translateY(-2px) scale(1.05);
+  transform: translateY(-2px) scale(1.04);
   box-shadow: 0 6px 20px rgba(230, 0, 35, 0.55), 0 3px 8px rgba(0, 0, 0, 0.25);
   opacity: 1;
 }
@@ -123,89 +124,9 @@ img, picture, svg, .article-item-image, .article-hero-img {
 .pinterest-icon {
   flex-shrink: 0;
   fill: #FFFFFF;
-}
-
-/* Custom Pinterest "Pin to Save for Later" Button */
-.pinterest-pin-btn-custom {
-  position: absolute;
-  top: 14px;
-  right: 14px;
-  z-index: 30;
-  display: inline-flex;
-  align-items: center;
-  gap: 0;
-  background: transparent;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  pointer-events: auto;
-  user-select: none;
-  -webkit-user-select: none;
-  text-decoration: none;
-}
-
-.pin-logo-square {
-  width: 38px;
-  height: 38px;
-  background-color: #E60023;
-  border-radius: 8px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
-  flex-shrink: 0;
-  z-index: 2;
-  position: relative;
-  transition: background-color 0.2s ease, transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
-}
-
-.pin-logo-square svg {
-  fill: #FFFFFF;
-  width: 22px;
-  height: 22px;
+  width: 18px;
+  height: 18px;
   display: block;
-}
-
-.pin-badge-text {
-  background-color: #E60023;
-  color: #FFFFFF;
-  font-family: var(--font-sans, system-ui, -apple-system, sans-serif);
-  font-size: 13px;
-  font-weight: 700;
-  height: 32px;
-  padding: 0 18px 0 14px;
-  border-radius: 6px 0 0 6px;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  transform: rotate(-5deg);
-  transform-origin: 100% 50%;
-  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), background-color 0.2s ease;
-  white-space: nowrap;
-  margin-right: -12px;
-  z-index: 1;
-  letter-spacing: -0.01em;
-}
-
-.pin-arrow-icon {
-  flex-shrink: 0;
-  stroke: #FFFFFF;
-  display: block;
-}
-
-.pinterest-pin-btn-custom:hover .pin-badge-text {
-  transform: rotate(-2deg) translateX(-5px) scale(1.03);
-  background-color: #AD081B;
-}
-
-.pinterest-pin-btn-custom:hover .pin-logo-square {
-  background-color: #AD081B;
-  transform: scale(1.04);
-}
-
-.pinterest-pin-btn-custom:active .pin-badge-text {
-  transform: rotate(-4deg) translateX(-2px) scale(0.98);
 }
 
 a {
