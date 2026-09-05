@@ -107,13 +107,13 @@ export function renderArticleView(article) {
             class="pinterest-pin-btn-custom" 
             data-pin-media="${item.image}" 
             data-pin-desc="${encodeURIComponent(titleWithoutNum + ' — ' + article.title)}"
-            aria-label="Pin to Save for Later"
+            aria-label="Save for later"
           >
             <span class="pin-badge-text">
               <svg class="pin-arrow-icon" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M17 17L7 7M7 7H17M7 7V17" />
               </svg>
-              Pin to Save for Later
+              Save for later
             </span>
             <span class="pin-logo-square">
               <svg class="pinterest-icon-svg" viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
