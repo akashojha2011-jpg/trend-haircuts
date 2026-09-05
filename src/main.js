@@ -543,7 +543,7 @@ document.addEventListener('keydown', (e) => {
 
 // Pinterest "Pin it" Button Click Handler
 document.addEventListener('click', (e) => {
-  const pinBtn = e.target.closest('.pinterest-pin-btn');
+  const pinBtn = e.target.closest('.pinterest-pin-btn, .pinterest-pin-btn-custom');
   if (pinBtn) {
     e.preventDefault();
     e.stopPropagation();
