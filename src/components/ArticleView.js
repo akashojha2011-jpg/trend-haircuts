@@ -110,8 +110,8 @@ export function renderArticleView(article) {
             aria-label="Pin to Save for Later"
           >
             <span class="pin-badge-text">
-              <svg class="pin-arrow-icon" viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="3">
-                <path d="M7 17L17 7M17 7H7M17 7V17" />
+              <svg class="pin-arrow-icon" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M17 17L7 7M7 7H17M7 7V17" />
               </svg>
               Pin to Save for Later
             </span>

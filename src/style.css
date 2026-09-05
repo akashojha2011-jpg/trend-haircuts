@@ -191,7 +191,7 @@ img, picture, svg, .article-item-image, .article-hero-img {
 .pin-arrow-icon {
   flex-shrink: 0;
   stroke: #FFFFFF;
-  stroke-width: 3;
+  display: block;
 }
 
 .pinterest-pin-btn-custom:hover .pin-badge-text {
