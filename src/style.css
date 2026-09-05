@@ -74,6 +74,57 @@ img, picture, svg, .article-item-image, .article-hero-img {
   pointer-events: auto;
 }
 
+/* Pinterest Pin It Button Overlay */
+.image-container-relative,
+.listicle-item-img,
+.article-main-hero-img {
+  position: relative;
+  display: block;
+}
+
+.pinterest-pin-btn {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  z-index: 30;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background-color: #E60023;
+  color: #FFFFFF;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 15px;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(230, 0, 35, 0.4), 0 2px 6px rgba(0, 0, 0, 0.15);
+  transition: all 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  opacity: 0.95;
+  text-decoration: none;
+  -webkit-user-select: auto;
+  user-select: auto;
+  pointer-events: auto;
+}
+
+.pinterest-pin-btn:hover {
+  background-color: #AD081B;
+  color: #FFFFFF;
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 6px 20px rgba(230, 0, 35, 0.55), 0 3px 8px rgba(0, 0, 0, 0.25);
+  opacity: 1;
+}
+
+.pinterest-pin-btn:active {
+  transform: translateY(0) scale(0.98);
+}
+
+.pinterest-icon {
+  flex-shrink: 0;
+  fill: #FFFFFF;
+}
+
 a {
   color: inherit;
   text-decoration: none;

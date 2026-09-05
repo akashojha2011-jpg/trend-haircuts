@@ -540,3 +540,24 @@ document.addEventListener('keydown', (e) => {
     e.preventDefault();
   }
 });
+
+// Pinterest "Pin it" Button Click Handler
+document.addEventListener('click', (e) => {
+  const pinBtn = e.target.closest('.pinterest-pin-btn');
+  if (pinBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    
+    const media = pinBtn.getAttribute('data-pin-media') || '';
+    const rawDesc = pinBtn.getAttribute('data-pin-desc') || 'Trend Haircuts Inspiration';
+    const pageUrl = window.location.href;
+    
+    const absoluteMedia = media.startsWith('http') 
+      ? media 
+      : `${window.location.origin}${media.startsWith('/') ? '' : '/'}${media}`;
+
+    const pinUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(absoluteMedia)}&description=${rawDesc}`;
+    
+    window.open(pinUrl, 'pinterest_pin', 'width=750,height=600,toolbar=no,menubar=no,scrollbars=yes');
+  }
+});

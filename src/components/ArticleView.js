@@ -101,8 +101,19 @@ export function renderArticleView(article) {
       <div class="listicle-item" id="item-${itemNum}" style="scroll-margin-top: 100px;">
         <h2 class="listicle-item-title" id="heading-${itemNum}">${itemNum}. ${titleWithoutNum}</h2>
         
-        <div class="listicle-item-img">
+        <div class="listicle-item-img image-container-relative">
           <img src="${item.image}" alt="${item.title}" loading="lazy" />
+          <button 
+            class="pinterest-pin-btn" 
+            data-pin-media="${item.image}" 
+            data-pin-desc="${encodeURIComponent(titleWithoutNum + ' — ' + article.title)}"
+            aria-label="Pin it to Pinterest"
+          >
+            <svg class="pinterest-icon" viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+              <path d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.354-.629-2.758-1.379l-.749 2.848c-.269 1.045-1.004 2.352-1.498 3.146 1.123.345 2.306.535 3.55.535 6.627 0 12-5.373 12-12C24 5.372 18.627 0 12 0z"/>
+            </svg>
+            <span>Pin it</span>
+          </button>
         </div>
 
         ${item.whyWeLoveIt ? `
@@ -118,9 +129,9 @@ export function renderArticleView(article) {
           <div class="styling-tip-box">
             <div class="styling-tip-header">
               <i data-lucide="lightbulb" size="16"></i>
-              <span>Pro Styling Tip</span>
+              <strong>Pro Styling Tip:</strong>
             </div>
-            <p class="styling-tip-text">${item.stylingTip}</p>
+            <p>${item.stylingTip}</p>
           </div>
         ` : ''}
       </div>
@@ -164,8 +175,19 @@ export function renderArticleView(article) {
 
       <!-- Main Horizontal Hero Cover Image -->
       <div class="container text-center">
-        <div class="article-main-hero-img">
+        <div class="article-main-hero-img image-container-relative">
           <img src="${article.heroImage}" alt="${article.title}" />
+          <button 
+            class="pinterest-pin-btn" 
+            data-pin-media="${article.heroImage}" 
+            data-pin-desc="${encodeURIComponent(article.title + ' — Trend Haircuts')}"
+            aria-label="Pin it to Pinterest"
+          >
+            <svg class="pinterest-icon" viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+              <path d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.354-.629-2.758-1.379l-.749 2.848c-.269 1.045-1.004 2.352-1.498 3.146 1.123.345 2.306.535 3.55.535 6.627 0 12-5.373 12-12C24 5.372 18.627 0 12 0z"/>
+            </svg>
+            <span>Pin it</span>
+          </button>
         </div>
       </div>
 
