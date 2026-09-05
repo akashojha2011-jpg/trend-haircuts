@@ -147,42 +147,43 @@ img, picture, svg, .article-item-image, .article-hero-img {
 .pin-logo-square {
   width: 38px;
   height: 38px;
-  background-color: #CC021E;
-  border-radius: 6px;
+  background-color: #E60023;
+  border-radius: 8px;
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
   flex-shrink: 0;
   z-index: 2;
   position: relative;
-  transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease, transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 .pin-logo-square svg {
   fill: #FFFFFF;
-  width: 20px;
-  height: 20px;
+  width: 22px;
+  height: 22px;
   display: block;
 }
 
 .pin-badge-text {
-  background-color: #CC021E;
+  background-color: #E60023;
   color: #FFFFFF;
   font-family: var(--font-sans, system-ui, -apple-system, sans-serif);
   font-size: 13px;
   font-weight: 700;
-  padding: 7px 14px 7px 12px;
-  border-radius: 6px;
+  height: 32px;
+  padding: 0 18px 0 14px;
+  border-radius: 6px 0 0 6px;
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
-  transform: rotate(-6deg);
-  transform-origin: right center;
-  transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), background-color 0.2s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transform: rotate(-5deg);
+  transform-origin: 100% 50%;
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), background-color 0.2s ease;
   white-space: nowrap;
-  margin-right: -4px;
+  margin-right: -12px;
   z-index: 1;
   letter-spacing: -0.01em;
 }
@@ -190,16 +191,17 @@ img, picture, svg, .article-item-image, .article-hero-img {
 .pin-arrow-icon {
   flex-shrink: 0;
   stroke: #FFFFFF;
-  stroke-width: 2.8;
+  stroke-width: 3;
 }
 
 .pinterest-pin-btn-custom:hover .pin-badge-text {
-  transform: rotate(-2deg) translateX(-4px) scale(1.04);
-  background-color: #B30018;
+  transform: rotate(-2deg) translateX(-5px) scale(1.03);
+  background-color: #AD081B;
 }
 
 .pinterest-pin-btn-custom:hover .pin-logo-square {
-  background-color: #B30018;
+  background-color: #AD081B;
+  transform: scale(1.04);
 }
 
 .pinterest-pin-btn-custom:active .pin-badge-text {
