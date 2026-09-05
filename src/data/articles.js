@@ -3,8 +3,8 @@ export const articles = [
     "id": "pumpkin-spice-balayage-ideas",
     "slug": "pumpkin-spice-balayage-ideas",
     "title": "13+ Stunning Pumpkin Spice Balayage Ideas to Warm Up Your Look",
-    "category": "Hair Color Ideas",
-    "categorySlug": "hair-color-ideas",
+    "category": "Balayage Hair Color",
+    "categorySlug": "balayage-hair-color",
     "author": "Trend Haircuts Team",
     "date": "September 8, 2026",
     "readTime": "6 min read",
@@ -254,8 +254,8 @@ export const articles = [
     "id": "salt-and-pepper-balayage",
     "slug": "salt-and-pepper-balayage",
     "title": "14+ Gorgeous Salt and Pepper Balayage Styles for a Chic Modern Look",
-    "category": "Hair Color Ideas",
-    "categorySlug": "hair-color-ideas",
+    "category": "Balayage Hair Color",
+    "categorySlug": "balayage-hair-color",
     "author": "Trend Haircuts Team",
     "date": "September 8, 2026",
     "readTime": "6 min read",
@@ -485,8 +485,8 @@ export const articles = [
     "id": "summer-honey-highlights",
     "slug": "summer-honey-highlights",
     "title": "17+ Beautiful Summer Honey Highlights You’ll Love to Try This Season",
-    "category": "Hair Color Ideas",
-    "categorySlug": "hair-color-ideas",
+    "category": "Balayage Hair Color",
+    "categorySlug": "balayage-hair-color",
     "author": "Trend Haircuts Team",
     "date": "September 8, 2026",
     "readTime": "6 min read",
@@ -726,8 +726,8 @@ export const articles = [
     "id": "vibrant-violet-balayage",
     "slug": "vibrant-violet-balayage",
     "title": "15+ Vibrant Violet Balayage Hair Color Ideas to Refresh Your Style",
-    "category": "Hair Color Ideas",
-    "categorySlug": "hair-color-ideas",
+    "category": "Balayage Hair Color",
+    "categorySlug": "balayage-hair-color",
     "author": "Trend Haircuts Team",
     "date": "September 8, 2026",
     "readTime": "6 min read",
@@ -967,8 +967,8 @@ export const articles = [
     "id": "balayage-for-straight-hair",
     "slug": "balayage-for-straight-hair",
     "title": "16+ Chic Balayage for Straight Hair Ideas to Elevate Your Everyday Look",
-    "category": "Hair Color Ideas",
-    "categorySlug": "hair-color-ideas",
+    "category": "Balayage Hair Color",
+    "categorySlug": "balayage-hair-color",
     "author": "Trend Haircuts Team",
     "date": "September 8, 2026",
     "readTime": "6 min read",
@@ -3588,7 +3588,7 @@ export const articles = [
     "id": "natural-looking-silver-highlights-that-stand-out",
     "slug": "natural-looking-silver-highlights-that-stand-out",
     "title": "13+ Natural Looking Silver Highlights That Stand Out",
-    "category": "Hair Color Ideas",
+    "category": "Balayage Hair Color",
     "author": "Trend Haircuts Team",
     "date": "September 7, 2026",
     "readTime": "4 min read",
@@ -3785,7 +3785,7 @@ export const articles = [
         ]
       }
     ],
-    "categorySlug": "hair-color-ideas",
+    "categorySlug": "balayage-hair-color",
     "extraSections": [
       {
         "id": "section-silver-guide",
@@ -3841,7 +3841,7 @@ export const articles = [
     "id": "golden-bronde-balayage-hair-color-to-try",
     "slug": "golden-bronde-balayage-hair-color-to-try",
     "title": "16+ Golden Bronde Balayage Hair Color to Try",
-    "category": "Hair Color Ideas",
+    "category": "Balayage Hair Color",
     "author": "Trend Haircuts Team",
     "date": "September 6, 2026",
     "readTime": "5 min read",
@@ -4075,7 +4075,7 @@ export const articles = [
         ]
       }
     ],
-    "categorySlug": "hair-color-ideas",
+    "categorySlug": "balayage-hair-color",
     "extraSections": [
       {
         "id": "section-bronde-guide",
@@ -4131,7 +4131,7 @@ export const articles = [
     "id": "contour-highlights-hair-ideas-people-are-loving",
     "slug": "contour-highlights-hair-ideas-people-are-loving",
     "title": "13+ Contour Highlights Hair Ideas People Are Loving",
-    "category": "Hair Color Ideas",
+    "category": "Balayage Hair Color",
     "author": "Trend Haircuts Team",
     "date": "September 5, 2026",
     "readTime": "5 min read",
@@ -4349,7 +4349,7 @@ export const articles = [
         ]
       }
     ],
-    "categorySlug": "hair-color-ideas",
+    "categorySlug": "balayage-hair-color",
     "extraSections": [
       {
         "id": "section-contour-guide",
@@ -4406,7 +4406,7 @@ export const articles = [
     "id": "burgundy-wine-balayage-women-must-try",
     "slug": "burgundy-wine-balayage-women-must-try",
     "title": "17+ Burgundy Wine Balayage Women Must Try",
-    "category": "Hair Color Ideas",
+    "category": "Balayage Hair Color",
     "author": "Trend Haircuts Team",
     "date": "September 4, 2026",
     "readTime": "6 min read",
@@ -4652,7 +4652,7 @@ export const articles = [
         ]
       }
     ],
-    "categorySlug": "hair-color-ideas",
+    "categorySlug": "balayage-hair-color",
     "extraSections": [
       {
         "id": "section-burgundy-guide",
@@ -4709,7 +4709,7 @@ export const articles = [
     "id": "amber-balayage-hair-worth-trying",
     "slug": "amber-balayage-hair-worth-trying",
     "title": "15+ Amber Balayage Hair Worth Trying",
-    "category": "Hair Color Ideas",
+    "category": "Balayage Hair Color",
     "author": "Trend Haircuts Team",
     "date": "September 3, 2026",
     "readTime": "5 min read",
@@ -4927,7 +4927,7 @@ export const articles = [
         ]
       }
     ],
-    "categorySlug": "hair-color-ideas",
+    "categorySlug": "balayage-hair-color",
     "extraSections": [
       {
         "id": "section-almond-guide",

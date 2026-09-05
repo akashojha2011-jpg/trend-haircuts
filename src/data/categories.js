@@ -43,6 +43,7 @@ export const menuStructure = [
     mainTitle: 'Hair Color',
     slug: 'hair-color',
     subcategories: [
+      { name: 'Balayage Hair Color', slug: 'balayage-hair-color' },
       { name: 'Hair Color Ideas', slug: 'hair-color-ideas' }
     ]
   },
