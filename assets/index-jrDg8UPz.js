@@ -178,7 +178,7 @@
     `}).join("")}
       </div>
     </section>
-  `}const S={};function v(a=[],i={}){if(!a||a.length===0)return'<p class="text-muted text-center" style="grid-column: 1/-1; padding: 2rem;">No hair articles found.</p>';const e=i.gridId||"main-article-grid",s=i.itemsPerPage||6;e in S||(S[e]=1);let t=S[e];const o=Math.ceil(a.length/s);t>o&&(t=o),t<1&&(t=1),S[e]=t;const n=(t-1)*s,u=a.slice(n,n+s).map(l=>{const g=l.heroImage&&(l.heroImage.includes("poster")||l.heroImage.includes("vertical"));return`
+  `}const S={};function v(a=[],i={}){if(!a||a.length===0)return'<p class="text-muted text-center" style="grid-column: 1/-1; padding: 2rem;">No hair articles found.</p>';const e=i.gridId||"main-article-grid",s=i.itemsPerPage||6;e in S||(S[e]=1);let t=S[e];const o=Math.ceil(a.length/s);t>o&&(t=o),t<1&&(t=1),S[e]=t;const n=(t-1)*s,u=a.slice(n,n+s).map(l=>{const g=!l.heroImage||!l.heroImage.includes("collage")||l.heroImage.includes("poster");return`
       <a 
         href="/${l.slug}" 
         class="article-card" 

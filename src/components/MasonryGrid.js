@@ -24,7 +24,7 @@ export function renderMasonryGrid(articlesList = [], options = {}) {
   const paginatedArticles = articlesList.slice(startIndex, startIndex + itemsPerPage);
 
   const cardsHtml = paginatedArticles.map(art => {
-    const isVerticalCover = art.heroImage && (art.heroImage.includes('poster') || art.heroImage.includes('vertical'));
+    const isVerticalCover = !art.heroImage || !art.heroImage.includes('collage') || art.heroImage.includes('poster');
     return `
       <a 
         href="/${art.slug}" 
