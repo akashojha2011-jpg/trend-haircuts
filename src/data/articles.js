@@ -10260,7 +10260,7 @@ export const articles = [
     "date": "September 1, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/interview_hairstyle_with_glasses_to_save_now_cover_collage.jpg",
+    "heroImage": "/images/doc_interview_hairstyle_glasses_cover_pin.jpg",
     "description": "Explore 17+ Interview Hairstyle with Glasses to Save Now. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Preparing for a job interview\u00a0involves choosing the perfect outfit and making sure your hair looks polished. If you wear eyewear, finding the right look can feel tricky, but it does not have to be. Exploring a 20 interview hairstyle with glasses guide helps you discover options that frame your face beautifully and keep you looking professional. Your frames already draw attention to your face, so your hair should complement them rather than compete for attention. Whether you have short, medium, or long hair, there are plenty of neat and confident options to choose from. From sleek buns to tailored bobs, the right haircut or style will make you feel ready to impress your future employers."
@@ -10487,7 +10487,7 @@ export const articles = [
     "date": "August 31, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/flattering_haircut_for_oblong_face_women_cover_collage.jpg",
+    "heroImage": "/images/doc_oblong_face_women_cover_pin.jpg",
     "description": "Explore 13+ Flattering Haircut for Oblong Face Women. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape."
@@ -10703,7 +10703,7 @@ export const articles = [
     "date": "August 30, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/hairstyles_for_women_with_glasses_over_60_to_save_cover_collage.jpg",
+    "heroImage": "/images/doc_glasses_over_60_cover_pin.jpg",
     "description": "Explore 15+ Hairstyles for Women with Glasses over 60 to Save. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Finding the perfect balance between style and function becomes a top priority for women over 60 who wear glasses. Eyewear is no longer just a necessity but a key fashion accessory that should harmonize with your haircut to enhance your natural beauty. Whether you prefer a bold statement frame or a subtle wire-rimmed look, your hair plays a crucial role in framing your face and balancing your features. In 2026, the trends for hairstyles for women with glasses over 60 focus on texture, volume, and manageable lengths that offer a youthful lift. From chic pixies to elegant lobs, these twenty curated looks are designed to keep you looking modern while ensuring your glasses remain a stylish focal point of your overall aesthetic."
@@ -10919,7 +10919,7 @@ export const articles = [
     "date": "August 29, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/gray_hairstyles_for_women_with_glasses_to_inspire_you_cover_collage.jpg",
+    "heroImage": "/images/doc_gray_hairstyles_glasses_cover_pin.jpg",
     "description": "Explore 16+ Gray Hairstyles for Women with Glasses to Inspire You. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Embracing a silver mane is a powerful style statement in 2026, especially when paired with the right eyewear to create a cohesive look. Choosing a hairstyle that complements your glasses involves balancing the weight of your frames with the texture and volume of your hair. Many women find that transitioning to natural gray opens up a vibrant new palette of cool tones that make metallic or jewel-toned frames pop. Whether you prefer a sharp, modern bob or a soft, feathered pixie, the goal is to highlight your facial features while keeping your glasses as a functional accessory. This guide explores the most flattering gray hairstyles designed to work in harmony with various frame shapes and personal styles."
@@ -11157,7 +11157,7 @@ export const articles = [
     "date": "August 28, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/flattering_short_haircut_for_women_with_glasses_cover_collage.jpg",
+    "heroImage": "/images/doc_short_haircut_glasses_cover_pin.jpg",
     "description": "Explore 13+ Flattering Short Haircut for Women with Glasses. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Finding a flattering short haircut for women with glasses can feel like a daunting task, but the right style actually enhances your frames while highlighting your best facial features. Short hair offers a unique opportunity to draw attention to your eyes and the style of your eyewear, creating a cohesive and fashionable look that works for any occasion. Whether you prefer a bold pixie or a sophisticated bob, these modern cuts are designed to balance the proportions of your face and the weight of your spectacles. In 2026, the trends emphasize texture, movement, and personalized layers that prevent your hair from competing with your frames. This guide explores versatile options that feel both effortless and intentionally styled for your specific face shape."
