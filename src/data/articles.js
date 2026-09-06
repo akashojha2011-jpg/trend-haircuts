@@ -9830,1938 +9830,1317 @@ export const articles = [
   },
   {
     "id": "haircuts-and-hairstyles-for-women-with-round-faces",
+    "title": "15+ Haircuts and Hairstyles for Women with Round Faces",
     "slug": "haircuts-and-hairstyles-for-women-with-round-faces",
-    "title": "35+ Haircuts and Hairstyles for Women with Round Faces",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc65_cover_collage.jpg",
-    "readTime": "8 min read",
     "date": "September 2, 2026",
-    "isFeatured": true,
-    "isTrending": true,
-    "intro": "35+ Haircuts and Hairstyles for Women with Round Faces is one of 2026's top hair trends for glasses wearers and face-contouring. Finding the right balance between your cut and eyewear creates effortless style. Here are the top ideas to save.",
-    "extraSections": [
+    "author": "Trend Haircuts Team",
+    "readTime": "7 min read",
+    "image": "/images/doc_round_faces_cover.jpg",
+    "description": "Explore 15+ Haircuts and Hairstyles for Women with Round Faces. Find flattering cuts, styling advice, and inspirational hair transformations.",
+    "introParagraphs": [
+      "Round faces look soft, youthful, and friendly, and the right short haircut can bring out all of those features while also adding shape and definition to your cheeks and jawline. When choosing a cut, the main goal is to create a bit of height at the crown and some gentle angles or length around the front so your face appears slightly longer instead of wider. Short hair works beautifully here, because pixies, bobs, and cropped shags can all be customized with layering, parting, and fringe to balance your proportions. Modern cuts for round faces focus on texture, side or off-center parts, and soft movement, avoiding heavy width at the cheeks or a blunt straight-across line at the fullest part of your face. With that in mind, here are 20 of the best short haircuts that flatter a round face and feel current for 2025\u20132026."
+    ],
+    "items": [
       {
-        "id": "section-why-glasses-doc65",
-        "title": "How to Pair Your Hairstyle with Face Shapes & Glasses Frames",
-        "content": "Choosing a haircut that flatters both your face geometry and eyeglass frames creates instant harmony. Soft curtain bangs balance angular square frames, while layered lobs add vertical length for round face shapes.",
-        "stats": [
-          {
-            "val": "100%",
-            "label": "Frame Compatibility"
-          },
-          {
-            "val": "Custom",
-            "label": "Face Contour Balance"
-          },
-          {
-            "val": "All Glasses",
-            "label": "Cat-Eye, Round & Square"
-          }
-        ]
+        "id": "item-1",
+        "title": "1. Textured Pixie Cut For Round Face",
+        "image": "/images/doc_round_faces_img_1.jpg",
+        "description": "A textured pixie is one of the most flattering short haircuts for a round face because it adds height on top and removes extra width at the sides. Think of choppy layers through the crown, slightly longer pieces through the fringe, and softly tapered sides that hug the cheekbones instead of flaring out.",
+        "paragraphs": [
+          "A textured pixie is one of the most flattering short haircuts for a round face because it adds height on top and removes extra width at the sides. Think of choppy layers through the crown, slightly longer pieces through the fringe, and softly tapered sides that hug the cheekbones instead of flaring out.",
+          "This shape visually stretches your face so your features look more sculpted without losing their natural softness. Ask your stylist to keep the top piecey and airy, not stiff or over-styled, so you can rough it up with a bit of styling cream or sea salt spray in seconds. A textured pixie works especially well if your hair is fine to medium, because the layers add body and movement without feeling too bulky."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       },
       {
-        "id": "section-masterclass-glasses-doc65",
-        "title": "Stylist Masterclass: Pairing Haircuts with Eyeglass Frames",
-        "steps": [
-          "Assess Frame Width vs cheekbones: Ensure side layers clear your spectacle arms to prevent hair flaring.",
-          "Soften Bold Frames with Wispy Fringe: Soft wispy or curtain bangs break up heavy dark frames.",
-          "Add Top Volume for Round & Oval Faces: Elevate roots at the crown to elongate facial geometry.",
-          "Use Anti-Frizz Serum Around Temples: Smooth flyaways around ears where glasses arms sit."
-        ]
+        "id": "item-2",
+        "title": "2. Long Pixie Haircut For Round Face",
+        "image": "/images/doc_round_faces_img_2.jpg",
+        "description": "A long pixie is ideal if you want the face-slimming benefits of short hair without going super cropped. This cut usually keeps more length through the top and front, sometimes almost like a very short bob in the front, with the back and sides tapered for a neat outline.",
+        "paragraphs": [
+          "A long pixie is ideal if you want the face-slimming benefits of short hair without going super cropped. This cut usually keeps more length through the top and front, sometimes almost like a very short bob in the front, with the back and sides tapered for a neat outline.",
+          "The extra length around your face can be swept to the side, pushed back, or styled forward for soft fringe, which helps break up the width of your cheeks. This versatility makes it perfect if you like to switch up your part and styling for different looks. To keep it flattering on a round face, ask for subtle layers through the top and front so the hair doesn\u2019t sit like a helmet at one heavy length."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-3",
+        "title": "3. Asymmetrical Pixie For Round Face",
+        "image": "/images/doc_round_faces_img_3.jpg",
+        "description": "An asymmetrical pixie uses different lengths on each side to create modern angles that instantly balance a round face. One side is kept shorter and closer to the head, while the other side is left longer and sweeping toward the cheekbone or jawline. That diagonal line draws the eye downward, which makes your face appear more oval and defined.",
+        "paragraphs": [
+          "An asymmetrical pixie uses different lengths on each side to create modern angles that instantly balance a round face. One side is kept shorter and closer to the head, while the other side is left longer and sweeping toward the cheekbone or jawline. That diagonal line draws the eye downward, which makes your face appear more oval and defined.",
+          "This is a great choice if you love an edgy, fashion-forward vibe but still want something wearable for everyday life. Style the longer side with a bit of bend or texture rather than pin-straight to keep things soft. Keeping the nape and shorter side clean and tapered prevents the cut from adding bulk where your face is already fullest."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-4",
+        "title": "4. Short Shag Haircut For Round Face",
+        "image": "/images/doc_round_faces_img_4.jpg",
+        "description": "A short shag is perfect if you like lived-in texture and want a cut that looks good with minimal styling effort. This haircut uses lots of soft, choppy layers through the crown and sides to build volume higher on the head instead of at the cheeks, which helps slim a round face.",
+        "paragraphs": [
+          "A short shag is perfect if you like lived-in texture and want a cut that looks good with minimal styling effort. This haircut uses lots of soft, choppy layers through the crown and sides to build volume higher on the head instead of at the cheeks, which helps slim a round face.",
+          "The ends are usually feathered and piecey so the hair doesn\u2019t sit in one heavy block around your jawline. You can pair a short shag with light, wispy fringe or longer curtain-style bangs depending on how much coverage you like around your forehead. A bit of mousse or texturizing spray scrunched into damp hair is usually enough to bring out the movement, making it a great low-maintenance option."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-5",
+        "title": "5. Short Layered Bob For Round Face",
+        "image": "/images/doc_round_faces_img_5.jpg",
+        "description": "A short layered bob is a timeless choice that suits a round face when the layering is done right and the length hits around the chin or just below. Layers through the interior remove bulk so the hair does not balloon out at the sides, while a slightly longer front helps frame your cheeks and elongate your face.",
+        "paragraphs": [
+          "A short layered bob is a timeless choice that suits a round face when the layering is done right and the length hits around the chin or just below. Layers through the interior remove bulk so the hair does not balloon out at the sides, while a slightly longer front helps frame your cheeks and elongate your face.",
+          "This shape looks great parted slightly off-center or on the side, which helps break up symmetry and create subtle angles. You can wear it sleek and smooth for a polished look or add loose bends with a curling iron for more softness. To keep this bob flattering, avoid cutting it at the widest part of your cheeks; a touch below that point usually works best for round features."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-6",
+        "title": "6. Angled Bob Haircut For Round Face",
+        "image": "/images/doc_round_faces_img_6.jpg",
+        "description": "An angled bob\u00a0is one of the most face-sculpting short haircuts you can choose for a round face. The back is cut shorter and stacked, while the front gradually gets longer toward the chin or collarbone, creating a diagonal line that visually lengthens your face. This difference in length makes your profile look sharper and adds a bit of drama without sacrificing everyday wearability.",
+        "paragraphs": [
+          "An angled bob\u00a0is one of the most face-sculpting short haircuts you can choose for a round face. The back is cut shorter and stacked, while the front gradually gets longer toward the chin or collarbone, creating a diagonal line that visually lengthens your face. This difference in length makes your profile look sharper and adds a bit of drama without sacrificing everyday wearability.",
+          "It works beautifully on straight or slightly wavy hair, since the shape does most of the work. Ask your stylist for a soft, stacked back instead of a harsh, boxy one so the haircut still feels feminine and light. Keeping the front pieces grazing your jawline or a bit below is key for getting that flattering, slimming effect."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-7",
+        "title": "7. Chin Length Bob For Round Face",
+        "image": "/images/doc_round_faces_img_7.jpg",
+        "description": "A chin length bob can be very flattering on a round face when it is cut with subtle shaping and the right styling. The hair sits near the jawline, which can highlight your cheekbones and give a slightly more structured feel to your face shape.",
+        "paragraphs": [
+          "A chin length bob can be very flattering on a round face when it is cut with subtle shaping and the right styling. The hair sits near the jawline, which can highlight your cheekbones and give a slightly more structured feel to your face shape.",
+          "To avoid adding extra width, it helps to keep slight graduation or layering through the back and very soft layering around the front instead of a completely blunt, one-length cut. A side or off-center part keeps your features from looking too symmetrical and round. This bob looks great worn smooth with a little curve under at the ends or with soft, undone waves for a more casual finish."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-8",
+        "title": "8. Short Curly Bob For Round Face",
+        "image": "/images/doc_round_faces_img_8.jpg",
+        "description": "If you have naturally curly or wavy hair, a short curly bob can look charming and full of personality on a round face. The key is shaping the curls so they form a gentle silhouette that narrows slightly toward the bottom instead of creating a triangle of volume at the cheeks.",
+        "paragraphs": [
+          "If you have naturally curly or wavy hair, a short curly bob can look charming and full of personality on a round face. The key is shaping the curls so they form a gentle silhouette that narrows slightly toward the bottom instead of creating a triangle of volume at the cheeks.",
+          "Layers should be carefully carved through the interior to remove bulk while respecting your curl pattern, and the length should usually sit around the chin or just below. A side part with some curls falling across the forehead helps break up roundness and draws attention to the eyes. Using lightweight curl cream or gel to define and control frizz will keep the shape looking intentional while still soft and bouncy."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-9",
+        "title": "9. Short Bob With Side Bangs For Round Face",
+        "image": "/images/doc_round_faces_img_9.jpg",
+        "description": "A short bob with side bangs is especially flattering if you want to soften a broad forehead and visually slim your cheeks at the same time. The bob itself typically hits around the chin, with slight layering and a bit of length toward the front to keep the outline lean.",
+        "paragraphs": [
+          "A short bob with side bangs is especially flattering if you want to soften a broad forehead and visually slim your cheeks at the same time. The bob itself typically hits around the chin, with slight layering and a bit of length toward the front to keep the outline lean.",
+          "Side-swept bangs cut to skim the brows or cheekbones create a diagonal line across your face, which instantly breaks up roundness and adds structure. This combo works well on straight to slightly wavy hair and can be styled smooth or with light texture. Ask your stylist to keep the fringe soft and feathered at the ends so it lies nicely without a lot of effort, giving you a wash-and-go option on busy mornings."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-10",
+        "title": "10. Short Bob With Curtain Bangs For Round Face",
+        "image": "/images/doc_round_faces_img_10.jpg",
+        "description": "A short bob with curtain bangs gives a trendy, face-framing look that feels very current for 2025\u20132026. Curtain bangs are parted down the middle or softly off-center, then angle out toward your cheekbones, creating gentle lines that slim the sides of your face.",
+        "paragraphs": [
+          "A short bob with curtain bangs gives a trendy, face-framing look that feels very current for 2025\u20132026. Curtain bangs are parted down the middle or softly off-center, then angle out toward your cheekbones, creating gentle lines that slim the sides of your face.",
+          "Paired with a bob that sits somewhere between the lips and chin, this cut balances your features while still showing plenty of neck for a light, fresh feel. The layering in the bangs blends into the rest of the haircut, so the front pieces move and flow rather than sitting stiff and heavy. This look suits straight, wavy, or slightly curly hair, especially when styled with a round brush or large-barrel iron for soft bends and movement."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-11",
+        "title": "11. Short Haircut For Round Face With Side Part",
+        "image": "/images/doc_round_faces_img_11.jpg",
+        "description": "Sometimes the game-changer for a round face is not just the length, but where you place your part. A short haircut with a deep or strong side part instantly adds asymmetry and creates a sweeping line across your face that makes it look less round.",
+        "paragraphs": [
+          "Sometimes the game-changer for a round face is not just the length, but where you place your part. A short haircut with a deep or strong side part instantly adds asymmetry and creates a sweeping line across your face that makes it look less round.",
+          "This can work with many shapes\u2014pixies, bobs, or cropped shags\u2014as long as the hair has enough length on top or in front to fall over to one side. The heavier side draws attention to your eyes and cheekbones, while the lighter side exposes more of your face and reduces visual width. To keep it modern, avoid overly stiff styling; instead, use a light mousse, foam, or texture spray to give the hair movement and lift at the roots."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-12",
+        "title": "12. Short Haircut For Round Face With Bangs",
+        "image": "/images/doc_round_faces_img_12.jpg",
+        "description": "A short haircut with bangs can be very flattering on a round face when the fringe is cut and styled thoughtfully. Instead of heavy, blunt bangs that sit straight across the widest part of your face, softer options like wispy, side-swept, or long layered bangs help elongate and contour.",
+        "paragraphs": [
+          "A short haircut with bangs can be very flattering on a round face when the fringe is cut and styled thoughtfully. Instead of heavy, blunt bangs that sit straight across the widest part of your face, softer options like wispy, side-swept, or long layered bangs help elongate and contour.",
+          "Pair bangs with a pixie, bob, or shag that has a bit of height and shape through the crown so your face doesn\u2019t appear shorter. Bangs can draw focus to your eyes and brows, adding definition where round faces often look soft. Talk with your stylist about your forehead height, hair texture, and styling routine so you land on a fringe that is both flattering and realistic to maintain day to day."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-13",
+        "title": "13. Short Layered Haircut For Round Face",
+        "image": "/images/doc_round_faces_img_13.jpg",
+        "description": "A short layered haircut is all about controlling where the volume sits so your round face looks balanced and refined. Strategic layering removes excess thickness from the sides and builds lift at the roots and crown, which visually elongates your features.",
+        "paragraphs": [
+          "A short layered haircut is all about controlling where the volume sits so your round face looks balanced and refined. Strategic layering removes excess thickness from the sides and builds lift at the roots and crown, which visually elongates your features.",
+          "This can be done in a pixie, bob, or crop; the common thread is that the layers are tailored to your hair density and texture. On fine hair, lighter layers add movement without making the cut look thin, while on thicker hair, more debulking may be needed to stop the shape from puffing out. Regular trims will keep the layers crisp and the silhouette flattering, since overgrown layers can quickly lose their structure on a round face."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-14",
+        "title": "14. Inverted Bob For Round Face",
+        "image": "/images/doc_round_faces_img_14.jpg",
+        "description": "An inverted bob, sometimes called a graduated or stacked bob, has shorter layers in the back that build up into a fuller crown with longer pieces in front. This architecture is very flattering for round faces because the extra height at the back and length at the front work together to stretch your overall proportions. The nape is usually cut close to keep the shape sleek, while the sides angle forward, often brushing the jaw or collarbone.",
+        "paragraphs": [
+          "An inverted bob, sometimes called a graduated or stacked bob, has shorter layers in the back that build up into a fuller crown with longer pieces in front. This architecture is very flattering for round faces because the extra height at the back and length at the front work together to stretch your overall proportions. The nape is usually cut close to keep the shape sleek, while the sides angle forward, often brushing the jaw or collarbone.",
+          "This diagonal line adds instant definition and draws the eye down rather than across. The style looks great either smooth and sleek or with loose, modern waves for added softness. A bit of volumizing spray or mousse at the crown helps emphasize that lifting effect."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-15",
+        "title": "15. Short Wavy Haircut For Round Face",
+        "image": "/images/doc_round_faces_img_15.jpg",
+        "description": "A short wavy haircut\u00a0adds effortless movement and softness while still providing structure for a round face. Keeping the length around chin level or slightly below with gentle layers lets your waves sit in a flattering, face-framing shape instead of spreading out at the cheeks.",
+        "paragraphs": [
+          "A short wavy haircut\u00a0adds effortless movement and softness while still providing structure for a round face. Keeping the length around chin level or slightly below with gentle layers lets your waves sit in a flattering, face-framing shape instead of spreading out at the cheeks.",
+          "A loose, undone wave pattern creates vertical lines and texture that stop the face from looking flat or overly round. This cut is ideal if your hair naturally has some bend or if you like to use a curling iron or wave wand a few times a week. Pair it with a side or off-center part for the most slimming effect, and use lightweight products so the hair keeps its bounce rather than becoming weighed down."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-16",
+        "title": "16. Short Haircut For Chubby Face Women",
+        "image": "/images/doc_round_faces_img_16.jpg",
+        "description": "For women with a chubby or very full round face, the most flattering short haircuts create both height and gentle face-framing without adding any extra bulk at the sides. Think of shapes like a long pixie, an angled bob, or a layered chin-length cut that skim the jawline instead of hugging the cheeks.",
+        "paragraphs": [
+          "For women with a chubby or very full round face, the most flattering short haircuts create both height and gentle face-framing without adding any extra bulk at the sides. Think of shapes like a long pixie, an angled bob, or a layered chin-length cut that skim the jawline instead of hugging the cheeks.",
+          "Longer front pieces that sweep past the cheekbones help carve out a bit more structure and give the illusion of a slimmer profile. Avoid cuts that are the same length all the way around with lots of volume at ear level, as these can emphasize fullness. Soft waves, side parts, and light layering around the face tend to work best and are easy to adjust with styling to suit your comfort level."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-17",
+        "title": "17. Short Haircut For Round Face And Double Chin",
+        "image": "/images/doc_round_faces_img_17.jpg",
+        "description": "When you want a short haircut that flatters a round face and a double chin, placement of length is everything. Aim for cuts where the hemline hits slightly above or below the fullest part of your chin rather than right at it, like an angled bob that drops past the jaw or a longer pixie with face-framing pieces.",
+        "paragraphs": [
+          "When you want a short haircut that flatters a round face and a double chin, placement of length is everything. Aim for cuts where the hemline hits slightly above or below the fullest part of your chin rather than right at it, like an angled bob that drops past the jaw or a longer pixie with face-framing pieces.",
+          "Layers should direct attention upward toward your eyes and cheekbones, and a bit of volume at the crown helps elongate your overall silhouette. Styling the front pieces to graze the jaw\u00a0and skim down toward the collarbone can subtly disguise a fuller under-chin area. Avoid very short cuts that end exactly at the jaw with no softness, as they can highlight the area you prefer to downplay."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-18",
+        "title": "18. Short Haircut For Round Face Over 40",
+        "image": "/images/doc_round_faces_img_18.jpg",
+        "description": "For women over 40 with a round face, short haircuts can feel fresh and youthful while still polished and low-maintenance. Many find success with textured pixies, softly layered bobs, or short shags that add movement and lift without feeling extreme. These shapes help counteract any natural loss of volume at the crown and keep the face from appearing too full.",
+        "paragraphs": [
+          "For women over 40 with a round face, short haircuts can feel fresh and youthful while still polished and low-maintenance. Many find success with textured pixies, softly layered bobs, or short shags that add movement and lift without feeling extreme. These shapes help counteract any natural loss of volume at the crown and keep the face from appearing too full.",
+          "Subtle side-swept or curtain bangs can soften forehead lines and draw attention to the eyes. It is smart to choose a cut that works with your natural texture so styling does not become a daily battle; air-dried waves or quick rough-drying with a round brush should get you most of the way there. Regular trims and perhaps some soft dimension in your color keep the haircut looking modern."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       }
     ],
     "faqs": [
       {
-        "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "question": "How do I choose the best haircut for haircuts and hairstyles for women with round faces?",
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
-        "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
-      },
-      {
-        "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "question": "How often should I trim this hairstyle?",
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
-    "items": [
+    "sections": [
       {
-        "number": 1,
-        "title": "Long Layers",
-        "image": "/images/doc65_img_1.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Long Layers is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 2,
-        "title": "Side-Swept Bangs",
-        "image": "/images/doc65_img_2.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Side-Swept Bangs is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 3,
-        "title": "Asymmetrical Bob",
-        "image": "/images/doc65_img_3.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Asymmetrical Bob is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 4,
-        "title": "Voluminous Waves",
-        "image": "/images/doc65_img_4.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Voluminous Waves is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 5,
-        "title": "High Ponytail",
-        "image": "/images/doc65_img_5.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "High Ponytail is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 6,
-        "title": "Pixie Cut",
-        "image": "/images/doc65_img_6.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Pixie Cut is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 7,
-        "title": "Angled Lob",
-        "image": "/images/doc65_img_7.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Angled Lob is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 8,
-        "title": "Shaggy Layers",
-        "image": "/images/doc65_img_8.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Shaggy Layers is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 9,
-        "title": "Textured Fringe",
-        "image": "/images/doc65_img_9.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Textured Fringe is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 10,
-        "title": "Sleek Middle Part",
-        "image": "/images/doc65_img_10.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Sleek Middle Part is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 11,
-        "title": "Half-Up, Half-Down",
-        "image": "/images/doc65_img_11.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Half-Up, Half-Down is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 12,
-        "title": "Tousled Bob",
-        "image": "/images/doc65_img_12.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Tousled Bob is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 13,
-        "title": "Curly Layers",
-        "image": "/images/doc65_img_13.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Curly Layers is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 14,
-        "title": "Full Fringe",
-        "image": "/images/doc65_img_14.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Full Fringe is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 15,
-        "title": "Sleek Updo",
-        "image": "/images/doc65_img_15.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Sleek Updo is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 16,
-        "title": "Wispy Bangs",
-        "image": "/images/doc65_img_16.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Wispy Bangs is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 17,
-        "title": "Choppy Pixie",
-        "image": "/images/doc65_img_17.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Choppy Pixie is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 18,
-        "title": "Soft Curls",
-        "image": "/images/doc65_img_18.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Soft Curls is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 19,
-        "title": "Slicked Back",
-        "image": "/images/doc65_img_19.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Slicked Back is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 20,
-        "title": "Layered Bob",
-        "image": "/images/doc65_img_20.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Layered Bob is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 21,
-        "title": "Side Part",
-        "image": "/images/doc65_img_21.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Side Part is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 22,
-        "title": "Bouffant Style",
-        "image": "/images/doc65_img_22.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Bouffant Style is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 23,
-        "title": "Cascading Curls",
-        "image": "/images/doc65_img_23.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Cascading Curls is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 24,
-        "title": "Pinned Back",
-        "image": "/images/doc65_img_24.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Pinned Back is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 25,
-        "title": "Feathered Cut",
-        "image": "/images/doc65_img_25.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Feathered Cut is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 26,
-        "title": "Blunt Lob",
-        "image": "/images/doc65_img_26.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Blunt Lob is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 27,
-        "title": "Defined Waves",
-        "image": "/images/doc65_img_27.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Defined Waves is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 28,
-        "title": "Braided Crown",
-        "image": "/images/doc65_img_28.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Braided Crown is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 29,
-        "title": "Undercut",
-        "image": "/images/doc65_img_29.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Undercut is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 30,
-        "title": "Box Braids",
-        "image": "/images/doc65_img_30.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Box Braids is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 31,
-        "title": "Classic Straight Cut",
-        "image": "/images/doc65_img_31.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Classic Straight Cut is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 32,
-        "title": "Beachy Waves",
-        "image": "/images/doc65_img_32.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Beachy Waves is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 33,
-        "title": "Dutch Braids",
-        "image": "/images/doc65_img_33.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Dutch Braids is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 34,
-        "title": "Space Buns",
-        "image": "/images/doc65_img_34.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Space Buns is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 35,
-        "title": "Low Bun",
-        "image": "/images/doc65_img_35.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Low Bun is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
-      },
-      {
-        "number": 36,
-        "title": "Fishtail Braid",
-        "image": "/images/doc65_img_36.jpg",
-        "whyWeLoveIt": "Creates vertical length and slims round facial contours effortlessly.",
-        "paragraphs": [
-          "Fishtail Braid is one of the most flattering choices for women with round face shapes.",
-          "It draws the eye vertically while softening cheekbone width for a balanced, modern profile."
-        ],
-        "stylingTip": "Keep root volume lifted at the crown and let soft layers frame the face."
+        "id": "section-guide",
+        "title": "Style Guide & Selection",
+        "content": "Selecting a 15+ haircuts and hairstyles for women with round faces is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ],
-    "introParagraphs": [
-      "35+ Haircuts and Hairstyles for Women with Round Faces is one of 2026's top hair trends for glasses wearers and face-contouring.",
-      "Finding the right balance between your cut and eyewear creates effortless style.",
-      "Here are the top ideas to save."
     ]
   },
   {
     "id": "interview-hairstyle-with-glasses-to-save-now",
-    "slug": "interview-hairstyle-with-glasses-to-save-now",
     "title": "17+ Interview Hairstyle with Glasses to Save Now",
+    "slug": "interview-hairstyle-with-glasses-to-save-now",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc64_cover_collage.jpg",
-    "readTime": "8 min read",
     "date": "September 1, 2026",
-    "isFeatured": true,
-    "isTrending": true,
-    "intro": "17+ Interview Hairstyle with Glasses to Save Now is one of 2026's top hair trends for glasses wearers and face-contouring. Finding the right balance between your cut and eyewear creates effortless style. Here are the top ideas to save.",
-    "extraSections": [
+    "author": "Trend Haircuts Team",
+    "readTime": "7 min read",
+    "image": "/images/doc_interview_glasses_cover.jpg",
+    "description": "Explore 17+ Interview Hairstyle with Glasses to Save Now. Find flattering cuts, styling advice, and inspirational hair transformations.",
+    "introParagraphs": [
+      "Preparing for a job interview\u00a0involves choosing the perfect outfit and making sure your hair looks polished. If you wear eyewear, finding the right look can feel tricky, but it does not have to be. Exploring a 20 interview hairstyle with glasses guide helps you discover options that frame your face beautifully and keep you looking professional. Your frames already draw attention to your face, so your hair should complement them rather than compete for attention. Whether you have short, medium, or long hair, there are plenty of neat and confident options to choose from. From sleek buns to tailored bobs, the right haircut or style will make you feel ready to impress your future employers."
+    ],
+    "items": [
       {
-        "id": "section-why-glasses-doc64",
-        "title": "How to Pair Your Hairstyle with Face Shapes & Glasses Frames",
-        "content": "Choosing a haircut that flatters both your face geometry and eyeglass frames creates instant harmony. Soft curtain bangs balance angular square frames, while layered lobs add vertical length for round face shapes.",
-        "stats": [
-          {
-            "val": "100%",
-            "label": "Frame Compatibility"
-          },
-          {
-            "val": "Custom",
-            "label": "Face Contour Balance"
-          },
-          {
-            "val": "All Glasses",
-            "label": "Cat-Eye, Round & Square"
-          }
-        ]
+        "id": "item-1",
+        "title": "1. Sleek Low Bun",
+        "image": "/images/doc_interview_glasses_img_1.jpg",
+        "description": "Nothing says professional quite like a sleek low bun when you are heading into an important meeting. This timeless option keeps every strand out of your face, allowing your glasses to stand out as a sophisticated accessory. By pulling your hair back smoothly at the nape of your neck, you create a clean silhouette that pairs perfectly with both bold and subtle frames.",
+        "paragraphs": [
+          "Nothing says professional quite like a sleek low bun when you are heading into an important meeting. This timeless option keeps every strand out of your face, allowing your glasses to stand out as a sophisticated accessory. By pulling your hair back smoothly at the nape of your neck, you create a clean silhouette that pairs perfectly with both bold and subtle frames.",
+          "It works wonderfully for straight, wavy, or curly hair textures, requiring just a little gel or pomade to tame flyaways. This polished look ensures you appear put together from the moment you walk through the door. You can easily transition this style from a busy office day to an evening out."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       },
       {
-        "id": "section-masterclass-glasses-doc64",
-        "title": "Stylist Masterclass: Pairing Haircuts with Eyeglass Frames",
-        "steps": [
-          "Assess Frame Width vs cheekbones: Ensure side layers clear your spectacle arms to prevent hair flaring.",
-          "Soften Bold Frames with Wispy Fringe: Soft wispy or curtain bangs break up heavy dark frames.",
-          "Add Top Volume for Round & Oval Faces: Elevate roots at the crown to elongate facial geometry.",
-          "Use Anti-Frizz Serum Around Temples: Smooth flyaways around ears where glasses arms sit."
-        ]
+        "id": "item-2",
+        "title": "2. Classic French Twist",
+        "image": "/images/doc_interview_glasses_img_2.jpg",
+        "description": "Have you ever considered a vintage-inspired updo for your next career move? A classic French twist brings an air of elegance that matches flawlessly with statement glasses. This style involves gathering your hair upward and twisting it into a seamless roll against the back of your head.",
+        "paragraphs": [
+          "Have you ever considered a vintage-inspired updo for your next career move? A classic French twist brings an air of elegance that matches flawlessly with statement glasses. This style involves gathering your hair upward and twisting it into a seamless roll against the back of your head.",
+          "It leaves your neckline open and draws attention straight to your eyewear and your smile. The vertical lines of the twist can also give a subtle lifting effect to your overall facial appearance. It is an excellent choice if you want to look authoritative yet approachable during your conversation. Securing it with a few hidden pins will keep it intact throughout your entire discussion."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-3",
+        "title": "3. Straight Lob Haircut",
+        "image": "/images/doc_interview_glasses_img_3.jpg",
+        "description": "Stepping into an interview with a straight lob haircut\u00a0projects modern confidence and capability. The long bob hits right around the collarbone, making it easy to manage while looking incredibly sharp. When you wear glasses, this blunt cut provides a structured frame that balances the visual weight of your frames.",
+        "paragraphs": [
+          "Stepping into an interview with a straight lob haircut\u00a0projects modern confidence and capability. The long bob hits right around the collarbone, making it easy to manage while looking incredibly sharp. When you wear glasses, this blunt cut provides a structured frame that balances the visual weight of your frames.",
+          "Straightening the ends gives a crisp finish that communicates attention to detail. You can wear it tucked behind your ears to highlight your eyewear, or let it frame your cheekbones gently. This haircut is highly versatile and requires minimal styling time on busy mornings. It strikes the perfect balance between a formal and a contemporary aesthetic for any professional setting."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-4",
+        "title": "4. Tucked Behind Ears Long Hair",
+        "image": "/images/doc_interview_glasses_img_4.jpg",
+        "description": "Sometimes the simplest approach makes the strongest impression in a corporate environment. Tucking your long hair behind your ears instantly opens up your face and puts your glasses front and center. This effortless styling trick works beautifully with straight or slightly wavy hair.",
+        "paragraphs": [
+          "Sometimes the simplest approach makes the strongest impression in a corporate environment. Tucking your long hair behind your ears instantly opens up your face and puts your glasses front and center. This effortless styling trick works beautifully with straight or slightly wavy hair.",
+          "It shows off your cheekbones and ensures nothing distracts from your expressions when you are answering tough questions. You can leave the rest of your hair down for a relaxed but professional feel, or pull it into a low ponytail for extra security. Adding a light-hold spray keeps those front pieces in place all day long. It is a quick solution when you need to look polished fast."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-5",
+        "title": "5. Half Up Half Down Curls",
+        "image": "/images/doc_interview_glasses_img_5.jpg",
+        "description": "Want to show off your personality while staying interview appropriate? Half up half down curls\u00a0offer a soft, approachable vibe that complements glasses beautifully. By pulling the top section of your hair back, you keep your face open and your eyewear visible.",
+        "paragraphs": [
+          "Want to show off your personality while staying interview appropriate? Half up half down curls\u00a0offer a soft, approachable vibe that complements glasses beautifully. By pulling the top section of your hair back, you keep your face open and your eyewear visible.",
+          "Leaving the bottom half in loose, controlled curls adds volume and movement without looking messy. This style works incredibly well for women with naturally curly or wavy hair who want to embrace their texture professionally. It shows you are meticulous about your appearance and comfortable in your own skin. Just make sure to use a frizz-control serum so your curls look defined and intentional rather than rushed."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-6",
+        "title": "6. Sleek High Ponytail",
+        "image": "/images/doc_interview_glasses_img_6.jpg",
+        "description": "Pulling your hair up into a sleek high ponytail instantly gives you a lifted, energetic look. This dynamic style pulls the skin slightly taut, which pairs wonderfully with the structured look of glasses. It is a fantastic option if you want to appear alert and highly focused during your meeting.",
+        "paragraphs": [
+          "Pulling your hair up into a sleek high ponytail instantly gives you a lifted, energetic look. This dynamic style pulls the skin slightly taut, which pairs wonderfully with the structured look of glasses. It is a fantastic option if you want to appear alert and highly focused during your meeting.",
+          "By smoothing down the roots with a styling brush and gel, you eliminate any signs of bedhead or frizz. The height of the ponytail adds a youthful yet professional touch to your overall demeanor. You can wrap a small section of hair around the hair tie to elevate the look even further. It stays securely in place through your entire conversation."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-7",
+        "title": "7. Side Part Bob",
+        "image": "/images/doc_interview_glasses_img_7.jpg",
+        "description": "A side part bob is a masterclass in professional styling that looks exceptionally smart with glasses. The deep side part creates asymmetry, which adds volume on one side and beautifully balances thicker or bolder frames. This haircut naturally falls into place, making your morning routine much simpler before a big interview.",
+        "paragraphs": [
+          "A side part bob is a masterclass in professional styling that looks exceptionally smart with glasses. The deep side part creates asymmetry, which adds volume on one side and beautifully balances thicker or bolder frames. This haircut naturally falls into place, making your morning routine much simpler before a big interview.",
+          "It offers a structured yet soft appearance that frames the jawline elegantly. When you pair this cut with your eyewear, it draws attention right to your eyes, helping you make great eye contact. A quick pass with a flat iron keeps the ends sleek and sharp. This timeless option always looks intentional and carefully curated for the workplace."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-8",
+        "title": "8. Soft Waves With Face Framing",
+        "image": "/images/doc_interview_glasses_img_8.jpg",
+        "description": "Soft waves with face framing layers bring a gentle, welcoming energy to any interview room. Unlike tight curls, relaxed waves look natural and easy to manage, which suggests you are calm under pressure. The face framing pieces are key here, as they cut in around your glasses and soften the harsh lines of the frames.",
+        "paragraphs": [
+          "Soft waves with face framing layers bring a gentle, welcoming energy to any interview room. Unlike tight curls, relaxed waves look natural and easy to manage, which suggests you are calm under pressure. The face framing pieces are key here, as they cut in around your glasses and soften the harsh lines of the frames.",
+          "This creates a harmonious balance between your hair and your eyewear. You can achieve this look with a large barrel curling iron or even by braiding your hair the night before. It tells your potential employer that you take pride in a polished appearance without being overly rigid in your personal style."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-9",
+        "title": "9. Neat Chignon",
+        "image": "/images/doc_interview_glasses_img_9.jpg",
+        "description": "For a truly sophisticated and traditional approach, a neat chignon\u00a0is an outstanding choice for job seekers. This low, compact bun sits at the back of the neck, exuding a sense of calm and authority. Glasses often add a businesslike element to your face, and a chignon matches that professional tone perfectly.",
+        "paragraphs": [
+          "For a truly sophisticated and traditional approach, a neat chignon\u00a0is an outstanding choice for job seekers. This low, compact bun sits at the back of the neck, exuding a sense of calm and authority. Glasses often add a businesslike element to your face, and a chignon matches that professional tone perfectly.",
+          "It keeps your hair contained, so you never have to worry about brushing strands out of your face while speaking. You can part it in the middle or on the side, depending on what flatters your frames most. Using a smoothing cream will ensure the surface of the bun stays flawless and sleek all day long."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-10",
+        "title": "10. Blunt Cut Long Hair",
+        "image": "/images/doc_interview_glasses_img_10.jpg",
+        "description": "Do you prefer wearing your hair long but still want a professional edge? A blunt cut on long hair provides a clean, dramatic line that looks incredibly sharp with glasses. By cutting the ends straight across, you remove any scraggly or uneven pieces that might look untidy.",
+        "paragraphs": [
+          "Do you prefer wearing your hair long but still want a professional edge? A blunt cut on long hair provides a clean, dramatic line that looks incredibly sharp with glasses. By cutting the ends straight across, you remove any scraggly or uneven pieces that might look untidy.",
+          "This precise cut offers a striking contrast to the curves of your eyewear, making both your hair and your frames pop. It looks best when styled stick-straight to emphasize the geometric line of the hem. Keeping your hair pushed back behind your shoulders ensures your face remains the focal point. It is a powerful look that demands respect and shows you mean business."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-11",
+        "title": "11. Textured Pixie Cut",
+        "image": "/images/doc_interview_glasses_img_11.jpg",
+        "description": "A textured pixie cut is a bold, low-maintenance option that radiates self-assurance. When you wear glasses, a pixie cut eliminates the risk of hair falling into your eyes or clashing with your frames. The cropped sides and back keep your look neat, while a little texture on top adds personality and movement.",
+        "paragraphs": [
+          "A textured pixie cut is a bold, low-maintenance option that radiates self-assurance. When you wear glasses, a pixie cut eliminates the risk of hair falling into your eyes or clashing with your frames. The cropped sides and back keep your look neat, while a little texture on top adds personality and movement.",
+          "You can use a small amount of styling wax to piece out the ends for a modern, artistic vibe. This cut makes your glasses the undeniable star of your face, highlighting your eyes with zero distractions. It is perfect for creative industries or anyone wanting to showcase their confident and decisive nature during an important conversation."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-12",
+        "title": "12. Low Side Ponytail",
+        "image": "/images/doc_interview_glasses_img_12.jpg",
+        "description": "A low side ponytail offers a slightly softer alternative to a traditional center placement. Sweeping your hair to one side creates a lovely cascade over your shoulder, which looks elegant alongside a pair of refined glasses. It keeps your hair completely out of your face, allowing your expressions to shine through clearly.",
+        "paragraphs": [
+          "A low side ponytail offers a slightly softer alternative to a traditional center placement. Sweeping your hair to one side creates a lovely cascade over your shoulder, which looks elegant alongside a pair of refined glasses. It keeps your hair completely out of your face, allowing your expressions to shine through clearly.",
+          "This style works best if you leave a few pieces loose around your temples to frame your eyewear gently. It gives off a calm and thoughtful impression, which is ideal for roles that require empathy or careful listening. A quick spritz of hairspray ensures the style holds without feeling stiff or unnatural."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-13",
+        "title": "13. Braided Crown",
+        "image": "/images/doc_interview_glasses_img_13.jpg",
+        "description": "Looking for an updo that stays firmly in place while looking intricate and refined? A braided crown\u00a0wraps around your head like a headband, keeping every strand secured away from your face. This is incredibly helpful when you wear glasses, as it prevents any loose hairs from getting caught in your frames.",
+        "paragraphs": [
+          "Looking for an updo that stays firmly in place while looking intricate and refined? A braided crown\u00a0wraps around your head like a headband, keeping every strand secured away from your face. This is incredibly helpful when you wear glasses, as it prevents any loose hairs from getting caught in your frames.",
+          "The braid adds visual interest and texture, showing that you pay attention to the finer details. It is a highly practical choice for long interview days where you cannot afford to touch up your hair. You can create this by crossing two simple braids at the back of your head and pinning them securely in place."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-14",
+        "title": "14. Curly Bob",
+        "image": "/images/doc_interview_glasses_img_14.jpg",
+        "description": "Embracing your natural texture with a curly bob is a fantastic way to present your authentic self. This cheerful, bouncy cut naturally frames your face and works in perfect harmony with your glasses. The volume of the curls balances out the presence of thicker frames, creating an evenly proportioned look.",
+        "paragraphs": [
+          "Embracing your natural texture with a curly bob is a fantastic way to present your authentic self. This cheerful, bouncy cut naturally frames your face and works in perfect harmony with your glasses. The volume of the curls balances out the presence of thicker frames, creating an evenly proportioned look.",
+          "Keeping the length right around the chin ensures your curls look shaped and deliberate rather than overgrown. A curl-defining cream is essential here to keep frizz at bay and your ringlets looking defined. This joyful yet professional style tells employers you are confident, approachable, and comfortable making bold choices in a corporate environment."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-15",
+        "title": "15. Center Part Straight Hair",
+        "image": "/images/doc_interview_glasses_img_15.jpg",
+        "description": "A center part on straight hair delivers a sleek, symmetrical appearance that photographs beautifully and looks incredibly sharp. This minimalist style allows your glasses to take center stage without any competing elements. The even split frames your face perfectly, drawing attention straight to your eyes and your eyewear.",
+        "paragraphs": [
+          "A center part on straight hair delivers a sleek, symmetrical appearance that photographs beautifully and looks incredibly sharp. This minimalist style allows your glasses to take center stage without any competing elements. The even split frames your face perfectly, drawing attention straight to your eyes and your eyewear.",
+          "It works exceptionally well with fine or medium hair textures, creating a polished and tailored finish. You can tuck both sides behind your ears for a completely open face, or let the hair fall naturally to showcase its healthy shine. Using a flat iron ensures the hair lies perfectly flat and smooth for a flawless interview presentation."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-16",
+        "title": "16. Twisted Half Updo",
+        "image": "/images/doc_interview_glasses_img_16.jpg",
+        "description": "A twisted half updo provides a wonderful blend of elegance and ease for your big day. Instead of a standard pin back, twisting small sections of hair away from your face adds a lovely textural element. These twists hold your hair securely behind your glasses, ensuring nothing falls into your eyes mid-sentence.",
+        "paragraphs": [
+          "A twisted half updo provides a wonderful blend of elegance and ease for your big day. Instead of a standard pin back, twisting small sections of hair away from your face adds a lovely textural element. These twists hold your hair securely behind your glasses, ensuring nothing falls into your eyes mid-sentence.",
+          "The remaining hair down your back adds softness and femininity to the overall look. This style is highly reliable and requires minimal bobby pins to stay put. It communicates that you are organized and put together, which is exactly the message you want to send to a hiring manager or recruiter."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-17",
+        "title": "17. Short Layered Wedge Cut",
+        "image": "/images/doc_interview_glasses_img_17.jpg",
+        "description": "A short layered wedge cut\u00a0brings a touch of vintage charm mixed with modern precision. This tapered cut is shorter at the back and gradually gets longer toward the front, beautifully framing the jawline. When paired with glasses, it creates a highly intellectual and sophisticated aesthetic.",
+        "paragraphs": [
+          "A short layered wedge cut\u00a0brings a touch of vintage charm mixed with modern precision. This tapered cut is shorter at the back and gradually gets longer toward the front, beautifully framing the jawline. When paired with glasses, it creates a highly intellectual and sophisticated aesthetic.",
+          "The stacked layers in the back add volume, while the sleek sides ensure your frames remain the focal point of your face. It is a remarkably easy style to maintain, requiring just a blow dryer and a round brush to achieve the perfect shape. This tailored look is perfect for those who want a no-nonsense yet stylish haircut for professional environments."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       }
     ],
     "faqs": [
       {
-        "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "question": "How do I choose the best haircut for interview hairstyle with glasses to save now?",
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
-        "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
-      },
-      {
-        "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "question": "How often should I trim this hairstyle?",
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
-    "items": [
+    "sections": [
       {
-        "number": 1,
-        "title": "Sleek Low Bun",
-        "image": "/images/doc64_img_1.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Nothing says professional quite like a sleek low bun when you are heading into an important meeting.",
-          "This timeless option keeps every strand out of your face, allowing your glasses to stand out as a sophisticated accessory.",
-          "By pulling your hair back smoothly at the nape of your neck, you create a clean silhouette that pairs perfectly with both bold and subtle frames.",
-          "It works wonderfully for straight, wavy, or curly hair textures, requiring just a little gel or pomade to tame flyaways.",
-          "This polished look ensures you appear put together from the moment you walk through the door.",
-          "You can easily transition this style from a busy office day to an evening out.",
-          "Pairing Sleek Low Bun with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 2,
-        "title": "Classic French Twist",
-        "image": "/images/doc64_img_2.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Have you ever considered a vintage-inspired updo for your next career move? A classic French twist brings an air of elegance that matches flawlessly with statement glasses.",
-          "This style involves gathering your hair upward and twisting it into a seamless roll against the back of your head.",
-          "It leaves your neckline open and draws attention straight to your eyewear and your smile.",
-          "The vertical lines of the twist can also give a subtle lifting effect to your overall facial appearance.",
-          "It is an excellent choice if you want to look authoritative yet approachable during your conversation.",
-          "Securing it with a few hidden pins will keep it intact throughout your entire discussion.",
-          "Pairing Classic French Twist with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 3,
-        "title": "Straight Lob Haircut",
-        "image": "/images/doc64_img_3.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Stepping into an interview with a straight lob haircut gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Straight Lob Haircut with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 4,
-        "title": "Tucked Behind Ears Long Hair",
-        "image": "/images/doc64_img_4.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Sometimes the simplest approach makes the strongest impression in a corporate environment.",
-          "Tucking your long hair behind your ears instantly opens up your face and puts your glasses front and center.",
-          "This effortless styling trick works beautifully with straight or slightly wavy hair.",
-          "It shows off your cheekbones and ensures nothing distracts from your expressions when you are answering tough questions.",
-          "You can leave the rest of your hair down for a relaxed but professional feel, or pull it into a low ponytail for extra security.",
-          "Adding a light-hold spray keeps those front pieces in place all day long.",
-          "It is a quick solution when you need to look polished fast.",
-          "Pairing Tucked Behind Ears Long Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 5,
-        "title": "Half Up Half Down Curls",
-        "image": "/images/doc64_img_5.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Want to show off your personality while staying interview appropriate? Half up half down curls This style gives you an effortless, flattering look that is easy to maintain every day."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 6,
-        "title": "Sleek High Ponytail",
-        "image": "/images/doc64_img_6.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Pulling your hair up into a sleek high ponytail instantly gives you a lifted, energetic look.",
-          "This dynamic style pulls the skin slightly taut, which pairs wonderfully with the structured look of glasses.",
-          "It is a fantastic option if you want to appear alert and highly focused during your meeting.",
-          "By smoothing down the roots with a styling brush and gel, you eliminate any signs of bedhead or frizz.",
-          "The height of the ponytail adds a youthful yet professional touch to your overall demeanor.",
-          "You can wrap a small section of hair around the hair tie to elevate the look even further.",
-          "It stays securely in place through your entire conversation.",
-          "Pairing Sleek High Ponytail with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 7,
-        "title": "Side Part Bob",
-        "image": "/images/doc64_img_7.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A side part bob is a masterclass in professional styling that looks exceptionally smart with glasses.",
-          "The deep side part creates asymmetry, which adds volume on one side and beautifully balances thicker or bolder frames.",
-          "This haircut naturally falls into place, making your morning routine much simpler before a big interview.",
-          "It offers a structured yet soft appearance that frames the jawline elegantly.",
-          "When you pair this cut with your eyewear, it draws attention right to your eyes, helping you make great eye contact.",
-          "A quick pass with a flat iron keeps the ends sleek and sharp.",
-          "This timeless option always looks intentional and carefully curated for the workplace.",
-          "Pairing Side Part Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 8,
-        "title": "Soft Waves With Face Framing",
-        "image": "/images/doc64_img_8.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Soft waves with face framing layers bring a gentle, welcoming energy to any interview room.",
-          "Unlike tight curls, relaxed waves look natural and easy to manage, which suggests you are calm under pressure.",
-          "The face framing pieces are key here, as they cut in around your glasses and soften the harsh lines of the frames.",
-          "This creates a harmonious balance between your hair and your eyewear.",
-          "You can achieve this look with a large barrel curling iron or even by braiding your hair the night before.",
-          "It tells your potential employer that you take pride in a polished appearance without being overly rigid in your personal style.",
-          "Pairing Soft Waves With Face Framing with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 9,
-        "title": "Neat Chignon",
-        "image": "/images/doc64_img_9.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "For a truly sophisticated and traditional approach, a neat chignon gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Neat Chignon with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 10,
-        "title": "Blunt Cut Long Hair",
-        "image": "/images/doc64_img_10.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Do you prefer wearing your hair long but still want a professional edge? A blunt cut on long hair provides a clean, dramatic line that looks incredibly sharp with glasses.",
-          "By cutting the ends straight across, you remove any scraggly or uneven pieces that might look untidy.",
-          "This precise cut offers a striking contrast to the curves of your eyewear, making both your hair and your frames pop.",
-          "It looks best when styled stick-straight to emphasize the geometric line of the hem.",
-          "Keeping your hair pushed back behind your shoulders ensures your face remains the focal point.",
-          "It is a powerful look that demands respect and shows you mean business.",
-          "Pairing Blunt Cut Long Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 11,
-        "title": "Textured Pixie Cut",
-        "image": "/images/doc64_img_11.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A textured pixie cut is a bold, low-maintenance option that radiates self-assurance.",
-          "When you wear glasses, a pixie cut eliminates the risk of hair falling into your eyes or clashing with your frames.",
-          "The cropped sides and back keep your look neat, while a little texture on top adds personality and movement.",
-          "You can use a small amount of styling wax to piece out the ends for a modern, artistic vibe.",
-          "This cut makes your glasses the undeniable star of your face, highlighting your eyes with zero distractions.",
-          "It is perfect for creative industries or anyone wanting to showcase their confident and decisive nature during an important conversation.",
-          "Pairing Textured Pixie Cut with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 12,
-        "title": "Low Side Ponytail",
-        "image": "/images/doc64_img_12.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A low side ponytail offers a slightly softer alternative to a traditional center placement.",
-          "Sweeping your hair to one side creates a lovely cascade over your shoulder, which looks elegant alongside a pair of refined glasses.",
-          "It keeps your hair completely out of your face, allowing your expressions to shine through clearly.",
-          "This style works best if you leave a few pieces loose around your temples to frame your eyewear gently.",
-          "It gives off a calm and thoughtful impression, which is ideal for roles that require empathy or careful listening.",
-          "A quick spritz of hairspray ensures the style holds without feeling stiff or unnatural.",
-          "Pairing Low Side Ponytail with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 13,
-        "title": "Braided Crown",
-        "image": "/images/doc64_img_13.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Looking for an updo that stays firmly in place while looking intricate and refined? A braided crown This style gives you an effortless, flattering look that is easy to maintain every day."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 14,
-        "title": "Curly Bob",
-        "image": "/images/doc64_img_14.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Embracing your natural texture with a curly bob is a fantastic way to present your authentic self.",
-          "This cheerful, bouncy cut naturally frames your face and works in perfect harmony with your glasses.",
-          "The volume of the curls balances out the presence of thicker frames, creating an evenly proportioned look.",
-          "Keeping the length right around the chin ensures your curls look shaped and deliberate rather than overgrown.",
-          "A curl-defining cream is essential here to keep frizz at bay and your ringlets looking defined.",
-          "This joyful yet professional style tells employers you are confident, approachable, and comfortable making bold choices in a corporate environment.",
-          "Pairing Curly Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 15,
-        "title": "Center Part Straight Hair",
-        "image": "/images/doc64_img_15.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A center part on straight hair delivers a sleek, symmetrical appearance that photographs beautifully and looks incredibly sharp.",
-          "This minimalist style allows your glasses to take center stage without any competing elements.",
-          "The even split frames your face perfectly, drawing attention straight to your eyes and your eyewear.",
-          "It works exceptionally well with fine or medium hair textures, creating a polished and tailored finish.",
-          "You can tuck both sides behind your ears for a completely open face, or let the hair fall naturally to showcase its healthy shine.",
-          "Using a flat iron ensures the hair lies perfectly flat and smooth for a flawless interview presentation.",
-          "Pairing Center Part Straight Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 16,
-        "title": "Twisted Half Updo",
-        "image": "/images/doc64_img_16.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A twisted half updo provides a wonderful blend of elegance and ease for your big day.",
-          "Instead of a standard pin back, twisting small sections of hair away from your face adds a lovely textural element.",
-          "These twists hold your hair securely behind your glasses, ensuring nothing falls into your eyes mid-sentence.",
-          "The remaining hair down your back adds softness and femininity to the overall look.",
-          "This style is highly reliable and requires minimal bobby pins to stay put.",
-          "It communicates that you are organized and put together, which is exactly the message you want to send to a hiring manager or recruiter.",
-          "Pairing Twisted Half Updo with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 17,
-        "title": "Short Layered Wedge Cut",
-        "image": "/images/doc64_img_17.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "short layered wedge cut brings a touch of vintage charm mixed with modern precision.",
-          "This tapered cut is shorter at the back and gradually gets longer toward the front, beautifully framing the jawline.",
-          "When paired with glasses, it creates a highly intellectual and sophisticated aesthetic.",
-          "The stacked layers in the back add volume, while the sleek sides ensure your frames remain the focal point of your face.",
-          "It is a remarkably easy style to maintain, requiring just a blow dryer and a round brush to achieve the perfect shape.",
-          "This tailored look is perfect for those who want a no-nonsense yet stylish haircut for professional environments.",
-          "Pairing Short Layered Wedge Cut with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 18,
-        "title": "Voluminous Blowout",
-        "image": "/images/doc64_img_18.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Nothing boosts your confidence quite like a voluminous blowout before meeting a potential employer.",
-          "Bouncy, voluminous hair signals health and vitality, making you look energetic and ready to tackle new challenges.",
-          "When you wear glasses, adding lift at the roots prevents your hair from falling flat against your frames.",
-          "The key is to create smooth, sweeping curves rather than tangled messes.",
-          "Using a large round brush while blow-drying gives you that perfect salon-level lift.",
-          "You can tuck one side behind your ear to highlight your glasses while letting the other side cascade beautifully.",
-          "It is an empowering look that guarantees you make a memorable first impression.",
-          "Pairing Voluminous Blowout with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
+        "id": "section-guide",
+        "title": "Style Guide & Selection",
+        "content": "Selecting a 17+ interview hairstyle with glasses to save now is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ],
-    "introParagraphs": [
-      "17+ Interview Hairstyle with Glasses to Save Now is one of 2026's top hair trends for glasses wearers and face-contouring.",
-      "Finding the right balance between your cut and eyewear creates effortless style.",
-      "Here are the top ideas to save."
     ]
   },
   {
     "id": "flattering-haircut-for-oblong-face-women",
-    "slug": "flattering-haircut-for-oblong-face-women",
     "title": "13+ Flattering Haircut for Oblong Face Women",
+    "slug": "flattering-haircut-for-oblong-face-women",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc63_cover_collage.jpg",
-    "readTime": "8 min read",
     "date": "August 31, 2026",
-    "isFeatured": true,
-    "isTrending": true,
-    "intro": "13+ Flattering Haircut for Oblong Face Women is one of 2026's top hair trends for glasses wearers and face-contouring. Finding the right balance between your cut and eyewear creates effortless style. Here are the top ideas to save.",
-    "extraSections": [
+    "author": "Trend Haircuts Team",
+    "readTime": "7 min read",
+    "image": "/images/doc_oblong_face_cover.jpg",
+    "description": "Explore 13+ Flattering Haircut for Oblong Face Women. Find flattering cuts, styling advice, and inspirational hair transformations.",
+    "introParagraphs": [
+      "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape."
+    ],
+    "items": [
       {
-        "id": "section-why-glasses-doc63",
-        "title": "How to Pair Your Hairstyle with Face Shapes & Glasses Frames",
-        "content": "Choosing a haircut that flatters both your face geometry and eyeglass frames creates instant harmony. Soft curtain bangs balance angular square frames, while layered lobs add vertical length for round face shapes.",
-        "stats": [
-          {
-            "val": "100%",
-            "label": "Frame Compatibility"
-          },
-          {
-            "val": "Custom",
-            "label": "Face Contour Balance"
-          },
-          {
-            "val": "All Glasses",
-            "label": "Cat-Eye, Round & Square"
-          }
-        ]
+        "id": "item-1",
+        "title": "1. Curly Shag",
+        "image": "/images/doc_oblong_face_img_1.jpg",
+        "description": "A curly shag is a masterclass in texture and movement, making it an exceptional choice for oblong faces. This cut features choppy, shattered ends and layered angles throughout, which hold volume and create essential width \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "A curly shag is a masterclass in texture and movement, making it an exceptional choice for oblong faces. This cut features choppy, shattered ends and layered angles throughout, which hold volume and create essential width \u3010turn0search0\u3011.",
+          "The inherent texture and piece-y layers prevent the hair from lying flat, directly countering the vertical line of a long face. By adding fullness at the sides and a sense of expansiveness, the curly shag shifts the visual focus, making the face appear more balanced and oval. It\u2019s a stylish, low-effort cut that works beautifully with natural curls or waves."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       },
       {
-        "id": "section-masterclass-glasses-doc63",
-        "title": "Stylist Masterclass: Pairing Haircuts with Eyeglass Frames",
-        "steps": [
-          "Assess Frame Width vs cheekbones: Ensure side layers clear your spectacle arms to prevent hair flaring.",
-          "Soften Bold Frames with Wispy Fringe: Soft wispy or curtain bangs break up heavy dark frames.",
-          "Add Top Volume for Round & Oval Faces: Elevate roots at the crown to elongate facial geometry.",
-          "Use Anti-Frizz Serum Around Temples: Smooth flyaways around ears where glasses arms sit."
-        ]
+        "id": "item-2",
+        "title": "2. Center-Parted Ponytail",
+        "image": "/images/doc_oblong_face_img_2.jpg",
+        "description": "A sleek, center-parted ponytail positioned low on the head is a surprisingly effective style for oblong faces. The key is in the placement: positioning the ponytail at the center or lower part of the head avoids adding unwanted height at the crown, which would elongate the face further \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "A sleek, center-parted ponytail positioned low on the head is a surprisingly effective style for oblong faces. The key is in the placement: positioning the ponytail at the center or lower part of the head avoids adding unwanted height at the crown, which would elongate the face further \u3010turn0search0\u3011.",
+          "Exposing the ears by pulling the hair back creates the illusion of greater facial width. This simple, polished updo uses the structure of the hair to frame the face and add horizontal lines, achieving a balanced look with minimal effort."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-3",
+        "title": "3. Piecy Pixie",
+        "image": "/images/doc_oblong_face_img_3.jpg",
+        "description": "A textured, piecy pixie cut proves that short hair can be incredibly flattering for oblong faces. This style incorporates soft, brow-skimming bangs\u00a0to shorten the appearance of the forehead and rounded, layered structure to add width at the temples \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "A textured, piecy pixie cut proves that short hair can be incredibly flattering for oblong faces. This style incorporates soft, brow-skimming bangs\u00a0to shorten the appearance of the forehead and rounded, layered structure to add width at the temples \u3010turn0search0\u3011.",
+          "The slightly longer length at the top can be styled for volume, while the trimmed sides and back expose the ears, contributing to the illusion of a wider face. It\u2019s a bold, chic cut that uses strategic layering and fringe to create perfect proportions."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-4",
+        "title": "4. Curtain Bangs",
+        "image": "/images/doc_oblong_face_img_4.jpg",
+        "description": "Curtain bangs are a universally flattering choice, but they are particularly strategic for oblong face shapes. These face-framing, parted bangs gracefully sweep outward, shortening the visual length of the forehead and drawing attention outward to the cheekbones \u3010turn0search0\u3011\u3010turn0search10\u3011.",
+        "paragraphs": [
+          "Curtain bangs are a universally flattering choice, but they are particularly strategic for oblong face shapes. These face-framing, parted bangs gracefully sweep outward, shortening the visual length of the forehead and drawing attention outward to the cheekbones \u3010turn0search0\u3011\u3010turn0search10\u3011.",
+          "This creates the necessary horizontal line that balances the face\u2019s verticality. Whether paired with long layers, a lob, or a bob, curtain bangs add a soft, sophisticated touch that inherently creates a more oval appearance."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-5",
+        "title": "5. Blunt Bangs",
+        "image": "/images/doc_oblong_face_img_5.jpg",
+        "description": "Blunt, brow-grazing bangs\u00a0offer a striking way to balance an oblong face. By creating a strong horizontal line across the forehead, they immediately break up the face\u2019s length and shift the focus to the eyes and cheekbones \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "Blunt, brow-grazing bangs\u00a0offer a striking way to balance an oblong face. By creating a strong horizontal line across the forehead, they immediately break up the face\u2019s length and shift the focus to the eyes and cheekbones \u3010turn0search0\u3011.",
+          "A slight, piece-y part in the bangs can prevent them from looking too severe, allowing a bit of forehead to show and avoiding a crowded effect. This bold cut is a timeless and effective tool for creating visual width and harmony."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-6",
+        "title": "6. Curly Ponytail",
+        "image": "/images/doc_oblong_face_img_6.jpg",
+        "description": "A curly ponytail leverages the natural volume and width of curls to balance an oblong face. Unlike sleek, pulled-back styles that can elongate, a curly ponytail, especially when worn low, adds significant structure and fullness at the sides \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "A curly ponytail leverages the natural volume and width of curls to balance an oblong face. Unlike sleek, pulled-back styles that can elongate, a curly ponytail, especially when worn low, adds significant structure and fullness at the sides \u3010turn0search0\u3011.",
+          "The curls themselves become a design element that expands the visual width of the head. This style combines the practicality of an updo with the flattering benefits of texture, making it a perfect choice for casual or dressed-up occasions."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-7",
+        "title": "7. Perfectly Messy Bun",
+        "image": "/images/doc_oblong_face_img_7.jpg",
+        "description": "A perfectly messy bun, when styled correctly, can be a go-to flattering option for oblong faces. The secret lies in the face-framing pieces: allowing soft tendrils or layers to fall around the chin and jawline adds crucial horizontal lines \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "A perfectly messy bun, when styled correctly, can be a go-to flattering option for oblong faces. The secret lies in the face-framing pieces: allowing soft tendrils or layers to fall around the chin and jawline adds crucial horizontal lines \u3010turn0search0\u3011.",
+          "This breaks up the vertical stretch of the face and adds softness. The bun itself should be positioned low to avoid adding height, while the relaxed, textured aesthetic contributes to the overall sense of width and balance."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-8",
+        "title": "8. Angled Bob",
+        "image": "/images/doc_oblong_face_img_8.jpg",
+        "description": "The angled bob is a powerhouse haircut for oblong faces, as it strategically uses angles and often bangs to create width. The longer front pieces graze the jawline, while the back is cut shorter, creating a rounded shape that adds fullness at the chin \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "The angled bob is a powerhouse haircut for oblong faces, as it strategically uses angles and often bangs to create width. The longer front pieces graze the jawline, while the back is cut shorter, creating a rounded shape that adds fullness at the chin \u3010turn0search0\u3011.",
+          "When paired with bangs\u2014whether blunt, side-swept, or curtain\u2014the angle of the fringe helps to further round out the face and shorten the forehead \u3010turn0search0\u3011. This cut is versatile, sophisticated, and inherently balancing."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-9",
+        "title": "9. French Bob",
+        "image": "/images/doc_oblong_face_img_9.jpg",
+        "description": "The French bob, characterized by its earlobe-grazing length and rounded silhouette, is a chic solution for oblong faces. Even without bangs, the cut\u2019s rounded structure creates the illusion of a rounder, wider face \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "The French bob, characterized by its earlobe-grazing length and rounded silhouette, is a chic solution for oblong faces. Even without bangs, the cut\u2019s rounded structure creates the illusion of a rounder, wider face \u3010turn0search0\u3011.",
+          "Its precise, chin-hugging shape adds horizontal emphasis right where an oblong face needs it most. This style is a masterclass in using cut alone, rather than styling, to achieve balance, resulting in a look that is both elegant and face-framing."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-10",
+        "title": "10. Sculpted Curls With Side Part",
+        "image": "/images/doc_oblong_face_img_10.jpg",
+        "description": "Sculpted, defined curls paired with a deep side part offer glamorous balance for an oblong face shape. The side part immediately creates asymmetry, which breaks up the face\u2019s vertical symmetry and adds width on one side \u3010turn0search0\u3011.",
+        "paragraphs": [
+          "Sculpted, defined curls paired with a deep side part offer glamorous balance for an oblong face shape. The side part immediately creates asymmetry, which breaks up the face\u2019s vertical symmetry and adds width on one side \u3010turn0search0\u3011.",
+          "The curls themselves, when structured and voluminous, add significant fullness at the sides. This combination is particularly striking for formal events, as it uses both the cut and styling direction to achieve a harmonious, oval-like proportion."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-11",
+        "title": "11. Layered Bob",
+        "image": "/images/doc_oblong_face_img_11.jpg",
+        "description": "A layered bob is a highly recommended style for oblong faces because the layers add essential movement and volume. Subtly layered bobs with angles or bangs are specifically noted as a great choice for longer face shapes \u3010turn0search16\u3011\u3010turn0search17\u3011.",
+        "paragraphs": [
+          "A layered bob is a highly recommended style for oblong faces because the layers add essential movement and volume. Subtly layered bobs with angles or bangs are specifically noted as a great choice for longer face shapes \u3010turn0search16\u3011\u3010turn0search17\u3011.",
+          "The layers prevent the bob from hanging flat, instead creating width and texture that balance the face\u2019s length. Whether worn sleek with defined layers or tousled for a beachy vibe, this cut is adaptable and consistently flattering."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-12",
+        "title": "12. Side-Swept Bob",
+        "image": "/images/doc_oblong_face_img_12.jpg",
+        "description": "A side-swept bob is a variation that uses diagonal lines to flatter an oblong face. By parting the hair deeply to one side and sweeping the longer front layers across the forehead, you create a strong horizontal and diagonal line that counteracts vertical length \u3010turn0search22\u3011.",
+        "paragraphs": [
+          "A side-swept bob is a variation that uses diagonal lines to flatter an oblong face. By parting the hair deeply to one side and sweeping the longer front layers across the forehead, you create a strong horizontal and diagonal line that counteracts vertical length \u3010turn0search22\u3011.",
+          "This asymmetry adds width and visual interest, while the bob length maintains focus on the jawline and cheekbones. It\u2019s a dynamic and modern take on the classic bob."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-13",
+        "title": "13. Long Layers",
+        "image": "/images/doc_oblong_face_img_13.jpg",
+        "description": "Long layers are a fundamental and versatile choice for oblong faces with longer hair. The key is to ensure the layers are cut to start below the chin or at the collarbone, which adds volume and movement at the sides without creating height at the crown \u3010turn0search4\u3011.",
+        "paragraphs": [
+          "Long layers are a fundamental and versatile choice for oblong faces with longer hair. The key is to ensure the layers are cut to start below the chin or at the collarbone, which adds volume and movement at the sides without creating height at the crown \u3010turn0search4\u3011.",
+          "Face-framing layers that cascade forward also help to shorten the forehead and draw the eye outward. This cut provides the foundation for numerous styles, from beachy waves to straight and sleek, all while maintaining balance."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-14",
+        "title": "14. Shoulder-Length Waves",
+        "image": "/images/doc_oblong_face_img_14.jpg",
+        "description": "Shoulder-length hair styled into loose, tousled waves is effortlessly flattering for oblong faces. The waves themselves add crucial texture and width, breaking up the length of straight hair \u3010turn0search3\u3011\u3010turn0search4\u3011.",
+        "paragraphs": [
+          "Shoulder-length hair styled into loose, tousled waves is effortlessly flattering for oblong faces. The waves themselves add crucial texture and width, breaking up the length of straight hair \u3010turn0search3\u3011\u3010turn0search4\u3011.",
+          "When combined with a center part and face-framing layers, this style creates a soft, horizontal frame around the face. The shoulder-skimming length is also ideal, as it adds fullness at the perfect point to balance the jawline."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-15",
+        "title": "15. Full Fringe",
+        "image": "/images/doc_oblong_face_img_15.jpg",
+        "description": "A full, straight fringe (or bangs) is a bold and effective tool for oblong faces.",
+        "paragraphs": [
+          "A full, straight fringe (or bangs) is a bold and effective tool for oblong faces.",
+          "Similar to blunt bangs, it creates a definitive horizontal line across the forehead, visually shortening the face and shifting focus to the lower features \u3010turn0search4\u3011\u3010turn0search11\u3011. For the most flattering effect, the fringe should be cut to sit just at or below the brow, and it can be paired with various lengths, from a pixie to long layers, to achieve balance."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-16",
+        "title": "16. Textured Crop",
+        "image": "/images/doc_oblong_face_img_16.jpg",
+        "description": "A textured crop is a short, layered style that adds significant volume and width at the top and sides, making it excellent for oblong faces. The choppy, piece-y layers create texture and movement, which expand the face\u2019s appearance \u3010turn0search8\u3011.",
+        "paragraphs": [
+          "A textured crop is a short, layered style that adds significant volume and width at the top and sides, making it excellent for oblong faces. The choppy, piece-y layers create texture and movement, which expand the face\u2019s appearance \u3010turn0search8\u3011.",
+          "This cut often includes a bit of length on top that can be styled for height in a controlled manner, paired with closely cropped sides. The overall effect is a modern, edgy look that perfectly balances facial proportions."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       }
     ],
     "faqs": [
       {
-        "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "question": "How do I choose the best haircut for flattering haircut for oblong face women?",
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
-        "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
-      },
-      {
-        "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "question": "How often should I trim this hairstyle?",
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
-    "items": [
+    "sections": [
       {
-        "number": 1,
-        "title": "Curly Shag",
-        "image": "/images/doc63_img_1.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A curly shag is a masterclass in texture and movement, making it an exceptional choice for oblong faces.",
-          "This cut features choppy, shattered ends and layered angles throughout, which hold volume and create essential width.",
-          "The inherent texture and piece-y layers prevent the hair from lying flat, directly countering the vertical line of a long face.",
-          "By adding fullness at the sides and a sense of expansiveness, the curly shag shifts the visual focus, making the face appear more balanced and oval.",
-          "It\u2019s a stylish, low-effort cut that works beautifully with natural curls or waves.",
-          "Pairing Curly Shag with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 2,
-        "title": "Center-Parted Ponytail",
-        "image": "/images/doc63_img_2.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A sleek, center-parted ponytail positioned low on the head is a surprisingly effective style for oblong faces.",
-          "The key is in the placement: positioning the ponytail at the center or lower part of the head avoids adding unwanted height at the crown, which would elongate the face further.",
-          "Exposing the ears by pulling the hair back creates the illusion of greater facial width.",
-          "This simple, polished updo uses the structure of the hair to frame the face and add horizontal lines, achieving a balanced look with minimal effort.",
-          "Pairing Center-Parted Ponytail with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 3,
-        "title": "Piecy Pixie",
-        "image": "/images/doc63_img_3.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A textured, piecy pixie cut proves that short hair can be incredibly flattering for oblong faces.",
-          "This style incorporates soft, brow-skimming bangs gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Piecy Pixie with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 4,
-        "title": "Curtain Bangs",
-        "image": "/images/doc63_img_4.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Curtain bangs are a universally flattering choice, but they are particularly strategic for oblong face shapes.",
-          "These face-framing, parted bangs gracefully sweep outward, shortening the visual length of the forehead and drawing attention outward to the cheekbones.",
-          "This creates the necessary horizontal line that balances the face\u2019s verticality.",
-          "Whether paired with long layers, a lob, or a bob, curtain bangs add a soft, sophisticated touch that inherently creates a more oval appearance.",
-          "Pairing Curtain Bangs with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 5,
-        "title": "Blunt Bangs",
-        "image": "/images/doc63_img_5.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Blunt, brow-grazing bangs offer a striking way to balance an oblong face.",
-          "By creating a strong horizontal line across the forehead, they immediately break up the face\u2019s length and shift the focus to the eyes and cheekbones.",
-          "A slight, piece-y part in the bangs can prevent them from looking too severe, allowing a bit of forehead to show and avoiding a crowded effect.",
-          "This bold cut is a timeless and effective tool for creating visual width and harmony.",
-          "Pairing Blunt Bangs with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 6,
-        "title": "Curly Ponytail",
-        "image": "/images/doc63_img_6.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A curly ponytail leverages the natural volume and width of curls to balance an oblong face.",
-          "Unlike sleek, pulled-back styles that can elongate, a curly ponytail, especially when worn low, adds significant structure and fullness at the sides.",
-          "The curls themselves become a design element that expands the visual width of the head.",
-          "This style combines the practicality of an updo with the flattering benefits of texture, making it a perfect choice for casual or dressed-up occasions.",
-          "Pairing Curly Ponytail with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 7,
-        "title": "Perfectly Messy Bun",
-        "image": "/images/doc63_img_7.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A perfectly messy bun, when styled correctly, can be a go-to flattering option for oblong faces.",
-          "The secret lies in the face-framing pieces: allowing soft tendrils or layers to fall around the chin and jawline adds crucial horizontal lines.",
-          "This breaks up the vertical stretch of the face and adds softness.",
-          "The bun itself should be positioned low to avoid adding height, while the relaxed, textured aesthetic contributes to the overall sense of width and balance.",
-          "Pairing Perfectly Messy Bun with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 8,
-        "title": "Angled Bob",
-        "image": "/images/doc63_img_8.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The angled bob is a powerhouse haircut for oblong faces, as it strategically uses angles and often bangs to create width.",
-          "The longer front pieces graze the jawline, while the back is cut shorter, creating a rounded shape that adds fullness at the chin.",
-          "When paired with bangs\u2014whether blunt, side-swept, or curtain\u2014the angle of the fringe helps to further round out the face and shorten the forehead.",
-          "This cut is versatile, sophisticated, and inherently balancing.",
-          "Pairing Angled Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 9,
-        "title": "French Bob",
-        "image": "/images/doc63_img_9.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The French bob, characterized by its earlobe-grazing length and rounded silhouette gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing French Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 10,
-        "title": "Sculpted Curls With Side Part",
-        "image": "/images/doc63_img_10.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Sculpted, defined curls paired with a deep side part offer glamorous balance for an oblong face shape.",
-          "The side part immediately creates asymmetry, which breaks up the face\u2019s vertical symmetry and adds width on one side.",
-          "The curls themselves, when structured and voluminous, add significant fullness at the sides.",
-          "This combination is particularly striking for formal events, as it uses both the cut and styling direction to achieve a harmonious, oval-like proportion.",
-          "Pairing Sculpted Curls With Side Part with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 11,
-        "title": "Layered Bob",
-        "image": "/images/doc63_img_11.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A layered bob is a highly recommended style for oblong faces because the layers add essential movement and volume.",
-          "Subtly layered bobs with angles or bangs are specifically noted as a great choice for longer face shapes.",
-          "The layers prevent the bob from hanging flat, instead creating width and texture that balance the face\u2019s length.",
-          "Whether worn sleek with defined layers or tousled for a beachy vibe, this cut is adaptable and consistently flattering.",
-          "Pairing Layered Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 12,
-        "title": "Side-Swept Bob",
-        "image": "/images/doc63_img_12.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A side-swept bob is a variation that uses diagonal lines to flatter an oblong face.",
-          "By parting the hair deeply to one side and sweeping the longer front layers across the forehead, you create a strong horizontal and diagonal line that counteracts vertical length.",
-          "This asymmetry adds width and visual interest, while the bob length maintains focus on the jawline and cheekbones.",
-          "It\u2019s a dynamic and modern take on the classic bob.",
-          "Pairing Side-Swept Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 13,
-        "title": "Long Layers",
-        "image": "/images/doc63_img_13.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Long layers are a fundamental and versatile choice for oblong faces with longer hair.",
-          "The key is to ensure the layers are cut to start below the chin or at the collarbone, which adds volume and movement at the sides without creating height at the crown.",
-          "Face-framing layers that cascade forward also help to shorten the forehead and draw the eye outward.",
-          "This cut provides the foundation for numerous styles, from beachy waves to straight and sleek, all while maintaining balance.",
-          "Pairing Long Layers with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 14,
-        "title": "Shoulder-Length Waves",
-        "image": "/images/doc63_img_14.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Shoulder-length hair styled into loose, tousled waves is effortlessly flattering for oblong faces.",
-          "The waves themselves add crucial texture and width, breaking up the length of straight hair.",
-          "When combined with a center part and face-framing layers, this style creates a soft, horizontal frame around the face.",
-          "The shoulder-skimming length is also ideal, as it adds fullness at the perfect point to balance the jawline.",
-          "Pairing Shoulder-Length Waves with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
+        "id": "section-guide",
+        "title": "Style Guide & Selection",
+        "content": "Selecting a 13+ flattering haircut for oblong face women is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ],
-    "introParagraphs": [
-      "13+ Flattering Haircut for Oblong Face Women is one of 2026's top hair trends for glasses wearers and face-contouring.",
-      "Finding the right balance between your cut and eyewear creates effortless style.",
-      "Here are the top ideas to save."
     ]
   },
   {
     "id": "hairstyles-for-women-with-glasses-over-60-to-save",
-    "slug": "hairstyles-for-women-with-glasses-over-60-to-save",
     "title": "15+ Hairstyles for Women with Glasses over 60 to Save",
+    "slug": "hairstyles-for-women-with-glasses-over-60-to-save",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc62_cover_collage.jpg",
-    "readTime": "8 min read",
     "date": "August 30, 2026",
-    "isFeatured": true,
-    "isTrending": true,
-    "intro": "15+ Hairstyles for Women with Glasses over 60 to Save is one of 2026's top hair trends for glasses wearers and face-contouring. Finding the right balance between your cut and eyewear creates effortless style. Here are the top ideas to save.",
-    "extraSections": [
+    "author": "Trend Haircuts Team",
+    "readTime": "7 min read",
+    "image": "/images/doc_glasses_over60_cover.jpg",
+    "description": "Explore 15+ Hairstyles for Women with Glasses over 60 to Save. Find flattering cuts, styling advice, and inspirational hair transformations.",
+    "introParagraphs": [
+      "Finding the perfect balance between style and function becomes a top priority for women over 60 who wear glasses. Eyewear is no longer just a necessity but a key fashion accessory that should harmonize with your haircut to enhance your natural beauty. Whether you prefer a bold statement frame or a subtle wire-rimmed look, your hair plays a crucial role in framing your face and balancing your features. In 2026, the trends for hairstyles for women with glasses over 60 focus on texture, volume, and manageable lengths that offer a youthful lift. From chic pixies to elegant lobs, these twenty curated looks are designed to keep you looking modern while ensuring your glasses remain a stylish focal point of your overall aesthetic."
+    ],
+    "items": [
       {
-        "id": "section-why-glasses-doc62",
-        "title": "How to Pair Your Hairstyle with Face Shapes & Glasses Frames",
-        "content": "Choosing a haircut that flatters both your face geometry and eyeglass frames creates instant harmony. Soft curtain bangs balance angular square frames, while layered lobs add vertical length for round face shapes.",
-        "stats": [
-          {
-            "val": "100%",
-            "label": "Frame Compatibility"
-          },
-          {
-            "val": "Custom",
-            "label": "Face Contour Balance"
-          },
-          {
-            "val": "All Glasses",
-            "label": "Cat-Eye, Round & Square"
-          }
-        ]
+        "id": "item-1",
+        "title": "1. Short silver pixie cut",
+        "image": "/images/doc_glasses_over60_img_1.jpg",
+        "description": "A short silver pixie cut is an excellent choice for women who want a low-maintenance yet sophisticated look. This haircut features tapered sides and back with slightly longer, feathered layers on top to create natural volume. The silver tone reflects light beautifully, which helps to brighten the complexion and draw attention to the eyes.",
+        "paragraphs": [
+          "A short silver pixie cut is an excellent choice for women who want a low-maintenance yet sophisticated look. This haircut features tapered sides and back with slightly longer, feathered layers on top to create natural volume. The silver tone reflects light beautifully, which helps to brighten the complexion and draw attention to the eyes.",
+          "Because the hair is kept away from the ears, it provides a perfect foundation for any style of glasses, from thick plastic frames to delicate metal ones. You can style it with a bit of texturizing cream to add definition to the layers. This style is particularly flattering for those with oval or heart-shaped faces who want to emphasize their bone structure and fashionable eyewear."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       },
       {
-        "id": "section-masterclass-glasses-doc62",
-        "title": "Stylist Masterclass: Pairing Haircuts with Eyeglass Frames",
-        "steps": [
-          "Assess Frame Width vs cheekbones: Ensure side layers clear your spectacle arms to prevent hair flaring.",
-          "Soften Bold Frames with Wispy Fringe: Soft wispy or curtain bangs break up heavy dark frames.",
-          "Add Top Volume for Round & Oval Faces: Elevate roots at the crown to elongate facial geometry.",
-          "Use Anti-Frizz Serum Around Temples: Smooth flyaways around ears where glasses arms sit."
-        ]
+        "id": "item-2",
+        "title": "2. Chin length bob with bangs",
+        "image": "/images/doc_glasses_over60_img_2.jpg",
+        "description": "The chin length bob with bangs offers a timeless silhouette that works harmoniously with various frame shapes. This cut hits right at the jawline, creating a sharp frame that complements the horizontal line of your glasses. Soft, wispy bangs help to minimize forehead lines while drawing the focus directly to your lenses.",
+        "paragraphs": [
+          "The chin length bob with bangs offers a timeless silhouette that works harmoniously with various frame shapes. This cut hits right at the jawline, creating a sharp frame that complements the horizontal line of your glasses. Soft, wispy bangs help to minimize forehead lines while drawing the focus directly to your lenses.",
+          "This hairstyle is versatile enough for straight or slightly wavy hair textures and provides enough length to tuck behind the ears if needed. For women over 60, adding subtle internal layers can prevent the bob from looking too heavy or blocky. It is a polished option that looks great in any hair color, particularly when paired with a gloss treatment to ensure the strands look healthy."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-3",
+        "title": "3. Shoulder length layered hair",
+        "image": "/images/doc_glasses_over60_img_3.jpg",
+        "description": "Shoulder length layered hair provides a soft and feminine aesthetic that beautifully balances the structural lines of eyewear. By incorporating layers that start around the chin, this haircut adds movement and prevents the hair from looking flat or lifeless. This length is ideal for women who want to keep some of their hair\u2019s length while gaining the lifting benefits of shorter layers.",
+        "paragraphs": [
+          "Shoulder length layered hair provides a soft and feminine aesthetic that beautifully balances the structural lines of eyewear. By incorporating layers that start around the chin, this haircut adds movement and prevents the hair from looking flat or lifeless. This length is ideal for women who want to keep some of their hair\u2019s length while gaining the lifting benefits of shorter layers.",
+          "The layers can be styled to curve toward the face, which helps to integrate the frames into the overall look rather than having them stand out too sharply. Using a round brush during your blowout will add the necessary volume at the roots. It is a practical style that offers enough length for simple updos while remaining easy to manage."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-4",
+        "title": "4. Textured pixie with side swept fringe",
+        "image": "/images/doc_glasses_over60_img_4.jpg",
+        "description": "A textured pixie with a side swept fringe is a modern and edgy option that looks fantastic with glasses. The choppy layers throughout the crown provide a youthful height that elongates the face and keeps the focus high. A longer fringe that sweeps across the forehead helps to blend the top of the frames with the hairline for a seamless transition.",
+        "paragraphs": [
+          "A textured pixie with a side swept fringe is a modern and edgy option that looks fantastic with glasses. The choppy layers throughout the crown provide a youthful height that elongates the face and keeps the focus high. A longer fringe that sweeps across the forehead helps to blend the top of the frames with the hairline for a seamless transition.",
+          "This cut is especially beneficial for women with fine hair, as the texturizing prevents the strands from laying flat against the scalp. It works well with bold, colorful frames that benefit from a more understated but stylish haircut. Regular trims every six weeks are recommended to keep the shape crisp and the layers looking intentional rather than overgrown."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-5",
+        "title": "5. Classic lob with face framing layers",
+        "image": "/images/doc_glasses_over60_img_5.jpg",
+        "description": "The classic lob, or long bob, with face framing layers is a versatile choice that suits almost every face shape. Falling just above the shoulders, this cut provides a sophisticated length that feels modern and fresh for women in their sixties. The face-framing layers are specifically cut to interact with your glasses, ensuring that the hair does not crowd the frames or hide your eyes.",
+        "paragraphs": [
+          "The classic lob, or long bob, with face framing layers is a versatile choice that suits almost every face shape. Falling just above the shoulders, this cut provides a sophisticated length that feels modern and fresh for women in their sixties. The face-framing layers are specifically cut to interact with your glasses, ensuring that the hair does not crowd the frames or hide your eyes.",
+          "This hairstyle is easy to maintain and can be worn sleek and straight or with soft, beachy waves for added texture. For those with gray or thinning hair, a lob provides enough weight to keep the hair looking thick and healthy. It is a reliable style that transitions perfectly from casual daytime looks to more formal evening events."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-6",
+        "title": "6. Voluminous short crop",
+        "image": "/images/doc_glasses_over60_img_6.jpg",
+        "description": "A voluminous short crop\u00a0is perfect for women who enjoy a bit of height and drama in their hairstyle. This look focuses on creating lift at the roots, which helps to balance the visual weight of larger glasses. The sides are kept neatly trimmed, while the top is left long enough to be styled upward or back.",
+        "paragraphs": [
+          "A voluminous short crop\u00a0is perfect for women who enjoy a bit of height and drama in their hairstyle. This look focuses on creating lift at the roots, which helps to balance the visual weight of larger glasses. The sides are kept neatly trimmed, while the top is left long enough to be styled upward or back.",
+          "This creates an open-faced look that makes your eyewear the star of the show. It is an ideal choice for women with naturally thick or curly hair who want to reduce bulk while maintaining a sense of style. Using a volumizing mousse on damp hair before blow-drying will help you achieve the lasting lift needed for this chic and confident hairstyle throughout the day."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-7",
+        "title": "7. Soft curly bob",
+        "image": "/images/doc_glasses_over60_img_7.jpg",
+        "description": "A soft curly bob celebrates natural texture while providing a structured frame for women who wear glasses. The curls add a softness that can counteract the sharp angles of square or rectangular frames. By keeping the length around the chin or slightly above, the curls won\u2019t interfere with the arms of your glasses.",
+        "paragraphs": [
+          "A soft curly bob celebrates natural texture while providing a structured frame for women who wear glasses. The curls add a softness that can counteract the sharp angles of square or rectangular frames. By keeping the length around the chin or slightly above, the curls won\u2019t interfere with the arms of your glasses.",
+          "This cut is designed to distribute volume evenly, avoiding the \u201ctriangle\u201d shape that sometimes occurs with curly hair. For women over 60, embracing natural curls can lead to a much easier styling routine. Using a leave-in conditioner or curl-defining cream will keep the ringlets hydrated and frizz-free. It is a joyful, energetic style that looks wonderful in salt-and-pepper tones or vibrant single-process colors alike."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-8",
+        "title": "8. Straight blunt bob with glasses",
+        "image": "/images/doc_glasses_over60_img_8.jpg",
+        "description": "The straight blunt bob with glasses is a high-fashion choice that offers a clean and minimalist look. This haircut features a sharp, horizontal line at the ends, which provides a striking contrast to rounded or oval eyewear. Because there are no layers, the hair appears thicker and more substantial, making it a great option for fine hair.",
+        "paragraphs": [
+          "The straight blunt bob with glasses is a high-fashion choice that offers a clean and minimalist look. This haircut features a sharp, horizontal line at the ends, which provides a striking contrast to rounded or oval eyewear. Because there are no layers, the hair appears thicker and more substantial, making it a great option for fine hair.",
+          "The hair can be parted down the middle for a symmetrical look or on the side to soften the features. This style requires minimal daily effort, usually just a quick pass with a flat iron to keep the edges crisp. It communicates a sense of professional elegance and confidence that is perfect for the modern woman who wants a no-fuss yet impactful appearance."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-9",
+        "title": "9. Tapered pixie cut",
+        "image": "/images/doc_glasses_over60_img_9.jpg",
+        "description": "A tapered pixie cut offers a neat and tidy silhouette that is exceptionally comfortable for regular glasses wearers. The hair is cut very short around the ears and the nape of the neck, which prevents any rubbing or discomfort from the frames\u2019 arms. The top layers are left slightly longer and tapered to blend into the shorter sections, providing a smooth and elegant transition.",
+        "paragraphs": [
+          "A tapered pixie cut offers a neat and tidy silhouette that is exceptionally comfortable for regular glasses wearers. The hair is cut very short around the ears and the nape of the neck, which prevents any rubbing or discomfort from the frames\u2019 arms. The top layers are left slightly longer and tapered to blend into the shorter sections, providing a smooth and elegant transition.",
+          "This cut highlights the jawline and cheekbones, making it a very flattering choice for women with defined facial features. It is a particularly effective style for showcasing unique or designer eyewear. Maintaining this look is simple, requiring only a small amount of pomade to keep the hair in place and add a healthy-looking shine."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-10",
+        "title": "10. Feathered layers for gray hair",
+        "image": "/images/doc_glasses_over60_img_10.jpg",
+        "description": "Feathered layers for gray hair\u00a0are designed to add lightness and movement to mature hair textures. As hair turns gray, it can sometimes become coarser or more resistant to styling, but feathered cuts work with these changes by removing excess bulk. The layers are cut at an angle to create a soft, wing-like effect that flows away from the face.",
+        "paragraphs": [
+          "Feathered layers for gray hair\u00a0are designed to add lightness and movement to mature hair textures. As hair turns gray, it can sometimes become coarser or more resistant to styling, but feathered cuts work with these changes by removing excess bulk. The layers are cut at an angle to create a soft, wing-like effect that flows away from the face.",
+          "This opening of the face is ideal for women with glasses, as it prevents the hair from casting shadows over the eyes. This style looks best when air-dried with a light texturizing spray or blown out for more formal occasions. It offers a graceful and airy feel that is both age-appropriate and stylish, making it a favorite for many."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-11",
+        "title": "11. Asymmetrical bob with bold frames",
+        "image": "/images/doc_glasses_over60_img_11.jpg",
+        "description": "An asymmetrical bob with bold frames is a fantastic way to show off a creative personality. This cut features one side that is significantly longer than the other, creating a dynamic diagonal line across the face. This asymmetry works beautifully with statement glasses, as it draws the eye and creates visual interest.",
+        "paragraphs": [
+          "An asymmetrical bob with bold frames is a fantastic way to show off a creative personality. This cut features one side that is significantly longer than the other, creating a dynamic diagonal line across the face. This asymmetry works beautifully with statement glasses, as it draws the eye and creates visual interest.",
+          "The shorter side can be tucked behind the ear to further emphasize your frames. This hairstyle is modern and youthful, proving that style has no age limit. It works best on straight hair where the precision of the cut can be clearly seen. Regular maintenance is key to keeping the lines sharp, but the daily styling is relatively quick and straightforward for most women."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-12",
+        "title": "12. Mid length shag with curtain bangs",
+        "image": "/images/doc_glasses_over60_img_12.jpg",
+        "description": "The mid length shag with curtain bangs is a trendy choice that brings a cool, retro vibe to the 2026 hair scene. This haircut is all about layers and texture, providing a lived-in look that is easy to style. Curtain bangs are perfect for glasses because they part in the middle and angle toward the cheekbones, leaving the center of the face clear.",
+        "paragraphs": [
+          "The mid length shag with curtain bangs is a trendy choice that brings a cool, retro vibe to the 2026 hair scene. This haircut is all about layers and texture, providing a lived-in look that is easy to style. Curtain bangs are perfect for glasses because they part in the middle and angle toward the cheekbones, leaving the center of the face clear.",
+          "The shaggy layers throughout the rest of the hair provide a lot of movement and volume, which is great for thinning hair. This style works well with both wire-rimmed and plastic frames. You can enhance the texture by using a sea salt spray and scrunching the hair as it dries for a natural, effortless finish."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-13",
+        "title": "13. Pixie bob with side part",
+        "image": "/images/doc_glasses_over60_img_13.jpg",
+        "description": "A pixie bob with a side part, often called a \u201cbixie,\u201d combines the best elements of a short crop and a classic bob. It offers more length than a traditional pixie but maintains the tapered back and sides that make short hair so easy to wear with glasses. A deep side part creates a flattering sweep of hair that can help to balance a wider forehead or a rounder face shape.",
+        "paragraphs": [
+          "A pixie bob with a side part, often called a \u201cbixie,\u201d combines the best elements of a short crop and a classic bob. It offers more length than a traditional pixie but maintains the tapered back and sides that make short hair so easy to wear with glasses. A deep side part creates a flattering sweep of hair that can help to balance a wider forehead or a rounder face shape.",
+          "This style is sophisticated and works well for professional environments. The length around the temples is kept short enough so it doesn\u2019t get caught in the hinges of your eyewear. It is a balanced look that provides versatility, as it can be styled sleek or tousled."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-14",
+        "title": "14. Long silver hair with soft waves",
+        "image": "/images/doc_glasses_over60_img_14.jpg",
+        "description": "Long silver hair with soft waves proves that women over 60 can absolutely rock longer lengths. The key to making this work with glasses is to ensure the hair is healthy and has enough face-framing layers to prevent it from dragging the face down. Soft waves add volume and a touch of glamour, making the overall look feel intentional and polished.",
+        "paragraphs": [
+          "Long silver hair with soft waves proves that women over 60 can absolutely rock longer lengths. The key to making this work with glasses is to ensure the hair is healthy and has enough face-framing layers to prevent it from dragging the face down. Soft waves add volume and a touch of glamour, making the overall look feel intentional and polished.",
+          "The silver color serves as a beautiful backdrop for any frame color, from classic black to vibrant reds. By keeping the waves concentrated from the chin downward, the top of the hair remains smooth and doesn\u2019t interfere with the fit of your glasses. It is a romantic and elegant style that celebrates natural aging beautifully."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-15",
+        "title": "15. Stacked bob haircut",
+        "image": "/images/doc_glasses_over60_img_15.jpg",
+        "description": "The stacked bob haircut\u00a0is a classic for a reason, especially for those who want to boost their hair\u2019s volume. This cut features shorter, graduated layers at the back that build upon each other to create a rounded shape with lots of lift. The front is typically left longer, angling down toward the chin.",
+        "paragraphs": [
+          "The stacked bob haircut\u00a0is a classic for a reason, especially for those who want to boost their hair\u2019s volume. This cut features shorter, graduated layers at the back that build upon each other to create a rounded shape with lots of lift. The front is typically left longer, angling down toward the chin.",
+          "This angle creates a perfect frame for glasses, drawing attention to the eyes and cheekbones. Because the bulk of the volume is at the back, the sides remain relatively flat, which is ideal for the comfortable placement of glasses. It is a structural cut that looks very professional and stays in place well throughout a busy day with very little maintenance."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-16",
+        "title": "16. Messy pixie cut",
+        "image": "/images/doc_glasses_over60_img_16.jpg",
+        "description": "A messy pixie cut is all about embracing a playful and relaxed aesthetic. This style uses uneven, choppy layers to create a \u201cwoke up like this\u201d look that is actually very strategic. The texture helps to disguise areas where hair might be thinning, making it a practical choice for many women over 60.",
+        "paragraphs": [
+          "A messy pixie cut is all about embracing a playful and relaxed aesthetic. This style uses uneven, choppy layers to create a \u201cwoke up like this\u201d look that is actually very strategic. The texture helps to disguise areas where hair might be thinning, making it a practical choice for many women over 60.",
+          "When wearing glasses, a messy pixie ensures that there are no rigid lines competing with your frames. Instead, the wispy ends soften the overall appearance. This cut is incredibly easy to style; a bit of texturizing paste is usually all you need to define the layers. It is a great option for women with an active lifestyle who want to look fashionable without spending hours in front of a mirror."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       }
     ],
     "faqs": [
       {
-        "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "question": "How do I choose the best haircut for hairstyles for women with glasses over 60 to save?",
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
-        "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
-      },
-      {
-        "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "question": "How often should I trim this hairstyle?",
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
-    "items": [
+    "sections": [
       {
-        "number": 1,
-        "title": "Ash Blonde Balayage On Long Layers",
-        "image": "/images/doc62_img_1.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Cool, smoky ash blonde balayage This style gives you an effortless, flattering look that is easy to maintain every day.",
-          "Pairing Ash Blonde Balayage On Long Layers with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 2,
-        "title": "Honey Blonde Highlights On Layered Hair",
-        "image": "/images/doc62_img_2.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Warm honey blonde highlights are ideal if you want bright, sun-kissed hair that still looks soft and natural on long layers.",
-          "This shade sits between golden and caramel, so it flatters many skin tones without looking too yellow or too dark.",
-          "On a light brown or dark blonde base, your colorist can weave medium-thickness foils and a few hand-painted pieces through the top layers and around the face to mimic the way the sun naturally lightens hair.",
-          "The layers help the honey tones catch the light with every move, creating a glowy, beachy effect.",
-          "To keep the color shiny, use a hydrating, sulfate-free shampoo, apply a lightweight hair oil to the ends, and ask for a gloss between highlight sessions to refresh warmth and shine.",
-          "Pairing Honey Blonde Highlights On Layered Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 3,
-        "title": "Chocolate Brown With Caramel Balayage",
-        "image": "/images/doc62_img_3.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Rich chocolate brown with caramel balayage is a perfect match for long layered hair if you want depth at the roots and brightness through the lengths.",
-          "The deep brunette base gives your hair a fuller, healthier appearance, while the caramel pieces painted over the surface of your layers add movement and dimension.",
-          "This look is great if you like to curl or wave your hair, because every bend shows off a new ribbon of color.",
-          "Ask your stylist to keep the brightest caramel around your face and on the outermost layers, leaving some darker pieces underneath for contrast.",
-          "Maintain the richness of the brown with a color-depositing conditioner and protect your caramel ends from dryness with weekly masks and heat protectant before styling.",
-          "Pairing Chocolate Brown With Caramel Balayage with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 4,
-        "title": "Soft Copper On Long Layered Hair",
-        "image": "/images/doc62_img_4.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Soft copper is a beautiful choice if you want your long layered hair to feel warm, vibrant, and eye-catching without veering into neon or overly bright orange.",
-          "This shade sits between natural red and golden copper, so it can look surprisingly wearable on many skin tones.",
-          "On a layered cut, the color reflects differently on each length, making the hair look glossy and multidimensional even when it\u2019s a single all-over shade.",
-          "You can pair it with subtle face-framing layers or curtain bangs to highlight your eyes and cheekbones.",
-          "Copper shades can fade faster, so plan for regular glosses or toner appointments, use a color-safe shampoo, and avoid very hot water in the shower to keep your color rich and your ends smooth.",
-          "Pairing Soft Copper On Long Layered Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 5,
-        "title": "Caramel Face Framing On Long Layers",
-        "image": "/images/doc62_img_5.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "If you want a subtle change that still brightens your features, caramel face framing on long layered hair is a great option.",
-          "This look focuses lighter caramel pieces around the front hairline and through the shortest layers near your face, while keeping the rest of your hair close to your natural shade.",
-          "It works especially well on medium to dark brunettes, where the warm caramel creates a soft contrast that lifts your complexion.",
-          "Because most of your length stays darker, maintenance is easier and damage is minimal.",
-          "Ask your colorist for a delicate money piece and a few scattered highlights on the top layers.",
-          "Use a shine serum on dry hair to make those front pieces pop, and avoid overusing hot tools on the fragile, lighter sections.",
-          "Pairing Caramel Face Framing On Long Layers with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 6,
-        "title": "Dimensional Brunette With Subtle Highlights",
-        "image": "/images/doc62_img_6.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Dimensional brunette with subtle highlights is perfect if you want your long layered hair to look rich, glossy, and natural rather than obviously colored.",
-          "Instead of chunky foils, your colorist will add fine, barely-there highlights just a shade or two lighter than your base, focusing on the mid-lengths and ends.",
-          "On layered hair, this technique keeps your roots deep and healthy-looking while giving the appearance of natural sun exposure on the outer layers.",
-          "It\u2019s especially flattering if you wear your hair straight or with a gentle wave, since the dimension catches the light as you move.",
-          "To maintain the depth and shine, use a sulfate-free shampoo, avoid clarifying products too often, and ask for a clear or tinted gloss gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Dimensional Brunette With Subtle Highlights with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 7,
-        "title": "Platinum Ends Ombre On Long Layered Hair",
-        "image": "/images/doc62_img_7.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Platinum ends ombre on long layered hair gives you a high-impact, fashion-forward look while still leaving your roots darker and easier to maintain.",
-          "The color melts from your natural or slightly darkened base into very bright, cool-toned blonde at the mid-lengths and ends.",
-          "Long layers make this transition look soft and blended rather than blocky, especially when styled in waves or curls.",
-          "This choice is best if you\u2019re ready to commit to extra care, because platinum ends need strong bond treatments, moisturizing masks, and regular trims to prevent breakage.",
-          "Ask your stylist to keep some slightly darker strands mixed into the light ends so the overall result feels dimensional instead of flat.",
-          "Always use heat protectant and minimize hot tool use to protect those lightened layers.",
-          "Pairing Platinum Ends Ombre On Long Layered Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 8,
-        "title": "Rose Gold Long Layered Hair",
-        "image": "/images/doc62_img_8.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Rose gold is an amazing way to make long layered hair look romantic and trendy at the same time.",
-          "This shade mixes warm blonde and soft pink tones, creating a flattering glow that suits many skin tones, especially neutral and warm undertones.",
-          "On layered hair, the pinkish light reflects differently on each level, so the color looks multi-tonal even if it\u2019s applied as a full gloss.",
-          "You can go more subtle with a rosy blonde tint over an existing light base, or more bold with a stronger peachy-pink hue.",
-          "Because pink pigments can fade quickly, plan for regular toning appointments or at-home color-depositing masks.",
-          "Use gentle, color-safe products and avoid chlorine, which can distort the rosy tone and dry out your ends.",
-          "Pairing Rose Gold Long Layered Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 9,
-        "title": "Burgundy Balayage On Long Layers",
-        "image": "/images/doc62_img_9.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Burgundy balayage is perfect if you love darker hair but still want a bold twist that stands out on your long layers.",
-          "This deep, wine-inspired shade mixes red and violet tones, so it looks rich and dimensional instead of flat.",
-          "Your colorist can paint burgundy through the mid-lengths and ends, keeping your natural or slightly deepened root for easier upkeep.",
-          "On layered hair, this placement makes every turn show flashes of color without being overwhelming.",
-          "It looks especially striking on waves or curls, where the color ribbons through each layer.",
-          "Because red-based pigments can fade, use shampoo and conditioner made for colored hair, limit washing to a few times a week, and refresh the tone with glosses or color masks when it starts to look dull.",
-          "Pairing Burgundy Balayage On Long Layers with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 10,
-        "title": "Chestnut Brown With Golden Highlights",
-        "image": "/images/doc62_img_10.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Chestnut brown with golden highlights is a classic choice that makes long layered hair look warm, healthy, and shiny.",
-          "The chestnut base has both red and golden undertones, so it already looks dimensional before highlights are added.",
-          "Your colorist can then weave fine golden pieces through the upper layers and around the face, concentrating brightness where the light naturally hits.",
-          "This combination flatters many skin tones and works well with both straight and wavy styling.",
-          "The long layers help the gold pieces scatter and blend, so the color looks soft rather than streaky.",
-          "To keep the chestnut from going brassy, use products formulated for brunette hair, avoid excessive sun exposure without UV protection, and add a weekly deep conditioner to combat dryness on highlighted ends.",
-          "Pairing Chestnut Brown With Golden Highlights with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 11,
-        "title": "Soft Balayage On Dark Layered Hair",
-        "image": "/images/doc62_img_11.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Soft balayage on dark layered hair is a great choice if you want brightness and dimension without losing your natural depth.",
-          "Instead of heavy foils, your colorist will hand-paint lighter tones\u2014like warm caramel, toffee, or soft mocha\u2014through the mid-lengths and ends of your layers.",
-          "The result is a gentle, sun-kissed transition that pairs beautifully with long cuts, because the color concentrates where the hair moves the most.",
-          "This look grows out gracefully, making it ideal if you prefer low-maintenance color that still feels special.",
-          "Be sure to ask your stylist to focus on the outermost layers and a few face-framing pieces for maximum impact.",
-          "Maintain your balayage with sulfate-free shampoo, occasional toning treatments if needed, and nourishing masks to keep those painted ends smooth.",
-          "Pairing Soft Balayage On Dark Layered Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 12,
-        "title": "Cool Brown Long Layered Hair",
-        "image": "/images/doc62_img_12.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Cool brown long layered hair is perfect if you dislike warmth or brass and want a sleek, sophisticated color that looks almost reflective.",
-          "This shade leans ash or neutral rather than red or golden, which can be especially flattering for cooler skin tones.",
-          "On a long layered cut, the cool brown appears multi-dimensional when combined with subtle lowlights or a gloss that deepens the tone near the roots.",
-          "This approach adds the illusion of thickness and movement without obvious highlights.",
-          "To keep your cool brown from shifting warm, use a blue or green-based toning shampoo occasionally, depending on your undertones, and avoid very hot water in the shower.",
-          "Regular glosses can refresh the cool tone, while lightweight oils keep the ends of your layers shiny, not greasy.",
-          "Pairing Cool Brown Long Layered Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 13,
-        "title": "Strawberry Blonde On Long Layers",
-        "image": "/images/doc62_img_13.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Strawberry blonde on long layers creates a soft, romantic look that blends light copper and warm blonde tones.",
-          "It\u2019s a great choice if you want something lighter than classic red but richer than standard blonde.",
-          "On layered hair, the mix of warm hues reflects beautifully, especially when styled in loose waves or soft curls.",
-          "You can choose a more golden strawberry blonde or one that leans slightly pinker, depending on your skin tone and how bold you prefer your color.",
-          "Because this shade relies heavily on warm pigments, it will need maintenance to stay bright and not fade too neutral.",
-          "Use color-safe, hydrating products, limit washing, and consider a color-depositing mask in the strawberry family to refresh the tone between salon visits.",
-          "Pairing Strawberry Blonde On Long Layers with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 14,
-        "title": "Espresso Brown With Subtle Balayage",
-        "image": "/images/doc62_img_14.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Espresso brown with subtle balayage is ideal if you love deep, dark hair but still want a hint of light and movement in your long layers.",
-          "The base is a rich, nearly-black brown that makes hair look thick and glossy.",
-          "Your colorist can then paint very soft, barely-there lighter brown or neutral highlights through the mid-lengths and ends, often just one to two shades lighter than the base.",
-          "This gives the illusion of natural sun lightening when your hair moves, especially on the outer layers.",
-          "Because the contrast is small, the look stays sophisticated and low-key.",
-          "To maintain the inky depth, use color-safe products, avoid over-washing, and ask for an occasional gloss to boost shine and neutralize any unwanted warmth that might develop.",
-          "Pairing Espresso Brown With Subtle Balayage with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 15,
-        "title": "Silver Blonde On Long Layered Hair",
-        "image": "/images/doc62_img_15.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Silver blonde on long layered hair is a striking choice if you love cool, futuristic tones and aren\u2019t afraid of a little maintenance.",
-          "This color sits between bright platinum and soft gray, giving your layers a luminous, metallic effect that looks stunning in both straight and wavy styles.",
-          "Achieving this shade usually requires significant lightening, so it\u2019s best if your hair is already lighter or very healthy.",
-          "Long layers help the silver appear dimensional rather than flat, especially if your stylist leaves a hint of slightly deeper blonde in some strands.",
-          "To keep brass away, use a purple shampoo and conditioner regularly, and protect your color from heat and sun with dedicated products.",
-          "Deep conditioning masks and bond-repair treatments are essential to keep your ends smooth and strong.",
-          "Pairing Silver Blonde On Long Layered Hair with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 16,
-        "title": "Face Framing Blonde On Long Layers",
-        "image": "/images/doc62_img_16.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Face framing blonde on long layers focuses brightness exactly where it has the most impact\u2014around your face and through the shortest front pieces.",
-          "This look can range from soft, blended blonde two shades lighter than your base to a bolder, higher-contrast money piece.",
-          "It works well for brunettes, dark blondes, and even redheads, since the main length of your hair can stay closer to your natural shade while the front feels transformed.",
-          "On long layered cuts, these lighter sections instantly highlight your eyes and cheekbones and make ponytails or half-up styles look more polished.",
-          "Because these pieces are often processed more, they need extra care: use heat protectant, limit hot tools, and add a weekly mask focusing on the front and mid-lengths.",
-          "Pairing Face Framing Blonde On Long Layers with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
+        "id": "section-guide",
+        "title": "Style Guide & Selection",
+        "content": "Selecting a 15+ hairstyles for women with glasses over 60 to save is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ],
-    "introParagraphs": [
-      "15+ Hairstyles for Women with Glasses over 60 to Save is one of 2026's top hair trends for glasses wearers and face-contouring.",
-      "Finding the right balance between your cut and eyewear creates effortless style.",
-      "Here are the top ideas to save."
     ]
   },
   {
     "id": "gray-hairstyles-for-women-with-glasses-to-inspire-you",
-    "slug": "gray-hairstyles-for-women-with-glasses-to-inspire-you",
     "title": "16+ Gray Hairstyles for Women with Glasses to Inspire You",
+    "slug": "gray-hairstyles-for-women-with-glasses-to-inspire-you",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc61_cover_collage.jpg",
-    "readTime": "8 min read",
     "date": "August 29, 2026",
-    "isFeatured": true,
-    "isTrending": true,
-    "intro": "16+ Gray Hairstyles for Women with Glasses to Inspire You is one of 2026's top hair trends for glasses wearers and face-contouring. Finding the right balance between your cut and eyewear creates effortless style. Here are the top ideas to save.",
-    "extraSections": [
+    "author": "Trend Haircuts Team",
+    "readTime": "7 min read",
+    "image": "/images/doc_glasses_gray_cover.jpg",
+    "description": "Explore 16+ Gray Hairstyles for Women with Glasses to Inspire You. Find flattering cuts, styling advice, and inspirational hair transformations.",
+    "introParagraphs": [
+      "Embracing a silver mane is a powerful style statement in 2026, especially when paired with the right eyewear to create a cohesive look. Choosing a hairstyle that complements your glasses involves balancing the weight of your frames with the texture and volume of your hair. Many women find that transitioning to natural gray opens up a vibrant new palette of cool tones that make metallic or jewel-toned frames pop. Whether you prefer a sharp, modern bob or a soft, feathered pixie, the goal is to highlight your facial features while keeping your glasses as a functional accessory. This guide explores the most flattering gray hairstyles designed to work in harmony with various frame shapes and personal styles."
+    ],
+    "items": [
       {
-        "id": "section-why-glasses-doc61",
-        "title": "How to Pair Your Hairstyle with Face Shapes & Glasses Frames",
-        "content": "Choosing a haircut that flatters both your face geometry and eyeglass frames creates instant harmony. Soft curtain bangs balance angular square frames, while layered lobs add vertical length for round face shapes.",
-        "stats": [
-          {
-            "val": "100%",
-            "label": "Frame Compatibility"
-          },
-          {
-            "val": "Custom",
-            "label": "Face Contour Balance"
-          },
-          {
-            "val": "All Glasses",
-            "label": "Cat-Eye, Round & Square"
-          }
-        ]
+        "id": "item-1",
+        "title": "1. Silver Pixie With Tapered Sides",
+        "image": "/images/doc_glasses_gray_img_1.jpg",
+        "description": "A silver pixie with tapered sides is an excellent choice for women who wear bold or oversized glasses. By keeping the hair short around the ears and temples, you ensure that the arms of your frames sit comfortably against your head without creating bulk.",
+        "paragraphs": [
+          "A silver pixie with tapered sides is an excellent choice for women who wear bold or oversized glasses. By keeping the hair short around the ears and temples, you ensure that the arms of your frames sit comfortably against your head without creating bulk.",
+          "The silver tones provide a bright, clean backdrop that makes dark or colorful frames stand out as a central feature. This low-maintenance cut is perfect for highlighting your bone structure and keeping the focus on your eyes. It offers a sophisticated, professional vibe while being incredibly easy to style every morning with just a bit of texturizing cream."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       },
       {
-        "id": "section-masterclass-glasses-doc61",
-        "title": "Stylist Masterclass: Pairing Haircuts with Eyeglass Frames",
-        "steps": [
-          "Assess Frame Width vs cheekbones: Ensure side layers clear your spectacle arms to prevent hair flaring.",
-          "Soften Bold Frames with Wispy Fringe: Soft wispy or curtain bangs break up heavy dark frames.",
-          "Add Top Volume for Round & Oval Faces: Elevate roots at the crown to elongate facial geometry.",
-          "Use Anti-Frizz Serum Around Temples: Smooth flyaways around ears where glasses arms sit."
-        ]
+        "id": "item-2",
+        "title": "2. Gray Bob With Wispy Layers",
+        "image": "/images/doc_glasses_gray_img_2.jpg",
+        "description": "Opting for a gray bob with wispy layers creates a soft, feminine frame around your face that balances the linear look of rectangular glasses. The light layers add necessary movement and volume, preventing the gray hair from looking flat or dull against the skin.",
+        "paragraphs": [
+          "Opting for a gray bob with wispy layers creates a soft, feminine frame around your face that balances the linear look of rectangular glasses. The light layers add necessary movement and volume, preventing the gray hair from looking flat or dull against the skin.",
+          "This hairstyle is particularly effective for those with fine hair, as the layering builds an illusion of thickness and bounce. When paired with glasses, the wispy ends should ideally graze the jawline to draw the eye upward toward your frames. It is a timeless look that transitions perfectly from a casual daytime outing to a more formal evening event."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-3",
+        "title": "3. Silver Inverted Bob",
+        "image": "/images/doc_glasses_gray_img_3.jpg",
+        "description": "The silver inverted bob\u00a0is a striking, fashion-forward haircut that features a shorter back and longer, angled front pieces. This geometry works wonders for women with glasses because the forward-slanting layers frame the lenses without covering them.",
+        "paragraphs": [
+          "The silver inverted bob\u00a0is a striking, fashion-forward haircut that features a shorter back and longer, angled front pieces. This geometry works wonders for women with glasses because the forward-slanting layers frame the lenses without covering them.",
+          "The icy silver hue adds a metallic shine that looks incredibly chic when paired with clear or translucent frames. Because the volume is concentrated at the crown, it provides a natural lift that complements the upward sweep of cat-eye glasses. This style is highly versatile, allowing you to wear it sleek and straight or with a slight wave for added texture and personality."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-4",
+        "title": "4. Salt And Pepper Shag",
+        "image": "/images/doc_glasses_gray_img_4.jpg",
+        "description": "A salt and pepper shag is a trendy, retro-inspired choice that brings a sense of effortless cool to your daily look. This haircut uses choppy layers and a lot of texture to create a voluminous silhouette that pairs well with thick, horn-rimmed glasses.",
+        "paragraphs": [
+          "A salt and pepper shag is a trendy, retro-inspired choice that brings a sense of effortless cool to your daily look. This haircut uses choppy layers and a lot of texture to create a voluminous silhouette that pairs well with thick, horn-rimmed glasses.",
+          "The mix of dark and light gray tones provides natural depth, making the hair appear thicker and more dynamic. Shags are ideal for women who want a bit of edge without sacrificing the softness of a face-framing cut. The messy, lived-in feel of the layers ensures that your glasses never look too \u201cdone\u201d or overly formal, maintaining a relaxed aesthetic."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-5",
+        "title": "5. Short Silver Textured Crop",
+        "image": "/images/doc_glasses_gray_img_5.jpg",
+        "description": "Choosing a short silver textured crop\u00a0is a smart move for women who prefer a sporty and active lifestyle. The hair is cut close to the head with piecey layers on top that can be tousled for a modern, edgy finish.",
+        "paragraphs": [
+          "Choosing a short silver textured crop\u00a0is a smart move for women who prefer a sporty and active lifestyle. The hair is cut close to the head with piecey layers on top that can be tousled for a modern, edgy finish.",
+          "This style works exceptionally well with round or oval glasses, as the vertical texture on top helps elongate the face. The bright silver color acts like a natural highlighter, brightening your complexion and making your eyes sparkle behind your lenses. It is a wash-and-go style that requires very little upkeep, making it perfect for the woman who wants to look stylish with minimal effort."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-6",
+        "title": "6. Gray Lob With Curtain Bangs",
+        "image": "/images/doc_glasses_gray_img_6.jpg",
+        "description": "The gray lob with curtain bangs is a sophisticated medium-length option that offers incredible styling flexibility for those who wear glasses. Curtain bangs are particularly useful because they part in the middle, framing your glasses on either side rather than hanging over the top of the frames.",
+        "paragraphs": [
+          "The gray lob with curtain bangs is a sophisticated medium-length option that offers incredible styling flexibility for those who wear glasses. Curtain bangs are particularly useful because they part in the middle, framing your glasses on either side rather than hanging over the top of the frames.",
+          "This prevents your eyewear from getting lost in a heavy fringe while still providing a soft, face-framing effect. The shoulder-grazing length of the lob is flattering for almost all face shapes and looks beautiful with natural silver waves. This combination creates a balanced, harmonious look that feels both contemporary and classic for women of any age."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-7",
+        "title": "7. Wavy Silver Pixie Bob",
+        "image": "/images/doc_glasses_gray_img_7.jpg",
+        "description": "A wavy silver pixie bob, often called a \u201cbixie,\u201d combines the length of a bob with the feathered texture of a pixie. This hybrid style is perfect for women who have natural waves or curls\u00a0and want to showcase them alongside their glasses.",
+        "paragraphs": [
+          "A wavy silver pixie bob, often called a \u201cbixie,\u201d combines the length of a bob with the feathered texture of a pixie. This hybrid style is perfect for women who have natural waves or curls\u00a0and want to showcase them alongside their glasses.",
+          "The waves add a soft, romantic touch that tempers the professional look of wire-rimmed or metallic frames. By keeping the sides slightly shorter, you avoid the common issue of hair getting caught in the hinges of your glasses. The silver tones catch the light beautifully within the curls, creating a multidimensional look that appears healthy, vibrant, and full of natural life."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-8",
+        "title": "8. Classic Silver Pageboy Cut",
+        "image": "/images/doc_glasses_gray_img_8.jpg",
+        "description": "The classic silver pageboy cut\u00a0is a structured, vintage-inspired hairstyle that features a rounded shape and soft, turned-under ends. This style provides a very clean and polished frame for your face, making it a natural companion for simple, elegant eyewear.",
+        "paragraphs": [
+          "The classic silver pageboy cut\u00a0is a structured, vintage-inspired hairstyle that features a rounded shape and soft, turned-under ends. This style provides a very clean and polished frame for your face, making it a natural companion for simple, elegant eyewear.",
+          "The smooth surface of the silver hair reflects a great deal of light, giving the style a healthy, lustrous glow that can sometimes be lost in graying hair. Because the cut is so defined, it works best with glasses that have clean lines and minimal ornamentation. It is an excellent choice for women who appreciate a sophisticated, mid-century aesthetic that remains thoroughly modern."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-9",
+        "title": "9. Layered Silver Shoulder Cut",
+        "image": "/images/doc_glasses_gray_img_9.jpg",
+        "description": "A layered silver shoulder cut is a go-to for women who want to maintain some length while embracing their natural gray transition. The layers are strategically placed to remove weight from the bottom, ensuring that the hair doesn\u2019t look heavy or drag down your features.",
+        "paragraphs": [
+          "A layered silver shoulder cut is a go-to for women who want to maintain some length while embracing their natural gray transition. The layers are strategically placed to remove weight from the bottom, ensuring that the hair doesn\u2019t look heavy or drag down your features.",
+          "This airiness is key when wearing glasses, as it keeps the overall look feeling light and refreshed. The silver color can be enhanced with subtle violet-toned shampoos to keep the \u201cicy\u201d look crisp and prevent any yellowing. This length is also long enough to pull back into a low ponytail or bun on days when you want a different look."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-10",
+        "title": "10. Silver Pixie With Side Bangs",
+        "image": "/images/doc_glasses_gray_img_10.jpg",
+        "description": "The silver pixie with side bangs is a classic for a reason; it is incredibly flattering and practical for everyday wear. The side-swept fringe adds a touch of mystery and softness, gracefully skimming the top of your eyeglass frames.",
+        "paragraphs": [
+          "The silver pixie with side bangs is a classic for a reason; it is incredibly flattering and practical for everyday wear. The side-swept fringe adds a touch of mystery and softness, gracefully skimming the top of your eyeglass frames.",
+          "This helps to integrate the glasses into your overall hairstyle rather than having them sit on top of it. The short, tapered back keeps the neck cool and creates a clean silhouette that looks great from every angle. This haircut is especially effective for highlighting the cheekbones and eyes, making it a favorite for women who want a bold yet manageable silver style."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-11",
+        "title": "11. Choppy Gray Midi Cut",
+        "image": "/images/doc_glasses_gray_img_11.jpg",
+        "description": "A choppy gray midi cut offers a modern, deconstructed look that is perfect for women who enjoy a bit of \u201crock and roll\u201d in their style. The uneven ends and varied layer lengths create a lot of visual interest, which balances well with colorful or artistic eyeglass frames.",
+        "paragraphs": [
+          "A choppy gray midi cut offers a modern, deconstructed look that is perfect for women who enjoy a bit of \u201crock and roll\u201d in their style. The uneven ends and varied layer lengths create a lot of visual interest, which balances well with colorful or artistic eyeglass frames.",
+          "This style thrives on texture, so using a sea salt spray or a light pomade can help define the individual pieces. The salt and pepper or pure silver tones look intentional and high-fashion when paired with this edgy cut. It is a great way to prove that gray hair is anything but boring or traditional when styled correctly."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-12",
+        "title": "12. Sleek Silver Blunt Bob",
+        "image": "/images/doc_glasses_gray_img_12.jpg",
+        "description": "The sleek silver blunt bob is the ultimate choice for a woman who loves a crisp, minimalist aesthetic. With its sharp, horizontal baseline, this haircut creates a strong foundation that looks stunning with geometric or architectural eyeglass frames.",
+        "paragraphs": [
+          "The sleek silver blunt bob is the ultimate choice for a woman who loves a crisp, minimalist aesthetic. With its sharp, horizontal baseline, this haircut creates a strong foundation that looks stunning with geometric or architectural eyeglass frames.",
+          "The uniform length of the silver hair provides a solid block of color that acts as a powerful style statement on its own. Keeping the hair perfectly straight with a flat iron enhances the shine and emphasizes the precision of the cut. This look is incredibly sophisticated and projects a sense of confidence and authority, making it a popular choice for professional women in 2026."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-13",
+        "title": "13. Feathered Silver Long Pixie",
+        "image": "/images/doc_glasses_gray_img_13.jpg",
+        "description": "A feathered silver long pixie offers more length and volume than a traditional pixie, providing a softer and more versatile silhouette. The \u201cfeathers\u201d are achieved through point-cutting, which creates light, airy tips that dance around your glasses and temples.",
+        "paragraphs": [
+          "A feathered silver long pixie offers more length and volume than a traditional pixie, providing a softer and more versatile silhouette. The \u201cfeathers\u201d are achieved through point-cutting, which creates light, airy tips that dance around your glasses and temples.",
+          "This prevents the hair from looking stagnant and adds a youthful energy to the face. The longer length on top allows for various styling options, such as brushing it back for a sleek look or forward for a more casual vibe. This hairstyle is particularly forgiving for those transitioning from colored hair to their natural silver, as the layers blend the different tones."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-14",
+        "title": "14. Silver Shag With Bottleneck Bangs",
+        "image": "/images/doc_glasses_gray_img_14.jpg",
+        "description": "Combining a silver shag with bottleneck bangs\u00a0creates a trendy, 70s-inspired look that is surprisingly functional for women with glasses. Bottleneck bangs are narrower at the top and wider at the cheekbones, providing a perfect \u201cwindow\u201d for your eyeglass frames to sit in.",
+        "paragraphs": [
+          "Combining a silver shag with bottleneck bangs\u00a0creates a trendy, 70s-inspired look that is surprisingly functional for women with glasses. Bottleneck bangs are narrower at the top and wider at the cheekbones, providing a perfect \u201cwindow\u201d for your eyeglass frames to sit in.",
+          "This prevents the bangs from crowding your vision or getting tucked awkwardly behind your lenses. The shaggy layers throughout the rest of the hair provide plenty of volume and a carefree attitude. This style works best with a bit of natural texture, allowing the silver highlights and dark lowlights to play off each other for a multidimensional, thick-haired appearance."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-15",
+        "title": "15. Asymmetrical Silver Bob",
+        "image": "/images/doc_glasses_gray_img_15.jpg",
+        "description": "The asymmetrical silver bob features one side that is notably longer than the other, creating a dynamic and interesting visual line. This unevenness is a great way to distract from facial asymmetries and draws a lot of attention to your eyes and glasses.",
+        "paragraphs": [
+          "The asymmetrical silver bob features one side that is notably longer than the other, creating a dynamic and interesting visual line. This unevenness is a great way to distract from facial asymmetries and draws a lot of attention to your eyes and glasses.",
+          "Because one side is shorter, it often leaves the ear exposed, which is a perfect spot to showcase the arms of your favorite frames. The silver color adds a high-tech, modern feel to the unconventional shape of the cut. It is a bold choice that shows off your personality and proves that you are not afraid to experiment with your look."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-16",
+        "title": "16. Spiky Silver Pixie Cut",
+        "image": "/images/doc_glasses_gray_img_16.jpg",
+        "description": "A spiky silver pixie cut\u00a0is all about height and texture, making it an excellent option for women who want to add some verticality to their appearance. By styling the top layers upward, you draw the eye toward the crown of the head, which can help slim the face.",
+        "paragraphs": [
+          "A spiky silver pixie cut\u00a0is all about height and texture, making it an excellent option for women who want to add some verticality to their appearance. By styling the top layers upward, you draw the eye toward the crown of the head, which can help slim the face.",
+          "This vertical interest balances out wide or heavy eyeglass frames, ensuring the glasses don\u2019t overwhelm your features. The silver or white tones look particularly striking when styled into spikes, as the light hits the hair from multiple angles. It is a fun, energetic style that requires only a few minutes and a strong-hold gel to achieve."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-17",
+        "title": "17. Rounded Silver Wedge Cut",
+        "image": "/images/doc_glasses_gray_img_17.jpg",
+        "description": "The rounded silver wedge cut is a classic short hairstyle that features a lot of volume at the back and sides, tapering down toward the neck. This shape provides a very soft and approachable look that complements round or oval glasses beautifully.",
+        "paragraphs": [
+          "The rounded silver wedge cut is a classic short hairstyle that features a lot of volume at the back and sides, tapering down toward the neck. This shape provides a very soft and approachable look that complements round or oval glasses beautifully.",
+          "The silver color gives the \u201cwedge\u201d a luminous, cloud-like quality that is very flattering for mature skin tones. Because the hair is tucked neatly around the ears, your glasses will always sit perfectly and comfortably. This is a very elegant and tidy hairstyle that works well for women who prefer a more traditional but still fresh and bright silver look."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-18",
+        "title": "18. Silver Lob With Side Part",
+        "image": "/images/doc_glasses_gray_img_18.jpg",
+        "description": "A silver lob with a deep side part is a glamorous and easy-to-wear style that works for any hair texture. By parting the hair to one side, you create a sweeping wave that frames your glasses and adds a touch of classic Hollywood charm.",
+        "paragraphs": [
+          "A silver lob with a deep side part is a glamorous and easy-to-wear style that works for any hair texture. By parting the hair to one side, you create a sweeping wave that frames your glasses and adds a touch of classic Hollywood charm.",
+          "This asymmetry is very flattering and helps to soften the lines of square or angular eyeglass frames. The shoulder-length \u201clob\u201d provides enough weight to keep the hair from frizzing, which is a common concern with gray hair textures. It is a polished and refined look that highlights the natural beauty of silver hair while keeping the face open and bright."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       }
     ],
     "faqs": [
       {
-        "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "question": "How do I choose the best haircut for gray hairstyles for women with glasses to inspire you?",
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
-        "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
-      },
-      {
-        "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "question": "How often should I trim this hairstyle?",
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
-    "items": [
+    "sections": [
       {
-        "number": 1,
-        "title": "Silver Pixie With Tapered Sides",
-        "image": "/images/doc61_img_1.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A silver pixie with tapered sides is an excellent choice for women who wear bold or oversized glasses.",
-          "By keeping the hair short around the ears and temples, you ensure that the arms of your frames sit comfortably against your head without creating bulk.",
-          "The silver tones provide a bright, clean backdrop that makes dark or colorful frames stand out as a central feature.",
-          "This low-maintenance cut is perfect for highlighting your bone structure and keeping the focus on your eyes.",
-          "It offers a sophisticated, professional vibe while being incredibly easy to style every morning with just a bit of texturizing cream.",
-          "Pairing Silver Pixie With Tapered Sides with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 2,
-        "title": "Gray Bob With Wispy Layers",
-        "image": "/images/doc61_img_2.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Opting for a gray bob with wispy layers creates a soft, feminine frame around your face that balances the linear look of rectangular glasses.",
-          "The light layers add necessary movement and volume, preventing the gray hair from looking flat or dull against the skin.",
-          "This hairstyle is particularly effective for those with fine hair, as the layering builds an illusion of thickness and bounce.",
-          "When paired with glasses, the wispy ends should ideally graze the jawline to draw the eye upward toward your frames.",
-          "It is a timeless look that transitions perfectly from a casual daytime outing to a more formal evening event.",
-          "Pairing Gray Bob With Wispy Layers with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 3,
-        "title": "Silver Inverted Bob",
-        "image": "/images/doc61_img_3.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The silver inverted bob This style gives you an effortless, flattering look that is easy to maintain every day.",
-          "Pairing Silver Inverted Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 4,
-        "title": "Salt And Pepper Shag",
-        "image": "/images/doc61_img_4.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A salt and pepper shag is a trendy, retro-inspired choice that brings a sense of effortless cool to your daily look.",
-          "This haircut uses choppy layers and a lot of texture to create a voluminous silhouette that pairs well with thick, horn-rimmed glasses.",
-          "The mix of dark and light gray tones provides natural depth, making the hair appear thicker and more dynamic.",
-          "Shags are ideal for women who want a bit of edge without sacrificing the softness of a face-framing cut.",
-          "The messy, lived-in feel of the layers ensures that your glasses never look too \u201cdone\u201d or overly formal, maintaining a relaxed aesthetic.",
-          "Pairing Salt And Pepper Shag with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 5,
-        "title": "Short Silver Textured Crop",
-        "image": "/images/doc61_img_5.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Choosing a short silver textured crop This style gives you an effortless, flattering look that is easy to maintain every day.",
-          "Pairing Short Silver Textured Crop with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 6,
-        "title": "Gray Lob With Curtain Bangs",
-        "image": "/images/doc61_img_6.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The gray lob with curtain bangs is a sophisticated medium-length option that offers incredible styling flexibility for those who wear glasses.",
-          "Curtain bangs are particularly useful because they part in the middle, framing your glasses on either side rather than hanging over the top of the frames.",
-          "This prevents your eyewear from getting lost in a heavy fringe while still providing a soft, face-framing effect.",
-          "The shoulder-grazing length of the lob is flattering for almost all face shapes and looks beautiful with natural silver waves.",
-          "This combination creates a balanced, harmonious look that feels both contemporary and classic for women of any age.",
-          "Pairing Gray Lob With Curtain Bangs with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 7,
-        "title": "Wavy Silver Pixie Bob",
-        "image": "/images/doc61_img_7.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A wavy silver pixie bob, often called a \u201cbixie,\u201d combines the length of a bob with the feathered texture of a pixie.",
-          "This hybrid style is perfect for women who have natural waves or curls gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Wavy Silver Pixie Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 8,
-        "title": "Classic Silver Pageboy Cut",
-        "image": "/images/doc61_img_8.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The classic silver pageboy cut This style gives you an effortless, flattering look that is easy to maintain every day.",
-          "Pairing Classic Silver Pageboy Cut with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 9,
-        "title": "Layered Silver Shoulder Cut",
-        "image": "/images/doc61_img_9.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A layered silver shoulder cut is a go-to for women who want to maintain some length while embracing their natural gray transition.",
-          "The layers are strategically placed to remove weight from the bottom, ensuring that the hair doesn\u2019t look heavy or drag down your features.",
-          "This airiness is key when wearing glasses, as it keeps the overall look feeling light and refreshed.",
-          "The silver color can be enhanced with subtle violet-toned shampoos to keep the \u201cicy\u201d look crisp and prevent any yellowing.",
-          "This length is also long enough to pull back into a low ponytail or bun on days when you want a different look.",
-          "Pairing Layered Silver Shoulder Cut with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 10,
-        "title": "Silver Pixie With Side Bangs",
-        "image": "/images/doc61_img_10.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The silver pixie with side bangs is a classic for a reason; it is incredibly flattering and practical for everyday wear.",
-          "The side-swept fringe adds a touch of mystery and softness, gracefully skimming the top of your eyeglass frames.",
-          "This helps to integrate the glasses into your overall hairstyle rather than having them sit on top of it.",
-          "The short, tapered back keeps the neck cool and creates a clean silhouette that looks great from every angle.",
-          "This haircut is especially effective for highlighting the cheekbones and eyes, making it a favorite for women who want a bold yet manageable silver style.",
-          "Pairing Silver Pixie With Side Bangs with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 11,
-        "title": "Choppy Gray Midi Cut",
-        "image": "/images/doc61_img_11.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A choppy gray midi cut offers a modern, deconstructed look that is perfect for women who enjoy a bit of \u201crock and roll\u201d in their style.",
-          "The uneven ends and varied layer lengths create a lot of visual interest, which balances well with colorful or artistic eyeglass frames.",
-          "This style thrives on texture, so using a sea salt spray or a light pomade can help define the individual pieces.",
-          "The salt and pepper or pure silver tones look intentional and high-fashion when paired with this edgy cut.",
-          "It is a great way to prove that gray hair is anything but boring or traditional when styled correctly.",
-          "Pairing Choppy Gray Midi Cut with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 12,
-        "title": "Sleek Silver Blunt Bob",
-        "image": "/images/doc61_img_12.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The sleek silver blunt bob is the ultimate choice for a woman who loves a crisp, minimalist aesthetic.",
-          "With its sharp, horizontal baseline, this haircut creates a strong foundation that looks stunning with geometric or architectural eyeglass frames.",
-          "The uniform length of the silver hair provides a solid block of color that acts as a powerful style statement on its own.",
-          "Keeping the hair perfectly straight with a flat iron enhances the shine and emphasizes the precision of the cut.",
-          "This look is incredibly sophisticated and projects a sense of confidence and authority, making it a popular choice for professional women in 2026.",
-          "Pairing Sleek Silver Blunt Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 13,
-        "title": "Feathered Silver Long Pixie",
-        "image": "/images/doc61_img_13.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "A feathered silver long pixie offers more length and volume than a traditional pixie, providing a softer and more versatile silhouette.",
-          "The \u201cfeathers\u201d are achieved through point-cutting, which creates light, airy tips that dance around your glasses and temples.",
-          "This prevents the hair from looking stagnant and adds a youthful energy to the face.",
-          "The longer length on top allows for various styling options, such as brushing it back for a sleek look or forward for a more casual vibe.",
-          "This hairstyle is particularly forgiving for those transitioning from colored hair to their natural silver, as the layers blend the different tones.",
-          "Pairing Feathered Silver Long Pixie with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 14,
-        "title": "Silver Shag With Bottleneck Bangs",
-        "image": "/images/doc61_img_14.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Combining a silver shag with bottleneck bangs gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Silver Shag With Bottleneck Bangs with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 15,
-        "title": "Asymmetrical Silver Bob",
-        "image": "/images/doc61_img_15.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The asymmetrical silver bob features one side that is notably longer than the other, creating a dynamic and interesting visual line.",
-          "This unevenness is a great way to distract from facial asymmetries and draws a lot of attention to your eyes and glasses.",
-          "Because one side is shorter, it often leaves the ear exposed, which is a perfect spot to showcase the arms of your favorite frames.",
-          "The silver color adds a high-tech, modern feel to the unconventional shape of the cut.",
-          "It is a bold choice that shows off your personality and proves that you are not afraid to experiment with your look.",
-          "Pairing Asymmetrical Silver Bob with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 16,
-        "title": "Spiky Silver Pixie Cut",
-        "image": "/images/doc61_img_16.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "spiky silver pixie cut is all about height and texture, making it an excellent option for women who want to add some verticality to their appearance.",
-          "By styling the top layers upward, you draw the eye toward the crown of the head, which can help slim the face.",
-          "This vertical interest balances out wide or heavy eyeglass frames, ensuring the glasses don\u2019t overwhelm your features.",
-          "The silver or white tones look particularly striking when styled into spikes, as the light hits the hair from multiple angles.",
-          "It is a fun, energetic style that requires only a few minutes and a strong-hold gel to achieve.",
-          "Pairing Spiky Silver Pixie Cut with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 17,
-        "title": "Rounded Silver Wedge Cut",
-        "image": "/images/doc61_img_17.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "The rounded silver wedge cut is a classic short hairstyle that features a lot of volume at the back and sides, tapering down toward the neck.",
-          "This shape provides a very soft and approachable look that complements round or oval glasses beautifully.",
-          "The silver color gives the \u201cwedge\u201d a luminous, cloud-like quality that is very flattering for mature skin tones.",
-          "Because the hair is tucked neatly around the ears, your glasses will always sit perfectly and comfortably.",
-          "This is a very elegant and tidy hairstyle that works well for women who prefer a more traditional but still fresh and bright silver look.",
-          "Pairing Rounded Silver Wedge Cut with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
+        "id": "section-guide",
+        "title": "Style Guide & Selection",
+        "content": "Selecting a 16+ gray hairstyles for women with glasses to inspire you is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ],
-    "introParagraphs": [
-      "16+ Gray Hairstyles for Women with Glasses to Inspire You is one of 2026's top hair trends for glasses wearers and face-contouring.",
-      "Finding the right balance between your cut and eyewear creates effortless style.",
-      "Here are the top ideas to save."
     ]
   },
   {
     "id": "flattering-short-haircut-for-women-with-glasses",
-    "slug": "flattering-short-haircut-for-women-with-glasses",
     "title": "13+ Flattering Short Haircut for Women with Glasses",
+    "slug": "flattering-short-haircut-for-women-with-glasses",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
-    "heroImage": "/images/doc60_cover_collage.jpg",
-    "readTime": "8 min read",
     "date": "August 28, 2026",
-    "isFeatured": true,
-    "isTrending": true,
-    "intro": "13+ Flattering Short Haircut for Women with Glasses is one of 2026's top hair trends for glasses wearers and face-contouring. Finding the right balance between your cut and eyewear creates effortless style. Here are the top ideas to save.",
-    "extraSections": [
+    "author": "Trend Haircuts Team",
+    "readTime": "7 min read",
+    "image": "/images/doc_glasses_short_cover.jpg",
+    "description": "Explore 13+ Flattering Short Haircut for Women with Glasses. Find flattering cuts, styling advice, and inspirational hair transformations.",
+    "introParagraphs": [
+      "Finding a flattering short haircut for women with glasses can feel like a daunting task, but the right style actually enhances your frames while highlighting your best facial features. Short hair offers a unique opportunity to draw attention to your eyes and the style of your eyewear, creating a cohesive and fashionable look that works for any occasion. Whether you prefer a bold pixie or a sophisticated bob, these modern cuts are designed to balance the proportions of your face and the weight of your spectacles. In 2026, the trends emphasize texture, movement, and personalized layers that prevent your hair from competing with your frames. This guide explores versatile options that feel both effortless and intentionally styled for your specific face shape."
+    ],
+    "items": [
       {
-        "id": "section-why-glasses-doc60",
-        "title": "How to Pair Your Hairstyle with Face Shapes & Glasses Frames",
-        "content": "Choosing a haircut that flatters both your face geometry and eyeglass frames creates instant harmony. Soft curtain bangs balance angular square frames, while layered lobs add vertical length for round face shapes.",
-        "stats": [
-          {
-            "val": "100%",
-            "label": "Frame Compatibility"
-          },
-          {
-            "val": "Custom",
-            "label": "Face Contour Balance"
-          },
-          {
-            "val": "All Glasses",
-            "label": "Cat-Eye, Round & Square"
-          }
-        ]
+        "id": "item-1",
+        "title": "1. Feathered Pixie Cut With Glasses",
+        "image": "/images/doc_glasses_short_img_1.jpg",
+        "description": "Can you imagine a hairstyle that feels light as a feather while making your eyewear the star of the show? The feathered pixie cut\u00a0is an exceptional choice for women who wear glasses because it prioritizes soft, wispy layers that stay clear of the frames. This style builds height at the crown while keeping the hair around the temples airy, which prevents the arms of your glasses from causing uncomfortable bulk.",
+        "paragraphs": [
+          "Can you imagine a hairstyle that feels light as a feather while making your eyewear the star of the show? The feathered pixie cut\u00a0is an exceptional choice for women who wear glasses because it prioritizes soft, wispy layers that stay clear of the frames. This style builds height at the crown while keeping the hair around the temples airy, which prevents the arms of your glasses from causing uncomfortable bulk.",
+          "By incorporating feathered ends, the haircut creates a gentle frame that softens the overall look of bold spectacles. It is an incredibly low-maintenance option that works beautifully for fine hair that needs a volume boost. You can easily style this look with texturizing cream to define the layers daily."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       },
       {
-        "id": "section-masterclass-glasses-doc60",
-        "title": "Stylist Masterclass: Pairing Haircuts with Eyeglass Frames",
-        "steps": [
-          "Assess Frame Width vs cheekbones: Ensure side layers clear your spectacle arms to prevent hair flaring.",
-          "Soften Bold Frames with Wispy Fringe: Soft wispy or curtain bangs break up heavy dark frames.",
-          "Add Top Volume for Round & Oval Faces: Elevate roots at the crown to elongate facial geometry.",
-          "Use Anti-Frizz Serum Around Temples: Smooth flyaways around ears where glasses arms sit."
-        ]
+        "id": "item-2",
+        "title": "2. Textured Bob Haircut With Glasses",
+        "image": "/images/doc_glasses_short_img_2.jpg",
+        "description": "Picture a chic, ruffled bob that moves naturally every time you turn your head during a busy afternoon. The textured bob haircut with glasses is a classic choice that offers both volume and a modern edge for any face shape. This style features choppy layers throughout the length, which helps to break up the weight of the hair and prevents it from looking flat against your frames.",
+        "paragraphs": [
+          "Picture a chic, ruffled bob that moves naturally every time you turn your head during a busy afternoon. The textured bob haircut with glasses is a classic choice that offers both volume and a modern edge for any face shape. This style features choppy layers throughout the length, which helps to break up the weight of the hair and prevents it from looking flat against your frames.",
+          "The movement in this cut ensures that your eyewear remains a focal point without being overwhelmed by a heavy curtain of hair. It is particularly effective for women with wavy hair who want an effortless look. Using a sea salt spray will enhance the natural texture and provide a sophisticated yet relaxed finish."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-3",
+        "title": "3. Side Swept Pixie Cut With Glasses",
+        "image": "/images/doc_glasses_short_img_3.jpg",
+        "description": "Imagine the elegance of a sleek fringe that gracefully skims the top of your favorite frames without ever obstructing your vision. The side swept pixie cut with glasses is a timeless and practical choice for women who want a structured yet feminine look. This haircut highlights your facial features and frames your glasses beautifully by directing the hair to one side, which creates a flattering asymmetrical balance.",
+        "paragraphs": [
+          "Imagine the elegance of a sleek fringe that gracefully skims the top of your favorite frames without ever obstructing your vision. The side swept pixie cut with glasses is a timeless and practical choice for women who want a structured yet feminine look. This haircut highlights your facial features and frames your glasses beautifully by directing the hair to one side, which creates a flattering asymmetrical balance.",
+          "The textured layers add volume at the top, ensuring that the silhouette looks modern and youthful rather than dated. It works exceptionally well with rectangular or square frames by softening the sharp angles of the eyewear. A light-hold hairspray keeps the sweep in place while maintaining a soft, touchable feel all day long."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-4",
+        "title": "4. Bixie Shag Haircut With Glasses",
+        "image": "/images/doc_glasses_short_img_4.jpg",
+        "description": "Have you ever felt caught between the boldness of a pixie and the classic appeal of a short bob? The bixie shag haircut with glasses\u00a0offers the perfect middle ground, providing the volume of a pixie with the face-framing benefits of a bob. This hybrid style uses shaggy, multi-length layers to create depth and movement that blends seamlessly with the arms of your glasses.",
+        "paragraphs": [
+          "Have you ever felt caught between the boldness of a pixie and the classic appeal of a short bob? The bixie shag haircut with glasses\u00a0offers the perfect middle ground, providing the volume of a pixie with the face-framing benefits of a bob. This hybrid style uses shaggy, multi-length layers to create depth and movement that blends seamlessly with the arms of your glasses.",
+          "It is an ideal option for women with thick hair, as the shaggy layers help to remove excess bulk around the ears. This ensures that your spectacles fit comfortably against your head without being pushed out of place. Styling with a lightweight mousse gives the hair a playful, lived-in vibe that looks chic and intentional."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-5",
+        "title": "5. Micro Bob Haircut With Glasses",
+        "image": "/images/doc_glasses_short_img_5.jpg",
+        "description": "Step into the room with a sharp, chin-length style that screams sophistication and highlights your unique personal style immediately. The micro bob haircut with glasses provides a bold, editorial look by creating clean lines and geometric shapes around the face. This cut usually hits around the cheekbone or jawline, which draws direct attention to your frames and emphasizes your bone structure beautifully.",
+        "paragraphs": [
+          "Step into the room with a sharp, chin-length style that screams sophistication and highlights your unique personal style immediately. The micro bob haircut with glasses provides a bold, editorial look by creating clean lines and geometric shapes around the face. This cut usually hits around the cheekbone or jawline, which draws direct attention to your frames and emphasizes your bone structure beautifully.",
+          "It is an excellent choice for women with straight hair who want a low-maintenance yet high-impact hairstyle. The precision of the blunt ends contrasts elegantly with rounded or cat-eye glasses, making a powerful fashion statement. Applying a glossing serum will ensure the hair remains sleek and reflective, enhancing the overall polished and modern aesthetic of the entire look."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-6",
+        "title": "6. Layered French Bob With Glasses",
+        "image": "/images/doc_glasses_short_img_6.jpg",
+        "description": "Imagine the effortless charm of a Parisian street as you rock a short, tousled style that frames your glasses perfectly. The layered French bob with glasses is a chin-length cut featuring internal layers that prevent bulk from building up near the hinges of your eyewear. This soft, voluminous look balances the presence of your glasses while providing a harmonious and polished appearance for any face shape.",
+        "paragraphs": [
+          "Imagine the effortless charm of a Parisian street as you rock a short, tousled style that frames your glasses perfectly. The layered French bob with glasses is a chin-length cut featuring internal layers that prevent bulk from building up near the hinges of your eyewear. This soft, voluminous look balances the presence of your glasses while providing a harmonious and polished appearance for any face shape.",
+          "The subtle movement in the hair prevents the style from looking too stiff or structured against your spectacles. It is particularly flattering for women with natural waves, as the layers encourage a relaxed and organic shape. Using a small amount of texture cream helps to define the ends and maintain that sought-after, chic \u2018undone\u2019 vibe effortlessly."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-7",
+        "title": "7. Curly Pixie Cut With Glasses",
+        "image": "/images/doc_glasses_short_img_7.jpg",
+        "description": "Curls can often feel like they are competing with your frames, but the right cut makes them work together in harmony. The curly pixie cut with glasses keeps the hair cropped closely on the sides while leaving a bit of extra length on top for volume. This strategic shaping ensures that your glasses do not get lost in a sea of curls, allowing your eyes to remain the center of attention.",
+        "paragraphs": [
+          "Curls can often feel like they are competing with your frames, but the right cut makes them work together in harmony. The curly pixie cut with glasses keeps the hair cropped closely on the sides while leaving a bit of extra length on top for volume. This strategic shaping ensures that your glasses do not get lost in a sea of curls, allowing your eyes to remain the center of attention.",
+          "The short sides also provide a clear path for the arms of your frames, ensuring a comfortable and secure fit all day long. This cut celebrates your natural texture while providing a fresh and airy feel that is perfect for any season. A curl-defining gel helps to maintain the shape without any frizz."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-8",
+        "title": "8. Stacked Bob Haircut With Glasses",
+        "image": "/images/doc_glasses_short_img_8.jpg",
+        "description": "Does your current hairstyle feel flat and uninspired when you put on your glasses in the morning? The stacked bob haircut with glasses\u00a0builds significant volume at the back through graduated layers that angle forward toward the face. This forward-sloping shape draws attention to your cheekbones and frames your spectacles nicely, creating a balanced and dynamic silhouette.",
+        "paragraphs": [
+          "Does your current hairstyle feel flat and uninspired when you put on your glasses in the morning? The stacked bob haircut with glasses\u00a0builds significant volume at the back through graduated layers that angle forward toward the face. This forward-sloping shape draws attention to your cheekbones and frames your spectacles nicely, creating a balanced and dynamic silhouette.",
+          "The height at the crown provides a youthful lift that prevents the hair from looking weighted down by the presence of eyewear. It is a versatile choice that works well for both fine and thick hair types, offering a structured look that is easy to style. Using a round brush during your blow-dry routine will enhance the stacked effect and ensure a smooth finish."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-9",
+        "title": "9. Tapered Pixie Haircut With Glasses",
+        "image": "/images/doc_glasses_short_img_9.jpg",
+        "description": "Experience the ultimate comfort and style with a cut that is neatly trimmed around the ears and the back of the neck. The tapered pixie haircut with glasses is a practical and modern choice that keeps the sides short to accommodate the arms of your frames perfectly. The top remains slightly longer, allowing for styling flexibility and a touch of volume that draws the eye upward toward your glasses.",
+        "paragraphs": [
+          "Experience the ultimate comfort and style with a cut that is neatly trimmed around the ears and the back of the neck. The tapered pixie haircut with glasses is a practical and modern choice that keeps the sides short to accommodate the arms of your frames perfectly. The top remains slightly longer, allowing for styling flexibility and a touch of volume that draws the eye upward toward your glasses.",
+          "This clean silhouette eliminates the messy hair that often gets caught in the hinges of your eyewear, making it a favorite for busy women. It offers a sleek and professional appearance that is incredibly easy to manage with just a little bit of styling wax. This haircut provides a timeless look that remains highly fashionable."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-10",
+        "title": "10. Undercut Pixie Cut With Glasses",
+        "image": "/images/doc_glasses_short_img_10.jpg",
+        "description": "Are you looking for a daring and edgy way to show off your bold personality and your favorite pair of frames? The undercut pixie cut with glasses removes weight from the sides and back, leaving a silky and versatile layer of hair on top. This dramatic contrast creates a tidy silhouette around your eyewear, ensuring that the frames sit flush against your face without any interference.",
+        "paragraphs": [
+          "Are you looking for a daring and edgy way to show off your bold personality and your favorite pair of frames? The undercut pixie cut with glasses removes weight from the sides and back, leaving a silky and versatile layer of hair on top. This dramatic contrast creates a tidy silhouette around your eyewear, ensuring that the frames sit flush against your face without any interference.",
+          "The longer top section can be styled forward, back, or to the side, giving you multiple looks within a single haircut. It is a fantastic option for women with very thick hair who want to reduce volume and stay cool. This bold style makes your glasses a focal point while providing a clean, fashion-forward aesthetic."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-11",
+        "title": "11. Short Shaggy Bob With Glasses",
+        "image": "/images/doc_glasses_short_img_11.jpg",
+        "description": "Imagine a playful, layered style that creates a flattering \u2018halo\u2019 effect around your face and your stylish spectacles. The short shaggy bob with glasses uses choppy layers and textured ends to create a look that is full of movement and life. These layers are strategically placed to sit above and around the frames, ensuring that your hair never hides your eyes or your eyewear.",
+        "paragraphs": [
+          "Imagine a playful, layered style that creates a flattering \u2018halo\u2019 effect around your face and your stylish spectacles. The short shaggy bob with glasses uses choppy layers and textured ends to create a look that is full of movement and life. These layers are strategically placed to sit above and around the frames, ensuring that your hair never hides your eyes or your eyewear.",
+          "This carefree vibe is perfect for women who want a style that looks intentional but requires very little daily maintenance. The shaggy texture provides natural volume that helps to balance larger or more decorative frames. Spritzing a dry texturizing spray into the hair will emphasize the layers and provide a cool, modern finish."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-12",
+        "title": "12. Chin Length Bob With Glasses",
+        "image": "/images/doc_glasses_short_img_12.jpg",
+        "description": "What if your haircut could act as the perfect frame for your face, just like your glasses do? The chin length bob with glasses is a classic and reliable choice that hits exactly at the jawline to emphasize your facial structure. This style can be worn with or without a fringe, but a soft curtain bang often helps to blend the hair seamlessly with your eyewear.",
+        "paragraphs": [
+          "What if your haircut could act as the perfect frame for your face, just like your glasses do? The chin length bob with glasses is a classic and reliable choice that hits exactly at the jawline to emphasize your facial structure. This style can be worn with or without a fringe, but a soft curtain bang often helps to blend the hair seamlessly with your eyewear.",
+          "The length is long enough to provide a feminine feel but short enough to remain manageable and out of the way of your frames. It is a sophisticated look that pairs well with both professional and casual outfits, making it incredibly versatile. Using a flat iron to smooth the ends will create a polished and refined appearance easily."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-13",
+        "title": "13. Trixie Haircut With Glasses",
+        "image": "/images/doc_glasses_short_img_13.jpg",
+        "description": "Have you heard about the latest trend that combines the best of a pixie and a traditional crop for a fresh look? The trixie haircut with glasses is a modernized version of the classic short cut, featuring wispy edges and a lived-in feel. This style balances precise structure with airy texture, making it an excellent choice for highlighting your eyes and your frames.",
+        "paragraphs": [
+          "Have you heard about the latest trend that combines the best of a pixie and a traditional crop for a fresh look? The trixie haircut with glasses is a modernized version of the classic short cut, featuring wispy edges and a lived-in feel. This style balances precise structure with airy texture, making it an excellent choice for highlighting your eyes and your frames.",
+          "The soft, feathered perimeter ensures that the hair does not create a harsh line against your glasses, providing a more feminine and approachable aesthetic. It is particularly flattering for oval face shapes and works well with almost any hair texture. Styling it forward with a bit of pomade creates a textured fringe that skims your spectacles with style."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-14",
+        "title": "14. Halo Cut With Glasses",
+        "image": "/images/doc_glasses_short_img_14.jpg",
+        "description": "Picture a soft, rounded silhouette that celebrates your natural curls while framing your eyewear with a gentle, voluminous shape. The halo cut with glasses is specifically designed for curly hair textures, featuring rounded layers that create lift and movement around the crown. This silhouette ensures that the volume is distributed evenly, preventing the hair from becoming too heavy or overwhelming your frames at the temples.",
+        "paragraphs": [
+          "Picture a soft, rounded silhouette that celebrates your natural curls while framing your eyewear with a gentle, voluminous shape. The halo cut with glasses is specifically designed for curly hair textures, featuring rounded layers that create lift and movement around the crown. This silhouette ensures that the volume is distributed evenly, preventing the hair from becoming too heavy or overwhelming your frames at the temples.",
+          "By shaping the curls into a soft circle around the face, this haircut highlights your spectacles and draws attention to your eyes. It is a bold and free-spirited style that works with your natural texture rather than fighting against it. Applying a lightweight curl cream will keep the shape defined and bouncy without any frizz."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-15",
+        "title": "15. Razor Crop Haircut With Glasses",
+        "image": "/images/doc_glasses_short_img_15.jpg",
+        "description": "Do you want a haircut that feels both deliberate and lived-in, offering a sense of lightness without losing its distinct shape? The razor crop haircut with glasses\u00a0uses precision razor work to sculpt the hair into a soft yet edgy silhouette that complements eyewear perfectly. The thinning effect of the razor prevents the hair from looking too thick around the ears, allowing your glasses to sit comfortably and securely.",
+        "paragraphs": [
+          "Do you want a haircut that feels both deliberate and lived-in, offering a sense of lightness without losing its distinct shape? The razor crop haircut with glasses\u00a0uses precision razor work to sculpt the hair into a soft yet edgy silhouette that complements eyewear perfectly. The thinning effect of the razor prevents the hair from looking too thick around the ears, allowing your glasses to sit comfortably and securely.",
+          "This style prioritizes fluid movement and a textured finish that looks incredibly modern and cool. It is a versatile option that can be styled flat for a sleek look or tousled for more volume. Many women appreciate how the razor edges provide a feminine softness that balances your eyewear."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
+      },
+      {
+        "id": "item-16",
+        "title": "16. Cowboy Bob Haircut With Glasses",
+        "image": "/images/doc_glasses_short_img_16.jpg",
+        "description": "Imagine a relaxed and voluminous twist on the traditional bob that feels perfectly suited for a casual yet stylish lifestyle. The cowboy bob haircut with glasses is slightly shorter than a classic bob and features rugged, layered texture that provides a lived-in feel. This style often includes face-framing details that work in tandem with your spectacles to highlight your cheekbones and jawline.",
+        "paragraphs": [
+          "Imagine a relaxed and voluminous twist on the traditional bob that feels perfectly suited for a casual yet stylish lifestyle. The cowboy bob haircut with glasses is slightly shorter than a classic bob and features rugged, layered texture that provides a lived-in feel. This style often includes face-framing details that work in tandem with your spectacles to highlight your cheekbones and jawline.",
+          "The extra volume at the roots prevents the hair from falling flat against your face, ensuring your frames remain the focal point of your look. It is an ideal choice for women who want a bob that feels less \u2018done\u2019 and more organic. Using a volumizing mousse and a quick blow-dry will help you achieve that effortless shape."
+        ],
+        "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       }
     ],
     "faqs": [
       {
-        "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "question": "How do I choose the best haircut for flattering short haircut for women with glasses?",
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
-        "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
-      },
-      {
-        "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "question": "How often should I trim this hairstyle?",
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
-    "items": [
+    "sections": [
       {
-        "number": 1,
-        "title": "Feathered Pixie Cut With Glasses",
-        "image": "/images/doc60_img_1.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Can you imagine a hairstyle that feels light as a feather while making your eyewear the star of the show? The feathered pixie cut gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Feathered Pixie Cut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 2,
-        "title": "Textured Bob Haircut With Glasses",
-        "image": "/images/doc60_img_2.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Picture a chic, ruffled bob that moves naturally every time you turn your head during a busy afternoon.",
-          "The textured bob haircut with glasses is a classic choice that offers both volume and a modern edge for any face shape.",
-          "This style features choppy layers throughout the length, which helps to break up the weight of the hair and prevents it from looking flat against your frames.",
-          "The movement in this cut ensures that your eyewear remains a focal point without being overwhelmed by a heavy curtain of hair.",
-          "It is particularly effective for women with wavy hair who want an effortless look.",
-          "Using a sea salt spray will enhance the natural texture and provide a sophisticated yet relaxed finish.",
-          "Pairing Textured Bob Haircut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 3,
-        "title": "Side Swept Pixie Cut With Glasses",
-        "image": "/images/doc60_img_3.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Imagine the elegance of a sleek fringe that gracefully skims the top of your favorite frames without ever obstructing your vision.",
-          "The side swept pixie cut with glasses is a timeless and practical choice for women who want a structured yet feminine look.",
-          "This haircut highlights your facial features and frames your glasses beautifully by directing the hair to one side, which creates a flattering asymmetrical balance.",
-          "The textured layers add volume at the top, ensuring that the silhouette looks modern and youthful rather than dated.",
-          "It works exceptionally well with rectangular or square frames by softening the sharp angles of the eyewear.",
-          "A light-hold hairspray keeps the sweep in place while maintaining a soft, touchable feel all day long.",
-          "Pairing Side Swept Pixie Cut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 4,
-        "title": "Bixie Shag Haircut With Glasses",
-        "image": "/images/doc60_img_4.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Have you ever felt caught between the boldness of a pixie and the classic appeal of a short bob? The bixie shag haircut with glasses gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Bixie Shag Haircut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 5,
-        "title": "Micro Bob Haircut With Glasses",
-        "image": "/images/doc60_img_5.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Step into the room with a sharp, chin-length style that screams sophistication and highlights your unique personal style immediately.",
-          "The micro bob haircut with glasses provides a bold, editorial look by creating clean lines and geometric shapes around the face.",
-          "This cut usually hits around the cheekbone or jawline, which draws direct attention to your frames and emphasizes your bone structure beautifully.",
-          "It is an excellent choice for women with straight hair who want a low-maintenance yet high-impact hairstyle.",
-          "The precision of the blunt ends contrasts elegantly with rounded or cat-eye glasses, making a powerful fashion statement.",
-          "Applying a glossing serum will ensure the hair remains sleek and reflective, enhancing the overall polished and modern aesthetic of the entire look.",
-          "Pairing Micro Bob Haircut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 6,
-        "title": "Layered French Bob With Glasses",
-        "image": "/images/doc60_img_6.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Imagine the effortless charm of a Parisian street as you rock a short, tousled style that frames your glasses perfectly.",
-          "The layered French bob with glasses is a chin-length cut featuring internal layers that prevent bulk from building up near the hinges of your eyewear.",
-          "This soft, voluminous look balances the presence of your glasses while providing a harmonious and polished appearance for any face shape.",
-          "The subtle movement in the hair prevents the style from looking too stiff or structured against your spectacles.",
-          "It is particularly flattering for women with natural waves, as the layers encourage a relaxed and organic shape.",
-          "Using a small amount of texture cream helps to define the ends and maintain that sought-after, chic \u2018undone\u2019 vibe effortlessly.",
-          "Pairing Layered French Bob With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 7,
-        "title": "Curly Pixie Cut With Glasses",
-        "image": "/images/doc60_img_7.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Curls can often feel like they are competing with your frames, but the right cut makes them work together in harmony.",
-          "The curly pixie cut with glasses keeps the hair cropped closely on the sides while leaving a bit of extra length on top for volume.",
-          "This strategic shaping ensures that your glasses do not get lost in a sea of curls, allowing your eyes to remain the center of attention.",
-          "The short sides also provide a clear path for the arms of your frames, ensuring a comfortable and secure fit all day long.",
-          "This cut celebrates your natural texture while providing a fresh and airy feel that is perfect for any season.",
-          "A curl-defining gel helps to maintain the shape without any frizz.",
-          "Pairing Curly Pixie Cut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 8,
-        "title": "Stacked Bob Haircut With Glasses",
-        "image": "/images/doc60_img_8.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Does your current hairstyle feel flat and uninspired when you put on your glasses in the morning? The stacked bob haircut with glasses gives you a sleek, professional aesthetic that pairs perfectly with modern eyeglass frames.",
-          "Pairing Stacked Bob Haircut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 9,
-        "title": "Tapered Pixie Haircut With Glasses",
-        "image": "/images/doc60_img_9.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Experience the ultimate comfort and style with a cut that is neatly trimmed around the ears and the back of the neck.",
-          "The tapered pixie haircut with glasses is a practical and modern choice that keeps the sides short to accommodate the arms of your frames perfectly.",
-          "The top remains slightly longer, allowing for styling flexibility and a touch of volume that draws the eye upward toward your glasses.",
-          "This clean silhouette eliminates the messy hair that often gets caught in the hinges of your eyewear, making it a favorite for busy women.",
-          "It offers a sleek and professional appearance that is incredibly easy to manage with just a little bit of styling wax.",
-          "This haircut provides a timeless look that remains highly fashionable.",
-          "Pairing Tapered Pixie Haircut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 10,
-        "title": "Undercut Pixie Cut With Glasses",
-        "image": "/images/doc60_img_10.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Are you looking for a daring and edgy way to show off your bold personality and your favorite pair of frames? The undercut pixie cut with glasses removes weight from the sides and back, leaving a silky and versatile layer of hair on top.",
-          "This dramatic contrast creates a tidy silhouette around your eyewear, ensuring that the frames sit flush against your face without any interference.",
-          "The longer top section can be styled forward, back, or to the side, giving you multiple looks within a single haircut.",
-          "It is a fantastic option for women with very thick hair who want to reduce volume and stay cool.",
-          "This bold style makes your glasses a focal point while providing a clean, fashion-forward aesthetic.",
-          "Pairing Undercut Pixie Cut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 11,
-        "title": "Short Shaggy Bob With Glasses",
-        "image": "/images/doc60_img_11.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Imagine a playful, layered style that creates a flattering \u2018halo\u2019 effect around your face and your stylish spectacles.",
-          "The short shaggy bob with glasses uses choppy layers and textured ends to create a look that is full of movement and life.",
-          "These layers are strategically placed to sit above and around the frames, ensuring that your hair never hides your eyes or your eyewear.",
-          "This carefree vibe is perfect for women who want a style that looks intentional but requires very little daily maintenance.",
-          "The shaggy texture provides natural volume that helps to balance larger or more decorative frames.",
-          "Spritzing a dry texturizing spray into the hair will emphasize the layers and provide a cool, modern finish.",
-          "Pairing Short Shaggy Bob With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 12,
-        "title": "Chin Length Bob With Glasses",
-        "image": "/images/doc60_img_12.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "What if your haircut could act as the perfect frame for your face, just like your glasses do? The chin length bob with glasses is a classic and reliable choice that hits exactly at the jawline to emphasize your facial structure.",
-          "This style can be worn with or without a fringe, but a soft curtain bang often helps to blend the hair seamlessly with your eyewear.",
-          "The length is long enough to provide a feminine feel but short enough to remain manageable and out of the way of your frames.",
-          "It is a sophisticated look that pairs well with both professional and casual outfits, making it incredibly versatile.",
-          "Using a flat iron to smooth the ends will create a polished and refined appearance easily.",
-          "Pairing Chin Length Bob With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 13,
-        "title": "Trixie Haircut With Glasses",
-        "image": "/images/doc60_img_13.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Have you heard about the latest trend that combines the best of a pixie and a traditional crop for a fresh look? The trixie haircut with glasses is a modernized version of the classic short cut, featuring wispy edges and a lived-in feel.",
-          "This style balances precise structure with airy texture, making it an excellent choice for highlighting your eyes and your frames.",
-          "The soft, feathered perimeter ensures that the hair does not create a harsh line against your glasses, providing a more feminine and approachable aesthetic.",
-          "It is particularly flattering for oval face shapes and works well with almost any hair texture.",
-          "Styling it forward with a bit of pomade creates a textured fringe that skims your spectacles with style.",
-          "Pairing Trixie Haircut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
-      },
-      {
-        "number": 14,
-        "title": "Halo Cut With Glasses",
-        "image": "/images/doc60_img_14.jpg",
-        "whyWeLoveIt": "Flattering frame balance and facial contouring.",
-        "paragraphs": [
-          "Picture a soft, rounded silhouette that celebrates your natural curls while framing your eyewear with a gentle, voluminous shape.",
-          "The halo cut with glasses is specifically designed for curly hair textures, featuring rounded layers that create lift and movement around the crown.",
-          "This silhouette ensures that the volume is distributed evenly, preventing the hair from becoming too heavy or overwhelming your frames at the temples.",
-          "By shaping the curls into a soft circle around the face, this haircut highlights your spectacles and draws attention to your eyes.",
-          "It is a bold and free-spirited style that works with your natural texture rather than fighting against it.",
-          "Applying a lightweight curl cream will keep the shape defined and bouncy without any frizz.",
-          "Pairing Halo Cut With Glasses with your daily routine adds instant polish and frames your facial features beautifully."
-        ],
-        "stylingTip": "Style face-framing layers to sit softly around spectacle arms."
+        "id": "section-guide",
+        "title": "Style Guide & Selection",
+        "content": "Selecting a 13+ flattering short haircut for women with glasses is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ],
-    "introParagraphs": [
-      "13+ Flattering Short Haircut for Women with Glasses is one of 2026's top hair trends for glasses wearers and face-contouring.",
-      "Finding the right balance between your cut and eyewear creates effortless style.",
-      "Here are the top ideas to save."
     ]
   },
   {
