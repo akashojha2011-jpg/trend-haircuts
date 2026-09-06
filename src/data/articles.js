@@ -22,8 +22,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-pumpkin-spice-balayage-ideas-guide",
-        "title": "The Science & Art of 13+ Stunning Pumpkin Spice Balayage Ideas to Warm Up Your Look",
-        "content": "Achieving the perfect look for 13+ Stunning Pumpkin Spice Balayage Ideas to Warm Up Your Look requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Stunning Pumpkin Spice Balayage Ideas to Warm Up Your Look",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -346,8 +346,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-salt-and-pepper-balayage-guide",
-        "title": "The Science & Art of 14+ Gorgeous Salt and Pepper Balayage Styles for a Chic Modern Look",
-        "content": "Achieving the perfect look for 14+ Gorgeous Salt and Pepper Balayage Styles for a Chic Modern Look requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Gorgeous Salt and Pepper Balayage Styles for a Chic Modern Look",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -673,8 +673,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-summer-honey-highlights-guide",
-        "title": "The Science & Art of 17+ Beautiful Summer Honey Highlights You\u2019ll Love to Try This Season",
-        "content": "Achieving the perfect look for 17+ Beautiful Summer Honey Highlights You\u2019ll Love to Try This Season requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Beautiful Summer Honey Highlights",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -1024,8 +1024,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-vibrant-violet-balayage-guide",
-        "title": "The Science & Art of 15+ Vibrant Violet Balayage Hair Color Ideas to Refresh Your Style",
-        "content": "Achieving the perfect look for 15+ Vibrant Violet Balayage Hair Color Ideas to Refresh Your Style requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Vibrant Violet Balayage Hair Color Ideas to Refresh Your Style",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -1364,8 +1364,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-balayage-for-straight-hair-guide",
-        "title": "The Science & Art of 16+ Chic Balayage for Straight Hair Ideas to Elevate Your Everyday Look",
-        "content": "Achieving the perfect look for 16+ Chic Balayage for Straight Hair Ideas to Elevate Your Everyday Look requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Chic Balayage for Straight Hair Ideas to Elevate Your Everyday Look",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -1721,8 +1721,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-soft-black-hair-color-ideas-guide",
-        "title": "The Science & Art of 12+ Elegant Soft Black Hair Color Ideas for a Refined Everyday Style",
-        "content": "Achieving the perfect look for 12+ Elegant Soft Black Hair Color Ideas for a Refined Everyday Style requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Elegant Soft Black Hair Color Ideas for a Refined Everyday Style",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -2049,8 +2049,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-violet-black-hair-color-guide",
-        "title": "The Science & Art of 13+ Rich Violet Black Hair Color Looks That Make a Beautiful Statement",
-        "content": "Achieving the perfect look for 13+ Rich Violet Black Hair Color Looks That Make a Beautiful Statement requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Rich Violet Black Hair Color Looks That Make a Beautiful Statement",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -2366,8 +2366,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-black-hair-color-ideas-guide",
-        "title": "The Science & Art of 14+ Gorgeous Black Hair Color Ideas You\u2019ll Love for Your Next Makeover",
-        "content": "Achieving the perfect look for 14+ Gorgeous Black Hair Color Ideas You\u2019ll Love for Your Next Makeover requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Gorgeous Black Hair Color Ideas",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -2726,8 +2726,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-hair-color-ideas-for-black-hair-guide",
-        "title": "The Science & Art of 15+ Fresh Hair Color Ideas for Black Hair That Feel Modern and Chic",
-        "content": "Achieving the perfect look for 15+ Fresh Hair Color Ideas for Black Hair That Feel Modern and Chic requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Fresh Hair Color Ideas for Black Hair That Feel Modern and Chic",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -3074,8 +3074,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-midnight-black-hair-color-guide",
-        "title": "The Science & Art of 16+ Striking Midnight Black Hair Color Styles for a Deep Dramatic Finish",
-        "content": "Achieving the perfect look for 16+ Striking Midnight Black Hair Color Styles for a Deep Dramatic Finish requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Striking Midnight Black Hair Color Styles for a Deep Dramatic Finish",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -3355,8 +3355,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-trendy-soft-black-hair-color-guide",
-        "title": "The Science & Art of 14+ Sleek Trendy Soft Black Hair Color to Consider for Your Next Appointment",
-        "content": "Achieving the perfect look for 14+ Sleek Trendy Soft Black Hair Color to Consider for Your Next Appointment requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Sleek Trendy Soft Black Hair Color",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -3597,8 +3597,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-ink-black-hair-color-guide",
-        "title": "The Science & Art of 12+ Bold Ink Black Hair Color Ideas That Bring Out a Dramatic Edge",
-        "content": "Achieving the perfect look for 12+ Bold Ink Black Hair Color Ideas That Bring Out a Dramatic Edge requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Bold Ink Black Hair Color Ideas That Bring Out a Dramatic Edge",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -3971,8 +3971,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-glossy-shiny-black-hair-guide",
-        "title": "The Science & Art of 13+ Glossy Shiny Black Hair Color Looks for an Eye-Catching Finish",
-        "content": "Achieving the perfect look for 13+ Glossy Shiny Black Hair Color Looks for an Eye-Catching Finish requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Glossy Shiny Black Hair Color Looks for an Eye-Catching Finish",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -4313,8 +4313,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-dimensional-black-hair-color-guide",
-        "title": "The Science & Art of 14+ Dimensional Black Hair Color Ideas with Depth and Movement",
-        "content": "Achieving the perfect look for 14+ Dimensional Black Hair Color Ideas with Depth and Movement requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Dimensional Black Hair Color Ideas with Depth and Movement",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -4656,8 +4656,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-raven-black-hair-color-guide",
-        "title": "The Science & Art of 15+ Raven Black Hair Color Looks That Create a Sleek Vibe",
-        "content": "Achieving the perfect look for 15+ Raven Black Hair Color Looks That Create a Sleek Vibe requires precise placement and custom color blending to enhance natural movement and dimension.",
+        "title": "The Art & Science of Raven Black Hair Color Looks That Create a Sleek Vibe",
+        "content": "Achieving this dimensional style requires precise placement and custom color blending to enhance natural movement and dimension.",
         "stats": [
           {
             "val": "100%",
@@ -5001,8 +5001,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-blonde-balayage-on-brown-hair-guide",
-        "title": "The Science & Art of 12+ Gorgeous Blonde Balayage on Brown Hair That Everyone Is Loving",
-        "content": "Achieving the perfect look for 12+ Gorgeous Blonde Balayage on Brown Hair That Everyone Is Loving requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Gorgeous Blonde Balayage on Brown Hair",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
@@ -5342,8 +5342,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-blonde-hair-with-shadow-root-balayage-guide",
-        "title": "The Science & Art of 13+ Chic Blonde Hair with Shadow Root Balayage Worth Trying This Season",
-        "content": "Achieving the perfect look for 13+ Chic Blonde Hair with Shadow Root Balayage Worth Trying This Season requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Chic Blonde Hair with Shadow Root Balayage",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
@@ -5679,8 +5679,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-lavender-balayage-on-blonde-hair-guide",
-        "title": "The Science & Art of 14+ Dreamy Lavender Balayage on Blonde Hair You\u2019ll Want to Try Today",
-        "content": "Achieving the perfect look for 14+ Dreamy Lavender Balayage on Blonde Hair You\u2019ll Want to Try Today requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Dreamy Lavender Balayage on Blonde Hair You\u2019ll Want to Try Today",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
@@ -6057,8 +6057,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-rooty-blonde-balayage-guide",
-        "title": "The Science & Art of 15+ Effortless Rooty Blonde Balayage Looks You Can\u2019t Miss",
-        "content": "Achieving the perfect look for 15+ Effortless Rooty Blonde Balayage Looks You Can\u2019t Miss requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Effortless Rooty Blonde Balayage Looks You Can\u2019t Miss",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
@@ -6398,8 +6398,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-strawberry-blonde-balayage-guide",
-        "title": "The Science & Art of 16+ Beautiful Strawberry Blonde Balayage Ideas to Fall in Love With",
-        "content": "Achieving the perfect look for 16+ Beautiful Strawberry Blonde Balayage Ideas to Fall in Love With requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Beautiful Strawberry Blonde Balayage Ideas to Fall in Love With",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
@@ -6742,8 +6742,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-blonde-highlights-on-black-hair-guide",
-        "title": "The Science & Art of 17+ Striking Blonde Highlights on Black Hair That Really Stand Out",
-        "content": "Achieving the perfect look for 17+ Striking Blonde Highlights on Black Hair That Really Stand Out requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Striking Blonde Highlights on Black Hair That Really Stand Out",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
@@ -7080,8 +7080,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-brunette-lowlights-for-blonde-mature-hair-guide",
-        "title": "The Science & Art of 12+ Soft Brunette Lowlights for Blonde Mature Hair Worth Giving a Try",
-        "content": "Achieving the perfect look for 12+ Soft Brunette Lowlights for Blonde Mature Hair Worth Giving a Try requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Soft Brunette Lowlights for Blonde Mature Hair Worth Giving a Try",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
@@ -7413,8 +7413,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-champagne-blonde-balayage-ideas-guide",
-        "title": "The Science & Art of 13+ Elegant Champagne Blonde Balayage Ideas to Save for Your Next Look",
-        "content": "Achieving the perfect look for 13+ Elegant Champagne Blonde Balayage Ideas to Save for Your Next Look requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Elegant Champagne Blonde Balayage Ideas",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
@@ -8023,8 +8023,8 @@ export const articles = [
     "extraSections": [
       {
         "id": "section-pearl-toner-for-blonde-balayage-guide",
-        "title": "The Science & Art of 15+ Radiant Pearl Toner for Blonde Balayage Ideas You\u2019ll Want to See",
-        "content": "Achieving the perfect look for 15+ Radiant Pearl Toner for Blonde Balayage Ideas You\u2019ll Want to See requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
+        "title": "The Art & Science of Radiant Pearl Toner for Blonde Balayage Ideas You\u2019ll Want to See",
+        "content": "Achieving this dimensional style requires precise hand-painted placement and multi-tonal color blending to enhance natural hair movement and light reflection.",
         "stats": [
           {
             "val": "100%",
