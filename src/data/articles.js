@@ -25975,7 +25975,7 @@ export const articles = [
     "title": "19+ Beautiful Hairstyles for Women over 50 with Bangs",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
-    "heroImage": "/images/doc2_cover_collage.jpg",
+    "heroImage": "/images/doc1_poster_cover.jpg",
     "readTime": "11 min read",
     "date": "July 1, 2026",
     "isFeatured": true,
@@ -26248,6 +26248,6 @@ export const articles = [
       "Women over 50 are redefining hair style with cuts that feel fresh, polished, and full of personality.",
       "A great fringe can soften features, frame the face, and quietly take years off your overall look while bringing natural texture and effortless grace to your daily routine."
     ],
-    "image": "/images/doc2_cover_collage.jpg"
+    "image": "/images/doc1_poster_cover.jpg"
   }
 ];
