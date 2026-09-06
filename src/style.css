@@ -910,6 +910,15 @@ h1, h2, h3, h4, .font-serif {
   background-color: var(--bg-tertiary, #f8f6f3);
 }
 
+.article-image-wrap.vertical-cover-wrap {
+  aspect-ratio: 3 / 4;
+}
+
+.article-image-wrap.vertical-cover-wrap img {
+  object-fit: cover;
+  object-position: center top;
+}
+
 .article-image-wrap img {
   width: 100%;
   height: 100%;

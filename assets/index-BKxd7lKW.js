@@ -178,7 +178,7 @@
     `}).join("")}
       </div>
     </section>
-  `}const S={};function v(a=[],i={}){if(!a||a.length===0)return'<p class="text-muted text-center" style="grid-column: 1/-1; padding: 2rem;">No hair articles found.</p>';const e=i.gridId||"main-article-grid",s=i.itemsPerPage||6;e in S||(S[e]=1);let t=S[e];const o=Math.ceil(a.length/s);t>o&&(t=o),t<1&&(t=1),S[e]=t;const n=(t-1)*s,c=a.slice(n,n+s).map(l=>`
+  `}const S={};function v(a=[],i={}){if(!a||a.length===0)return'<p class="text-muted text-center" style="grid-column: 1/-1; padding: 2rem;">No hair articles found.</p>';const e=i.gridId||"main-article-grid",s=i.itemsPerPage||6;e in S||(S[e]=1);let t=S[e];const o=Math.ceil(a.length/s);t>o&&(t=o),t<1&&(t=1),S[e]=t;const n=(t-1)*s,u=a.slice(n,n+s).map(l=>{const g=l.heroImage&&(l.heroImage.includes("poster")||l.heroImage.includes("vertical"));return`
       <a 
         href="/${l.slug}" 
         class="article-card" 
@@ -186,7 +186,7 @@
         data-slug="${l.slug}"
         style="display: block; text-decoration: none;"
       >
-        <div class="article-image-wrap">
+        <div class="article-image-wrap ${g?"vertical-cover-wrap":""}">
           <img src="${l.heroImage}" alt="${l.title}" loading="lazy" />
         </div>
 
@@ -195,7 +195,7 @@
           <h3 class="article-card-title">${l.title}</h3>
         </div>
       </a>
-    `).join("");let r="";if(o>1&&i.showPagination!==!1&&!i.hidePagination){let l="";for(let m=1;m<=o;m++)l+=`
+    `}).join("");let r="";if(o>1&&i.showPagination!==!1&&!i.hidePagination){let l="";for(let m=1;m<=o;m++)l+=`
         <button 
           class="pagination-btn pagination-num ${m===t?"active":""}" 
           data-grid-id="${e}" 
@@ -204,13 +204,13 @@
         >
           ${m}
         </button>
-      `;const u=t===1?"disabled":"",w=t===o?"disabled":"";r=`
+      `;const g=t===1?"disabled":"",w=t===o?"disabled":"";r=`
       <div class="pagination-container" id="pagination-${e}">
         <button 
           class="pagination-btn pagination-prev" 
           data-grid-id="${e}" 
           data-target-page="${t-1}"
-          ${u}
+          ${g}
           aria-label="Previous Page"
         >
           <i data-lucide="chevron-left" size="18"></i>
@@ -233,7 +233,7 @@
     `}return`
     <div id="${e}-wrapper">
       <div class="masonry-grid" id="${e}">
-        ${c}
+        ${u}
       </div>
       ${r}
     </div>
@@ -317,10 +317,10 @@
         <br/>
         <a href="#" class="btn-primary" data-route="home">Return to Inspiration Homepage</a>
       </div>
-    `;const i=a.extraSections?a.extraSections.map(r=>{if(r.stats){const l=r.stats.map(u=>`
+    `;const i=a.extraSections?a.extraSections.map(r=>{if(r.stats){const l=r.stats.map(g=>`
         <div class="stat-card-box">
-          <strong class="stat-card-val">${u.val}</strong>
-          <span class="stat-card-label">${u.label}</span>
+          <strong class="stat-card-val">${g.val}</strong>
+          <span class="stat-card-label">${g.label}</span>
         </div>
       `).join("");return`
         <div id="${r.id}" class="editorial-feature-box">
@@ -330,7 +330,7 @@
             ${l}
           </div>
         </div>
-      `}else if(r.steps){const l=r.steps.map(u=>`<li style="margin-bottom: 0.75rem;">${u}</li>`).join("");return`
+      `}else if(r.steps){const l=r.steps.map(g=>`<li style="margin-bottom: 0.75rem;">${g}</li>`).join("");return`
         <div id="${r.id}" class="masterclass-box">
           <span class="blog-category-badge">Editorial Masterclass</span>
           <h3 class="font-serif masterclass-title">${r.title}</h3>
@@ -350,9 +350,9 @@
         `).join("")}
       </div>
     </div>
-  `:"",s=a.items.map((r,l)=>{const u=r.number||l+1,m=(r.title||"").replace(/^\d+\.\s*/,"");return`
+  `:"",s=a.items.map((r,l)=>{const g=r.number||l+1,m=(r.title||"").replace(/^\d+\.\s*/,"");return`
       <li class="investopedia-toc-item">
-        <a href="#item-${u}">${u}. ${m}</a>
+        <a href="#item-${g}">${g}. ${m}</a>
       </li>
     `}).join(""),t=a.extraSections?a.extraSections.map(r=>`
     <li class="investopedia-toc-item special-toc-item">
@@ -362,9 +362,9 @@
     <li class="investopedia-toc-item special-toc-item">
       <a href="#section-faq">Frequently Asked Questions</a>
     </li>
-  `:"",n=a.items.map((r,l)=>{const u=r.number||l+1,m=(r.title||"").replace(/^\d+\.\s*/,""),B=r.paragraphs&&Array.isArray(r.paragraphs)?r.paragraphs.map(_=>`<p class="listicle-desc">${_}</p>`).join(""):`<p class="listicle-desc">${r.description}</p>`;return`
-      <div class="listicle-item" id="item-${u}" style="scroll-margin-top: 100px;">
-        <h2 class="listicle-item-title" id="heading-${u}">${u}. ${m}</h2>
+  `:"",n=a.items.map((r,l)=>{const g=r.number||l+1,m=(r.title||"").replace(/^\d+\.\s*/,""),B=r.paragraphs&&Array.isArray(r.paragraphs)?r.paragraphs.map(_=>`<p class="listicle-desc">${_}</p>`).join(""):`<p class="listicle-desc">${r.description}</p>`;return`
+      <div class="listicle-item" id="item-${g}" style="scroll-margin-top: 100px;">
+        <h2 class="listicle-item-title" id="heading-${g}">${g}. ${m}</h2>
         
         <div class="listicle-item-img image-container-relative">
           <img src="${r.image}" alt="${r.title}" loading="lazy" />
@@ -400,7 +400,7 @@
           </div>
         `:""}
       </div>
-    `}).join(""),h=p.filter(r=>r.id!==a.id).slice(0,4),c=v(h);return`
+    `}).join(""),h=p.filter(r=>r.id!==a.id).slice(0,4),u=v(h);return`
     <article class="article-page">
       <!-- SUB-HEADER BREADCRUMB STRIP (CLEAN MAGAZINE STYLE) -->
       <div class="breadcrumb-strip">
@@ -491,7 +491,7 @@
           <h2 class="section-title">You May Also Like</h2>
           <p class="subheading">More hair inspiration lookbooks to explore</p>
         </div>
-        ${c}
+        ${u}
       </section>
     </article>
   `}function G(a,i=null){let e=I.find(o=>o.slug===a);if(!e){for(const o of I)if(o.subcategories){const n=o.subcategories.find(h=>h.slug===a);if(n){e={name:n.name,description:`Hand-curated hair listicles and inspiration for ${n.name}.`};break}}}e||(e={name:a.split("-").map(o=>o.charAt(0).toUpperCase()+o.slice(1)).join(" "),description:"Explore hand-curated haircut listicles and styling inspiration."});const s=p.filter(o=>o.categorySlug===a||o.category.toLowerCase()===e.name.toLowerCase()||a==="all"),t=s.length>0?v(s,{gridId:`category-grid-${a}`,itemsPerPage:6}):`
@@ -839,7 +839,7 @@
         </div>
       </div>
     </footer>
-  `}const f="https://www.trendhaircuts.com";class ${constructor(){this.activeStyle="All Styles",this.loadedArticlesCount=6}}const L=new $;function Q(){let a=window.location.pathname;if(window.location.hash&&window.location.hash.startsWith("#/")){let i=window.location.hash.replace("#/","/").replace("/article/","/");window.history.replaceState({},"",i),a=window.location.pathname}return a=a.toLowerCase().trim(),a.length>1&&a.endsWith("/")&&(a=a.slice(0,-1)),a||"/"}function b(a,i,e,s=""){document.title=a;let t=document.querySelector('meta[name="description"]');t||(t=document.createElement("meta"),t.name="description",document.head.appendChild(t)),t.setAttribute("content",i);let o=document.querySelector('link[rel="canonical"]');o||(o=document.createElement("link"),o.rel="canonical",document.head.appendChild(o)),o.setAttribute("href",e);let n=document.querySelector('meta[property="og:title"]');n||(n=document.createElement("meta"),n.setAttribute("property","og:title"),document.head.appendChild(n)),n.setAttribute("content",a);let h=document.querySelector('meta[property="og:description"]');h||(h=document.createElement("meta"),h.setAttribute("property","og:description"),document.head.appendChild(h)),h.setAttribute("content",i);let c=document.querySelector('meta[property="og:url"]');if(c||(c=document.createElement("meta"),c.setAttribute("property","og:url"),document.head.appendChild(c)),c.setAttribute("content",e),s){let r=document.querySelector('meta[property="og:image"]');r||(r=document.createElement("meta"),r.setAttribute("property","og:image"),document.head.appendChild(r)),r.setAttribute("content",s.startsWith("http")?s:`${f}${s}`)}}function k(){const a=document.getElementById("app"),i=Q();let e="home",s="";i==="/"||i==="/home"?e="home":i.startsWith("/category/")?(e="category",s=i.replace("/category/","")):i==="/about"?e="about":i==="/contact"?e="contact":i==="/privacy"?e="privacy":i==="/terms"?e="terms":i==="/disclaimer"?e="disclaimer":i==="/sitemap"?e="sitemap":(e="article",s=i.replace("/","").replace("article/",""));let t="";if(e==="home"){b("Trend Haircuts — Modern Hairstyles & Cut Inspiration","Discover thousands of hand-curated hairstyle ideas, trendy haircuts, curtain bangs, bobs, braids, updos and daily hair styling guides on Trend Haircuts.",`${f}/`);const o=p.find(l=>l.isFeatured)||p[0],n=[...p].sort((l,u)=>new Date(u.date||"2026-07-01")-new Date(l.date||"2026-07-01")),h=[],c=new Set;for(const l of n)if(!c.has(l.category)&&(h.push(l),c.add(l.category),h.length===6))break;if(h.length<6){for(const l of n)if(!h.includes(l)&&(h.push(l),h.length===6))break}const r=p.slice(0,L.loadedArticlesCount);t=`
+  `}const f="https://www.trendhaircuts.com";class ${constructor(){this.activeStyle="All Styles",this.loadedArticlesCount=6}}const L=new $;function Q(){let a=window.location.pathname;if(window.location.hash&&window.location.hash.startsWith("#/")){let i=window.location.hash.replace("#/","/").replace("/article/","/");window.history.replaceState({},"",i),a=window.location.pathname}return a=a.toLowerCase().trim(),a.length>1&&a.endsWith("/")&&(a=a.slice(0,-1)),a||"/"}function b(a,i,e,s=""){document.title=a;let t=document.querySelector('meta[name="description"]');t||(t=document.createElement("meta"),t.name="description",document.head.appendChild(t)),t.setAttribute("content",i);let o=document.querySelector('link[rel="canonical"]');o||(o=document.createElement("link"),o.rel="canonical",document.head.appendChild(o)),o.setAttribute("href",e);let n=document.querySelector('meta[property="og:title"]');n||(n=document.createElement("meta"),n.setAttribute("property","og:title"),document.head.appendChild(n)),n.setAttribute("content",a);let h=document.querySelector('meta[property="og:description"]');h||(h=document.createElement("meta"),h.setAttribute("property","og:description"),document.head.appendChild(h)),h.setAttribute("content",i);let u=document.querySelector('meta[property="og:url"]');if(u||(u=document.createElement("meta"),u.setAttribute("property","og:url"),document.head.appendChild(u)),u.setAttribute("content",e),s){let r=document.querySelector('meta[property="og:image"]');r||(r=document.createElement("meta"),r.setAttribute("property","og:image"),document.head.appendChild(r)),r.setAttribute("content",s.startsWith("http")?s:`${f}${s}`)}}function k(){const a=document.getElementById("app"),i=Q();let e="home",s="";i==="/"||i==="/home"?e="home":i.startsWith("/category/")?(e="category",s=i.replace("/category/","")):i==="/about"?e="about":i==="/contact"?e="contact":i==="/privacy"?e="privacy":i==="/terms"?e="terms":i==="/disclaimer"?e="disclaimer":i==="/sitemap"?e="sitemap":(e="article",s=i.replace("/","").replace("article/",""));let t="";if(e==="home"){b("Trend Haircuts — Modern Hairstyles & Cut Inspiration","Discover thousands of hand-curated hairstyle ideas, trendy haircuts, curtain bangs, bobs, braids, updos and daily hair styling guides on Trend Haircuts.",`${f}/`);const o=p.find(l=>l.isFeatured)||p[0],n=[...p].sort((l,g)=>new Date(g.date||"2026-07-01")-new Date(l.date||"2026-07-01")),h=[],u=new Set;for(const l of n)if(!u.has(l.category)&&(h.push(l),u.add(l.category),h.length===6))break;if(h.length<6){for(const l of n)if(!h.includes(l)&&(h.push(l),h.length===6))break}const r=p.slice(0,L.loadedArticlesCount);t=`
       ${H()}
       ${F()}
       
@@ -879,9 +879,9 @@
             Return to Homepage
           </a>
         </div>
-      `;else{const h=`${n.title||"Hairstyle Guide"} | Trend Haircuts`,c=n.intro||(Array.isArray(n.introParagraphs)?n.introParagraphs.join(" "):n.description||""),r=c.length>155?`${c.substring(0,152)}...`:c,l=n.heroImage||n.image||"";b(h,r,`${f}/${n.slug||o}`,l),t=M(n)}}else if(e==="category"){const o=s.split("-").map(n=>n.charAt(0).toUpperCase()+n.slice(1)).join(" ");b(`${o} Hairstyles & Cut Ideas | Trend Haircuts`,`Explore top hand-curated ${o} hairstyle lookbooks, photo galleries, and professional styling guides on Trend Haircuts.`,`${f}/category/${s}`),t=G(s,null)}else e==="about"?(b("About Us | Trend Haircuts Editorial Team","Learn about Trend Haircuts, your daily destination for hand-curated haircut listicles, trend guides, and hair care masterclasses.",`${f}/about`),t=E()):e==="contact"?(b("Contact Us | Trend Haircuts Editorial Team","Get in touch with the Trend Haircuts editorial and styling team.",`${f}/contact`),t=R()):e==="privacy"?(b("Privacy Policy | Trend Haircuts","Privacy policy and data protection terms for Trend Haircuts readers.",`${f}/privacy`),t=U()):e==="terms"?(b("Terms of Service | Trend Haircuts","Terms of service and reader agreement for Trend Haircuts.",`${f}/terms`),t=O()):e==="disclaimer"?(b("Editorial Disclaimer | Trend Haircuts","Editorial disclosure and hair styling safety disclaimers for Trend Haircuts.",`${f}/disclaimer`),t=Y()):e==="sitemap"&&(b("HTML Sitemap | Trend Haircuts","Complete directory and sitemap of all published haircut guides, category boards, and articles on Trend Haircuts.",`${f}/sitemap`),t=V());a.innerHTML=`
+      `;else{const h=`${n.title||"Hairstyle Guide"} | Trend Haircuts`,u=n.intro||(Array.isArray(n.introParagraphs)?n.introParagraphs.join(" "):n.description||""),r=u.length>155?`${u.substring(0,152)}...`:u,l=n.heroImage||n.image||"";b(h,r,`${f}/${n.slug||o}`,l),t=M(n)}}else if(e==="category"){const o=s.split("-").map(n=>n.charAt(0).toUpperCase()+n.slice(1)).join(" ");b(`${o} Hairstyles & Cut Ideas | Trend Haircuts`,`Explore top hand-curated ${o} hairstyle lookbooks, photo galleries, and professional styling guides on Trend Haircuts.`,`${f}/category/${s}`),t=G(s,null)}else e==="about"?(b("About Us | Trend Haircuts Editorial Team","Learn about Trend Haircuts, your daily destination for hand-curated haircut listicles, trend guides, and hair care masterclasses.",`${f}/about`),t=E()):e==="contact"?(b("Contact Us | Trend Haircuts Editorial Team","Get in touch with the Trend Haircuts editorial and styling team.",`${f}/contact`),t=R()):e==="privacy"?(b("Privacy Policy | Trend Haircuts","Privacy policy and data protection terms for Trend Haircuts readers.",`${f}/privacy`),t=U()):e==="terms"?(b("Terms of Service | Trend Haircuts","Terms of service and reader agreement for Trend Haircuts.",`${f}/terms`),t=O()):e==="disclaimer"?(b("Editorial Disclaimer | Trend Haircuts","Editorial disclosure and hair styling safety disclaimers for Trend Haircuts.",`${f}/disclaimer`),t=Y()):e==="sitemap"&&(b("HTML Sitemap | Trend Haircuts","Complete directory and sitemap of all published haircut guides, category boards, and articles on Trend Haircuts.",`${f}/sitemap`),t=V());a.innerHTML=`
     ${A()}
     <main>${t}</main>
     ${N()}
     ${D()}
-  `,window.lucide&&window.lucide.createIcons(),K(),window.scrollTo({top:0,behavior:"smooth"})}document.addEventListener("click",a=>{const i=a.target.closest("a");if(!i)return;const e=i.getAttribute("href");if(e&&!(e.startsWith("http://")||e.startsWith("https://")||e.startsWith("mailto:")||e.startsWith("tel:")||e.endsWith(".xml"))){if(e.startsWith("#")){a.preventDefault();const s=e.replace("#",""),t=document.getElementById(s);t&&t.scrollIntoView({behavior:"smooth"});return}e.startsWith("/")&&(a.preventDefault(),window.location.pathname!==e&&(window.history.pushState({},"",e),k()))}});function K(){const a=document.getElementById("header");window.onscroll=()=>{window.scrollY>20?a==null||a.classList.add("scrolled"):a==null||a.classList.remove("scrolled")};const i=document.getElementById("toc-header-bar"),e=document.getElementById("investopedia-toc"),s=document.getElementById("toc-toggle-text");i&&e&&i.addEventListener("click",()=>{e.classList.toggle("collapsed");const d=e.classList.contains("collapsed");s&&(s.textContent=d?"Show":"Hide")}),document.querySelectorAll(".investopedia-toc-list a, .toc-list a").forEach(d=>{d.addEventListener("click",g=>{g.preventDefault();const y=d.getAttribute("href");if(y&&y.startsWith("#")){const x=y.replace("#",""),T=document.getElementById(x);T&&T.scrollIntoView({behavior:"smooth"})}})}),document.addEventListener("click",d=>{const g=d.target.closest(".chip-tag, .chip-btn");if(g&&g.dataset.tag){const y=g.dataset.tag;w(y)}if(g&&g.dataset.style){const y=g.dataset.style;document.querySelectorAll(".chip-btn").forEach(x=>x.classList.remove("active")),g.classList.add("active"),L.activeStyle=y}});const t=document.getElementById("mobile-menu-btn"),o=document.getElementById("close-mobile-drawer-btn"),n=document.getElementById("mobile-drawer-overlay"),h=()=>{n==null||n.classList.add("active"),document.body.style.overflow="hidden"},c=()=>{n==null||n.classList.remove("active"),document.body.style.overflow=""};t==null||t.addEventListener("click",h),o==null||o.addEventListener("click",c),n==null||n.addEventListener("click",d=>{d.target===n&&c()}),document.querySelectorAll(".mobile-drawer-accordion-btn").forEach(d=>{d.addEventListener("click",()=>{const g=d.dataset.accordion,y=document.getElementById(g);d.classList.toggle("active"),y==null||y.classList.toggle("active")})}),document.querySelectorAll("#mobile-drawer-overlay a").forEach(d=>{d.addEventListener("click",c)});const r=document.getElementById("search-trigger-btn"),l=document.getElementById("search-modal"),u=document.getElementById("close-search-modal-btn"),w=(d="")=>{l==null||l.classList.add("active");const g=document.getElementById("modal-search-input");g&&(g.value=d,g.focus(),B(d))};r==null||r.addEventListener("click",()=>w("")),u==null||u.addEventListener("click",()=>l==null?void 0:l.classList.remove("active"));const m=document.getElementById("modal-search-input");m==null||m.addEventListener("input",d=>{B(d.target.value)});function B(d){const g=document.getElementById("modal-search-results");if(!g)return;const y=d.toLowerCase().trim();if(!y){g.innerHTML=v(p),window.lucide&&window.lucide.createIcons();return}const x=p.filter(T=>T.title.toLowerCase().includes(y)||T.category.toLowerCase().includes(y)||T.intro.toLowerCase().includes(y));g.innerHTML=v(x),window.lucide&&window.lucide.createIcons()}const _=document.getElementById("hero-search-form");_==null||_.addEventListener("submit",d=>{var y;d.preventDefault();const g=(y=document.getElementById("hero-search-input"))==null?void 0:y.value;w(g||"")});const W=document.getElementById("load-more-btn");W==null||W.addEventListener("click",()=>{L.loadedArticlesCount+=4,k()})}window.renderAppGlobal=k;window.addEventListener("popstate",k);window.addEventListener("render-app",k);document.readyState==="loading"?document.addEventListener("DOMContentLoaded",k):k();document.addEventListener("copy",a=>{const i=window.getSelection(),e=i?i.toString():"";e&&e.trim().length>30&&(a.preventDefault(),a.clipboardData&&a.clipboardData.setData("text/plain",""))});document.addEventListener("keydown",a=>{if((a.ctrlKey||a.metaKey)&&(a.key==="a"||a.key==="A")){const i=a.target;if(i&&(i.tagName==="INPUT"||i.tagName==="TEXTAREA"))return;a.preventDefault()}});document.addEventListener("click",a=>{const i=a.target.closest(".pinterest-pin-btn, .pinterest-pin-btn-custom");if(i){a.preventDefault(),a.stopPropagation();const e=i.getAttribute("data-pin-media")||"",s=i.getAttribute("data-pin-desc")||"Trend Haircuts Inspiration",t=window.location.href,o=e.startsWith("http")?e:`${window.location.origin}${e.startsWith("/")?"":"/"}${e}`,n=`https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(t)}&media=${encodeURIComponent(o)}&description=${s}`;window.open(n,"pinterest_pin","width=750,height=600,toolbar=no,menubar=no,scrollbars=yes")}});
+  `,window.lucide&&window.lucide.createIcons(),K(),window.scrollTo({top:0,behavior:"smooth"})}document.addEventListener("click",a=>{const i=a.target.closest("a");if(!i)return;const e=i.getAttribute("href");if(e&&!(e.startsWith("http://")||e.startsWith("https://")||e.startsWith("mailto:")||e.startsWith("tel:")||e.endsWith(".xml"))){if(e.startsWith("#")){a.preventDefault();const s=e.replace("#",""),t=document.getElementById(s);t&&t.scrollIntoView({behavior:"smooth"});return}e.startsWith("/")&&(a.preventDefault(),window.location.pathname!==e&&(window.history.pushState({},"",e),k()))}});function K(){const a=document.getElementById("header");window.onscroll=()=>{window.scrollY>20?a==null||a.classList.add("scrolled"):a==null||a.classList.remove("scrolled")};const i=document.getElementById("toc-header-bar"),e=document.getElementById("investopedia-toc"),s=document.getElementById("toc-toggle-text");i&&e&&i.addEventListener("click",()=>{e.classList.toggle("collapsed");const d=e.classList.contains("collapsed");s&&(s.textContent=d?"Show":"Hide")}),document.querySelectorAll(".investopedia-toc-list a, .toc-list a").forEach(d=>{d.addEventListener("click",c=>{c.preventDefault();const y=d.getAttribute("href");if(y&&y.startsWith("#")){const x=y.replace("#",""),T=document.getElementById(x);T&&T.scrollIntoView({behavior:"smooth"})}})}),document.addEventListener("click",d=>{const c=d.target.closest(".chip-tag, .chip-btn");if(c&&c.dataset.tag){const y=c.dataset.tag;w(y)}if(c&&c.dataset.style){const y=c.dataset.style;document.querySelectorAll(".chip-btn").forEach(x=>x.classList.remove("active")),c.classList.add("active"),L.activeStyle=y}});const t=document.getElementById("mobile-menu-btn"),o=document.getElementById("close-mobile-drawer-btn"),n=document.getElementById("mobile-drawer-overlay"),h=()=>{n==null||n.classList.add("active"),document.body.style.overflow="hidden"},u=()=>{n==null||n.classList.remove("active"),document.body.style.overflow=""};t==null||t.addEventListener("click",h),o==null||o.addEventListener("click",u),n==null||n.addEventListener("click",d=>{d.target===n&&u()}),document.querySelectorAll(".mobile-drawer-accordion-btn").forEach(d=>{d.addEventListener("click",()=>{const c=d.dataset.accordion,y=document.getElementById(c);d.classList.toggle("active"),y==null||y.classList.toggle("active")})}),document.querySelectorAll("#mobile-drawer-overlay a").forEach(d=>{d.addEventListener("click",u)});const r=document.getElementById("search-trigger-btn"),l=document.getElementById("search-modal"),g=document.getElementById("close-search-modal-btn"),w=(d="")=>{l==null||l.classList.add("active");const c=document.getElementById("modal-search-input");c&&(c.value=d,c.focus(),B(d))};r==null||r.addEventListener("click",()=>w("")),g==null||g.addEventListener("click",()=>l==null?void 0:l.classList.remove("active"));const m=document.getElementById("modal-search-input");m==null||m.addEventListener("input",d=>{B(d.target.value)});function B(d){const c=document.getElementById("modal-search-results");if(!c)return;const y=d.toLowerCase().trim();if(!y){c.innerHTML=v(p),window.lucide&&window.lucide.createIcons();return}const x=p.filter(T=>T.title.toLowerCase().includes(y)||T.category.toLowerCase().includes(y)||T.intro.toLowerCase().includes(y));c.innerHTML=v(x),window.lucide&&window.lucide.createIcons()}const _=document.getElementById("hero-search-form");_==null||_.addEventListener("submit",d=>{var y;d.preventDefault();const c=(y=document.getElementById("hero-search-input"))==null?void 0:y.value;w(c||"")});const W=document.getElementById("load-more-btn");W==null||W.addEventListener("click",()=>{L.loadedArticlesCount+=4,k()})}window.renderAppGlobal=k;window.addEventListener("popstate",k);window.addEventListener("render-app",k);document.readyState==="loading"?document.addEventListener("DOMContentLoaded",k):k();document.addEventListener("copy",a=>{const i=window.getSelection(),e=i?i.toString():"";e&&e.trim().length>30&&(a.preventDefault(),a.clipboardData&&a.clipboardData.setData("text/plain",""))});document.addEventListener("keydown",a=>{if((a.ctrlKey||a.metaKey)&&(a.key==="a"||a.key==="A")){const i=a.target;if(i&&(i.tagName==="INPUT"||i.tagName==="TEXTAREA"))return;a.preventDefault()}});document.addEventListener("click",a=>{const i=a.target.closest(".pinterest-pin-btn, .pinterest-pin-btn-custom");if(i){a.preventDefault(),a.stopPropagation();const e=i.getAttribute("data-pin-media")||"",s=i.getAttribute("data-pin-desc")||"Trend Haircuts Inspiration",t=window.location.href,o=e.startsWith("http")?e:`${window.location.origin}${e.startsWith("/")?"":"/"}${e}`,n=`https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(t)}&media=${encodeURIComponent(o)}&description=${s}`;window.open(n,"pinterest_pin","width=750,height=600,toolbar=no,menubar=no,scrollbars=yes")}});
