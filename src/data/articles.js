@@ -7749,7 +7749,7 @@ export const articles = [
     "date": "August 4, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "8 min read",
-    "image": "/images/doc94_cover.jpg",
+    "image": "/images/dark_chocolate_brunette_with_blonde_highlights_cover_collage.jpg",
     "description": "Discover stunning dark chocolate brunette hair with blonde highlights. From subtle honey balayage to bold money pieces, explore the best dimensional hair color ideas.",
     "introParagraphs": [
       "There is something undeniably luxurious about dark chocolate brunette hair. It is rich, deep, and full of life on its own. But when you add blonde highlights into the mix, the entire look transforms into something spectacular.",
@@ -7995,7 +7995,7 @@ export const articles = [
       }
     ],
     "intro": "There is something undeniably luxurious about dark chocolate brunette hair. It is rich, deep, and full of life on its own. But when you add blonde highlights into the mix, the entire look transforms into something spectacular. The contrast between the dark, cool-toned base and the bright, warm ribbons of blonde creates a dimensional effect that catches light from every angle. Whether you are a natural brunette looking for a subtle refresh or someone ready to make a bold change, dark chocolate brunette with blonde highlights offers endless possibilities. From soft babylights to bold chunky streaks, this color combination works across all hair lengths, textures, and skin tones. Explore these stunning ways to wear this gorgeous color duo.",
-    "heroImage": "/images/doc94_cover.jpg"
+    "heroImage": "/images/dark_chocolate_brunette_with_blonde_highlights_cover_collage.jpg"
   },
   {
     "id": "pearl-toner-for-blonde-balayage",
@@ -10022,7 +10022,7 @@ export const articles = [
     "date": "September 2, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/doc_round_faces_cover.jpg",
+    "image": "/images/haircuts_and_hairstyles_for_women_with_round_faces_cover_collage.jpg",
     "description": "Explore 15+ Haircuts and Hairstyles for Women with Round Faces. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Round faces look soft, youthful, and friendly, and the right short haircut can bring out all of those features while also adding shape and definition to your cheeks and jawline. When choosing a cut, the main goal is to create a bit of height at the crown and some gentle angles or length around the front so your face appears slightly longer instead of wider. Short hair works beautifully here, because pixies, bobs, and cropped shags can all be customized with layering, parting, and fringe to balance your proportions. Modern cuts for round faces focus on texture, side or off-center parts, and soft movement, avoiding heavy width at the cheeks or a blunt straight-across line at the fullest part of your face. With that in mind, here are 20 of the best short haircuts that flatter a round face and feel current for 2025\u20132026."
@@ -10249,7 +10249,7 @@ export const articles = [
       }
     ],
     "intro": "Round faces look soft, youthful, and friendly, and the right short haircut can bring out all of those features while also adding shape and definition to your cheeks and jawline. When choosing a cut, the main goal is to create a bit of height at the crown and some gentle angles or length around the front so your face appears slightly longer instead of wider. Short hair works beautifully here, because pixies, bobs, and cropped shags can all be customized with layering, parting, and fringe to balance your proportions. Modern cuts for round faces focus on texture, side or off-center parts, and soft movement, avoiding heavy width at the cheeks or a blunt straight-across line at the fullest part of your face. With that in mind, here are 20 of the best short haircuts that flatter a round face and feel current for 2025\u20132026.",
-    "heroImage": "/images/doc_round_faces_cover.jpg"
+    "heroImage": "/images/haircuts_and_hairstyles_for_women_with_round_faces_cover_collage.jpg"
   },
   {
     "id": "interview-hairstyle-with-glasses-to-save-now",
@@ -10260,7 +10260,7 @@ export const articles = [
     "date": "September 1, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/doc_interview_glasses_cover.jpg",
+    "image": "/images/interview_hairstyle_with_glasses_to_save_now_cover_collage.jpg",
     "description": "Explore 17+ Interview Hairstyle with Glasses to Save Now. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Preparing for a job interview\u00a0involves choosing the perfect outfit and making sure your hair looks polished. If you wear eyewear, finding the right look can feel tricky, but it does not have to be. Exploring a 20 interview hairstyle with glasses guide helps you discover options that frame your face beautifully and keep you looking professional. Your frames already draw attention to your face, so your hair should complement them rather than compete for attention. Whether you have short, medium, or long hair, there are plenty of neat and confident options to choose from. From sleek buns to tailored bobs, the right haircut or style will make you feel ready to impress your future employers."
@@ -10476,7 +10476,7 @@ export const articles = [
       }
     ],
     "intro": "Preparing for a job interview\u00a0involves choosing the perfect outfit and making sure your hair looks polished. If you wear eyewear, finding the right look can feel tricky, but it does not have to be. Exploring a 20 interview hairstyle with glasses guide helps you discover options that frame your face beautifully and keep you looking professional. Your frames already draw attention to your face, so your hair should complement them rather than compete for attention. Whether you have short, medium, or long hair, there are plenty of neat and confident options to choose from. From sleek buns to tailored bobs, the right haircut or style will make you feel ready to impress your future employers.",
-    "heroImage": "/images/doc_interview_glasses_cover.jpg"
+    "heroImage": "/images/interview_hairstyle_with_glasses_to_save_now_cover_collage.jpg"
   },
   {
     "id": "flattering-haircut-for-oblong-face-women",
@@ -10487,7 +10487,7 @@ export const articles = [
     "date": "August 31, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/doc_oblong_face_cover.jpg",
+    "image": "/images/flattering_haircut_for_oblong_face_women_cover_collage.jpg",
     "description": "Explore 13+ Flattering Haircut for Oblong Face Women. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape."
@@ -10692,7 +10692,7 @@ export const articles = [
       }
     ],
     "intro": "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape.",
-    "heroImage": "/images/doc_oblong_face_cover.jpg"
+    "heroImage": "/images/flattering_haircut_for_oblong_face_women_cover_collage.jpg"
   },
   {
     "id": "hairstyles-for-women-with-glasses-over-60-to-save",
@@ -10703,7 +10703,7 @@ export const articles = [
     "date": "August 30, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/doc_glasses_over60_cover.jpg",
+    "image": "/images/hairstyles_for_women_with_glasses_over_60_to_save_cover_collage.jpg",
     "description": "Explore 15+ Hairstyles for Women with Glasses over 60 to Save. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Finding the perfect balance between style and function becomes a top priority for women over 60 who wear glasses. Eyewear is no longer just a necessity but a key fashion accessory that should harmonize with your haircut to enhance your natural beauty. Whether you prefer a bold statement frame or a subtle wire-rimmed look, your hair plays a crucial role in framing your face and balancing your features. In 2026, the trends for hairstyles for women with glasses over 60 focus on texture, volume, and manageable lengths that offer a youthful lift. From chic pixies to elegant lobs, these twenty curated looks are designed to keep you looking modern while ensuring your glasses remain a stylish focal point of your overall aesthetic."
@@ -10908,7 +10908,7 @@ export const articles = [
       }
     ],
     "intro": "Finding the perfect balance between style and function becomes a top priority for women over 60 who wear glasses. Eyewear is no longer just a necessity but a key fashion accessory that should harmonize with your haircut to enhance your natural beauty. Whether you prefer a bold statement frame or a subtle wire-rimmed look, your hair plays a crucial role in framing your face and balancing your features. In 2026, the trends for hairstyles for women with glasses over 60 focus on texture, volume, and manageable lengths that offer a youthful lift. From chic pixies to elegant lobs, these twenty curated looks are designed to keep you looking modern while ensuring your glasses remain a stylish focal point of your overall aesthetic.",
-    "heroImage": "/images/doc_glasses_over60_cover.jpg"
+    "heroImage": "/images/hairstyles_for_women_with_glasses_over_60_to_save_cover_collage.jpg"
   },
   {
     "id": "gray-hairstyles-for-women-with-glasses-to-inspire-you",
@@ -10919,7 +10919,7 @@ export const articles = [
     "date": "August 29, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/doc_glasses_gray_cover.jpg",
+    "image": "/images/gray_hairstyles_for_women_with_glasses_to_inspire_you_cover_collage.jpg",
     "description": "Explore 16+ Gray Hairstyles for Women with Glasses to Inspire You. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Embracing a silver mane is a powerful style statement in 2026, especially when paired with the right eyewear to create a cohesive look. Choosing a hairstyle that complements your glasses involves balancing the weight of your frames with the texture and volume of your hair. Many women find that transitioning to natural gray opens up a vibrant new palette of cool tones that make metallic or jewel-toned frames pop. Whether you prefer a sharp, modern bob or a soft, feathered pixie, the goal is to highlight your facial features while keeping your glasses as a functional accessory. This guide explores the most flattering gray hairstyles designed to work in harmony with various frame shapes and personal styles."
@@ -11146,7 +11146,7 @@ export const articles = [
       }
     ],
     "intro": "Embracing a silver mane is a powerful style statement in 2026, especially when paired with the right eyewear to create a cohesive look. Choosing a hairstyle that complements your glasses involves balancing the weight of your frames with the texture and volume of your hair. Many women find that transitioning to natural gray opens up a vibrant new palette of cool tones that make metallic or jewel-toned frames pop. Whether you prefer a sharp, modern bob or a soft, feathered pixie, the goal is to highlight your facial features while keeping your glasses as a functional accessory. This guide explores the most flattering gray hairstyles designed to work in harmony with various frame shapes and personal styles.",
-    "heroImage": "/images/doc_glasses_gray_cover.jpg"
+    "heroImage": "/images/gray_hairstyles_for_women_with_glasses_to_inspire_you_cover_collage.jpg"
   },
   {
     "id": "flattering-short-haircut-for-women-with-glasses",
@@ -11157,7 +11157,7 @@ export const articles = [
     "date": "August 28, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/doc_glasses_short_cover.jpg",
+    "image": "/images/flattering_short_haircut_for_women_with_glasses_cover_collage.jpg",
     "description": "Explore 13+ Flattering Short Haircut for Women with Glasses. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Finding a flattering short haircut for women with glasses can feel like a daunting task, but the right style actually enhances your frames while highlighting your best facial features. Short hair offers a unique opportunity to draw attention to your eyes and the style of your eyewear, creating a cohesive and fashionable look that works for any occasion. Whether you prefer a bold pixie or a sophisticated bob, these modern cuts are designed to balance the proportions of your face and the weight of your spectacles. In 2026, the trends emphasize texture, movement, and personalized layers that prevent your hair from competing with your frames. This guide explores versatile options that feel both effortless and intentionally styled for your specific face shape."
@@ -11362,7 +11362,7 @@ export const articles = [
       }
     ],
     "intro": "Finding a flattering short haircut for women with glasses can feel like a daunting task, but the right style actually enhances your frames while highlighting your best facial features. Short hair offers a unique opportunity to draw attention to your eyes and the style of your eyewear, creating a cohesive and fashionable look that works for any occasion. Whether you prefer a bold pixie or a sophisticated bob, these modern cuts are designed to balance the proportions of your face and the weight of your spectacles. In 2026, the trends emphasize texture, movement, and personalized layers that prevent your hair from competing with your frames. This guide explores versatile options that feel both effortless and intentionally styled for your specific face shape.",
-    "heroImage": "/images/doc_glasses_short_cover.jpg"
+    "heroImage": "/images/flattering_short_haircut_for_women_with_glasses_cover_collage.jpg"
   },
   {
     "id": "short-haircuts-for-round-faces-you-ll-love",
