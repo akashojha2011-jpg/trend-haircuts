@@ -13808,7 +13808,7 @@ export const articles = [
     "title": "12+ Beautiful Bun Hairstyles You\u2019ll Love",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
-    "heroImage": "/images/doc50_cover_collage.jpg",
+    "heroImage": "/images/doc_beautiful_bun_cover_pin.jpg",
     "readTime": "8 min read",
     "date": "August 18, 2026",
     "isFeatured": true,
