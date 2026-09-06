@@ -53,15 +53,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What hair colors work best as a base for pumpkin spice balayage?",
-        "a": "Medium to dark brown, auburn, and natural warm brunette bases blend seamlessly with copper, cinnamon, and golden amber balayage ribbons."
+        "a": "Medium to dark brown, auburn, and natural warm brunette bases blend seamlessly with copper, cinnamon, and golden amber balayage ribbons.",
+        "question": "What hair colors work best as a base for pumpkin spice balayage?",
+        "answer": "Medium to dark brown, auburn, and natural warm brunette bases blend seamlessly with copper, cinnamon, and golden amber balayage ribbons."
       },
       {
         "q": "How do I keep copper and pumpkin spice tones from fading fast?",
-        "a": "Copper pigments fade faster than dark dyes. Wash with cool water, avoid daily shampooing, and use a copper color-depositing conditioner once a week."
+        "a": "Copper pigments fade faster than dark dyes. Wash with cool water, avoid daily shampooing, and use a copper color-depositing conditioner once a week.",
+        "question": "How do I keep copper and pumpkin spice tones from fading fast?",
+        "answer": "Copper pigments fade faster than dark dyes. Wash with cool water, avoid daily shampooing, and use a copper color-depositing conditioner once a week."
       },
       {
         "q": "Is pumpkin spice balayage high maintenance?",
-        "a": "Because balayage focuses color on the mid-lengths and ends away from the scalp, root grow-out remains lived-in and low maintenance for 8 to 12 weeks."
+        "a": "Because balayage focuses color on the mid-lengths and ends away from the scalp, root grow-out remains lived-in and low maintenance for 8 to 12 weeks.",
+        "question": "Is pumpkin spice balayage high maintenance?",
+        "answer": "Because balayage focuses color on the mid-lengths and ends away from the scalp, root grow-out remains lived-in and low maintenance for 8 to 12 weeks."
       }
     ],
     "items": [
@@ -312,7 +318,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous low-maintenance pumpkin spice balayage crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with low-maintenance pumpkin spice balayage, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc71_cover_collage.jpg"
   },
   {
     "id": "salt-and-pepper-balayage",
@@ -370,11 +377,15 @@ export const articles = [
     "faqs": [
       {
         "q": "How does salt and pepper balayage help transition to natural gray hair?",
-        "a": "By weaving fine silver and charcoal balayage ribbons through dark roots, the growth lines blur softly, letting you embrace natural grays gracefully."
+        "a": "By weaving fine silver and charcoal balayage ribbons through dark roots, the growth lines blur softly, letting you embrace natural grays gracefully.",
+        "question": "How does salt and pepper balayage help transition to natural gray hair?",
+        "answer": "By weaving fine silver and charcoal balayage ribbons through dark roots, the growth lines blur softly, letting you embrace natural grays gracefully."
       },
       {
         "q": "What shampoo is best for silver and salt and pepper hair?",
-        "a": "A purple or silver toning shampoo used once every 1 to 2 weeks neutralizes yellow tones caused by environmental exposure and heat styling."
+        "a": "A purple or silver toning shampoo used once every 1 to 2 weeks neutralizes yellow tones caused by environmental exposure and heat styling.",
+        "question": "What shampoo is best for silver and salt and pepper hair?",
+        "answer": "A purple or silver toning shampoo used once every 1 to 2 weeks neutralizes yellow tones caused by environmental exposure and heat styling."
       }
     ],
     "items": [
@@ -633,7 +644,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous salt and pepper balayage with shadow root crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with salt and pepper balayage with shadow root, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc72_cover_collage.jpg"
   },
   {
     "id": "summer-honey-highlights",
@@ -692,11 +704,15 @@ export const articles = [
     "faqs": [
       {
         "q": "Do honey highlights work on dark brown hair?",
-        "a": "Yes! Honey highlights provide warm, sun-kissed dimension against chocolate brown hair without requiring aggressive platinum lifting."
+        "a": "Yes! Honey highlights provide warm, sun-kissed dimension against chocolate brown hair without requiring aggressive platinum lifting.",
+        "question": "Do honey highlights work on dark brown hair?",
+        "answer": "Yes! Honey highlights provide warm, sun-kissed dimension against chocolate brown hair without requiring aggressive platinum lifting."
       },
       {
         "q": "What is the difference between honey blonde and ash blonde highlights?",
-        "a": "Honey blonde highlights contain golden, amber, and warm beige undertones, whereas ash blonde features cool, smoky, silver tones."
+        "a": "Honey blonde highlights contain golden, amber, and warm beige undertones, whereas ash blonde features cool, smoky, silver tones.",
+        "question": "What is the difference between honey blonde and ash blonde highlights?",
+        "answer": "Honey blonde highlights contain golden, amber, and warm beige undertones, whereas ash blonde features cool, smoky, silver tones."
       }
     ],
     "items": [
@@ -980,7 +996,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous honey highlights on brunette balayage hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with honey highlights on brunette balayage hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc73_cover_collage.jpg"
   },
   {
     "id": "vibrant-violet-balayage",
@@ -1038,11 +1055,15 @@ export const articles = [
     "faqs": [
       {
         "q": "How long does vibrant violet balayage hold its brightness?",
-        "a": "Vibrant violet tones remain vibrant for 4 to 6 weeks before fading into a beautiful soft lavender or dusty mauve tone."
+        "a": "Vibrant violet tones remain vibrant for 4 to 6 weeks before fading into a beautiful soft lavender or dusty mauve tone.",
+        "question": "How long does vibrant violet balayage hold its brightness?",
+        "answer": "Vibrant violet tones remain vibrant for 4 to 6 weeks before fading into a beautiful soft lavender or dusty mauve tone."
       },
       {
         "q": "Can I get violet balayage without bleaching my entire head?",
-        "a": "Yes! Balayage only lightens specific hand-selected ribbons of hair, keeping your base natural and healthy while adding pop-of-color pops."
+        "a": "Yes! Balayage only lightens specific hand-selected ribbons of hair, keeping your base natural and healthy while adding pop-of-color pops.",
+        "question": "Can I get violet balayage without bleaching my entire head?",
+        "answer": "Yes! Balayage only lightens specific hand-selected ribbons of hair, keeping your base natural and healthy while adding pop-of-color pops."
       }
     ],
     "items": [
@@ -1315,7 +1336,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous violet balayage with silver highlights crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with violet balayage with silver highlights, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc74_cover_collage.jpg"
   },
   {
     "id": "balayage-for-straight-hair",
@@ -1373,11 +1395,15 @@ export const articles = [
     "faqs": [
       {
         "q": "Does balayage look stripey on straight hair?",
-        "a": "When painted by an experienced colorist using fine micro-weaving and seamless root-melting techniques, balayage looks silky and dimensional on straight strands."
+        "a": "When painted by an experienced colorist using fine micro-weaving and seamless root-melting techniques, balayage looks silky and dimensional on straight strands.",
+        "question": "Does balayage look stripey on straight hair?",
+        "answer": "When painted by an experienced colorist using fine micro-weaving and seamless root-melting techniques, balayage looks silky and dimensional on straight strands."
       },
       {
         "q": "How do I style straight balayage hair for maximum shine?",
-        "a": "Apply a heat protectant and blow-dry with a paddle brush, finishing with a drop of hair serum on the ends to highlight color transitions."
+        "a": "Apply a heat protectant and blow-dry with a paddle brush, finishing with a drop of hair serum on the ends to highlight color transitions.",
+        "question": "How do I style straight balayage hair for maximum shine?",
+        "answer": "Apply a heat protectant and blow-dry with a paddle brush, finishing with a drop of hair serum on the ends to highlight color transitions."
       }
     ],
     "items": [
@@ -1668,7 +1694,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous black and brown balayage on straight hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with black and brown balayage on straight hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc75_cover_collage.jpg"
   },
   {
     "id": "soft-black-hair-color-ideas",
@@ -1725,15 +1752,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the difference between soft black and jet black hair color?",
-        "a": "Jet black has cool, intensely saturated blue or blue-violet undertones for a stark finish, whereas soft black features neutral to warm dark espresso tones that look softer, richer, and more natural."
+        "a": "Jet black has cool, intensely saturated blue or blue-violet undertones for a stark finish, whereas soft black features neutral to warm dark espresso tones that look softer, richer, and more natural.",
+        "question": "What is the difference between soft black and jet black hair color?",
+        "answer": "Jet black has cool, intensely saturated blue or blue-violet undertones for a stark finish, whereas soft black features neutral to warm dark espresso tones that look softer, richer, and more natural."
       },
       {
         "q": "Does soft black hair color work well on pale skin tones?",
-        "a": "Yes! Soft black lacks the harshness of blue-black shades, making it surprisingly flattering on pale and medium complexions without washing out your natural skin undertones."
+        "a": "Yes! Soft black lacks the harshness of blue-black shades, making it surprisingly flattering on pale and medium complexions without washing out your natural skin undertones.",
+        "question": "Does soft black hair color work well on pale skin tones?",
+        "answer": "Yes! Soft black lacks the harshness of blue-black shades, making it surprisingly flattering on pale and medium complexions without washing out your natural skin undertones."
       },
       {
         "q": "How do I maintain glossy shine with soft black hair?",
-        "a": "Use a sulfate-free color-safe shampoo, rinse with cool water to seal the hair cuticle, and apply a lightweight clear hair oil or gloss treatment every 4 to 6 weeks."
+        "a": "Use a sulfate-free color-safe shampoo, rinse with cool water to seal the hair cuticle, and apply a lightweight clear hair oil or gloss treatment every 4 to 6 weeks.",
+        "question": "How do I maintain glossy shine with soft black hair?",
+        "answer": "Use a sulfate-free color-safe shampoo, rinse with cool water to seal the hair cuticle, and apply a lightweight clear hair oil or gloss treatment every 4 to 6 weeks."
       }
     ],
     "items": [
@@ -1988,7 +2021,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous soft black ombre hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with soft black ombre hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc76_cover_collage.jpg"
   },
   {
     "id": "violet-black-hair-color",
@@ -2046,15 +2080,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How does violet black hair color look in different lighting?",
-        "a": "Indoors, violet black appears as a deep, luxurious black. In direct sunlight or bright indoor lighting, rich plum and violet shimmer reflects through the hair strands."
+        "a": "Indoors, violet black appears as a deep, luxurious black. In direct sunlight or bright indoor lighting, rich plum and violet shimmer reflects through the hair strands.",
+        "question": "How does violet black hair color look in different lighting?",
+        "answer": "Indoors, violet black appears as a deep, luxurious black. In direct sunlight or bright indoor lighting, rich plum and violet shimmer reflects through the hair strands."
       },
       {
         "q": "Does violet black hair require pre-lightening or bleach?",
-        "a": "For natural brunettes and dark hair bases, violet black can often be achieved with a deposit-only demi-permanent dye without heavy bleaching, preserving hair strength."
+        "a": "For natural brunettes and dark hair bases, violet black can often be achieved with a deposit-only demi-permanent dye without heavy bleaching, preserving hair strength.",
+        "question": "Does violet black hair require pre-lightening or bleach?",
+        "answer": "For natural brunettes and dark hair bases, violet black can often be achieved with a deposit-only demi-permanent dye without heavy bleaching, preserving hair strength."
       },
       {
         "q": "How do I prevent violet tones from fading brassy?",
-        "a": "Incorporate a purple or dark violet color-depositing conditioner every 2 weeks to keep the cool berry and plum tones vibrant between salon visits."
+        "a": "Incorporate a purple or dark violet color-depositing conditioner every 2 weeks to keep the cool berry and plum tones vibrant between salon visits.",
+        "question": "How do I prevent violet tones from fading brassy?",
+        "answer": "Incorporate a purple or dark violet color-depositing conditioner every 2 weeks to keep the cool berry and plum tones vibrant between salon visits."
       }
     ],
     "items": [
@@ -2298,7 +2338,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous violet black hair with silver accents crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with violet black hair with silver accents, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc77_cover_collage.jpg"
   },
   {
     "id": "black-hair-color-ideas",
@@ -2356,15 +2397,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How often does dark black hair color need root touch-ups?",
-        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
+        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots.",
+        "question": "How often does dark black hair color need root touch-ups?",
+        "answer": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
       },
       {
         "q": "Can I transition back to a lighter hair color after dyeing it black?",
-        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
+        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity.",
+        "question": "Can I transition back to a lighter hair color after dyeing it black?",
+        "answer": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
       },
       {
         "q": "What styling products enhance deep black hair density?",
-        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
+        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture.",
+        "question": "What styling products enhance deep black hair density?",
+        "answer": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
       }
     ],
     "items": [
@@ -2652,7 +2699,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous velvety black hair color crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with velvety black hair color, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc78_cover_collage.jpg"
   },
   {
     "id": "hair-color-ideas-for-black-hair",
@@ -2709,11 +2757,15 @@ export const articles = [
     "faqs": [
       {
         "q": "How do I choose the best hairstyle for my hair type and face shape?",
-        "a": "Consult with your stylist to evaluate your natural hair texture, density, and facial proportions to customize layers and length for an effortless daily look."
+        "a": "Consult with your stylist to evaluate your natural hair texture, density, and facial proportions to customize layers and length for an effortless daily look.",
+        "question": "How do I choose the best hairstyle for my hair type and face shape?",
+        "answer": "Consult with your stylist to evaluate your natural hair texture, density, and facial proportions to customize layers and length for an effortless daily look."
       },
       {
         "q": "How often should I trim my hair to maintain health and shape?",
-        "a": "For short cuts and bobs, schedule trims every 4 to 6 weeks. For medium and long layered cuts, trims every 8 to 10 weeks prevent split ends."
+        "a": "For short cuts and bobs, schedule trims every 4 to 6 weeks. For medium and long layered cuts, trims every 8 to 10 weeks prevent split ends.",
+        "question": "How often should I trim my hair to maintain health and shape?",
+        "answer": "For short cuts and bobs, schedule trims every 4 to 6 weeks. For medium and long layered cuts, trims every 8 to 10 weeks prevent split ends."
       }
     ],
     "items": [
@@ -2995,7 +3047,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous mushroom brown hair color black hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with mushroom brown hair color black hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc79_cover_collage.jpg"
   },
   {
     "id": "midnight-black-hair-color",
@@ -3052,15 +3105,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How often does dark black hair color need root touch-ups?",
-        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
+        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots.",
+        "question": "How often does dark black hair color need root touch-ups?",
+        "answer": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
       },
       {
         "q": "Can I transition back to a lighter hair color after dyeing it black?",
-        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
+        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity.",
+        "question": "Can I transition back to a lighter hair color after dyeing it black?",
+        "answer": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
       },
       {
         "q": "What styling products enhance deep black hair density?",
-        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
+        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture.",
+        "question": "What styling products enhance deep black hair density?",
+        "answer": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
       }
     ],
     "items": [
@@ -3272,7 +3331,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous midnight black hair color with face framing pieces crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with midnight black hair color with face framing pieces, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc80_cover_collage.jpg"
   },
   {
     "id": "trendy-soft-black-hair-color",
@@ -3326,15 +3386,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the difference between soft black and jet black hair color?",
-        "a": "Jet black has cool, intensely saturated blue or blue-violet undertones for a stark finish, whereas soft black features neutral to warm dark espresso tones that look softer, richer, and more natural."
+        "a": "Jet black has cool, intensely saturated blue or blue-violet undertones for a stark finish, whereas soft black features neutral to warm dark espresso tones that look softer, richer, and more natural.",
+        "question": "What is the difference between soft black and jet black hair color?",
+        "answer": "Jet black has cool, intensely saturated blue or blue-violet undertones for a stark finish, whereas soft black features neutral to warm dark espresso tones that look softer, richer, and more natural."
       },
       {
         "q": "Does soft black hair color work well on pale skin tones?",
-        "a": "Yes! Soft black lacks the harshness of blue-black shades, making it surprisingly flattering on pale and medium complexions without washing out your natural skin undertones."
+        "a": "Yes! Soft black lacks the harshness of blue-black shades, making it surprisingly flattering on pale and medium complexions without washing out your natural skin undertones.",
+        "question": "Does soft black hair color work well on pale skin tones?",
+        "answer": "Yes! Soft black lacks the harshness of blue-black shades, making it surprisingly flattering on pale and medium complexions without washing out your natural skin undertones."
       },
       {
         "q": "How do I maintain glossy shine with soft black hair?",
-        "a": "Use a sulfate-free color-safe shampoo, rinse with cool water to seal the hair cuticle, and apply a lightweight clear hair oil or gloss treatment every 4 to 6 weeks."
+        "a": "Use a sulfate-free color-safe shampoo, rinse with cool water to seal the hair cuticle, and apply a lightweight clear hair oil or gloss treatment every 4 to 6 weeks.",
+        "question": "How do I maintain glossy shine with soft black hair?",
+        "answer": "Use a sulfate-free color-safe shampoo, rinse with cool water to seal the hair cuticle, and apply a lightweight clear hair oil or gloss treatment every 4 to 6 weeks."
       }
     ],
     "items": [
@@ -3503,7 +3569,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous soft black smooth wave blend crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with soft black smooth wave blend, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc81_cover_collage.jpg"
   },
   {
     "id": "ink-black-hair-color",
@@ -3561,15 +3628,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How often does dark black hair color need root touch-ups?",
-        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
+        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots.",
+        "question": "How often does dark black hair color need root touch-ups?",
+        "answer": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
       },
       {
         "q": "Can I transition back to a lighter hair color after dyeing it black?",
-        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
+        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity.",
+        "question": "Can I transition back to a lighter hair color after dyeing it black?",
+        "answer": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
       },
       {
         "q": "What styling products enhance deep black hair density?",
-        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
+        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture.",
+        "question": "What styling products enhance deep black hair density?",
+        "answer": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
       }
     ],
     "items": [
@@ -3871,7 +3944,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous ink black hair color vs natural black crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with ink black hair color vs natural black, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc82_cover_collage.jpg"
   },
   {
     "id": "glossy-shiny-black-hair",
@@ -3928,15 +4002,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How often does dark black hair color need root touch-ups?",
-        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
+        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots.",
+        "question": "How often does dark black hair color need root touch-ups?",
+        "answer": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
       },
       {
         "q": "Can I transition back to a lighter hair color after dyeing it black?",
-        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
+        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity.",
+        "question": "Can I transition back to a lighter hair color after dyeing it black?",
+        "answer": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
       },
       {
         "q": "What styling products enhance deep black hair density?",
-        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
+        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture.",
+        "question": "What styling products enhance deep black hair density?",
+        "answer": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
       }
     ],
     "items": [
@@ -4206,7 +4286,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous shiny black hair for cool skin tones crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with shiny black hair for cool skin tones, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc83_cover_collage.jpg"
   },
   {
     "id": "dimensional-black-hair-color",
@@ -4263,15 +4344,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How often does dark black hair color need root touch-ups?",
-        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
+        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots.",
+        "question": "How often does dark black hair color need root touch-ups?",
+        "answer": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
       },
       {
         "q": "Can I transition back to a lighter hair color after dyeing it black?",
-        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
+        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity.",
+        "question": "Can I transition back to a lighter hair color after dyeing it black?",
+        "answer": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
       },
       {
         "q": "What styling products enhance deep black hair density?",
-        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
+        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture.",
+        "question": "What styling products enhance deep black hair density?",
+        "answer": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
       }
     ],
     "items": [
@@ -4541,7 +4628,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous dimensional black with red velvet tones crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with dimensional black with red velvet tones, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc84_cover_collage.jpg"
   },
   {
     "id": "raven-black-hair-color",
@@ -4599,15 +4687,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How often does dark black hair color need root touch-ups?",
-        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
+        "a": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots.",
+        "question": "How often does dark black hair color need root touch-ups?",
+        "answer": "Root touch-ups depend on your natural hair growth and contrast, but typically every 4 to 6 weeks for gray coverage or lighter roots."
       },
       {
         "q": "Can I transition back to a lighter hair color after dyeing it black?",
-        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
+        "a": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity.",
+        "question": "Can I transition back to a lighter hair color after dyeing it black?",
+        "answer": "Transitioning from deep black dye to lighter tones requires a gradual, multi-session salon process using gentle color lifters to protect hair integrity."
       },
       {
         "q": "What styling products enhance deep black hair density?",
-        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
+        "a": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture.",
+        "question": "What styling products enhance deep black hair density?",
+        "answer": "Lightweight shine sprays, argan oil serums, and heat protectants enhance the light-reflecting glass quality of dark black hair without weighing down texture."
       }
     ],
     "items": [
@@ -4878,7 +4972,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous raven black shag haircut crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with raven black shag haircut, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc85_cover_collage.jpg"
   },
   {
     "id": "blonde-balayage-on-brown-hair",
@@ -4937,11 +5032,15 @@ export const articles = [
     "faqs": [
       {
         "q": "How do I prevent blonde balayage from turning yellow or brassy?",
-        "a": "Use a purple toning shampoo once a week, wash with lukewarm water, and always apply a heat protectant before heat styling."
+        "a": "Use a purple toning shampoo once a week, wash with lukewarm water, and always apply a heat protectant before heat styling.",
+        "question": "How do I prevent blonde balayage from turning yellow or brassy?",
+        "answer": "Use a purple toning shampoo once a week, wash with lukewarm water, and always apply a heat protectant before heat styling."
       },
       {
         "q": "How often does blonde balayage need a salon appointment?",
-        "a": "Because balayage grows out seamlessly without harsh root lines, touch-ups are usually required only every 8 to 12 weeks."
+        "a": "Because balayage grows out seamlessly without harsh root lines, touch-ups are usually required only every 8 to 12 weeks.",
+        "question": "How often does blonde balayage need a salon appointment?",
+        "answer": "Because balayage grows out seamlessly without harsh root lines, touch-ups are usually required only every 8 to 12 weeks."
       }
     ],
     "items": [
@@ -5216,7 +5315,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous beige blonde balayage on light brown hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with beige blonde balayage on light brown hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc86_cover_collage.jpg"
   },
   {
     "id": "blonde-hair-with-shadow-root-balayage",
@@ -5273,11 +5373,15 @@ export const articles = [
     "faqs": [
       {
         "q": "What are the main benefits of a shadow root with blonde balayage?",
-        "a": "A shadow root softens the line between natural root growth and blonde highlights, eliminating harsh regrowth lines and extending salon visits to 10-12 weeks."
+        "a": "A shadow root softens the line between natural root growth and blonde highlights, eliminating harsh regrowth lines and extending salon visits to 10-12 weeks.",
+        "question": "What are the main benefits of a shadow root with blonde balayage?",
+        "answer": "A shadow root softens the line between natural root growth and blonde highlights, eliminating harsh regrowth lines and extending salon visits to 10-12 weeks."
       },
       {
         "q": "Is a shadow root suitable for fine blonde hair?",
-        "a": "Yes! The darker root creates depth at the crown, making fine or thin hair look visibly thicker and more dimensional."
+        "a": "Yes! The darker root creates depth at the crown, making fine or thin hair look visibly thicker and more dimensional.",
+        "question": "Is a shadow root suitable for fine blonde hair?",
+        "answer": "Yes! The darker root creates depth at the crown, making fine or thin hair look visibly thicker and more dimensional."
       }
     ],
     "items": [
@@ -5546,7 +5650,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous contouring blonde hair with shadow root crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with contouring blonde hair with shadow root, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc87_cover_collage.jpg"
   },
   {
     "id": "lavender-balayage-on-blonde-hair",
@@ -5605,11 +5710,15 @@ export const articles = [
     "faqs": [
       {
         "q": "How light does hair need to be for lavender balayage?",
-        "a": "Pastel lavender pigments require a clean level 9 or 10 blonde base for the delicate purple tones to show clearly."
+        "a": "Pastel lavender pigments require a clean level 9 or 10 blonde base for the delicate purple tones to show clearly.",
+        "question": "How light does hair need to be for lavender balayage?",
+        "answer": "Pastel lavender pigments require a clean level 9 or 10 blonde base for the delicate purple tones to show clearly."
       },
       {
         "q": "What color does lavender balayage fade into?",
-        "a": "As lavender washes out, it mellows into a cool, silvery icy blonde tone that looks chic and intentional."
+        "a": "As lavender washes out, it mellows into a cool, silvery icy blonde tone that looks chic and intentional.",
+        "question": "What color does lavender balayage fade into?",
+        "answer": "As lavender washes out, it mellows into a cool, silvery icy blonde tone that looks chic and intentional."
       }
     ],
     "items": [
@@ -5920,7 +6029,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous lavender balayage on wavy blonde hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with lavender balayage on wavy blonde hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc88_cover_collage.jpg"
   },
   {
     "id": "rooty-blonde-balayage",
@@ -5978,11 +6088,15 @@ export const articles = [
     "faqs": [
       {
         "q": "What are the main benefits of a shadow root with blonde balayage?",
-        "a": "A shadow root softens the line between natural root growth and blonde highlights, eliminating harsh regrowth lines and extending salon visits to 10-12 weeks."
+        "a": "A shadow root softens the line between natural root growth and blonde highlights, eliminating harsh regrowth lines and extending salon visits to 10-12 weeks.",
+        "question": "What are the main benefits of a shadow root with blonde balayage?",
+        "answer": "A shadow root softens the line between natural root growth and blonde highlights, eliminating harsh regrowth lines and extending salon visits to 10-12 weeks."
       },
       {
         "q": "Is a shadow root suitable for fine blonde hair?",
-        "a": "Yes! The darker root creates depth at the crown, making fine or thin hair look visibly thicker and more dimensional."
+        "a": "Yes! The darker root creates depth at the crown, making fine or thin hair look visibly thicker and more dimensional.",
+        "question": "Is a shadow root suitable for fine blonde hair?",
+        "answer": "Yes! The darker root creates depth at the crown, making fine or thin hair look visibly thicker and more dimensional."
       }
     ],
     "items": [
@@ -6256,7 +6370,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous rooty blonde balayage for long hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with rooty blonde balayage for long hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc89_cover_collage.jpg"
   },
   {
     "id": "strawberry-blonde-balayage",
@@ -6314,11 +6429,15 @@ export const articles = [
     "faqs": [
       {
         "q": "What skin tones look best with strawberry blonde balayage?",
-        "a": "Strawberry blonde flatters fair skin with pink or peach undertones, as well as light olive complexions looking for golden warmth."
+        "a": "Strawberry blonde flatters fair skin with pink or peach undertones, as well as light olive complexions looking for golden warmth.",
+        "question": "What skin tones look best with strawberry blonde balayage?",
+        "answer": "Strawberry blonde flatters fair skin with pink or peach undertones, as well as light olive complexions looking for golden warmth."
       },
       {
         "q": "How do I maintain golden peach tones in strawberry blonde hair?",
-        "a": "Use a warm peach-pink color-depositing gloss treatment every month to keep the copper-blonde reflection vibrant."
+        "a": "Use a warm peach-pink color-depositing gloss treatment every month to keep the copper-blonde reflection vibrant.",
+        "question": "How do I maintain golden peach tones in strawberry blonde hair?",
+        "answer": "Use a warm peach-pink color-depositing gloss treatment every month to keep the copper-blonde reflection vibrant."
       }
     ],
     "items": [
@@ -6595,7 +6714,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous thin hair strawberry blonde balayage crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with thin hair strawberry blonde balayage, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc90_cover_collage.jpg"
   },
   {
     "id": "blonde-highlights-on-black-hair",
@@ -6653,11 +6773,15 @@ export const articles = [
     "faqs": [
       {
         "q": "How do I prevent blonde balayage from turning yellow or brassy?",
-        "a": "Use a purple toning shampoo once a week, wash with lukewarm water, and always apply a heat protectant before heat styling."
+        "a": "Use a purple toning shampoo once a week, wash with lukewarm water, and always apply a heat protectant before heat styling.",
+        "question": "How do I prevent blonde balayage from turning yellow or brassy?",
+        "answer": "Use a purple toning shampoo once a week, wash with lukewarm water, and always apply a heat protectant before heat styling."
       },
       {
         "q": "How often does blonde balayage need a salon appointment?",
-        "a": "Because balayage grows out seamlessly without harsh root lines, touch-ups are usually required only every 8 to 12 weeks."
+        "a": "Because balayage grows out seamlessly without harsh root lines, touch-ups are usually required only every 8 to 12 weeks.",
+        "question": "How often does blonde balayage need a salon appointment?",
+        "answer": "Because balayage grows out seamlessly without harsh root lines, touch-ups are usually required only every 8 to 12 weeks."
       }
     ],
     "items": [
@@ -6929,7 +7053,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous cool blonde highlights on black hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with cool blonde highlights on black hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc91_cover_collage.jpg"
   },
   {
     "id": "brunette-lowlights-for-blonde-mature-hair",
@@ -6986,11 +7111,15 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the purpose of adding lowlights to blonde hair?",
-        "a": "Lowlights add darker, deeper ribbons back into over-lightened blonde hair, restoring contrast, depth, and the illusion of thicker hair texture."
+        "a": "Lowlights add darker, deeper ribbons back into over-lightened blonde hair, restoring contrast, depth, and the illusion of thicker hair texture.",
+        "question": "What is the purpose of adding lowlights to blonde hair?",
+        "answer": "Lowlights add darker, deeper ribbons back into over-lightened blonde hair, restoring contrast, depth, and the illusion of thicker hair texture."
       },
       {
         "q": "Are lowlights damaging to mature blonde hair?",
-        "a": "No! Lowlights deposit color rather than lifting it, making them a healthy, conditioning way to add richness without damage."
+        "a": "No! Lowlights deposit color rather than lifting it, making them a healthy, conditioning way to add richness without damage.",
+        "question": "Are lowlights damaging to mature blonde hair?",
+        "answer": "No! Lowlights deposit color rather than lifting it, making them a healthy, conditioning way to add richness without damage."
       }
     ],
     "items": [
@@ -7257,7 +7386,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous slate brown lowlights for blonde hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with slate brown lowlights for blonde hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc92_cover_collage.jpg"
   },
   {
     "id": "champagne-blonde-balayage-ideas",
@@ -7314,11 +7444,15 @@ export const articles = [
     "faqs": [
       {
         "q": "What undertones define champagne and pearl blonde balayage?",
-        "a": "Champagne and pearl blonde feature a delicate balance of cool silver, soft rose, and pale gold for an iridescent, high-shine finish."
+        "a": "Champagne and pearl blonde feature a delicate balance of cool silver, soft rose, and pale gold for an iridescent, high-shine finish.",
+        "question": "What undertones define champagne and pearl blonde balayage?",
+        "answer": "Champagne and pearl blonde feature a delicate balance of cool silver, soft rose, and pale gold for an iridescent, high-shine finish."
       },
       {
         "q": "How often should pearl toner be refreshed at the salon?",
-        "a": "Toner glazes typically last 4 to 6 weeks. A quick 20-minute gloss appointment keeps the pearlescent reflection sparkling."
+        "a": "Toner glazes typically last 4 to 6 weeks. A quick 20-minute gloss appointment keeps the pearlescent reflection sparkling.",
+        "question": "How often should pearl toner be refreshed at the salon?",
+        "answer": "Toner glazes typically last 4 to 6 weeks. A quick 20-minute gloss appointment keeps the pearlescent reflection sparkling."
       }
     ],
     "items": [
@@ -7603,7 +7737,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous champagne blonde balayage maintenance tips crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with champagne blonde balayage maintenance tips, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc93_cover_collage.jpg"
   },
   {
     "id": "dark-chocolate-brunette-with-blonde-highlights",
@@ -7824,19 +7959,27 @@ export const articles = [
     "faqs": [
       {
         "question": "What blonde shade looks best on dark chocolate brown hair?",
-        "answer": "Honey, caramel, and warm golden blonde shades blend most seamlessly with dark chocolate brunette hair, creating a natural, sun-kissed effect. For cool undertones, ash blonde or icy platinum creates a striking, high-contrast look."
+        "answer": "Honey, caramel, and warm golden blonde shades blend most seamlessly with dark chocolate brunette hair, creating a natural, sun-kissed effect. For cool undertones, ash blonde or icy platinum creates a striking, high-contrast look.",
+        "q": "What blonde shade looks best on dark chocolate brown hair?",
+        "a": "Honey, caramel, and warm golden blonde shades blend most seamlessly with dark chocolate brunette hair, creating a natural, sun-kissed effect. For cool undertones, ash blonde or icy platinum creates a striking, high-contrast look."
       },
       {
         "question": "Do blonde highlights damage dark chocolate brown hair?",
-        "answer": "Lightening dark hair requires bleaching, which can alter hair structure. However, using techniques like balayage, babylights, or money piece placement minimizes damage by targeting only specific sections while leaving the rest of your hair healthy."
+        "answer": "Lightening dark hair requires bleaching, which can alter hair structure. However, using techniques like balayage, babylights, or money piece placement minimizes damage by targeting only specific sections while leaving the rest of your hair healthy.",
+        "q": "Do blonde highlights damage dark chocolate brown hair?",
+        "a": "Lightening dark hair requires bleaching, which can alter hair structure. However, using techniques like balayage, babylights, or money piece placement minimizes damage by targeting only specific sections while leaving the rest of your hair healthy."
       },
       {
         "question": "How do I maintain dark chocolate brunette hair with blonde highlights?",
-        "answer": "Use a color-safe, sulfate-free shampoo and alternate with a blue or purple toning shampoo to prevent brassiness. Regular deep conditioning treatments and glossing touch-ups every 6 to 8 weeks keep both the dark base and blonde ribbons looking vibrant."
+        "answer": "Use a color-safe, sulfate-free shampoo and alternate with a blue or purple toning shampoo to prevent brassiness. Regular deep conditioning treatments and glossing touch-ups every 6 to 8 weeks keep both the dark base and blonde ribbons looking vibrant.",
+        "q": "How do I maintain dark chocolate brunette hair with blonde highlights?",
+        "a": "Use a color-safe, sulfate-free shampoo and alternate with a blue or purple toning shampoo to prevent brassiness. Regular deep conditioning treatments and glossing touch-ups every 6 to 8 weeks keep both the dark base and blonde ribbons looking vibrant."
       },
       {
         "question": "Will blonde highlights work on dark chocolate brown curly hair?",
-        "answer": "Yes! Blonde highlights look exceptional on curly and textured hair because the light-catching ribbons emphasize spiral definition and create dynamic depth throughout your curl pattern."
+        "answer": "Yes! Blonde highlights look exceptional on curly and textured hair because the light-catching ribbons emphasize spiral definition and create dynamic depth throughout your curl pattern.",
+        "q": "Will blonde highlights work on dark chocolate brown curly hair?",
+        "a": "Yes! Blonde highlights look exceptional on curly and textured hair because the light-catching ribbons emphasize spiral definition and create dynamic depth throughout your curl pattern."
       }
     ],
     "sections": [
@@ -7850,7 +7993,9 @@ export const articles = [
         "title": "Maintenance & Care Tips",
         "content": "To preserve the rich chocolate tone and keep blonde highlights luminous, invest in quality color care. Hydrating masks, heat protectants, and occasional toning glosses protect against fading and keep your hair silky and smooth."
       }
-    ]
+    ],
+    "intro": "There is something undeniably luxurious about dark chocolate brunette hair. It is rich, deep, and full of life on its own. But when you add blonde highlights into the mix, the entire look transforms into something spectacular. The contrast between the dark, cool-toned base and the bright, warm ribbons of blonde creates a dimensional effect that catches light from every angle. Whether you are a natural brunette looking for a subtle refresh or someone ready to make a bold change, dark chocolate brunette with blonde highlights offers endless possibilities. From soft babylights to bold chunky streaks, this color combination works across all hair lengths, textures, and skin tones. Explore these stunning ways to wear this gorgeous color duo.",
+    "heroImage": "/images/doc94_cover.jpg"
   },
   {
     "id": "pearl-toner-for-blonde-balayage",
@@ -7909,11 +8054,15 @@ export const articles = [
     "faqs": [
       {
         "q": "What undertones define champagne and pearl blonde balayage?",
-        "a": "Champagne and pearl blonde feature a delicate balance of cool silver, soft rose, and pale gold for an iridescent, high-shine finish."
+        "a": "Champagne and pearl blonde feature a delicate balance of cool silver, soft rose, and pale gold for an iridescent, high-shine finish.",
+        "question": "What undertones define champagne and pearl blonde balayage?",
+        "answer": "Champagne and pearl blonde feature a delicate balance of cool silver, soft rose, and pale gold for an iridescent, high-shine finish."
       },
       {
         "q": "How often should pearl toner be refreshed at the salon?",
-        "a": "Toner glazes typically last 4 to 6 weeks. A quick 20-minute gloss appointment keeps the pearlescent reflection sparkling."
+        "a": "Toner glazes typically last 4 to 6 weeks. A quick 20-minute gloss appointment keeps the pearlescent reflection sparkling.",
+        "question": "How often should pearl toner be refreshed at the salon?",
+        "answer": "Toner glazes typically last 4 to 6 weeks. A quick 20-minute gloss appointment keeps the pearlescent reflection sparkling."
       }
     ],
     "items": [
@@ -8209,7 +8358,8 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous pearl toner with lowlights balayage crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with pearl toner with lowlights balayage, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ]
+    ],
+    "image": "/images/doc95_cover_collage.jpg"
   },
   {
     "id": "natural-looking-silver-highlights-that-stand-out",
@@ -8488,15 +8638,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Will silver highlights look natural on dark brown or black hair?",
-        "a": "Yes! Using charcoal and steel gray transition shades in a balayage pattern creates a soft, dimensional shimmer without harsh root lines."
+        "a": "Yes! Using charcoal and steel gray transition shades in a balayage pattern creates a soft, dimensional shimmer without harsh root lines.",
+        "question": "Will silver highlights look natural on dark brown or black hair?",
+        "answer": "Yes! Using charcoal and steel gray transition shades in a balayage pattern creates a soft, dimensional shimmer without harsh root lines."
       },
       {
         "q": "How often do I need to tone silver highlights?",
-        "a": "A gloss or toner refresh every 4 to 6 weeks keeps metallic silver tones looking vibrant and prevents brassiness."
+        "a": "A gloss or toner refresh every 4 to 6 weeks keeps metallic silver tones looking vibrant and prevents brassiness.",
+        "question": "How often do I need to tone silver highlights?",
+        "answer": "A gloss or toner refresh every 4 to 6 weeks keeps metallic silver tones looking vibrant and prevents brassiness."
       },
       {
         "q": "Are silver highlights good for blending natural gray hair?",
-        "a": "Silver highlights are the single best technique for gray blending because they make natural gray growth look like an intentional design."
+        "a": "Silver highlights are the single best technique for gray blending because they make natural gray growth look like an intentional design.",
+        "question": "Are silver highlights good for blending natural gray hair?",
+        "answer": "Silver highlights are the single best technique for gray blending because they make natural gray growth look like an intentional design."
       }
     ],
     "introParagraphs": [
@@ -8506,7 +8662,8 @@ export const articles = [
       "Whether you are aiming to blend existing gray strands or simply want to add a modern, icy edge to your brunette or blonde base, these highlights offer a versatile solution.",
       "The key to achieving a truly natural finish lies in professional techniques like balayage and babylights, which ensure the transitions are soft and the grow-out period remains elegant and effortless for months.",
       "Here are 13 natural looking silver highlights that stand out for every hair texture."
-    ]
+    ],
+    "image": "/images/doc70_cover_collage.jpg"
   },
   {
     "id": "golden-bronde-balayage-hair-color-to-try",
@@ -8831,15 +8988,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What skin tones look best with golden bronde balayage?",
-        "a": "Golden bronde flatters warm, neutral, and olive complexions by enhancing natural facial warmth and golden eye flecks."
+        "a": "Golden bronde flatters warm, neutral, and olive complexions by enhancing natural facial warmth and golden eye flecks.",
+        "question": "What skin tones look best with golden bronde balayage?",
+        "answer": "Golden bronde flatters warm, neutral, and olive complexions by enhancing natural facial warmth and golden eye flecks."
       },
       {
         "q": "Do I need to bleach my hair for golden bronde?",
-        "a": "Only mild lightening is needed on the highlighted pieces. Natural brunettes can achieve golden bronde with minimal lift."
+        "a": "Only mild lightening is needed on the highlighted pieces. Natural brunettes can achieve golden bronde with minimal lift.",
+        "question": "Do I need to bleach my hair for golden bronde?",
+        "answer": "Only mild lightening is needed on the highlighted pieces. Natural brunettes can achieve golden bronde with minimal lift."
       },
       {
         "q": "How is bronde different from traditional balayage?",
-        "a": "Bronde specifically balances equal parts brown and blonde, whereas balayage refers to the hand-painting technique itself."
+        "a": "Bronde specifically balances equal parts brown and blonde, whereas balayage refers to the hand-painting technique itself.",
+        "question": "How is bronde different from traditional balayage?",
+        "answer": "Bronde specifically balances equal parts brown and blonde, whereas balayage refers to the hand-painting technique itself."
       }
     ],
     "introParagraphs": [
@@ -8849,7 +9012,8 @@ export const articles = [
       "It works beautifully across all hair textures and lengths, from sleek bobs to flowing layers.",
       "Finding the right golden hue involves considering your skin undertone and natural base color.",
       "As we dive into these 16 stunning variations, you will see how warm tones can brighten your face and elevate your overall style effortlessly for any season or upcoming event."
-    ]
+    ],
+    "image": "/images/doc69_cover_collage.jpg"
   },
   {
     "id": "contour-highlights-hair-ideas-people-are-loving",
@@ -9138,15 +9302,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What are contour highlights?",
-        "a": "Contour highlights are custom-placed lighter strands around the hairline and face to highlight your best facial features."
+        "a": "Contour highlights are custom-placed lighter strands around the hairline and face to highlight your best facial features.",
+        "question": "What are contour highlights?",
+        "answer": "Contour highlights are custom-placed lighter strands around the hairline and face to highlight your best facial features."
       },
       {
         "q": "How long do contour highlights take at the salon?",
-        "a": "Because they focus mainly on face-framing sections, contour highlights take significantly less time than full-head foils."
+        "a": "Because they focus mainly on face-framing sections, contour highlights take significantly less time than full-head foils.",
+        "question": "How long do contour highlights take at the salon?",
+        "answer": "Because they focus mainly on face-framing sections, contour highlights take significantly less time than full-head foils."
       },
       {
         "q": "Can contour highlights work on short hair?",
-        "a": "Absolultely! Contour highlights look stunning on bobs, pixies, and curtain bang cuts."
+        "a": "Absolultely! Contour highlights look stunning on bobs, pixies, and curtain bang cuts.",
+        "question": "Can contour highlights work on short hair?",
+        "answer": "Absolultely! Contour highlights look stunning on bobs, pixies, and curtain bang cuts."
       }
     ],
     "introParagraphs": [
@@ -9157,7 +9327,8 @@ export const articles = [
       "It offers a low-maintenance way to transform your look without committing to a full head of bleach.",
       "Whether you have dark brunette locks or pale blonde hair, there is a perfect contouring pattern designed just for you.",
       "Here are 13 gorgeous contour highlights hair ideas people are loving right now."
-    ]
+    ],
+    "image": "/images/doc68_cover_collage.jpg"
   },
   {
     "id": "burgundy-wine-balayage-women-must-try",
@@ -9494,15 +9665,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Does burgundy wine balayage work on natural dark hair?",
-        "a": "Yes! Dark brown and black bases provide the ideal canvas for wine and burgundy tones to melt seamlessly."
+        "a": "Yes! Dark brown and black bases provide the ideal canvas for wine and burgundy tones to melt seamlessly.",
+        "question": "Does burgundy wine balayage work on natural dark hair?",
+        "answer": "Yes! Dark brown and black bases provide the ideal canvas for wine and burgundy tones to melt seamlessly."
       },
       {
         "q": "Will burgundy hair color fade fast?",
-        "a": "Red pigments fade faster than brown, but using cold water and a color-depositing mask keeps wine shades vibrant for weeks."
+        "a": "Red pigments fade faster than brown, but using cold water and a color-depositing mask keeps wine shades vibrant for weeks.",
+        "question": "Will burgundy hair color fade fast?",
+        "answer": "Red pigments fade faster than brown, but using cold water and a color-depositing mask keeps wine shades vibrant for weeks."
       },
       {
         "q": "Is burgundy wine balayage suitable for professional work environments?",
-        "a": "Yes, because the burgundy tones are blended onto a deep brunette base, the look is sophisticated and elegant rather than bright neon."
+        "a": "Yes, because the burgundy tones are blended onto a deep brunette base, the look is sophisticated and elegant rather than bright neon.",
+        "question": "Is burgundy wine balayage suitable for professional work environments?",
+        "answer": "Yes, because the burgundy tones are blended onto a deep brunette base, the look is sophisticated and elegant rather than bright neon."
       }
     ],
     "introParagraphs": [
@@ -9513,7 +9690,8 @@ export const articles = [
       "It flatters warm, cool, and neutral undertones alike, making it one of the most versatile choices in modern hair color right now.",
       "From deep chocolate bases to black hair with cherry-kissed ends, there is a burgundy balayage variation that fits your vibe.",
       "Here are 17 gorgeous burgundy wine balayage looks worth trying this season."
-    ]
+    ],
+    "image": "/images/doc67_cover_collage.jpg"
   },
   {
     "id": "amber-balayage-hair-worth-trying",
@@ -9809,15 +9987,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Is almond brown warmer or cooler than ash brown?",
-        "a": "Almond brown sits right in the middle\u2014it has neutral nut undertones with subtle golden warmth."
+        "a": "Almond brown sits right in the middle\u2014it has neutral nut undertones with subtle golden warmth.",
+        "question": "Is almond brown warmer or cooler than ash brown?",
+        "answer": "Almond brown sits right in the middle\u2014it has neutral nut undertones with subtle golden warmth."
       },
       {
         "q": "Can dark brunettes get light almond brown without bleaching?",
-        "a": "A gentle lifting tint or subtle balayage is usually enough to achieve light almond brown on medium to dark bases."
+        "a": "A gentle lifting tint or subtle balayage is usually enough to achieve light almond brown on medium to dark bases.",
+        "question": "Can dark brunettes get light almond brown without bleaching?",
+        "answer": "A gentle lifting tint or subtle balayage is usually enough to achieve light almond brown on medium to dark bases."
       },
       {
         "q": "How do I describe almond brown to my hairstylist?",
-        "a": "Ask for a creamy, medium-light brown base with soft toasted nut and honey babylights."
+        "a": "Ask for a creamy, medium-light brown base with soft toasted nut and honey babylights.",
+        "question": "How do I describe almond brown to my hairstylist?",
+        "answer": "Ask for a creamy, medium-light brown base with soft toasted nut and honey babylights."
       }
     ],
     "introParagraphs": [
@@ -9826,7 +10010,8 @@ export const articles = [
       "What makes amber balayage so special is its unique blend of warm honey tones and subtle bronze-like reflections that flatter a wide variety of skin tones.",
       "Whether you are looking to add depth to your current light brown hair or want to tone down a brighter blonde, this shade offers a sophisticated and expensive-looking finish.",
       "Here are 15 gorgeous amber balayage hair looks worth trying this season."
-    ]
+    ],
+    "image": "/images/doc66_cover_collage.jpg"
   },
   {
     "id": "haircuts-and-hairstyles-for-women-with-round-faces",
@@ -10045,11 +10230,15 @@ export const articles = [
     "faqs": [
       {
         "question": "How do I choose the best haircut for haircuts and hairstyles for women with round faces?",
-        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends.",
+        "q": "How do I choose the best haircut for haircuts and hairstyles for women with round faces?",
+        "a": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
         "question": "How often should I trim this hairstyle?",
-        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length.",
+        "q": "How often should I trim this hairstyle?",
+        "a": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
     "sections": [
@@ -10058,7 +10247,9 @@ export const articles = [
         "title": "Style Guide & Selection",
         "content": "Selecting a 15+ haircuts and hairstyles for women with round faces is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ]
+    ],
+    "intro": "Round faces look soft, youthful, and friendly, and the right short haircut can bring out all of those features while also adding shape and definition to your cheeks and jawline. When choosing a cut, the main goal is to create a bit of height at the crown and some gentle angles or length around the front so your face appears slightly longer instead of wider. Short hair works beautifully here, because pixies, bobs, and cropped shags can all be customized with layering, parting, and fringe to balance your proportions. Modern cuts for round faces focus on texture, side or off-center parts, and soft movement, avoiding heavy width at the cheeks or a blunt straight-across line at the fullest part of your face. With that in mind, here are 20 of the best short haircuts that flatter a round face and feel current for 2025\u20132026.",
+    "heroImage": "/images/doc_round_faces_cover.jpg"
   },
   {
     "id": "interview-hairstyle-with-glasses-to-save-now",
@@ -10266,11 +10457,15 @@ export const articles = [
     "faqs": [
       {
         "question": "How do I choose the best haircut for interview hairstyle with glasses to save now?",
-        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends.",
+        "q": "How do I choose the best haircut for interview hairstyle with glasses to save now?",
+        "a": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
         "question": "How often should I trim this hairstyle?",
-        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length.",
+        "q": "How often should I trim this hairstyle?",
+        "a": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
     "sections": [
@@ -10279,7 +10474,9 @@ export const articles = [
         "title": "Style Guide & Selection",
         "content": "Selecting a 17+ interview hairstyle with glasses to save now is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ]
+    ],
+    "intro": "Preparing for a job interview\u00a0involves choosing the perfect outfit and making sure your hair looks polished. If you wear eyewear, finding the right look can feel tricky, but it does not have to be. Exploring a 20 interview hairstyle with glasses guide helps you discover options that frame your face beautifully and keep you looking professional. Your frames already draw attention to your face, so your hair should complement them rather than compete for attention. Whether you have short, medium, or long hair, there are plenty of neat and confident options to choose from. From sleek buns to tailored bobs, the right haircut or style will make you feel ready to impress your future employers.",
+    "heroImage": "/images/doc_interview_glasses_cover.jpg"
   },
   {
     "id": "flattering-haircut-for-oblong-face-women",
@@ -10476,11 +10673,15 @@ export const articles = [
     "faqs": [
       {
         "question": "How do I choose the best haircut for flattering haircut for oblong face women?",
-        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends.",
+        "q": "How do I choose the best haircut for flattering haircut for oblong face women?",
+        "a": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
         "question": "How often should I trim this hairstyle?",
-        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length.",
+        "q": "How often should I trim this hairstyle?",
+        "a": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
     "sections": [
@@ -10489,7 +10690,9 @@ export const articles = [
         "title": "Style Guide & Selection",
         "content": "Selecting a 13+ flattering haircut for oblong face women is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ]
+    ],
+    "intro": "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape.",
+    "heroImage": "/images/doc_oblong_face_cover.jpg"
   },
   {
     "id": "hairstyles-for-women-with-glasses-over-60-to-save",
@@ -10686,11 +10889,15 @@ export const articles = [
     "faqs": [
       {
         "question": "How do I choose the best haircut for hairstyles for women with glasses over 60 to save?",
-        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends.",
+        "q": "How do I choose the best haircut for hairstyles for women with glasses over 60 to save?",
+        "a": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
         "question": "How often should I trim this hairstyle?",
-        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length.",
+        "q": "How often should I trim this hairstyle?",
+        "a": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
     "sections": [
@@ -10699,7 +10906,9 @@ export const articles = [
         "title": "Style Guide & Selection",
         "content": "Selecting a 15+ hairstyles for women with glasses over 60 to save is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ]
+    ],
+    "intro": "Finding the perfect balance between style and function becomes a top priority for women over 60 who wear glasses. Eyewear is no longer just a necessity but a key fashion accessory that should harmonize with your haircut to enhance your natural beauty. Whether you prefer a bold statement frame or a subtle wire-rimmed look, your hair plays a crucial role in framing your face and balancing your features. In 2026, the trends for hairstyles for women with glasses over 60 focus on texture, volume, and manageable lengths that offer a youthful lift. From chic pixies to elegant lobs, these twenty curated looks are designed to keep you looking modern while ensuring your glasses remain a stylish focal point of your overall aesthetic.",
+    "heroImage": "/images/doc_glasses_over60_cover.jpg"
   },
   {
     "id": "gray-hairstyles-for-women-with-glasses-to-inspire-you",
@@ -10918,11 +11127,15 @@ export const articles = [
     "faqs": [
       {
         "question": "How do I choose the best haircut for gray hairstyles for women with glasses to inspire you?",
-        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends.",
+        "q": "How do I choose the best haircut for gray hairstyles for women with glasses to inspire you?",
+        "a": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
         "question": "How often should I trim this hairstyle?",
-        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length.",
+        "q": "How often should I trim this hairstyle?",
+        "a": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
     "sections": [
@@ -10931,7 +11144,9 @@ export const articles = [
         "title": "Style Guide & Selection",
         "content": "Selecting a 16+ gray hairstyles for women with glasses to inspire you is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ]
+    ],
+    "intro": "Embracing a silver mane is a powerful style statement in 2026, especially when paired with the right eyewear to create a cohesive look. Choosing a hairstyle that complements your glasses involves balancing the weight of your frames with the texture and volume of your hair. Many women find that transitioning to natural gray opens up a vibrant new palette of cool tones that make metallic or jewel-toned frames pop. Whether you prefer a sharp, modern bob or a soft, feathered pixie, the goal is to highlight your facial features while keeping your glasses as a functional accessory. This guide explores the most flattering gray hairstyles designed to work in harmony with various frame shapes and personal styles.",
+    "heroImage": "/images/doc_glasses_gray_cover.jpg"
   },
   {
     "id": "flattering-short-haircut-for-women-with-glasses",
@@ -11128,11 +11343,15 @@ export const articles = [
     "faqs": [
       {
         "question": "How do I choose the best haircut for flattering short haircut for women with glasses?",
-        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
+        "answer": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends.",
+        "q": "How do I choose the best haircut for flattering short haircut for women with glasses?",
+        "a": "Focus on balancing your facial proportions and frame structure. Work with your stylist to incorporate face-framing layers, soft bangs, or textured ends."
       },
       {
         "question": "How often should I trim this hairstyle?",
-        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
+        "answer": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length.",
+        "q": "How often should I trim this hairstyle?",
+        "a": "To maintain crisp shape and clean lines, schedule trims every 6 to 8 weeks depending on hair growth speed and length."
       }
     ],
     "sections": [
@@ -11141,7 +11360,9 @@ export const articles = [
         "title": "Style Guide & Selection",
         "content": "Selecting a 13+ flattering short haircut for women with glasses is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
-    ]
+    ],
+    "intro": "Finding a flattering short haircut for women with glasses can feel like a daunting task, but the right style actually enhances your frames while highlighting your best facial features. Short hair offers a unique opportunity to draw attention to your eyes and the style of your eyewear, creating a cohesive and fashionable look that works for any occasion. Whether you prefer a bold pixie or a sophisticated bob, these modern cuts are designed to balance the proportions of your face and the weight of your spectacles. In 2026, the trends emphasize texture, movement, and personalized layers that prevent your hair from competing with your frames. This guide explores versatile options that feel both effortless and intentionally styled for your specific face shape.",
+    "heroImage": "/images/doc_glasses_short_cover.jpg"
   },
   {
     "id": "short-haircuts-for-round-faces-you-ll-love",
@@ -11189,15 +11410,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes.",
+        "question": "What haircuts look best with prescription glasses?",
+        "answer": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
       },
       {
         "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
+        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest.",
+        "question": "How do I keep my hair from bumping against my glasses frames?",
+        "answer": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
       },
       {
         "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully.",
+        "question": "Which hairstyles flatter round faces with glasses?",
+        "answer": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
       }
     ],
     "items": [
@@ -11602,7 +11829,8 @@ export const articles = [
       "14+ Short Haircuts for Round Faces You\u2019ll Love is one of 2026's top hair trends for glasses wearers and face-contouring.",
       "Finding the right balance between your cut and eyewear creates effortless style.",
       "Here are the top ideas to save."
-    ]
+    ],
+    "image": "/images/doc59_cover_collage.jpg"
   },
   {
     "id": "stylish-hairstyles-for-long-faces-in-2026",
@@ -11650,15 +11878,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes.",
+        "question": "What haircuts look best with prescription glasses?",
+        "answer": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
       },
       {
         "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
+        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest.",
+        "question": "How do I keep my hair from bumping against my glasses frames?",
+        "answer": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
       },
       {
         "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully.",
+        "question": "Which hairstyles flatter round faces with glasses?",
+        "answer": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
       }
     ],
     "items": [
@@ -11917,7 +12151,8 @@ export const articles = [
       "21+ Stylish Hairstyles for Long Faces in 2026 is one of 2026's top hair trends for glasses wearers and face-contouring.",
       "Finding the right balance between your cut and eyewear creates effortless style.",
       "Here are the top ideas to save."
-    ]
+    ],
+    "image": "/images/doc58_cover_collage.jpg"
   },
   {
     "id": "best-haircuts-for-men-with-oval-faces",
@@ -11965,15 +12200,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What haircuts look best with prescription glasses?",
-        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
+        "a": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes.",
+        "question": "What haircuts look best with prescription glasses?",
+        "answer": "Layered bobs, curtain bang lobs, and soft pixies with volume at the crown complement almost all spectacle frame shapes."
       },
       {
         "q": "How do I keep my hair from bumping against my glasses frames?",
-        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
+        "a": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest.",
+        "question": "How do I keep my hair from bumping against my glasses frames?",
+        "answer": "Ask your stylist for face-framing layers cut slightly above or behind where your glasses arms rest."
       },
       {
         "q": "Which hairstyles flatter round faces with glasses?",
-        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
+        "a": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully.",
+        "question": "Which hairstyles flatter round faces with glasses?",
+        "answer": "Side-parted lobs and long textured layers with height at the crown lengthen round face shapes beautifully."
       }
     ],
     "items": [
@@ -12290,7 +12531,8 @@ export const articles = [
       "27+ Best Haircuts for Men with Oval Faces is one of 2026's top hair trends for glasses wearers and face-contouring.",
       "Finding the right balance between your cut and eyewear creates effortless style.",
       "Here are the top ideas to save."
-    ]
+    ],
+    "image": "/images/doc57_cover_collage.jpg"
   },
   {
     "id": "stylish-slick-back-hairstyles-to-inspire-you",
@@ -12338,15 +12580,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -12498,7 +12746,8 @@ export const articles = [
       "12+ Stylish Slick Back Hairstyles to Inspire You is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc56_cover_collage.jpg"
   },
   {
     "id": "amazing-ponytail-hairstyles-that-turn-heads",
@@ -12546,15 +12795,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -12695,7 +12950,8 @@ export const articles = [
       "11+ Amazing Ponytail Hairstyles That Turn Heads is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc55_cover_collage.jpg"
   },
   {
     "id": "easy-hairstyles-worth-saving",
@@ -12743,15 +12999,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -12903,7 +13165,8 @@ export const articles = [
       "12+ Easy Hairstyles Worth Saving is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc54_cover_collage.jpg"
   },
   {
     "id": "chic-claw-clip-hairstyles-to-try-today",
@@ -12951,15 +13214,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -13122,7 +13391,8 @@ export const articles = [
       "13+ Chic Claw Clip Hairstyles to Try Today is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc53_cover_collage.jpg"
   },
   {
     "id": "trendy-bandana-hairstyles-that-turn-heads",
@@ -13170,15 +13440,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -13308,7 +13584,8 @@ export const articles = [
       "10+ Trendy Bandana Hairstyles That Turn Heads is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc52_cover_collage.jpg"
   },
   {
     "id": "chic-messy-bun-hairstyles-that-stand-out",
@@ -13356,15 +13633,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -13516,7 +13799,8 @@ export const articles = [
       "12+ Chic Messy Bun Hairstyles That Stand Out is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc51_cover_collage.jpg"
   },
   {
     "id": "beautiful-bun-hairstyles-you-ll-love",
@@ -13564,15 +13848,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -13713,7 +14003,8 @@ export const articles = [
       "11+ Beautiful Bun Hairstyles You\u2019ll Love is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc50_cover_collage.jpg"
   },
   {
     "id": "stylish-updo-hairstyles-to-save-now",
@@ -13761,15 +14052,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -13954,7 +14251,8 @@ export const articles = [
       "15+ Stylish Updo Hairstyles to Save Now is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc49_cover_collage.jpg"
   },
   {
     "id": "stunning-sleek-low-ponytail-that-stand-out",
@@ -14002,15 +14300,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I make my everyday hairstyle look intentional and polished?",
-        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
+        "a": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies.",
+        "question": "How can I make my everyday hairstyle look intentional and polished?",
+        "answer": "Pull out soft face-framing tendrils and use elevated accessories like matte claw clips, tortoise pins, or silk scrunchies."
       },
       {
         "q": "What are the best everyday hairstyles for fine hair?",
-        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
+        "a": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair.",
+        "question": "What are the best everyday hairstyles for fine hair?",
+        "answer": "Messy claw clip updos, half-up knot styles, and textured lob cuts create immediate volume and fullness for fine hair."
       },
       {
         "q": "How do I prevent creasing when tying my hair up daily?",
-        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
+        "a": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting.",
+        "question": "How do I prevent creasing when tying my hair up daily?",
+        "answer": "Use 100% mulberry silk scrunchies or spiral telephone-wire ties instead of tight elastic bands to avoid hair denting."
       }
     ],
     "items": [
@@ -14173,7 +14477,8 @@ export const articles = [
       "13+ Stunning Sleek Low Ponytail That Stand Out is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ]
+    ],
+    "image": "/images/doc48_cover_collage.jpg"
   },
   {
     "id": "beautiful-natural-curly-hairstyles-for-women-over-50",
@@ -14221,15 +14526,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -14447,7 +14758,8 @@ export const articles = [
       "19+ Beautiful Natural Curly Hairstyles for Women over 50 is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc47_cover_collage.jpg"
   },
   {
     "id": "beautiful-layered-curly-hairstyles-to-inspire-you",
@@ -14495,15 +14807,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -14644,7 +14962,8 @@ export const articles = [
       "11+ Beautiful Layered Curly Hairstyles to Inspire You is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc46_cover_collage.jpg"
   },
   {
     "id": "trendy-hairstyles-for-women-over-40-with-curly-hair",
@@ -14692,15 +15011,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -14896,7 +15221,8 @@ export const articles = [
       "16+ Trendy Hairstyles for Women over 40 with Curly Hair is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc45_cover_collage.jpg"
   },
   {
     "id": "stylish-curly-hairstyles-for-women-over-60-to-try",
@@ -14944,15 +15270,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -15195,7 +15527,8 @@ export const articles = [
       "18+ Stylish Curly Hairstyles for Women over 60 to Try is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc44_cover_collage.jpg"
   },
   {
     "id": "chic-curly-hairstyles-for-women-over-40-to-inspire-you",
@@ -15243,15 +15576,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -15524,7 +15863,8 @@ export const articles = [
       "21+ Chic Curly Hairstyles for Women over 40 to Inspire You is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc42_cover_collage.jpg"
   },
   {
     "id": "short-curly-hairstyles-for-women-over-50-gray-hair-haircuts",
@@ -15572,15 +15912,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -15817,7 +16163,8 @@ export const articles = [
       "19+ Short Curly Hairstyles for Women over 50 Gray Hair Haircuts is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc41_cover_collage.jpg"
   },
   {
     "id": "chic-short-curly-hairstyles-for-older-women-to-try-now",
@@ -15865,15 +16212,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -16170,7 +16523,8 @@ export const articles = [
       "23+ Chic Short Curly Hairstyles for Older Women to Try Now is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc40_cover_collage.jpg"
   },
   {
     "id": "pretty-messy-curly-hair-worth-saving",
@@ -16218,15 +16572,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -16378,7 +16738,8 @@ export const articles = [
       "12+ Pretty Messy Curly Hair Worth Saving is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc39_cover_collage.jpg"
   },
   {
     "id": "stunning-curly-fluffy-hair-worth-trying",
@@ -16426,15 +16787,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How can I prevent dry frizz on curly hair?",
-        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
+        "a": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps.",
+        "question": "How can I prevent dry frizz on curly hair?",
+        "answer": "Always apply leave-in conditioner on dripping wet hair and avoid brushing curls once dry to preserve natural ringlet clumps."
       },
       {
         "q": "How often should curly hair be washed?",
-        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
+        "a": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined.",
+        "question": "How often should curly hair be washed?",
+        "answer": "Washing curly hair 1 to 2 times a week preserves natural scalp oils while keeping curls hydrated and defined."
       },
       {
         "q": "How do I prevent shrinkage on short curly bobs?",
-        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
+        "a": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern.",
+        "question": "How do I prevent shrinkage on short curly bobs?",
+        "answer": "Gently stretch crown curls with a blow dryer diffuser attachment on low heat to elongate your natural curl pattern."
       }
     ],
     "items": [
@@ -16608,7 +16975,8 @@ export const articles = [
       "14+ Stunning Curly Fluffy Hair Worth Trying is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc43_cover_collage.jpg"
   },
   {
     "id": "modern-braided-hairstyles-you-can-t-miss",
@@ -16656,15 +17024,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long can I wear this braided hairstyle?",
-        "a": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care."
+        "a": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care.",
+        "question": "How long can I wear this braided hairstyle?",
+        "answer": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care."
       },
       {
         "q": "How do I prevent scalp itchiness under braids?",
-        "a": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness."
+        "a": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness.",
+        "question": "How do I prevent scalp itchiness under braids?",
+        "answer": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness."
       },
       {
         "q": "Can I wash my braided hair without causing frizz?",
-        "a": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel."
+        "a": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel.",
+        "question": "Can I wash my braided hair without causing frizz?",
+        "answer": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel."
       }
     ],
     "items": [
@@ -16838,7 +17212,8 @@ export const articles = [
       "14+ Modern Braided Hairstyles You Can't Miss is one of 2026's most requested hair trends.",
       "Braids blend intricate artistic craftsmanship with effortless protective wear.",
       "Here are inspiring braided style ideas to save for your next salon appointment."
-    ]
+    ],
+    "image": "/images/doc38_cover_collage.jpg"
   },
   {
     "id": "trendy-twist-braid-hairstyles-women-are-loving",
@@ -16886,15 +17261,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long can I wear this braided hairstyle?",
-        "a": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care."
+        "a": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care.",
+        "question": "How long can I wear this braided hairstyle?",
+        "answer": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care."
       },
       {
         "q": "How do I prevent scalp itchiness under braids?",
-        "a": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness."
+        "a": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness.",
+        "question": "How do I prevent scalp itchiness under braids?",
+        "answer": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness."
       },
       {
         "q": "Can I wash my braided hair without causing frizz?",
-        "a": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel."
+        "a": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel.",
+        "question": "Can I wash my braided hair without causing frizz?",
+        "answer": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel."
       }
     ],
     "items": [
@@ -17046,7 +17427,8 @@ export const articles = [
       "12+ Trendy Twist Braid Hairstyles Women Are Loving is one of 2026's most requested hair trends.",
       "Braids blend intricate artistic craftsmanship with effortless protective wear.",
       "Here are inspiring braided style ideas to save for your next salon appointment."
-    ]
+    ],
+    "image": "/images/doc37_cover_collage.jpg"
   },
   {
     "id": "stunning-rope-braid-hairstyles-to-consider",
@@ -17094,15 +17476,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long can I wear this braided hairstyle?",
-        "a": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care."
+        "a": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care.",
+        "question": "How long can I wear this braided hairstyle?",
+        "answer": "Braided styles typically last between 3 to 6 weeks depending on braid size, hair texture, and daily scalp care."
       },
       {
         "q": "How do I prevent scalp itchiness under braids?",
-        "a": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness."
+        "a": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness.",
+        "question": "How do I prevent scalp itchiness under braids?",
+        "answer": "Mist a witch hazel or aloe vera scalp spray along parted lines to soothe itchiness without disrupting braid tightness."
       },
       {
         "q": "Can I wash my braided hair without causing frizz?",
-        "a": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel."
+        "a": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel.",
+        "question": "Can I wash my braided hair without causing frizz?",
+        "answer": "Yes! Dilute gentle shampoo in a squeeze bottle, massage gently along scalp parts, rinse thoroughly, and dry under a hooded dryer or bonnet towel."
       }
     ],
     "items": [
@@ -17243,7 +17631,8 @@ export const articles = [
       "11+ Stunning Rope Braid Hairstyles to Consider is one of 2026's most requested hair trends.",
       "Braids blend intricate artistic craftsmanship with effortless protective wear.",
       "Here are inspiring braided style ideas to save for your next salon appointment."
-    ]
+    ],
+    "image": "/images/doc36_cover_collage.jpg"
   },
   {
     "id": "beautiful-braided-hairstyles-women-love",
@@ -17291,15 +17680,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long do braided hairstyles typically last?",
-        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
+        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing.",
+        "question": "How long do braided hairstyles typically last?",
+        "answer": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
       },
       {
         "q": "How can I prevent scalp tension from tight braids?",
-        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
+        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation.",
+        "question": "How can I prevent scalp tension from tight braids?",
+        "answer": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
       },
       {
         "q": "Can I wash my hair while wearing braided styles?",
-        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
+        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely.",
+        "question": "Can I wash my hair while wearing braided styles?",
+        "answer": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
       }
     ],
     "items": [
@@ -17451,7 +17846,8 @@ export const articles = [
       "12+ Beautiful Braided Hairstyles Women Love is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc35_cover_collage.jpg"
   },
   {
     "id": "chic-fishtail-braid-hairstyles-to-try-now",
@@ -17499,15 +17895,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long do braided hairstyles typically last?",
-        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
+        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing.",
+        "question": "How long do braided hairstyles typically last?",
+        "answer": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
       },
       {
         "q": "How can I prevent scalp tension from tight braids?",
-        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
+        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation.",
+        "question": "How can I prevent scalp tension from tight braids?",
+        "answer": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
       },
       {
         "q": "Can I wash my hair while wearing braided styles?",
-        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
+        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely.",
+        "question": "Can I wash my hair while wearing braided styles?",
+        "answer": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
       }
     ],
     "items": [
@@ -17681,7 +18083,8 @@ export const articles = [
       "13+ Chic Fishtail Braid Hairstyles to Try Now is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc34_cover_collage.jpg"
   },
   {
     "id": "stunning-cornrow-hairstyles-to-copy",
@@ -17729,15 +18132,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long do braided hairstyles typically last?",
-        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
+        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing.",
+        "question": "How long do braided hairstyles typically last?",
+        "answer": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
       },
       {
         "q": "How can I prevent scalp tension from tight braids?",
-        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
+        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation.",
+        "question": "How can I prevent scalp tension from tight braids?",
+        "answer": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
       },
       {
         "q": "Can I wash my hair while wearing braided styles?",
-        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
+        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely.",
+        "question": "Can I wash my hair while wearing braided styles?",
+        "answer": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
       }
     ],
     "items": [
@@ -17911,7 +18320,8 @@ export const articles = [
       "14+ Stunning Cornrow Hairstyles to Copy is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc33_cover_collage.jpg"
   },
   {
     "id": "chic-crown-braid-hairstyles-to-try",
@@ -17959,15 +18369,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long do braided hairstyles typically last?",
-        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
+        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing.",
+        "question": "How long do braided hairstyles typically last?",
+        "answer": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
       },
       {
         "q": "How can I prevent scalp tension from tight braids?",
-        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
+        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation.",
+        "question": "How can I prevent scalp tension from tight braids?",
+        "answer": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
       },
       {
         "q": "Can I wash my hair while wearing braided styles?",
-        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
+        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely.",
+        "question": "Can I wash my hair while wearing braided styles?",
+        "answer": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
       }
     ],
     "items": [
@@ -18130,7 +18546,8 @@ export const articles = [
       "13+ Chic Crown Braid Hairstyles to Try is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc32_cover_collage.jpg"
   },
   {
     "id": "trendy-double-dutch-braids-to-save",
@@ -18178,15 +18595,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long do braided hairstyles typically last?",
-        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
+        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing.",
+        "question": "How long do braided hairstyles typically last?",
+        "answer": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
       },
       {
         "q": "How can I prevent scalp tension from tight braids?",
-        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
+        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation.",
+        "question": "How can I prevent scalp tension from tight braids?",
+        "answer": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
       },
       {
         "q": "Can I wash my hair while wearing braided styles?",
-        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
+        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely.",
+        "question": "Can I wash my hair while wearing braided styles?",
+        "answer": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
       }
     ],
     "items": [
@@ -18327,7 +18750,8 @@ export const articles = [
       "11+ Trendy Double Dutch Braids to Save is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc31_cover_collage.jpg"
   },
   {
     "id": "chic-waterfall-braid-hairstyles-to-try-now",
@@ -18375,15 +18799,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How long do braided hairstyles typically last?",
-        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
+        "a": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing.",
+        "question": "How long do braided hairstyles typically last?",
+        "answer": "Depending on braid size and care, braided styles last anywhere from 2 to 8 weeks with proper scalp moisturizing."
       },
       {
         "q": "How can I prevent scalp tension from tight braids?",
-        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
+        "a": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation.",
+        "question": "How can I prevent scalp tension from tight braids?",
+        "answer": "Ask your braider for knotless parting techniques and apply soothing aloe or peppermint scalp oil immediately after installation."
       },
       {
         "q": "Can I wash my hair while wearing braided styles?",
-        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
+        "a": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely.",
+        "question": "Can I wash my hair while wearing braided styles?",
+        "answer": "Yes! Dilute gentle shampoo with water in a squeeze bottle, focus on scalp parts, rinse thoroughly, and hooded dry or air dry completely."
       }
     ],
     "items": [
@@ -18535,7 +18965,8 @@ export const articles = [
       "12+ Chic Waterfall Braid Hairstyles to Try Now is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc30_cover_collage.jpg"
   },
   {
     "id": "trending-choppy-bob-hairstyles",
@@ -18583,15 +19014,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What hair types work best with a choppy bob haircut?",
-        "a": "Choppy bobs work wonderfully on fine, medium, and wavy hair! Razor-cut layers remove excess weight from thick strands while adding texture to fine hair."
+        "a": "Choppy bobs work wonderfully on fine, medium, and wavy hair! Razor-cut layers remove excess weight from thick strands while adding texture to fine hair.",
+        "question": "What hair types work best with a choppy bob haircut?",
+        "answer": "Choppy bobs work wonderfully on fine, medium, and wavy hair! Razor-cut layers remove excess weight from thick strands while adding texture to fine hair."
       },
       {
         "q": "How is a choppy bob different from a regular layered bob?",
-        "a": "A regular layered bob has smooth, blended transitions, whereas a choppy bob features razored, point-cut ends that create distinct piecey separation."
+        "a": "A regular layered bob has smooth, blended transitions, whereas a choppy bob features razored, point-cut ends that create distinct piecey separation.",
+        "question": "How is a choppy bob different from a regular layered bob?",
+        "answer": "A regular layered bob has smooth, blended transitions, whereas a choppy bob features razored, point-cut ends that create distinct piecey separation."
       },
       {
         "q": "How often does a choppy bob need a haircut trim?",
-        "a": "Because choppy bobs are cut with lived-in textured ends, they grow out gracefully for 8 to 10 weeks before needing a quick trim."
+        "a": "Because choppy bobs are cut with lived-in textured ends, they grow out gracefully for 8 to 10 weeks before needing a quick trim.",
+        "question": "How often does a choppy bob need a haircut trim?",
+        "answer": "Because choppy bobs are cut with lived-in textured ends, they grow out gracefully for 8 to 10 weeks before needing a quick trim."
       }
     ],
     "items": [
@@ -18820,7 +19257,8 @@ export const articles = [
       "Choppy bobs are having a massive style moment in 2026.",
       "They offer effortless texture, piecey movement, and built-in crown volume without requiring high-maintenance morning routines.",
       "From textured ash blonde waves to rich caramel chops, here are 20 trending choppy bob hairstyles to save for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc29_cover_collage.jpg"
   },
   {
     "id": "bob-hairstyles-with-bangs",
@@ -18868,15 +19306,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Do bobs with bangs look good on all face shapes?",
-        "a": "Yes! Curtain bangs soften square face shapes, side-swept fringe elongates round faces, and full blunt bangs complement oval and heart face shapes."
+        "a": "Yes! Curtain bangs soften square face shapes, side-swept fringe elongates round faces, and full blunt bangs complement oval and heart face shapes.",
+        "question": "Do bobs with bangs look good on all face shapes?",
+        "answer": "Yes! Curtain bangs soften square face shapes, side-swept fringe elongates round faces, and full blunt bangs complement oval and heart face shapes."
       },
       {
         "q": "How can I prevent my bob bangs from getting greasy during the day?",
-        "a": "Mist translucent dry shampoo underneath your fringe before leaving home to absorb natural forehead oils."
+        "a": "Mist translucent dry shampoo underneath your fringe before leaving home to absorb natural forehead oils.",
+        "question": "How can I prevent my bob bangs from getting greasy during the day?",
+        "answer": "Mist translucent dry shampoo underneath your fringe before leaving home to absorb natural forehead oils."
       },
       {
         "q": "How often do bobs with bangs require a trim?",
-        "a": "Fringe trims are best every 3 to 4 weeks, while the main bob perimeter holds its shape with a cut every 6 to 8 weeks."
+        "a": "Fringe trims are best every 3 to 4 weeks, while the main bob perimeter holds its shape with a cut every 6 to 8 weeks.",
+        "question": "How often do bobs with bangs require a trim?",
+        "answer": "Fringe trims are best every 3 to 4 weeks, while the main bob perimeter holds its shape with a cut every 6 to 8 weeks."
       }
     ],
     "items": [
@@ -19003,7 +19447,8 @@ export const articles = [
       "Bobs with bangs are proof that structure and personality can absolutely coexist. One good cut can change your whole morning routine.",
       "Bangs handle the facial framing, the bob handles the perimeter shaping, and together they do the heavy lifting.",
       "Here are 11 chic bob hairstyles with bangs to try right now."
-    ]
+    ],
+    "image": "/images/doc28_cover_collage.jpg"
   },
   {
     "id": "bob-haircuts-for-fine-hair",
@@ -19051,15 +19496,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the single best bob haircut for fine hair?",
-        "a": "Chin-length blunt bobs and slightly angled bobs are best for fine hair because they maximize perimeter density while giving front strands natural body."
+        "a": "Chin-length blunt bobs and slightly angled bobs are best for fine hair because they maximize perimeter density while giving front strands natural body.",
+        "question": "What is the single best bob haircut for fine hair?",
+        "answer": "Chin-length blunt bobs and slightly angled bobs are best for fine hair because they maximize perimeter density while giving front strands natural body."
       },
       {
         "q": "Should fine hair get layers in a bob cut?",
-        "a": "Yes, but keep layers subtle and interior! Heavy outer layering thins out fine hair ends, whereas invisible interior layers add crown volume."
+        "a": "Yes, but keep layers subtle and interior! Heavy outer layering thins out fine hair ends, whereas invisible interior layers add crown volume.",
+        "question": "Should fine hair get layers in a bob cut?",
+        "answer": "Yes, but keep layers subtle and interior! Heavy outer layering thins out fine hair ends, whereas invisible interior layers add crown volume."
       },
       {
         "q": "How can I prevent my fine hair bob from going flat midday?",
-        "a": "Avoid heavy oils and silicones. Lightly mist a texturizing sea salt or dry root spray through roots to keep strands buoyant and oil-free."
+        "a": "Avoid heavy oils and silicones. Lightly mist a texturizing sea salt or dry root spray through roots to keep strands buoyant and oil-free.",
+        "question": "How can I prevent my fine hair bob from going flat midday?",
+        "answer": "Avoid heavy oils and silicones. Lightly mist a texturizing sea salt or dry root spray through roots to keep strands buoyant and oil-free."
       }
     ],
     "items": [
@@ -19241,7 +19692,8 @@ export const articles = [
       "A great bob haircut can do wonders for fine hair. It adds built-in shape, crown volume, and effortless movement without over-thinning your ends.",
       "Fine hair has a reputation for being tricky, but the right bob cut makes it look naturally full and polished.",
       "Here are 16 chic bob haircuts for fine hair that turn heads."
-    ]
+    ],
+    "image": "/images/doc27_cover_collage.jpg"
   },
   {
     "id": "angled-bob-hairstyles",
@@ -19289,15 +19741,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What face shapes look best with angled bob hairstyles?",
-        "a": "Angled bobs flatter almost every face shape! Longer front angles elongate round face shapes, while soft wavy angled bobs soften square jawlines."
+        "a": "Angled bobs flatter almost every face shape! Longer front angles elongate round face shapes, while soft wavy angled bobs soften square jawlines.",
+        "question": "What face shapes look best with angled bob hairstyles?",
+        "answer": "Angled bobs flatter almost every face shape! Longer front angles elongate round face shapes, while soft wavy angled bobs soften square jawlines."
       },
       {
         "q": "What is the difference between an A-line bob and an angled bob?",
-        "a": "An A-line bob gets longer toward the front without stacked layers in the back, whereas an angled bob features stacked back nape layers for extra crown height."
+        "a": "An A-line bob gets longer toward the front without stacked layers in the back, whereas an angled bob features stacked back nape layers for extra crown height.",
+        "question": "What is the difference between an A-line bob and an angled bob?",
+        "answer": "An A-line bob gets longer toward the front without stacked layers in the back, whereas an angled bob features stacked back nape layers for extra crown height."
       },
       {
         "q": "How often should an angled bob be trimmed?",
-        "a": "To keep the back-to-front diagonal angle sharp and precise, schedule a haircut trim every 6 to 8 weeks."
+        "a": "To keep the back-to-front diagonal angle sharp and precise, schedule a haircut trim every 6 to 8 weeks.",
+        "question": "How often should an angled bob be trimmed?",
+        "answer": "To keep the back-to-front diagonal angle sharp and precise, schedule a haircut trim every 6 to 8 weeks."
       }
     ],
     "items": [
@@ -19435,7 +19893,8 @@ export const articles = [
       "Angled bobs are the haircut equivalent of a great tailored blazer\u2014clean, confident, and instantly polished.",
       "They frame the face, lift the nape line, and give your hair built-in structure even on low-effort days.",
       "From sleek, glass-smooth perimeters to soft, textured waves, here are 12 chic angled bob hairstyles that stand out."
-    ]
+    ],
+    "image": "/images/doc26_cover_collage.jpg"
   },
   {
     "id": "short-layered-bob-hairstyles-older-women",
@@ -19483,15 +19942,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Why are short layered bobs so popular for older women?",
-        "a": "Because short layered bobs combine low daily maintenance with instant crown lift, helping fine mature strands look buoyant, thick, and stylish."
+        "a": "Because short layered bobs combine low daily maintenance with instant crown lift, helping fine mature strands look buoyant, thick, and stylish.",
+        "question": "Why are short layered bobs so popular for older women?",
+        "answer": "Because short layered bobs combine low daily maintenance with instant crown lift, helping fine mature strands look buoyant, thick, and stylish."
       },
       {
         "q": "How do I choose the best short layered bob for my face shape?",
-        "a": "Round face shapes benefit from side-parted angled bobs, heart faces look great with feathered chin bobs, and oval faces suit all stacked or blunt variations."
+        "a": "Round face shapes benefit from side-parted angled bobs, heart faces look great with feathered chin bobs, and oval faces suit all stacked or blunt variations.",
+        "question": "How do I choose the best short layered bob for my face shape?",
+        "answer": "Round face shapes benefit from side-parted angled bobs, heart faces look great with feathered chin bobs, and oval faces suit all stacked or blunt variations."
       },
       {
         "q": "Can short layered bobs enhance natural silver and white hair tones?",
-        "a": "Yes! Layering catches daylight on silver and white hair, making natural gray tones look intentional, multi-dimensional, and radiant."
+        "a": "Yes! Layering catches daylight on silver and white hair, making natural gray tones look intentional, multi-dimensional, and radiant.",
+        "question": "Can short layered bobs enhance natural silver and white hair tones?",
+        "answer": "Yes! Layering catches daylight on silver and white hair, making natural gray tones look intentional, multi-dimensional, and radiant."
       }
     ],
     "items": [
@@ -19784,7 +20249,8 @@ export const articles = [
       "Are you ready to shake things up with a fresh, fabulous haircut? The short layered bob is a timeless style that\u2019s here to stay, especially for those who believe age is just a number.",
       "For older women, this cut offers ease, crown height, and facial framing.",
       "From chic silvers to warm caramels, here are 26 stunning short layered bobs tailored for mature beauty."
-    ]
+    ],
+    "image": "/images/doc25_cover_collage.jpg"
   },
   {
     "id": "short-bob-hairstyles-with-bangs",
@@ -19832,15 +20298,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What face shapes look best with short bob hairstyles with bangs?",
-        "a": "Wispy bangs suit round faces, curtain fringe flatters square jawlines, and blunt micro-bangs complement oval or heart face shapes."
+        "a": "Wispy bangs suit round faces, curtain fringe flatters square jawlines, and blunt micro-bangs complement oval or heart face shapes.",
+        "question": "What face shapes look best with short bob hairstyles with bangs?",
+        "answer": "Wispy bangs suit round faces, curtain fringe flatters square jawlines, and blunt micro-bangs complement oval or heart face shapes."
       },
       {
         "q": "How can I prevent my short bob bangs from getting greasy during the day?",
-        "a": "Lightly dust translucent dry shampoo underneath your fringe before leaving home to absorb forehead oils naturally."
+        "a": "Lightly dust translucent dry shampoo underneath your fringe before leaving home to absorb forehead oils naturally.",
+        "question": "How can I prevent my short bob bangs from getting greasy during the day?",
+        "answer": "Lightly dust translucent dry shampoo underneath your fringe before leaving home to absorb forehead oils naturally."
       },
       {
         "q": "How often do short bobs with bangs need to be trimmed?",
-        "a": "Fringe trims are ideal every 3 to 4 weeks, while the main bob perimeter stays crisp with a trim every 6 to 8 weeks."
+        "a": "Fringe trims are ideal every 3 to 4 weeks, while the main bob perimeter stays crisp with a trim every 6 to 8 weeks.",
+        "question": "How often do short bobs with bangs need to be trimmed?",
+        "answer": "Fringe trims are ideal every 3 to 4 weeks, while the main bob perimeter stays crisp with a trim every 6 to 8 weeks."
       }
     ],
     "items": [
@@ -20058,7 +20530,8 @@ export const articles = [
       "This cut is sharp enough for the office and effortlessly cool for weekend plans.",
       "It\u2019s structured, stylish, and surprisingly easy to maintain.",
       "From French-inspired jawline cuts to micro-fringe finishes, here are 19 gorgeous short bobs with bangs for your next salon transformation."
-    ]
+    ],
+    "image": "/images/doc24_cover_collage.jpg"
   },
   {
     "id": "short-bob-haircuts-women-over-40",
@@ -20106,15 +20579,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Are short bobs flattering for women over 40 with round face shapes?",
-        "a": "Yes! Angled short bobs that are slightly longer in front elongate round face shapes and sculpt the jawline beautifully."
+        "a": "Yes! Angled short bobs that are slightly longer in front elongate round face shapes and sculpt the jawline beautifully.",
+        "question": "Are short bobs flattering for women over 40 with round face shapes?",
+        "answer": "Yes! Angled short bobs that are slightly longer in front elongate round face shapes and sculpt the jawline beautifully."
       },
       {
         "q": "How can women over 40 make a short bob look youthful rather than dated?",
-        "a": "Opt for soft interior layering, lived-in wave texture, or subtle balayage highlights instead of rigid, hyper-stiff hairsprayed styles."
+        "a": "Opt for soft interior layering, lived-in wave texture, or subtle balayage highlights instead of rigid, hyper-stiff hairsprayed styles.",
+        "question": "How can women over 40 make a short bob look youthful rather than dated?",
+        "answer": "Opt for soft interior layering, lived-in wave texture, or subtle balayage highlights instead of rigid, hyper-stiff hairsprayed styles."
       },
       {
         "q": "How often does a short bob need a haircut trim for women over 40?",
-        "a": "Short bobs hold their precise silhouette best when trimmed every 6 to 8 weeks to maintain crisp chin lines."
+        "a": "Short bobs hold their precise silhouette best when trimmed every 6 to 8 weeks to maintain crisp chin lines.",
+        "question": "How often does a short bob need a haircut trim for women over 40?",
+        "answer": "Short bobs hold their precise silhouette best when trimmed every 6 to 8 weeks to maintain crisp chin lines."
       }
     ],
     "items": [
@@ -20320,7 +20799,8 @@ export const articles = [
       "The short bob has been doing that job beautifully for decades.",
       "It\u2019s polished without being fussy, modern without trying too hard, and always looks like you woke up with a plan.",
       "Here are 18 fresh short bobs with soft layers, effortless texture, and radiant color blends tailored for women over 40."
-    ]
+    ],
+    "image": "/images/doc23_cover_collage.jpg"
   },
   {
     "id": "long-layered-bob",
@@ -20368,15 +20848,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the difference between a traditional bob and a long layered bob?",
-        "a": "A traditional bob sits at the jawline, whereas a long layered bob (lob) grazes the collarbones and includes interior layering for added body and movement."
+        "a": "A traditional bob sits at the jawline, whereas a long layered bob (lob) grazes the collarbones and includes interior layering for added body and movement.",
+        "question": "What is the difference between a traditional bob and a long layered bob?",
+        "answer": "A traditional bob sits at the jawline, whereas a long layered bob (lob) grazes the collarbones and includes interior layering for added body and movement."
       },
       {
         "q": "Does a long layered bob suit fine hair?",
-        "a": "Yes! Soft interior layers remove bulk while keeping perimeter baseline thick, creating the appearance of fuller, denser hair."
+        "a": "Yes! Soft interior layers remove bulk while keeping perimeter baseline thick, creating the appearance of fuller, denser hair.",
+        "question": "Does a long layered bob suit fine hair?",
+        "answer": "Yes! Soft interior layers remove bulk while keeping perimeter baseline thick, creating the appearance of fuller, denser hair."
       },
       {
         "q": "How often does a long layered bob need to be trimmed?",
-        "a": "Because lobs grow out seamlessly, they only require a quick maintenance trim every 8 to 10 weeks to keep layer ends crisp."
+        "a": "Because lobs grow out seamlessly, they only require a quick maintenance trim every 8 to 10 weeks to keep layer ends crisp.",
+        "question": "How often does a long layered bob need to be trimmed?",
+        "answer": "Because lobs grow out seamlessly, they only require a quick maintenance trim every 8 to 10 weeks to keep layer ends crisp."
       }
     ],
     "items": [
@@ -20529,7 +21015,8 @@ export const articles = [
       "This haircut has earned its place as a favorite thanks to its perfect balance of length, movement, and low-maintenance versatility.",
       "A long layered bob (or lob) removes heavy weight while framing your jawline with touchable elegance.",
       "Here are 13 chic long layered bob ideas to inspire your next salon visit."
-    ]
+    ],
+    "image": "/images/doc22_cover_collage.jpg"
   },
   {
     "id": "bob-hairstyles-women-over-60-fine-hair",
@@ -20577,15 +21064,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the best bob haircut length for women over 60 with fine hair?",
-        "a": "Chin-length and jaw-length bobs are ideal for fine mature hair because they concentrate hair weight right at the perimeter, making ends look thick and healthy."
+        "a": "Chin-length and jaw-length bobs are ideal for fine mature hair because they concentrate hair weight right at the perimeter, making ends look thick and healthy.",
+        "question": "What is the best bob haircut length for women over 60 with fine hair?",
+        "answer": "Chin-length and jaw-length bobs are ideal for fine mature hair because they concentrate hair weight right at the perimeter, making ends look thick and healthy."
       },
       {
         "q": "Should women over 60 with fine hair get layers in a bob?",
-        "a": "Yes, but keep layers soft and interior! Over-layering fine hair removes needed perimeter weight, while subtle crown layers add necessary volume."
+        "a": "Yes, but keep layers soft and interior! Over-layering fine hair removes needed perimeter weight, while subtle crown layers add necessary volume.",
+        "question": "Should women over 60 with fine hair get layers in a bob?",
+        "answer": "Yes, but keep layers soft and interior! Over-layering fine hair removes needed perimeter weight, while subtle crown layers add necessary volume."
       },
       {
         "q": "How can I keep my fine bob from getting flat during the day?",
-        "a": "Avoid heavy oils and silicones. Use a light texturizing spray at the roots and consider a deep side part to instantly double crown height."
+        "a": "Avoid heavy oils and silicones. Use a light texturizing spray at the roots and consider a deep side part to instantly double crown height.",
+        "question": "How can I keep my fine bob from getting flat during the day?",
+        "answer": "Avoid heavy oils and silicones. Use a light texturizing spray at the roots and consider a deep side part to instantly double crown height."
       }
     ],
     "items": [
@@ -20754,7 +21247,8 @@ export const articles = [
       "Fine hair has a way of doing its own thing, especially after 60.",
       "The right bob haircut can fix a lot of that by adding natural shape, crown structure, and perimeter weight that makes styling effortless.",
       "In 2026, mature bob cuts lean softer and lighter, utilizing strategic layering to give fine strands a noticeably fuller feel."
-    ]
+    ],
+    "image": "/images/doc21_cover_collage.jpg"
   },
   {
     "id": "long-haircuts-with-bangs",
@@ -20802,15 +21296,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Do long haircuts with bangs look good on all face shapes?",
-        "a": "Yes! Curtain bangs suit round and square face shapes, while wispy fringe flatters heart shapes, and blunt bangs complement oval faces."
+        "a": "Yes! Curtain bangs suit round and square face shapes, while wispy fringe flatters heart shapes, and blunt bangs complement oval faces.",
+        "question": "Do long haircuts with bangs look good on all face shapes?",
+        "answer": "Yes! Curtain bangs suit round and square face shapes, while wispy fringe flatters heart shapes, and blunt bangs complement oval faces."
       },
       {
         "q": "How can I prevent my long hair from weighing down my bangs?",
-        "a": "Ask your stylist for soft interior face-framing layers so your fringe seamlessly transitions into your long side lengths."
+        "a": "Ask your stylist for soft interior face-framing layers so your fringe seamlessly transitions into your long side lengths.",
+        "question": "How can I prevent my long hair from weighing down my bangs?",
+        "answer": "Ask your stylist for soft interior face-framing layers so your fringe seamlessly transitions into your long side lengths."
       },
       {
         "q": "How often do long hair bangs need a trim?",
-        "a": "Curtain and wispy bangs grow out gracefully for 6 to 8 weeks, while blunt bangs look best with a quick trim every 3 to 4 weeks."
+        "a": "Curtain and wispy bangs grow out gracefully for 6 to 8 weeks, while blunt bangs look best with a quick trim every 3 to 4 weeks.",
+        "question": "How often do long hair bangs need a trim?",
+        "answer": "Curtain and wispy bangs grow out gracefully for 6 to 8 weeks, while blunt bangs look best with a quick trim every 3 to 4 weeks."
       }
     ],
     "items": [
@@ -20995,7 +21495,8 @@ export const articles = [
       "It\u2019s the kind of haircut that transitions from casual daytime waves to polished evening sleekness in minutes.",
       "Bangs frame the face, add dimension to long locks, and bring instant flair without losing length.",
       "Here are 16 long haircuts with fringe for your next salon visit."
-    ]
+    ],
+    "image": "/images/doc20_cover_collage.jpg"
   },
   {
     "id": "haircuts-older-women-over-60-with-bangs",
@@ -21043,15 +21544,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the most age-flattering bang style for women over 60?",
-        "a": "Soft side-swept bangs and curtain fringe are the most flattering because they gently frame facial features without taking density from crown layers."
+        "a": "Soft side-swept bangs and curtain fringe are the most flattering because they gently frame facial features without taking density from crown layers.",
+        "question": "What is the most age-flattering bang style for women over 60?",
+        "answer": "Soft side-swept bangs and curtain fringe are the most flattering because they gently frame facial features without taking density from crown layers."
       },
       {
         "q": "How can women over 60 stop bangs from flattening during the day?",
-        "a": "Lightly mist dry shampoo on the underside of your fringe before leaving home to keep strands buoyant, airy, and oil-free."
+        "a": "Lightly mist dry shampoo on the underside of your fringe before leaving home to keep strands buoyant, airy, and oil-free.",
+        "question": "How can women over 60 stop bangs from flattening during the day?",
+        "answer": "Lightly mist dry shampoo on the underside of your fringe before leaving home to keep strands buoyant, airy, and oil-free."
       },
       {
         "q": "Do bangs work well with natural white and silver hair tones?",
-        "a": "Yes! Soft fringe catches light beautifully on silver and white hair, making natural color look intentional, radiant, and chic."
+        "a": "Yes! Soft fringe catches light beautifully on silver and white hair, making natural color look intentional, radiant, and chic.",
+        "question": "Do bangs work well with natural white and silver hair tones?",
+        "answer": "Yes! Soft fringe catches light beautifully on silver and white hair, making natural color look intentional, radiant, and chic."
       }
     ],
     "items": [
@@ -21255,7 +21762,8 @@ export const articles = [
       "Haircuts for older women over 60 with bangs are having a refined design moment in 2026.",
       "Bangs are no longer a high-maintenance trend\u2014they are a thoughtful style choice that adds structure, softness, and balance to mature features.",
       "From polished bobs to textured shags and airy pixies, here are 18 modern cuts that prove great style is timeless."
-    ]
+    ],
+    "image": "/images/doc19_cover_collage.jpg"
   },
   {
     "id": "curly-hairstyles-older-women-over-50-with-bangs",
@@ -21303,15 +21811,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Can women over 50 with naturally curly hair wear bangs?",
-        "a": "Yes! Curly bangs add incredible character and softness around eyes and forehead lines, creating a playful, anti-aging frame."
+        "a": "Yes! Curly bangs add incredible character and softness around eyes and forehead lines, creating a playful, anti-aging frame.",
+        "question": "Can women over 50 with naturally curly hair wear bangs?",
+        "answer": "Yes! Curly bangs add incredible character and softness around eyes and forehead lines, creating a playful, anti-aging frame."
       },
       {
         "q": "How do you stop curly bangs from shrinking too short when dry?",
-        "a": "Always ask your stylist for a dry curl cut so they can trim your bangs where your natural curl bounce actually settles."
+        "a": "Always ask your stylist for a dry curl cut so they can trim your bangs where your natural curl bounce actually settles.",
+        "question": "How do you stop curly bangs from shrinking too short when dry?",
+        "answer": "Always ask your stylist for a dry curl cut so they can trim your bangs where your natural curl bounce actually settles."
       },
       {
         "q": "What curl products work best for mature curly fringe?",
-        "a": "Lightweight curl creams and hydrating leave-in sprays work best because they define bounce without weighing down fine mature strands."
+        "a": "Lightweight curl creams and hydrating leave-in sprays work best because they define bounce without weighing down fine mature strands.",
+        "question": "What curl products work best for mature curly fringe?",
+        "answer": "Lightweight curl creams and hydrating leave-in sprays work best because they define bounce without weighing down fine mature strands."
       }
     ],
     "items": [
@@ -21535,7 +22049,8 @@ export const articles = [
       "Curls have a way of showing personality before you even say a word. Add bangs into the mix, and suddenly your haircut has its own spotlight moment.",
       "For women over 50, curly hairstyles with fringe aren't just about keeping things fresh\u2014they highlight natural hair texture, frame mature cheekbones, and bring youthful vitality.",
       "Here are 20 bouncy, beautiful curly cuts tailored for older women."
-    ]
+    ],
+    "image": "/images/doc18_cover_collage.jpg"
   },
   {
     "id": "straight-hairstyles-with-bangs",
@@ -21583,15 +22098,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Do straight hairstyles with bangs require daily styling?",
-        "a": "Straight fringe typically takes only 2 to 3 minutes to style using a mini flat iron or paddle brush to smooth morning sleep creases."
+        "a": "Straight fringe typically takes only 2 to 3 minutes to style using a mini flat iron or paddle brush to smooth morning sleep creases.",
+        "question": "Do straight hairstyles with bangs require daily styling?",
+        "answer": "Straight fringe typically takes only 2 to 3 minutes to style using a mini flat iron or paddle brush to smooth morning sleep creases."
       },
       {
         "q": "What type of bangs look best on fine straight hair?",
-        "a": "Wispy bangs or light curtain fringe work best on fine straight hair because they create face-framing movement without thinning out crown volume."
+        "a": "Wispy bangs or light curtain fringe work best on fine straight hair because they create face-framing movement without thinning out crown volume.",
+        "question": "What type of bangs look best on fine straight hair?",
+        "answer": "Wispy bangs or light curtain fringe work best on fine straight hair because they create face-framing movement without thinning out crown volume."
       },
       {
         "q": "How do I prevent my straight bangs from separating during the day?",
-        "a": "Lightly mist dry shampoo on the underside of your bangs before leaving the house to keep strands airy, voluminous, and oil-free."
+        "a": "Lightly mist dry shampoo on the underside of your bangs before leaving the house to keep strands airy, voluminous, and oil-free.",
+        "question": "How do I prevent my straight bangs from separating during the day?",
+        "answer": "Lightly mist dry shampoo on the underside of your bangs before leaving the house to keep strands airy, voluminous, and oil-free."
       }
     ],
     "items": [
@@ -21743,7 +22264,8 @@ export const articles = [
       "Straight hair paired with bangs has a reputation for looking ultra-polished and salon-fresh.",
       "From clean, razor-sharp lines to soft wispy fringe, straight hairstyles with bangs frame your eyes and face with intentional elegance.",
       "Here are 13 chic straight hairstyles with fringe that prove the payoff is worth every minute of styling."
-    ]
+    ],
+    "image": "/images/doc17_cover_collage.jpg"
   },
   {
     "id": "short-grunge-haircuts-with-bangs",
@@ -21791,15 +22313,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What defines a short grunge haircut with bangs?",
-        "a": "A short grunge cut features razored layers, choppy ends, and undone texture paired with micro, curtain, or jagged fringe for a cool, effortless aesthetic."
+        "a": "A short grunge cut features razored layers, choppy ends, and undone texture paired with micro, curtain, or jagged fringe for a cool, effortless aesthetic.",
+        "question": "What defines a short grunge haircut with bangs?",
+        "answer": "A short grunge cut features razored layers, choppy ends, and undone texture paired with micro, curtain, or jagged fringe for a cool, effortless aesthetic."
       },
       {
         "q": "Can women with fine hair pull off a short grunge cut?",
-        "a": "Absolutely! Choppy internal layers and textured fringe build visual bulk and movement, making fine hair look thicker and fuller."
+        "a": "Absolutely! Choppy internal layers and textured fringe build visual bulk and movement, making fine hair look thicker and fuller.",
+        "question": "Can women with fine hair pull off a short grunge cut?",
+        "answer": "Absolutely! Choppy internal layers and textured fringe build visual bulk and movement, making fine hair look thicker and fuller."
       },
       {
         "q": "Are short grunge haircuts high-maintenance to style daily?",
-        "a": "Not at all. Grunge cuts thrive on lived-in air-dried texture. A quick 2-minute scrunch with texturizing salt spray or matte clay is all you need."
+        "a": "Not at all. Grunge cuts thrive on lived-in air-dried texture. A quick 2-minute scrunch with texturizing salt spray or matte clay is all you need.",
+        "question": "Are short grunge haircuts high-maintenance to style daily?",
+        "answer": "Not at all. Grunge cuts thrive on lived-in air-dried texture. A quick 2-minute scrunch with texturizing salt spray or matte clay is all you need."
       }
     ],
     "items": [
@@ -21991,7 +22519,8 @@ export const articles = [
       "There\u2019s something about a short haircut with just the right amount of messy texture that makes it feel like an instant statement.",
       "Add bangs into the mix, and suddenly you\u2019ve entered the effortlessly cool zone\u2014where raw edges, choppy layers, and piecey fringe reign supreme.",
       "Here are 17 current short grunge haircuts with bangs that embrace imperfect perfection."
-    ]
+    ],
+    "image": "/images/doc16_cover_collage.jpg"
   },
   {
     "id": "messy-fringe-haircut",
@@ -22039,15 +22568,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What makes a messy fringe different from traditional bangs?",
-        "a": "Messy fringe features soft, uneven feathering and piecey texture that embraces natural movement, whereas traditional bangs are cut blunt or styled stiffly straight."
+        "a": "Messy fringe features soft, uneven feathering and piecey texture that embraces natural movement, whereas traditional bangs are cut blunt or styled stiffly straight.",
+        "question": "What makes a messy fringe different from traditional bangs?",
+        "answer": "Messy fringe features soft, uneven feathering and piecey texture that embraces natural movement, whereas traditional bangs are cut blunt or styled stiffly straight."
       },
       {
         "q": "Can messy fringe work on fine or straight hair?",
-        "a": "Yes! Raking a light texturizing powder or dry shampoo into a wispy messy fringe creates instant separation and visual volume for fine strands."
+        "a": "Yes! Raking a light texturizing powder or dry shampoo into a wispy messy fringe creates instant separation and visual volume for fine strands.",
+        "question": "Can messy fringe work on fine or straight hair?",
+        "answer": "Yes! Raking a light texturizing powder or dry shampoo into a wispy messy fringe creates instant separation and visual volume for fine strands."
       },
       {
         "q": "How do you style messy fringe on humid or lazy days?",
-        "a": "Simply spritz dry shampoo or sea salt spray at the roots, tousle with your fingers, and let it embrace its natural piecey wave."
+        "a": "Simply spritz dry shampoo or sea salt spray at the roots, tousle with your fingers, and let it embrace its natural piecey wave.",
+        "question": "How do you style messy fringe on humid or lazy days?",
+        "answer": "Simply spritz dry shampoo or sea salt spray at the roots, tousle with your fingers, and let it embrace its natural piecey wave."
       }
     ],
     "items": [
@@ -22189,7 +22724,8 @@ export const articles = [
       "The messy fringe is having a major moment\u2014equal parts French-girl chic and 'I woke up like this.",
       "' It hits the ideal balance between polish and playful texture, delivering effortless confidence for every hair type and face shape.",
       "Here are messy fringe haircuts that prove imperfect is the ultimate perfection."
-    ]
+    ],
+    "image": "/images/doc15_cover_collage.jpg"
   },
   {
     "id": "haircuts-women-over-60-with-bangs",
@@ -22237,15 +22773,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the best type of bangs for women over 60 with fine or thinning hair?",
-        "a": "Wispy side-swept bangs or delicate curtain fringe are best because they create face-framing softness without thinning out the rest of your cut."
+        "a": "Wispy side-swept bangs or delicate curtain fringe are best because they create face-framing softness without thinning out the rest of your cut.",
+        "question": "What is the best type of bangs for women over 60 with fine or thinning hair?",
+        "answer": "Wispy side-swept bangs or delicate curtain fringe are best because they create face-framing softness without thinning out the rest of your cut."
       },
       {
         "q": "Can women over 60 wear short pixie cuts with bangs?",
-        "a": "Yes! A short pixie with feathered or side-swept bangs builds crown volume and highlights your eyes and cheekbones gracefully."
+        "a": "Yes! A short pixie with feathered or side-swept bangs builds crown volume and highlights your eyes and cheekbones gracefully.",
+        "question": "Can women over 60 wear short pixie cuts with bangs?",
+        "answer": "Yes! A short pixie with feathered or side-swept bangs builds crown volume and highlights your eyes and cheekbones gracefully."
       },
       {
         "q": "How often do bangs need a trim for mature hair?",
-        "a": "Wispy and side-swept fringe grow out gracefully, requiring a quick trim every 6 to 8 weeks. Blunt fringe typically needs a trim every 3 to 4 weeks."
+        "a": "Wispy and side-swept fringe grow out gracefully, requiring a quick trim every 6 to 8 weeks. Blunt fringe typically needs a trim every 3 to 4 weeks.",
+        "question": "How often do bangs need a trim for mature hair?",
+        "answer": "Wispy and side-swept fringe grow out gracefully, requiring a quick trim every 6 to 8 weeks. Blunt fringe typically needs a trim every 3 to 4 weeks."
       }
     ],
     "items": [
@@ -22404,7 +22946,8 @@ export const articles = [
       "Hitting your 60s doesn\u2019t mean you\u2019ve run out of great hairstyle options\u2014far from it. In fact, bangs are having a brilliant moment for mature women.",
       "They frame the face, soften forehead lines, and add a spark of personal style without requiring an hour in front of the mirror.",
       "From feathered bobs to layered shags and classic pixies, here are functional cuts that deliver real style for real life."
-    ]
+    ],
+    "image": "/images/doc14_cover_collage.jpg"
   },
   {
     "id": "bang-haircuts-older-women",
@@ -22452,15 +22995,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Can older women wear full blunt bangs?",
-        "a": "Yes! Full blunt bangs paired with a chin bob create a polished, high-fashion silhouette for mature women, especially on fine to medium hair types."
+        "a": "Yes! Full blunt bangs paired with a chin bob create a polished, high-fashion silhouette for mature women, especially on fine to medium hair types.",
+        "question": "Can older women wear full blunt bangs?",
+        "answer": "Yes! Full blunt bangs paired with a chin bob create a polished, high-fashion silhouette for mature women, especially on fine to medium hair types."
       },
       {
         "q": "What type of bangs are best for thinning hair at the front?",
-        "a": "Wispy curtain bangs or side-swept fringe work best because they blend seamlessly into side layers without taking away density from the top."
+        "a": "Wispy curtain bangs or side-swept fringe work best because they blend seamlessly into side layers without taking away density from the top.",
+        "question": "What type of bangs are best for thinning hair at the front?",
+        "answer": "Wispy curtain bangs or side-swept fringe work best because they blend seamlessly into side layers without taking away density from the top."
       },
       {
         "q": "How often should older women get their bangs trimmed?",
-        "a": "Wispy and curtain fringe can grow out naturally for 6 to 8 weeks, while short or blunt bangs look best with a quick 5-minute trim every 3 to 4 weeks."
+        "a": "Wispy and curtain fringe can grow out naturally for 6 to 8 weeks, while short or blunt bangs look best with a quick 5-minute trim every 3 to 4 weeks.",
+        "question": "How often should older women get their bangs trimmed?",
+        "answer": "Wispy and curtain fringe can grow out naturally for 6 to 8 weeks, while short or blunt bangs look best with a quick 5-minute trim every 3 to 4 weeks."
       }
     ],
     "items": [
@@ -22656,7 +23205,8 @@ export const articles = [
       "Bangs are like the punctuation mark of a great haircut\u2014they say just enough without overexplaining.",
       "For older women, a tailored set of fringe can do wonders: softening fine lines around the forehead, highlighting your eyes, and making morning styling feel instantly refreshed.",
       "Whether you prefer airy wispy fringe or structured side-swept bangs, these cuts bring timeless confidence to mature hair."
-    ]
+    ],
+    "image": "/images/doc13_cover_collage.jpg"
   },
   {
     "id": "medium-length-hairstyles-with-bangs",
@@ -22704,15 +23254,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What type of bangs work best with medium-length haircuts for fine hair?",
-        "a": "Wispy curtain bangs or soft side-swept fringe work best for fine medium-length hair because they create natural movement without stripping density from the main body."
+        "a": "Wispy curtain bangs or soft side-swept fringe work best for fine medium-length hair because they create natural movement without stripping density from the main body.",
+        "question": "What type of bangs work best with medium-length haircuts for fine hair?",
+        "answer": "Wispy curtain bangs or soft side-swept fringe work best for fine medium-length hair because they create natural movement without stripping density from the main body."
       },
       {
         "q": "Are medium length hairstyles with bangs flattering for women over 50 and 60?",
-        "a": "Absolutely! Medium length bobs and lobs with soft fringe frame eyes and cheekbones, offering a polished, youthful look that requires minimal morning effort."
+        "a": "Absolutely! Medium length bobs and lobs with soft fringe frame eyes and cheekbones, offering a polished, youthful look that requires minimal morning effort.",
+        "question": "Are medium length hairstyles with bangs flattering for women over 50 and 60?",
+        "answer": "Absolutely! Medium length bobs and lobs with soft fringe frame eyes and cheekbones, offering a polished, youthful look that requires minimal morning effort."
       },
       {
         "q": "How often do bangs on medium length hair need a trim?",
-        "a": "Curtain and side-swept bangs grow out gracefully, requiring a quick 5-minute trim every 6 to 8 weeks. Wispy or blunt fringe typically needs a trim every 3 to 4 weeks."
+        "a": "Curtain and side-swept bangs grow out gracefully, requiring a quick 5-minute trim every 6 to 8 weeks. Wispy or blunt fringe typically needs a trim every 3 to 4 weeks.",
+        "question": "How often do bangs on medium length hair need a trim?",
+        "answer": "Curtain and side-swept bangs grow out gracefully, requiring a quick 5-minute trim every 6 to 8 weeks. Wispy or blunt fringe typically needs a trim every 3 to 4 weeks."
       }
     ],
     "items": [
@@ -22961,7 +23517,8 @@ export const articles = [
       "If you're on the hunt for a fresh new look that\u2019s both trendy and versatile, you\u2019re in the right place.",
       "Medium length hairstyles with bangs hit the absolute sweet spot between easy daily maintenance and maximum styling flexibility.",
       "Whether you have fine hair needing a volume boost, or you're seeking a sophisticated cut for women over 50 or 60, medium lengths paired with fringe offer endless face-framing charm."
-    ]
+    ],
+    "image": "/images/doc12_cover_collage.jpg"
   },
   {
     "id": "hairstyles-older-women-glasses",
@@ -23009,15 +23566,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What haircut is most flattering for older women who wear glasses daily?",
-        "a": "A soft layered bob, wispy curtain shag, or tapered pixie cut creates clean lines that frame your face and eyewear without feeling heavy."
+        "a": "A soft layered bob, wispy curtain shag, or tapered pixie cut creates clean lines that frame your face and eyewear without feeling heavy.",
+        "question": "What haircut is most flattering for older women who wear glasses daily?",
+        "answer": "A soft layered bob, wispy curtain shag, or tapered pixie cut creates clean lines that frame your face and eyewear without feeling heavy."
       },
       {
         "q": "How can I stop my hair from getting crushed by my glasses arms?",
-        "a": "Ask your stylist for soft wispy layers right above the ears, or lightly tuck side strands behind your ears before putting on your glasses."
+        "a": "Ask your stylist for soft wispy layers right above the ears, or lightly tuck side strands behind your ears before putting on your glasses.",
+        "question": "How can I stop my hair from getting crushed by my glasses arms?",
+        "answer": "Ask your stylist for soft wispy layers right above the ears, or lightly tuck side strands behind your ears before putting on your glasses."
       },
       {
         "q": "Do short haircuts look good on mature women with large frames?",
-        "a": "Yes! Short crops with crown height balance oversized frames, creating a chic, fashion-forward look."
+        "a": "Yes! Short crops with crown height balance oversized frames, creating a chic, fashion-forward look.",
+        "question": "Do short haircuts look good on mature women with large frames?",
+        "answer": "Yes! Short crops with crown height balance oversized frames, creating a chic, fashion-forward look."
       }
     ],
     "items": [
@@ -23245,7 +23808,8 @@ export const articles = [
       "For older women, the right haircut does plenty of heavy lifting: it softens facial contours, balances frame shapes, and makes morning routines wonderfully effortless.",
       "In 2026, hairstyles for mature women focus on polish, movement, and celebrating natural silver, blonde, and brunette textures.",
       "Here are cuts designed to work in harmony with your eyewear."
-    ]
+    ],
+    "image": "/images/doc11_cover_collage.jpg"
   },
   {
     "id": "ash-blonde-hair-color-ideas",
@@ -23293,15 +23857,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Will ash blonde hair color wash out pale or warm skin tones?",
-        "a": "Not when tailored correctly! Asking your colorist for an ash beige or ash bronde balance ensures warm complexions retain healthy skin radiance."
+        "a": "Not when tailored correctly! Asking your colorist for an ash beige or ash bronde balance ensures warm complexions retain healthy skin radiance.",
+        "question": "Will ash blonde hair color wash out pale or warm skin tones?",
+        "answer": "Not when tailored correctly! Asking your colorist for an ash beige or ash bronde balance ensures warm complexions retain healthy skin radiance."
       },
       {
         "q": "How often does ash blonde hair need salon touch-ups?",
-        "a": "If paired with a lived-in shadow root or balayage technique, ash blonde requires touch-ups only every 8 to 12 weeks."
+        "a": "If paired with a lived-in shadow root or balayage technique, ash blonde requires touch-ups only every 8 to 12 weeks.",
+        "question": "How often does ash blonde hair need salon touch-ups?",
+        "answer": "If paired with a lived-in shadow root or balayage technique, ash blonde requires touch-ups only every 8 to 12 weeks."
       },
       {
         "q": "What is the difference between platinum blonde and ash blonde?",
-        "a": "Platinum blonde is ultra-bright and white, whereas ash blonde contains subtle smoky grey, silver, or mushroom undertones."
+        "a": "Platinum blonde is ultra-bright and white, whereas ash blonde contains subtle smoky grey, silver, or mushroom undertones.",
+        "question": "What is the difference between platinum blonde and ash blonde?",
+        "answer": "Platinum blonde is ultra-bright and white, whereas ash blonde contains subtle smoky grey, silver, or mushroom undertones."
       }
     ],
     "items": [
@@ -23453,7 +24023,8 @@ export const articles = [
       "It\u2019s cool, smoky, and pairs perfectly with both warm and cool complexions.",
       "This versatile color acts like a soft-focus filter, softening facial features and adding multi-dimensional depth.",
       "From icy platinum melts to soft ash bronde balayage, these shade ideas bring modern sophistication to every hair length."
-    ]
+    ],
+    "image": "/images/doc10_cover_collage.jpg"
   },
   {
     "id": "hairstyles-for-square-faces",
@@ -23501,15 +24072,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What haircut length is most flattering for a square face shape?",
-        "a": "Medium to long lengths (like collarbone lobs or shoulder-grazing layers) elongate square face proportions, creating a beautifully balanced silhouette."
+        "a": "Medium to long lengths (like collarbone lobs or shoulder-grazing layers) elongate square face proportions, creating a beautifully balanced silhouette.",
+        "question": "What haircut length is most flattering for a square face shape?",
+        "answer": "Medium to long lengths (like collarbone lobs or shoulder-grazing layers) elongate square face proportions, creating a beautifully balanced silhouette."
       },
       {
         "q": "Can women with square faces wear short pixie cuts?",
-        "a": "Yes! A textured or shaggy pixie with height at the crown and soft side-swept fringe draws focus upward to your eyes and cheekbones."
+        "a": "Yes! A textured or shaggy pixie with height at the crown and soft side-swept fringe draws focus upward to your eyes and cheekbones.",
+        "question": "Can women with square faces wear short pixie cuts?",
+        "answer": "Yes! A textured or shaggy pixie with height at the crown and soft side-swept fringe draws focus upward to your eyes and cheekbones."
       },
       {
         "q": "Are blunt bangs recommended for a square face shape?",
-        "a": "Full heavy blunt bangs can accentuate a wide jawline. Wispy, arched, or curtain bangs are far more flattering choices."
+        "a": "Full heavy blunt bangs can accentuate a wide jawline. Wispy, arched, or curtain bangs are far more flattering choices.",
+        "question": "Are blunt bangs recommended for a square face shape?",
+        "answer": "Full heavy blunt bangs can accentuate a wide jawline. Wispy, arched, or curtain bangs are far more flattering choices."
       }
     ],
     "items": [
@@ -23724,7 +24301,8 @@ export const articles = [
       "A square face shape is a work of art\u2014strong, balanced, and striking. Choosing the right haircut can take it from stunning to truly unforgettable.",
       "The key lies in finding cuts that soften sharp angles and accentuate your cheekbones and eyes.",
       "Layers, soft waves, wispy curtain bangs, and strategic interior texture are your best friends when balancing a defined jawline."
-    ]
+    ],
+    "image": "/images/doc9_cover_collage.jpg"
   },
   {
     "id": "fine-thin-hair-older-women",
@@ -23772,15 +24350,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Should women with fine or thinning hair avoid long haircuts?",
-        "a": "Hair past collarbone length often weighs down fine strands, making crown hair appear flat. Shoulder-length lobs or chin bobs create much fuller density."
+        "a": "Hair past collarbone length often weighs down fine strands, making crown hair appear flat. Shoulder-length lobs or chin bobs create much fuller density.",
+        "question": "Should women with fine or thinning hair avoid long haircuts?",
+        "answer": "Hair past collarbone length often weighs down fine strands, making crown hair appear flat. Shoulder-length lobs or chin bobs create much fuller density."
       },
       {
         "q": "What hair colors make fine hair look thicker?",
-        "a": "Multi-dimensional highlights (like honey blonde, caramel, or silver balayage) create optical depth, making fine hair appear significantly denser."
+        "a": "Multi-dimensional highlights (like honey blonde, caramel, or silver balayage) create optical depth, making fine hair appear significantly denser.",
+        "question": "What hair colors make fine hair look thicker?",
+        "answer": "Multi-dimensional highlights (like honey blonde, caramel, or silver balayage) create optical depth, making fine hair appear significantly denser."
       },
       {
         "q": "How often should fine hair be washed and styled?",
-        "a": "Fine hair absorbs natural scalp oils quickly. Washing 2-3 times a week with a lightweight volumizing shampoo keeps roots lifted without stripping moisture."
+        "a": "Fine hair absorbs natural scalp oils quickly. Washing 2-3 times a week with a lightweight volumizing shampoo keeps roots lifted without stripping moisture.",
+        "question": "How often should fine hair be washed and styled?",
+        "answer": "Fine hair absorbs natural scalp oils quickly. Washing 2-3 times a week with a lightweight volumizing shampoo keeps roots lifted without stripping moisture."
       }
     ],
     "items": [
@@ -24030,7 +24614,8 @@ export const articles = [
       "Finding the right hairstyle for fine hair can sometimes feel like searching for the perfect pair of jeans: it\u2019s all about shape, proportions, and strategic support.",
       "For older women, fine strands offer a versatile canvas that, with the right cut and dimension, brings out natural elegance and volume.",
       "From featherlight pixies to blunt bobs and airy shags, these styles prove fine hair can enjoy impressive density and bounce."
-    ]
+    ],
+    "image": "/images/doc8_cover_collage.jpg"
   },
   {
     "id": "haircuts-with-glasses",
@@ -24078,15 +24663,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Can I wear bangs if I wear glasses every day?",
-        "a": "Yes! Wispy fringe or curtain bangs that sweep gently outward work best because they frame your face without resting directly on top of your glasses rims."
+        "a": "Yes! Wispy fringe or curtain bangs that sweep gently outward work best because they frame your face without resting directly on top of your glasses rims.",
+        "question": "Can I wear bangs if I wear glasses every day?",
+        "answer": "Yes! Wispy fringe or curtain bangs that sweep gently outward work best because they frame your face without resting directly on top of your glasses rims."
       },
       {
         "q": "What is the best haircut for women who wear bold statement frames?",
-        "a": "A chin-length French bob, sleek lob, or textured pixie provides clean lines that allow statement frames to shine without visual clutter."
+        "a": "A chin-length French bob, sleek lob, or textured pixie provides clean lines that allow statement frames to shine without visual clutter.",
+        "question": "What is the best haircut for women who wear bold statement frames?",
+        "answer": "A chin-length French bob, sleek lob, or textured pixie provides clean lines that allow statement frames to shine without visual clutter."
       },
       {
         "q": "How can I prevent hair from flipping out around my glasses arms?",
-        "a": "Ask your stylist for soft interior layers near the ears, or tuck face-framing strands behind the ear before placing your glasses arms."
+        "a": "Ask your stylist for soft interior layers near the ears, or tuck face-framing strands behind the ear before placing your glasses arms.",
+        "question": "How can I prevent hair from flipping out around my glasses arms?",
+        "answer": "Ask your stylist for soft interior layers near the ears, or tuck face-framing strands behind the ear before placing your glasses arms."
       }
     ],
     "items": [
@@ -24348,7 +24939,8 @@ export const articles = [
       "The wrong haircut can compete with your frames, while the right one makes everything feel intentional.",
       "In 2026, hair trends are leaning into soft layers, clean lines, and subtle movement that works gracefully with your eyewear rather than fighting against it.",
       "Think of your haircut as the supporting role that quietly elevates your favorite frames."
-    ]
+    ],
+    "image": "/images/doc7_cover_collage.jpg"
   },
   {
     "id": "bubble-ponytail-ideas",
@@ -24396,15 +24988,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Do bubble ponytails work on short or medium hair?",
-        "a": "Yes! For medium hair, you can create 2 to 3 rounded bubbles. For shorter hair, add clip-in ponytail extensions before adding elastics."
+        "a": "Yes! For medium hair, you can create 2 to 3 rounded bubbles. For shorter hair, add clip-in ponytail extensions before adding elastics.",
+        "question": "Do bubble ponytails work on short or medium hair?",
+        "answer": "Yes! For medium hair, you can create 2 to 3 rounded bubbles. For shorter hair, add clip-in ponytail extensions before adding elastics."
       },
       {
         "q": "What kind of elastics are best for bubble ponytails?",
-        "a": "Clear mini TPU rubber bands or snag-free elastic ties work best because they blend seamlessly into your hair color without pulling."
+        "a": "Clear mini TPU rubber bands or snag-free elastic ties work best because they blend seamlessly into your hair color without pulling.",
+        "question": "What kind of elastics are best for bubble ponytails?",
+        "answer": "Clear mini TPU rubber bands or snag-free elastic ties work best because they blend seamlessly into your hair color without pulling."
       },
       {
         "q": "How can I prevent my bubble sections from flattening during the day?",
-        "a": "Gently tease the interior of each section before placing the elastic, or spritz dry texturizing spray inside each bubble for lasting structure."
+        "a": "Gently tease the interior of each section before placing the elastic, or spritz dry texturizing spray inside each bubble for lasting structure.",
+        "question": "How can I prevent my bubble sections from flattening during the day?",
+        "answer": "Gently tease the interior of each section before placing the elastic, or spritz dry texturizing spray inside each bubble for lasting structure."
       }
     ],
     "items": [
@@ -24556,7 +25154,8 @@ export const articles = [
       "Bubble ponytails are proof that hair can have a personality all on its own. They\u2019re playful, structured, and just the right amount of extra.",
       "This style takes the classic ponytail and says, 'nice try, but let\u2019s have more fun. ' It works for brunch, the office, or workouts.",
       "Think of it as a ponytail with built-in confidence."
-    ]
+    ],
+    "image": "/images/doc6_cover_collage.jpg"
   },
   {
     "id": "curly-hairstyles-older-women",
@@ -24604,15 +25203,21 @@ export const articles = [
     "faqs": [
       {
         "q": "What is the best haircut for thin or fine curly hair in older women?",
-        "a": "A layered curly bob or textured pixie cut creates internal structure, lifting fine ringlets at the roots and preventing curls from lying flat against the scalp."
+        "a": "A layered curly bob or textured pixie cut creates internal structure, lifting fine ringlets at the roots and preventing curls from lying flat against the scalp.",
+        "question": "What is the best haircut for thin or fine curly hair in older women?",
+        "answer": "A layered curly bob or textured pixie cut creates internal structure, lifting fine ringlets at the roots and preventing curls from lying flat against the scalp."
       },
       {
         "q": "How can I embrace my natural gray or silver curls without frizz?",
-        "a": "Gray curls naturally lack pigment oils, making them dryer. Use deep conditioning hair masks weekly and switch to a sulfate-free hydrating shampoo."
+        "a": "Gray curls naturally lack pigment oils, making them dryer. Use deep conditioning hair masks weekly and switch to a sulfate-free hydrating shampoo.",
+        "question": "How can I embrace my natural gray or silver curls without frizz?",
+        "answer": "Gray curls naturally lack pigment oils, making them dryer. Use deep conditioning hair masks weekly and switch to a sulfate-free hydrating shampoo."
       },
       {
         "q": "How often should older women get a curly haircut trimmed?",
-        "a": "Curls shrink as they dry, so trims are recommended every 8 to 12 weeks to keep ringlet ends healthy and prevent split ends from traveling."
+        "a": "Curls shrink as they dry, so trims are recommended every 8 to 12 weeks to keep ringlet ends healthy and prevent split ends from traveling.",
+        "question": "How often should older women get a curly haircut trimmed?",
+        "answer": "Curls shrink as they dry, so trims are recommended every 8 to 12 weeks to keep ringlet ends healthy and prevent split ends from traveling."
       }
     ],
     "items": [
@@ -24896,7 +25501,8 @@ export const articles = [
       "Curly hair has a personality all its own, and sometimes it seems to have a meeting planned before you do.",
       "The good news is that the right haircut can help those curls work with you instead of negotiating terms every morning.",
       "From soft layered bobs to textured shags and chic pixie cuts, today's curly styles offer shape, movement, and plenty of natural bounce."
-    ]
+    ],
+    "image": "/images/doc5_cover_collage.jpg"
   },
   {
     "id": "beautiful-side-braid-hairstyles",
@@ -24944,15 +25550,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How do I keep my side braid from unraveling during the day?",
-        "a": "Apply a dry texturizing spray or styling powder to hair before braiding to create grip. Clear elastics secured at the tail prevent slipping."
+        "a": "Apply a dry texturizing spray or styling powder to hair before braiding to create grip. Clear elastics secured at the tail prevent slipping.",
+        "question": "How do I keep my side braid from unraveling during the day?",
+        "answer": "Apply a dry texturizing spray or styling powder to hair before braiding to create grip. Clear elastics secured at the tail prevent slipping."
       },
       {
         "q": "Do side braids work on medium-length hair?",
-        "a": "Yes! Medium shoulder-length hair braids beautifully into a low side plait or Dutch weave beginning near the nape."
+        "a": "Yes! Medium shoulder-length hair braids beautifully into a low side plait or Dutch weave beginning near the nape.",
+        "question": "Do side braids work on medium-length hair?",
+        "answer": "Yes! Medium shoulder-length hair braids beautifully into a low side plait or Dutch weave beginning near the nape."
       },
       {
         "q": "How can I elevate a side braid for a wedding or formal event?",
-        "a": "Weave delicate pearl pins, crystal vine hairpieces, or a velvet ribbon into the braid turns for instant formal glamour."
+        "a": "Weave delicate pearl pins, crystal vine hairpieces, or a velvet ribbon into the braid turns for instant formal glamour.",
+        "question": "How can I elevate a side braid for a wedding or formal event?",
+        "answer": "Weave delicate pearl pins, crystal vine hairpieces, or a velvet ribbon into the braid turns for instant formal glamour."
       }
     ],
     "items": [
@@ -25083,7 +25695,8 @@ export const articles = [
       "From relaxed everyday plaits to detailed wedding-ready designs, there is plenty to try.",
       "These styles also work beautifully with highlights, balayage, and dimensional blonde or brunette tones.",
       "Get ready for braids that look impressive, even when your styling skills are running on coffee."
-    ]
+    ],
+    "image": "/images/doc3_cover_collage.jpg"
   },
   {
     "id": "amazing-bob-hairstyles-women-over-40",
@@ -25131,15 +25744,21 @@ export const articles = [
     "faqs": [
       {
         "q": "Which bob cut is best for a round face shape?",
-        "a": "An angled bob or collarbone lob with longer front pieces elongates round facial features, drawing eyes downward and creating a slimming jawline effect."
+        "a": "An angled bob or collarbone lob with longer front pieces elongates round facial features, drawing eyes downward and creating a slimming jawline effect.",
+        "question": "Which bob cut is best for a round face shape?",
+        "answer": "An angled bob or collarbone lob with longer front pieces elongates round facial features, drawing eyes downward and creating a slimming jawline effect."
       },
       {
         "q": "How often should I get a bob haircut trimmed to maintain its shape?",
-        "a": "To keep the perimeter line crisp and fresh, schedule a trim every 6 to 8 weeks. Lobs can stretch up to 8 to 10 weeks."
+        "a": "To keep the perimeter line crisp and fresh, schedule a trim every 6 to 8 weeks. Lobs can stretch up to 8 to 10 weeks.",
+        "question": "How often should I get a bob haircut trimmed to maintain its shape?",
+        "answer": "To keep the perimeter line crisp and fresh, schedule a trim every 6 to 8 weeks. Lobs can stretch up to 8 to 10 weeks."
       },
       {
         "q": "Can fine or thin hair look fuller with a bob cut?",
-        "a": "Yes! Blunt bobs remove thin stringy ends, creating the optical illusion of significantly thicker, healthier hair density."
+        "a": "Yes! Blunt bobs remove thin stringy ends, creating the optical illusion of significantly thicker, healthier hair density.",
+        "question": "Can fine or thin hair look fuller with a bob cut?",
+        "answer": "Yes! Blunt bobs remove thin stringy ends, creating the optical illusion of significantly thicker, healthier hair density."
       }
     ],
     "items": [
@@ -25347,7 +25966,8 @@ export const articles = [
       "A great bob makes that search much easier.",
       "It brings shape, movement, and a polished finish without demanding an hour in front of the mirror every morning.",
       "Today's bob styles offer everything from sleek lines to soft layers, textured finishes, and natural-looking volume."
-    ]
+    ],
+    "image": "/images/doc4_cover_collage.jpg"
   },
   {
     "id": "hairstyles-women-over-50-with-bangs",
@@ -25395,15 +26015,21 @@ export const articles = [
     "faqs": [
       {
         "q": "How often do bangs need a trim for women over 50?",
-        "a": "Curtain and side-swept bangs grow out gracefully, requiring a trim every 6 to 8 weeks. Blunt fringe typically needs a quick 5-minute trim every 3 to 4 weeks."
+        "a": "Curtain and side-swept bangs grow out gracefully, requiring a trim every 6 to 8 weeks. Blunt fringe typically needs a quick 5-minute trim every 3 to 4 weeks.",
+        "question": "How often do bangs need a trim for women over 50?",
+        "answer": "Curtain and side-swept bangs grow out gracefully, requiring a trim every 6 to 8 weeks. Blunt fringe typically needs a quick 5-minute trim every 3 to 4 weeks."
       },
       {
         "q": "Will bangs work on fine or thinning mature hair?",
-        "a": "Yes! Wispy curtain bangs add instant crown volume and the illusion of fuller hair around the face without removing too much density from the rest of your cut."
+        "a": "Yes! Wispy curtain bangs add instant crown volume and the illusion of fuller hair around the face without removing too much density from the rest of your cut.",
+        "question": "Will bangs work on fine or thinning mature hair?",
+        "answer": "Yes! Wispy curtain bangs add instant crown volume and the illusion of fuller hair around the face without removing too much density from the rest of your cut."
       },
       {
         "q": "Can I wear bangs if I have natural silver or gray hair?",
-        "a": "Absolutely! Silver and gray bangs frame your face with striking natural brightness. Pair with a purple shampoo once a week to keep silver tones brass-free."
+        "a": "Absolutely! Silver and gray bangs frame your face with striking natural brightness. Pair with a purple shampoo once a week to keep silver tones brass-free.",
+        "question": "Can I wear bangs if I have natural silver or gray hair?",
+        "answer": "Absolutely! Silver and gray bangs frame your face with striking natural brightness. Pair with a purple shampoo once a week to keep silver tones brass-free."
       }
     ],
     "items": [
@@ -25621,6 +26247,7 @@ export const articles = [
       "Bangs are having a very confident moment in 2026, and they are not just for the younger crowd.",
       "Women over 50 are redefining hair style with cuts that feel fresh, polished, and full of personality.",
       "A great fringe can soften features, frame the face, and quietly take years off your overall look while bringing natural texture and effortless grace to your daily routine."
-    ]
+    ],
+    "image": "/images/doc2_cover_collage.jpg"
   }
 ];

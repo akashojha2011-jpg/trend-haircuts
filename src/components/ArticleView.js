@@ -55,8 +55,8 @@ export function renderArticleView(article) {
       <div class="faqs-list">
         ${article.faqs.map(faq => `
           <div class="faq-card-box">
-            <h4 class="faq-question">${faq.q}</h4>
-            <p class="faq-answer">${faq.a}</p>
+            <h4 class="faq-question">${faq.q || faq.question || ''}</h4>
+            <p class="faq-answer">${faq.a || faq.answer || ''}</p>
           </div>
         `).join('')}
       </div>
@@ -176,7 +176,7 @@ export function renderArticleView(article) {
       <!-- Main Horizontal Hero Cover Image -->
       <div class="container text-center">
         <div class="article-main-hero-img">
-          <img src="${article.heroImage}" alt="${article.title}" />
+          <img src="${article.heroImage || article.image}" alt="${article.title}" />
         </div>
       </div>
 

@@ -233,14 +233,16 @@ function renderApp() {
       `;
     } else {
       // Google Meta Title Standard for Articles: <Title> | Trend Haircuts
-      const metaTitle = `${targetArticle.title} | Trend Haircuts`;
-      const metaDesc = targetArticle.intro.length > 155 ? `${targetArticle.intro.substring(0, 152)}...` : targetArticle.intro;
+      const metaTitle = `${targetArticle.title || 'Hairstyle Guide'} | Trend Haircuts`;
+      const rawIntro = targetArticle.intro || (Array.isArray(targetArticle.introParagraphs) ? targetArticle.introParagraphs.join(' ') : targetArticle.description || '');
+      const metaDesc = rawIntro.length > 155 ? `${rawIntro.substring(0, 152)}...` : rawIntro;
+      const heroImg = targetArticle.heroImage || targetArticle.image || '';
       
       updateSeoMetadata(
         metaTitle,
         metaDesc,
-        `${DOMAIN}/${targetArticle.slug}`,
-        targetArticle.heroImage
+        `${DOMAIN}/${targetArticle.slug || cleanSlug}`,
+        heroImg
       );
 
       bodyContent = renderArticleView(targetArticle);
