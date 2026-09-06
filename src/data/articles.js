@@ -1706,7 +1706,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 29, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc76_cover_collage.jpg",
+    "heroImage": "/images/doc_soft_black_hair_cover_pin.jpg",
     "intro": "Soft black ombre hair is a fantastic way to incorporate dark tones while keeping the overall look light and manageable. Starting with a deep, soft black at the roots and gradually transitioning into a dark chocolate or mocha at the ends, this style offers a beautiful gradient. It is the perfect choice for those who are worried about the commitment of a full head of black hair. The ombre effect ensures that the most intense color is near the face, while the lighter ends add a touch of playfulness and dimension. This technique is also very practical, as it allows for longer gaps between salon visits since the root color can be matched to your natural shade.",
     "introParagraphs": [
       "Soft black ombre hair is a fantastic way to incorporate dark tones while keeping the overall look light and manageable.",
@@ -2033,7 +2033,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 28, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc77_cover_collage.jpg",
+    "heroImage": "/images/doc_violet_black_hair_cover_pin.jpg",
     "intro": "Pairing silver accents with a violet black base creates one of the most futuristic and fashion-forward hair color combinations available right now. Thin streaks or wispy sections of silver or platinum are woven throughout the deep violet-black color, creating a look that feels both edgy and sophisticated. The silver reflects light differently from the violet, which means the hair seems to shift and change color as it moves. This look requires pre-lightening the sections that will hold the silver, so it\u2019s best handled by an experienced colorist. The contrast between the cool silver and the deep violet-black base is dramatic and visually complex. It\u2019s particularly stunning on straight, sleek hair where the silver streaks remain clearly visible throughout the style.",
     "introParagraphs": [
       "Pairing silver accents with a violet black base creates one of the most futuristic and fashion-forward hair color combinations available right now.",
@@ -2350,7 +2350,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 27, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc78_cover_collage.jpg",
+    "heroImage": "/images/doc_black_hair_color_ideas_cover_pin.jpg",
     "intro": "Velvety black hair color is all about a plush, soft\u2011looking finish rather than extreme, stark depth. Editorial stylists describe this trend as a black that has been softened with glosses and conditioning so it reads more \u201cvelvet\u201d than \u201cplastic shine.\u201d Instead of looking flat, the hair reflects light in a gentle way, which can make the color feel more expensive and less severe around the face. This approach often uses semi\u2011permanent or low\u2011ammonia formulas, focusing on richness and shine rather than maximum pigment load. It is a strong choice if you want your black hair to feel modern and soft, especially if you wear your hair with natural texture or loose, touchable waves. Stylists usually suggest lightweight oils and shine sprays along with regular trims to keep the ends neat, since frayed ends can break the smooth, velvety illusion.",
     "introParagraphs": [
       "Velvety black hair color is all about a plush, soft\u2011looking finish rather than extreme, stark depth.",
@@ -2711,7 +2711,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 25, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc79_cover_collage.jpg",
+    "heroImage": "/images/doc_fresh_hair_color_black_hair_cover_pin.jpg",
     "intro": "Mushroom brown is a trendy cool-toned shade that is perfect for black hair. It is a blend of brown, gray, and ashy tones that looks very earthy. This color is unique because it avoids all red or orange warmth. It is a great choice for those who prefer a more muted and sophisticated palette.Mushroom brown highlightsadd a smoky and modern feel to your hair. This look is very popular on social media for its \u201cexpensive brunette\u201d vibe. It requires some lifting but the result is a beautiful, neutral finish. This shade looks great on all hair lengths and textures. It is a perfect way to add dimension while staying within a cool color family. You will look very chic.",
     "introParagraphs": [
       "Mushroom brown is a trendy cool-toned shade that is perfect for black hair. It is a blend of brown, gray, and ashy tones that looks very earthy.",
@@ -3059,7 +3059,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 24, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc80_cover_collage.jpg",
+    "heroImage": "/images/doc_midnight_black_hair_cover_pin.jpg",
     "intro": "Midnight black hair color with face framing pieces lets you tailor the intensity of the shade to your features. You can keep the overall base midnight black, then add slightly softer or lighter pieces around the face to avoid harsh lines. This approach works especially well if you are trying a very dark color for the first time and want a buffer between your complexion and the deepest sections of hair. Strategically placed pieces can visually slim or soften certain areas, similar to contouring with makeup. Ask your stylist to design the placement based on your face shape, eye color, and parting so the black enhances your natural structure rather than overpowering it.",
     "introParagraphs": [
       "Midnight black hair color with face framing pieces lets you tailor the intensity of the shade to your features.",
@@ -3343,7 +3343,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 22, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc81_cover_collage.jpg",
+    "heroImage": "/images/doc_trendy_soft_black_hair_cover_pin.jpg",
     "intro": "This smooth wave blend combines polished roots with soft cascading waves for a seamless finish. The soft black color gives the hairstyle a rich appearance with subtle dimension under the light.",
     "introParagraphs": [
       "This smooth wave blend combines polished roots with soft cascading waves for a seamless finish.",
@@ -3956,7 +3956,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 20, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc83_cover_collage.jpg",
+    "heroImage": "/images/doc_glossy_shiny_black_hair_cover_pin.jpg",
     "intro": "Cool or pink\u2011toned skin often looks best with cool black shades that enhance the natural undertone instead of fighting against it. Blue black, metallic black, orneutral jet blackare good options if you want a shiny, high\u2011contrast look that still feels cohesive with your complexion. These shades tend to look especially striking with simple styling, like sleek straight hair or loose waves, because the cool reflects catch the light beautifully. After coloring, protect your hue with color\u2011safe shampoo and use conditioner every wash to keep the cuticle flat and reflective. Since cool pigments can fade faster, consider using a color\u2011depositing conditioner in a matching tone to keep the black shade vibrant and glossy.",
     "introParagraphs": [
       "Cool or pink\u2011toned skin often looks best with cool black shades that enhance the natural undertone instead of fighting against it.",
@@ -4298,7 +4298,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 18, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc84_cover_collage.jpg",
+    "heroImage": "/images/doc_dimensional_black_hair_cover_pin.jpg",
     "intro": "Red velvet-inspired tones on a black base give a rich, dessert-like color effect that feels indulgent but still moody. Here, colorists blend deep reds, cherry mocha, or red velvet hues into black hair using balayage or layered panels so the red appears to glow from within the dark base. This layered placement creates depth and makes the hair look extra shiny, especially when styled smooth or in big, soft curls. Because red pigments fade faster, pros usually recommend color-depositing masks, cooler water for washing, and limited heat styling to keep the tone vibrant. The payoff is a dimensional black color that looks dramatic yet luxurious and ties in perfectly with 2026\u2019s ongoing love for deep, jewel-toned reds on deeper skin tones.",
     "introParagraphs": [
       "Red velvet-inspired tones on a black base give a rich, dessert-like color effect that feels indulgent but still moody.",
@@ -4640,7 +4640,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 17, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc85_cover_collage.jpg",
+    "heroImage": "/images/doc_raven_black_hair_cover_pin.jpg",
     "intro": "A raven black shag haircut is all about texture, layers, and a bit of rock-and-roll attitude. This style features choppy ends and lots of movement, which looks great with a deep black color. The dark pigment adds a sense of weight and importance to the shaggy layers. It is a fantastic choice for people with natural waves or curls who want an easy-to-style look. The shag cut helps to distribute the volume of thick raven hair effectively. You can wear it with or without bangs depending on your preference. This look is very stylish and provides a modern take on a classic vintage silhouette that feels very fresh.",
     "introParagraphs": [
       "A raven black shag haircut is all about texture, layers, and a bit of rock-and-roll attitude.",
@@ -4984,7 +4984,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 15, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc86_cover_collage.jpg",
+    "heroImage": "/images/doc_blonde_balayage_brown_hair_cover_pin.jpg",
     "intro": "Beige blonde balayage on light brown hair is a sophisticated and neutral option that never goes out of style. The beige tones are very balanced, lacking any strong yellow or blue undertones, which makes them incredibly versatile. This look is perfect for professional women who want a polished and expensive-looking hair color. It blends seamlessly with a light brown base, creating a very soft and natural transition that is barely noticeable as it grows out. The neutral tones are very flattering for most skin types, particularly those with neutral undertones. To keep this look looking its best, avoid excessive heat styling which can dull the neutral tones. It looks particularly stunning on medium-length hair with soft, internal layers for added movement.",
     "introParagraphs": [
       "Beige blonde balayage on light brown hair is a sophisticated and neutral option that never goes out of style.",
@@ -5327,7 +5327,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 14, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc87_cover_collage.jpg",
+    "heroImage": "/images/doc_blonde_shadow_root_cover_pin.jpg",
     "intro": "Contouring blonde hair uses the placement of highlights and lowlights in a strategic way to enhance your facial features, much like makeup contouring does for your skin. When paired with a shadow root, this technique becomes even more effective because the darker roots create instant depth around the face while the brighter highlights lift and illuminate specific areas. Your colorist will place lighter pieces where you want to draw attention, such as the cheekbones or jawline, while leaving deeper tones around the perimeter to create a slimming effect. The shadow root at the top ensures a natural, blended grow-out that keeps the contoured effect looking soft rather than harsh. This approach is perfect for anyone wanting their hair color to do double duty as a beauty enhancer.",
     "introParagraphs": [
       "Contouring blonde hair uses the placement of highlights and lowlights in a strategic way to enhance your facial features, much like makeup contouring does for your skin.",
@@ -5662,7 +5662,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 13, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc88_cover_collage.jpg",
+    "heroImage": "/images/doc_lavender_balayage_blonde_cover_pin.jpg",
     "intro": "Lavender balayage on wavy blonde hair is one of the easiest ways to show off this color trend. Waves create natural highs and lows where the light hits, which makes every lavender-painted section more noticeable and dimensional. On a blonde base, the combination reads playful yet soft, especially when the waves are loose and slightly undone. Your colorist can place more lavender toward the outer layers and ends so it really pops when styled, while leaving some inner layers mostly blonde for depth. This layout keeps the color interesting whether you wear your hair down, half up, or in a loose ponytail. To support both the waves and the color, use a lightweight curl cream or mousse plus a diffuser on low heat, avoiding high temperatures that could fade the pastel. A flexible-hold hairspray will keep waves intact without making them stiff, so your hair still moves and catches the light.",
     "introParagraphs": [
       "Lavender balayage on wavy blonde hair is one of the easiest ways to show off this color trend.",
@@ -6041,7 +6041,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 11, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc89_cover_collage.jpg",
+    "heroImage": "/images/doc_rooty_blonde_balayage_cover_pin.jpg",
     "intro": "Long hair provides the ideal canvas for a full, flowing rooty blonde balayage that looks luxurious and multidimensional from root to tip. In this look, the darker root extends a bit farther down before blending into layers of lighter blonde through the lengths, creating a smooth gradient that can be subtle or high contrast. The extra length allows colorists to place multiple tones\u2014slightly darker blondes near the mid-lengths and lighter ends\u2014for a seamless, cascading effect. This technique is especially striking with layered cuts that encourage movement, since every layer will catch the light differently. Regular trims and nourishing treatments are important on long blonde hair because the ends have been on your head the longest and can be more vulnerable to dryness and breakage. Big waves, soft curls, or even a sleek, straight style all show off the progression from root to tip, making long rooty balayage a favorite for people who love a dramatic yet wearable blonde.",
     "introParagraphs": [
       "Long hair provides the ideal canvas for a full, flowing rooty blonde balayage that looks luxurious and multidimensional from root to tip.",
@@ -6382,7 +6382,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 10, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc90_cover_collage.jpg",
+    "heroImage": "/images/doc_strawberry_blonde_balayage_cover_pin.jpg",
     "intro": "Dealing with fine strands? A thin hair strawberry blonde balayage is a remarkable trick for creating the illusion of density and fullness. The hand-painted highlights and lowlights add profound visual depth to the hair, making it appear much thicker than it actually is. The strawberry and blonde tones catch the light differently, creating a multi-dimensional effect that flat, single-color hair lacks. To maximize the volume, blow-dry your hair upside down and use a volumizing mousse at the roots. Avoid heavy styling products that can weigh down your fine strands. The resulting color and styling combo gives you a bouncy, remarkably fuller look that lasts all day long.",
     "introParagraphs": [
       "Dealing with fine strands? A thin hair strawberry blonde balayage is a remarkable trick for creating the illusion of density and fullness.",
@@ -6726,7 +6726,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 8, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc91_cover_collage.jpg",
+    "heroImage": "/images/doc_blonde_highlights_black_hair_cover_pin.jpg",
     "intro": "Cool blonde highlights are characterized by their blue, violet, or green undertones, which work to cancel out any warmth in the hair. Against a black base, these cool tones create a sleek and modern look that feels very \u201cice queen\u201d chic. This color choice is perfect for those with cool skin undertones who want a high-contrast style that looks crisp and clean. Because dark hair naturally wants to turn warm when lightened, maintaining a cool blonde requires a dedicated routine of toning products. The result is a stunningly clear and bright look that adds a lot of visual interest and movement to long or short black hair. It remains a top trend for its bold elegance.",
     "introParagraphs": [
       "Cool blonde highlights are characterized by their blue, violet, or green undertones, which work to cancel out any warmth in the hair.",
@@ -7065,7 +7065,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 7, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc92_cover_collage.jpg",
+    "heroImage": "/images/doc_brunette_lowlights_blonde_cover_pin.jpg",
     "intro": "Slate brown lowlights are the \u201ccoolest\u201d of the cool tones, featuring a heavy dose of gray and blue undertones within the brown base. This is a very specific look designed for women with \u201cwinter\u201d or \u201csummer\u201d skin profiles who want to lean into their natural silver hair. Slate lowlights act as a modern \u201clow\u201d that complements silver or ash blonde perfectly, creating a sophisticated, steely look. For mature hair, this can be a very empowering choice, as it celebrates the natural graying process by making it look high-fashion and deliberate. It provides a crisp, clean contrast that looks stunning in short, structured haircuts like a blunt bob or a tapered pixie.",
     "introParagraphs": [
       "Slate brown lowlights are the \u201ccoolest\u201d of the cool tones, featuring a heavy dose of gray and blue undertones within the brown base.",
@@ -7398,7 +7398,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 6, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc93_cover_collage.jpg",
+    "heroImage": "/images/doc_champagne_blonde_balayage_cover_pin.jpg",
     "intro": "Keeping champagne blonde balayage fresh comes down to tone, health, and smart scheduling. Balayage highlights can typically look good for 8\u201312 weeks or longer, especially when you let the root stay natural and focus on refreshing the toner rather than constantly re-lightening. At home, use color-safe shampoo and conditioner, incorporate purple shampoo once or twice a week to neutralize brass, and follow with hydrating masks one to two times weekly to combat dryness. UV protection and heat protectants are non-negotiable if you style often or spend lots of time outdoors, since both sun and hot tools can fade your champagne tone faster. Plan on gloss or toner appointments every 6\u201312 weeks depending on how cool or warm you like your champagne, and trim regularly so your ends stay smooth and reflective.",
     "introParagraphs": [
       "Keeping champagne blonde balayage fresh comes down to tone, health, and smart scheduling.",
@@ -8006,7 +8006,7 @@ export const articles = [
     "author": "Trend Haircuts Team",
     "date": "August 3, 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc95_cover_collage.jpg",
+    "heroImage": "/images/doc_pearl_toner_blonde_balayage_cover_pin.jpg",
     "intro": "How do you add profound depth to an icy blonde style? Incorporating a pearl toner with lowlights balayage is a masterful technique. Lowlights are strategically placed darker strands woven back into the hair to create contrast against the bright highlights. Once the lowlights and highlights are in place, a pearl toner is glazed over everything. The toner perfects the blonde pieces while subtly blending the lowlights, ensuring the entire look remains cohesive and undeniably cool. The result is a rich, dynamic color with immense movement and volume. The darker pieces anchor the lighter pearl strands, making them pop even more intensely. This combination creates a highly sophisticated, multi-dimensional style that looks incredibly natural, luxuriously thick, and flawlessly polished for any occasion.",
     "introParagraphs": [
       "How do you add profound depth to an icy blonde style? Incorporating a pearl toner with lowlights balayage is a masterful technique.",
