@@ -318,8 +318,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous low-maintenance pumpkin spice balayage crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with low-maintenance pumpkin spice balayage, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc71_cover_collage.jpg"
+    ]
   },
   {
     "id": "salt-and-pepper-balayage",
@@ -644,8 +643,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous salt and pepper balayage with shadow root crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with salt and pepper balayage with shadow root, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc72_cover_collage.jpg"
+    ]
   },
   {
     "id": "summer-honey-highlights",
@@ -996,8 +994,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous honey highlights on brunette balayage hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with honey highlights on brunette balayage hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc73_cover_collage.jpg"
+    ]
   },
   {
     "id": "vibrant-violet-balayage",
@@ -1336,8 +1333,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous violet balayage with silver highlights crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with violet balayage with silver highlights, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc74_cover_collage.jpg"
+    ]
   },
   {
     "id": "balayage-for-straight-hair",
@@ -1694,8 +1690,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous black and brown balayage on straight hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with black and brown balayage on straight hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc75_cover_collage.jpg"
+    ]
   },
   {
     "id": "soft-black-hair-color-ideas",
@@ -2021,8 +2016,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous soft black ombre hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with soft black ombre hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc76_cover_collage.jpg"
+    ]
   },
   {
     "id": "violet-black-hair-color",
@@ -2338,8 +2332,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous violet black hair with silver accents crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with violet black hair with silver accents, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc77_cover_collage.jpg"
+    ]
   },
   {
     "id": "black-hair-color-ideas",
@@ -2699,8 +2692,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous velvety black hair color crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with velvety black hair color, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc78_cover_collage.jpg"
+    ]
   },
   {
     "id": "hair-color-ideas-for-black-hair",
@@ -3047,8 +3039,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous mushroom brown hair color black hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with mushroom brown hair color black hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc79_cover_collage.jpg"
+    ]
   },
   {
     "id": "midnight-black-hair-color",
@@ -3331,8 +3322,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous midnight black hair color with face framing pieces crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with midnight black hair color with face framing pieces, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc80_cover_collage.jpg"
+    ]
   },
   {
     "id": "trendy-soft-black-hair-color",
@@ -3569,8 +3559,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous soft black smooth wave blend crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with soft black smooth wave blend, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc81_cover_collage.jpg"
+    ]
   },
   {
     "id": "ink-black-hair-color",
@@ -3944,8 +3933,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous ink black hair color vs natural black crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with ink black hair color vs natural black, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc82_cover_collage.jpg"
+    ]
   },
   {
     "id": "glossy-shiny-black-hair",
@@ -4286,8 +4274,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous shiny black hair for cool skin tones crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with shiny black hair for cool skin tones, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc83_cover_collage.jpg"
+    ]
   },
   {
     "id": "dimensional-black-hair-color",
@@ -4628,8 +4615,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous dimensional black with red velvet tones crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with dimensional black with red velvet tones, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc84_cover_collage.jpg"
+    ]
   },
   {
     "id": "raven-black-hair-color",
@@ -4972,8 +4958,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous raven black shag haircut crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with raven black shag haircut, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc85_cover_collage.jpg"
+    ]
   },
   {
     "id": "blonde-balayage-on-brown-hair",
@@ -5315,8 +5300,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous beige blonde balayage on light brown hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with beige blonde balayage on light brown hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc86_cover_collage.jpg"
+    ]
   },
   {
     "id": "blonde-hair-with-shadow-root-balayage",
@@ -5650,8 +5634,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous contouring blonde hair with shadow root crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with contouring blonde hair with shadow root, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc87_cover_collage.jpg"
+    ]
   },
   {
     "id": "lavender-balayage-on-blonde-hair",
@@ -6029,8 +6012,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous lavender balayage on wavy blonde hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with lavender balayage on wavy blonde hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc88_cover_collage.jpg"
+    ]
   },
   {
     "id": "rooty-blonde-balayage",
@@ -6370,8 +6352,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous rooty blonde balayage for long hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with rooty blonde balayage for long hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc89_cover_collage.jpg"
+    ]
   },
   {
     "id": "strawberry-blonde-balayage",
@@ -6714,8 +6695,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous thin hair strawberry blonde balayage crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with thin hair strawberry blonde balayage, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc90_cover_collage.jpg"
+    ]
   },
   {
     "id": "blonde-highlights-on-black-hair",
@@ -7053,8 +7033,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous cool blonde highlights on black hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with cool blonde highlights on black hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc91_cover_collage.jpg"
+    ]
   },
   {
     "id": "brunette-lowlights-for-blonde-mature-hair",
@@ -7386,8 +7365,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous slate brown lowlights for blonde hair crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with slate brown lowlights for blonde hair, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc92_cover_collage.jpg"
+    ]
   },
   {
     "id": "champagne-blonde-balayage-ideas",
@@ -7737,8 +7715,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous champagne blonde balayage maintenance tips crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with champagne blonde balayage maintenance tips, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc93_cover_collage.jpg"
+    ]
   },
   {
     "id": "dark-chocolate-brunette-with-blonde-highlights",
@@ -7749,7 +7726,8 @@ export const articles = [
     "date": "August 4, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "8 min read",
-    "image": "/images/dark_chocolate_brunette_with_blonde_highlights_cover_collage.jpg",
+    "heroImage": "/images/doc_dark_chocolate_brunette_cover_pin.jpg",
+    "image": "/images/doc_dark_chocolate_brunette_cover_pin.jpg",
     "description": "Discover stunning dark chocolate brunette hair with blonde highlights. From subtle honey balayage to bold money pieces, explore the best dimensional hair color ideas.",
     "introParagraphs": [
       "There is something undeniably luxurious about dark chocolate brunette hair. It is rich, deep, and full of life on its own. But when you add blonde highlights into the mix, the entire look transforms into something spectacular.",
@@ -7994,8 +7972,7 @@ export const articles = [
         "content": "To preserve the rich chocolate tone and keep blonde highlights luminous, invest in quality color care. Hydrating masks, heat protectants, and occasional toning glosses protect against fading and keep your hair silky and smooth."
       }
     ],
-    "intro": "There is something undeniably luxurious about dark chocolate brunette hair. It is rich, deep, and full of life on its own. But when you add blonde highlights into the mix, the entire look transforms into something spectacular. The contrast between the dark, cool-toned base and the bright, warm ribbons of blonde creates a dimensional effect that catches light from every angle. Whether you are a natural brunette looking for a subtle refresh or someone ready to make a bold change, dark chocolate brunette with blonde highlights offers endless possibilities. From soft babylights to bold chunky streaks, this color combination works across all hair lengths, textures, and skin tones. Explore these stunning ways to wear this gorgeous color duo.",
-    "heroImage": "/images/dark_chocolate_brunette_with_blonde_highlights_cover_collage.jpg"
+    "intro": "There is something undeniably luxurious about dark chocolate brunette hair. It is rich, deep, and full of life on its own. But when you add blonde highlights into the mix, the entire look transforms into something spectacular. The contrast between the dark, cool-toned base and the bright, warm ribbons of blonde creates a dimensional effect that catches light from every angle. Whether you are a natural brunette looking for a subtle refresh or someone ready to make a bold change, dark chocolate brunette with blonde highlights offers endless possibilities. From soft babylights to bold chunky streaks, this color combination works across all hair lengths, textures, and skin tones. Explore these stunning ways to wear this gorgeous color duo."
   },
   {
     "id": "pearl-toner-for-blonde-balayage",
@@ -8358,8 +8335,7 @@ export const articles = [
         "whyWeLoveIt": "Gorgeous pearl toner with lowlights balayage crafted to elevate your hair texture with effortless, light-reflecting dimension.",
         "stylingTip": "For optimal shine with pearl toner with lowlights balayage, apply a lightweight color-protecting serum to mid-lengths before blow-drying."
       }
-    ],
-    "image": "/images/doc95_cover_collage.jpg"
+    ]
   },
   {
     "id": "natural-looking-silver-highlights-that-stand-out",
@@ -8662,8 +8638,7 @@ export const articles = [
       "Whether you are aiming to blend existing gray strands or simply want to add a modern, icy edge to your brunette or blonde base, these highlights offer a versatile solution.",
       "The key to achieving a truly natural finish lies in professional techniques like balayage and babylights, which ensure the transitions are soft and the grow-out period remains elegant and effortless for months.",
       "Here are 13 natural looking silver highlights that stand out for every hair texture."
-    ],
-    "image": "/images/doc70_cover_collage.jpg"
+    ]
   },
   {
     "id": "golden-bronde-balayage-hair-color-to-try",
@@ -9012,8 +8987,7 @@ export const articles = [
       "It works beautifully across all hair textures and lengths, from sleek bobs to flowing layers.",
       "Finding the right golden hue involves considering your skin undertone and natural base color.",
       "As we dive into these 16 stunning variations, you will see how warm tones can brighten your face and elevate your overall style effortlessly for any season or upcoming event."
-    ],
-    "image": "/images/doc69_cover_collage.jpg"
+    ]
   },
   {
     "id": "contour-highlights-hair-ideas-people-are-loving",
@@ -9327,8 +9301,7 @@ export const articles = [
       "It offers a low-maintenance way to transform your look without committing to a full head of bleach.",
       "Whether you have dark brunette locks or pale blonde hair, there is a perfect contouring pattern designed just for you.",
       "Here are 13 gorgeous contour highlights hair ideas people are loving right now."
-    ],
-    "image": "/images/doc68_cover_collage.jpg"
+    ]
   },
   {
     "id": "burgundy-wine-balayage-women-must-try",
@@ -9690,8 +9663,7 @@ export const articles = [
       "It flatters warm, cool, and neutral undertones alike, making it one of the most versatile choices in modern hair color right now.",
       "From deep chocolate bases to black hair with cherry-kissed ends, there is a burgundy balayage variation that fits your vibe.",
       "Here are 17 gorgeous burgundy wine balayage looks worth trying this season."
-    ],
-    "image": "/images/doc67_cover_collage.jpg"
+    ]
   },
   {
     "id": "amber-balayage-hair-worth-trying",
@@ -10010,8 +9982,7 @@ export const articles = [
       "What makes amber balayage so special is its unique blend of warm honey tones and subtle bronze-like reflections that flatter a wide variety of skin tones.",
       "Whether you are looking to add depth to your current light brown hair or want to tone down a brighter blonde, this shade offers a sophisticated and expensive-looking finish.",
       "Here are 15 gorgeous amber balayage hair looks worth trying this season."
-    ],
-    "image": "/images/doc66_cover_collage.jpg"
+    ]
   },
   {
     "id": "haircuts-and-hairstyles-for-women-with-round-faces",
@@ -10022,7 +9993,8 @@ export const articles = [
     "date": "September 2, 2026",
     "author": "Trend Haircuts Team",
     "readTime": "7 min read",
-    "image": "/images/haircuts_and_hairstyles_for_women_with_round_faces_cover_collage.jpg",
+    "heroImage": "/images/doc_round_faces_women_cover_pin.jpg",
+    "image": "/images/doc_round_faces_women_cover_pin.jpg",
     "description": "Explore 15+ Haircuts and Hairstyles for Women with Round Faces. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
       "Round faces look soft, youthful, and friendly, and the right short haircut can bring out all of those features while also adding shape and definition to your cheeks and jawline. When choosing a cut, the main goal is to create a bit of height at the crown and some gentle angles or length around the front so your face appears slightly longer instead of wider. Short hair works beautifully here, because pixies, bobs, and cropped shags can all be customized with layering, parting, and fringe to balance your proportions. Modern cuts for round faces focus on texture, side or off-center parts, and soft movement, avoiding heavy width at the cheeks or a blunt straight-across line at the fullest part of your face. With that in mind, here are 20 of the best short haircuts that flatter a round face and feel current for 2025\u20132026."
@@ -10248,8 +10220,7 @@ export const articles = [
         "content": "Selecting a 15+ haircuts and hairstyles for women with round faces is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
     ],
-    "intro": "Round faces look soft, youthful, and friendly, and the right short haircut can bring out all of those features while also adding shape and definition to your cheeks and jawline. When choosing a cut, the main goal is to create a bit of height at the crown and some gentle angles or length around the front so your face appears slightly longer instead of wider. Short hair works beautifully here, because pixies, bobs, and cropped shags can all be customized with layering, parting, and fringe to balance your proportions. Modern cuts for round faces focus on texture, side or off-center parts, and soft movement, avoiding heavy width at the cheeks or a blunt straight-across line at the fullest part of your face. With that in mind, here are 20 of the best short haircuts that flatter a round face and feel current for 2025\u20132026.",
-    "heroImage": "/images/haircuts_and_hairstyles_for_women_with_round_faces_cover_collage.jpg"
+    "intro": "Round faces look soft, youthful, and friendly, and the right short haircut can bring out all of those features while also adding shape and definition to your cheeks and jawline. When choosing a cut, the main goal is to create a bit of height at the crown and some gentle angles or length around the front so your face appears slightly longer instead of wider. Short hair works beautifully here, because pixies, bobs, and cropped shags can all be customized with layering, parting, and fringe to balance your proportions. Modern cuts for round faces focus on texture, side or off-center parts, and soft movement, avoiding heavy width at the cheeks or a blunt straight-across line at the fullest part of your face. With that in mind, here are 20 of the best short haircuts that flatter a round face and feel current for 2025\u20132026."
   },
   {
     "id": "interview-hairstyle-with-glasses-to-save-now",
@@ -10475,8 +10446,7 @@ export const articles = [
         "content": "Selecting a 17+ interview hairstyle with glasses to save now is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
     ],
-    "intro": "Preparing for a job interview\u00a0involves choosing the perfect outfit and making sure your hair looks polished. If you wear eyewear, finding the right look can feel tricky, but it does not have to be. Exploring a 20 interview hairstyle with glasses guide helps you discover options that frame your face beautifully and keep you looking professional. Your frames already draw attention to your face, so your hair should complement them rather than compete for attention. Whether you have short, medium, or long hair, there are plenty of neat and confident options to choose from. From sleek buns to tailored bobs, the right haircut or style will make you feel ready to impress your future employers.",
-    "heroImage": "/images/interview_hairstyle_with_glasses_to_save_now_cover_collage.jpg"
+    "intro": "Preparing for a job interview\u00a0involves choosing the perfect outfit and making sure your hair looks polished. If you wear eyewear, finding the right look can feel tricky, but it does not have to be. Exploring a 20 interview hairstyle with glasses guide helps you discover options that frame your face beautifully and keep you looking professional. Your frames already draw attention to your face, so your hair should complement them rather than compete for attention. Whether you have short, medium, or long hair, there are plenty of neat and confident options to choose from. From sleek buns to tailored bobs, the right haircut or style will make you feel ready to impress your future employers."
   },
   {
     "id": "flattering-haircut-for-oblong-face-women",
@@ -10691,8 +10661,7 @@ export const articles = [
         "content": "Selecting a 13+ flattering haircut for oblong face women is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
     ],
-    "intro": "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape.",
-    "heroImage": "/images/flattering_haircut_for_oblong_face_women_cover_collage.jpg"
+    "intro": "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape."
   },
   {
     "id": "hairstyles-for-women-with-glasses-over-60-to-save",
@@ -10907,8 +10876,7 @@ export const articles = [
         "content": "Selecting a 15+ hairstyles for women with glasses over 60 to save is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
     ],
-    "intro": "Finding the perfect balance between style and function becomes a top priority for women over 60 who wear glasses. Eyewear is no longer just a necessity but a key fashion accessory that should harmonize with your haircut to enhance your natural beauty. Whether you prefer a bold statement frame or a subtle wire-rimmed look, your hair plays a crucial role in framing your face and balancing your features. In 2026, the trends for hairstyles for women with glasses over 60 focus on texture, volume, and manageable lengths that offer a youthful lift. From chic pixies to elegant lobs, these twenty curated looks are designed to keep you looking modern while ensuring your glasses remain a stylish focal point of your overall aesthetic.",
-    "heroImage": "/images/hairstyles_for_women_with_glasses_over_60_to_save_cover_collage.jpg"
+    "intro": "Finding the perfect balance between style and function becomes a top priority for women over 60 who wear glasses. Eyewear is no longer just a necessity but a key fashion accessory that should harmonize with your haircut to enhance your natural beauty. Whether you prefer a bold statement frame or a subtle wire-rimmed look, your hair plays a crucial role in framing your face and balancing your features. In 2026, the trends for hairstyles for women with glasses over 60 focus on texture, volume, and manageable lengths that offer a youthful lift. From chic pixies to elegant lobs, these twenty curated looks are designed to keep you looking modern while ensuring your glasses remain a stylish focal point of your overall aesthetic."
   },
   {
     "id": "gray-hairstyles-for-women-with-glasses-to-inspire-you",
@@ -11145,8 +11113,7 @@ export const articles = [
         "content": "Selecting a 16+ gray hairstyles for women with glasses to inspire you is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
     ],
-    "intro": "Embracing a silver mane is a powerful style statement in 2026, especially when paired with the right eyewear to create a cohesive look. Choosing a hairstyle that complements your glasses involves balancing the weight of your frames with the texture and volume of your hair. Many women find that transitioning to natural gray opens up a vibrant new palette of cool tones that make metallic or jewel-toned frames pop. Whether you prefer a sharp, modern bob or a soft, feathered pixie, the goal is to highlight your facial features while keeping your glasses as a functional accessory. This guide explores the most flattering gray hairstyles designed to work in harmony with various frame shapes and personal styles.",
-    "heroImage": "/images/gray_hairstyles_for_women_with_glasses_to_inspire_you_cover_collage.jpg"
+    "intro": "Embracing a silver mane is a powerful style statement in 2026, especially when paired with the right eyewear to create a cohesive look. Choosing a hairstyle that complements your glasses involves balancing the weight of your frames with the texture and volume of your hair. Many women find that transitioning to natural gray opens up a vibrant new palette of cool tones that make metallic or jewel-toned frames pop. Whether you prefer a sharp, modern bob or a soft, feathered pixie, the goal is to highlight your facial features while keeping your glasses as a functional accessory. This guide explores the most flattering gray hairstyles designed to work in harmony with various frame shapes and personal styles."
   },
   {
     "id": "flattering-short-haircut-for-women-with-glasses",
@@ -11361,8 +11328,7 @@ export const articles = [
         "content": "Selecting a 13+ flattering short haircut for women with glasses is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
     ],
-    "intro": "Finding a flattering short haircut for women with glasses can feel like a daunting task, but the right style actually enhances your frames while highlighting your best facial features. Short hair offers a unique opportunity to draw attention to your eyes and the style of your eyewear, creating a cohesive and fashionable look that works for any occasion. Whether you prefer a bold pixie or a sophisticated bob, these modern cuts are designed to balance the proportions of your face and the weight of your spectacles. In 2026, the trends emphasize texture, movement, and personalized layers that prevent your hair from competing with your frames. This guide explores versatile options that feel both effortless and intentionally styled for your specific face shape.",
-    "heroImage": "/images/flattering_short_haircut_for_women_with_glasses_cover_collage.jpg"
+    "intro": "Finding a flattering short haircut for women with glasses can feel like a daunting task, but the right style actually enhances your frames while highlighting your best facial features. Short hair offers a unique opportunity to draw attention to your eyes and the style of your eyewear, creating a cohesive and fashionable look that works for any occasion. Whether you prefer a bold pixie or a sophisticated bob, these modern cuts are designed to balance the proportions of your face and the weight of your spectacles. In 2026, the trends emphasize texture, movement, and personalized layers that prevent your hair from competing with your frames. This guide explores versatile options that feel both effortless and intentionally styled for your specific face shape."
   },
   {
     "id": "short-haircuts-for-round-faces-you-ll-love",
@@ -11829,8 +11795,7 @@ export const articles = [
       "14+ Short Haircuts for Round Faces You\u2019ll Love is one of 2026's top hair trends for glasses wearers and face-contouring.",
       "Finding the right balance between your cut and eyewear creates effortless style.",
       "Here are the top ideas to save."
-    ],
-    "image": "/images/doc59_cover_collage.jpg"
+    ]
   },
   {
     "id": "stylish-hairstyles-for-long-faces-in-2026",
@@ -12151,8 +12116,7 @@ export const articles = [
       "21+ Stylish Hairstyles for Long Faces in 2026 is one of 2026's top hair trends for glasses wearers and face-contouring.",
       "Finding the right balance between your cut and eyewear creates effortless style.",
       "Here are the top ideas to save."
-    ],
-    "image": "/images/doc58_cover_collage.jpg"
+    ]
   },
   {
     "id": "best-haircuts-for-men-with-oval-faces",
@@ -12531,8 +12495,7 @@ export const articles = [
       "27+ Best Haircuts for Men with Oval Faces is one of 2026's top hair trends for glasses wearers and face-contouring.",
       "Finding the right balance between your cut and eyewear creates effortless style.",
       "Here are the top ideas to save."
-    ],
-    "image": "/images/doc57_cover_collage.jpg"
+    ]
   },
   {
     "id": "stylish-slick-back-hairstyles-to-inspire-you",
@@ -12746,8 +12709,7 @@ export const articles = [
       "12+ Stylish Slick Back Hairstyles to Inspire You is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc56_cover_collage.jpg"
+    ]
   },
   {
     "id": "amazing-ponytail-hairstyles-that-turn-heads",
@@ -12950,8 +12912,7 @@ export const articles = [
       "11+ Amazing Ponytail Hairstyles That Turn Heads is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc55_cover_collage.jpg"
+    ]
   },
   {
     "id": "easy-hairstyles-worth-saving",
@@ -13165,8 +13126,7 @@ export const articles = [
       "12+ Easy Hairstyles Worth Saving is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc54_cover_collage.jpg"
+    ]
   },
   {
     "id": "chic-claw-clip-hairstyles-to-try-today",
@@ -13391,8 +13351,7 @@ export const articles = [
       "13+ Chic Claw Clip Hairstyles to Try Today is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc53_cover_collage.jpg"
+    ]
   },
   {
     "id": "trendy-bandana-hairstyles-that-turn-heads",
@@ -13584,8 +13543,7 @@ export const articles = [
       "10+ Trendy Bandana Hairstyles That Turn Heads is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc52_cover_collage.jpg"
+    ]
   },
   {
     "id": "chic-messy-bun-hairstyles-that-stand-out",
@@ -13799,8 +13757,7 @@ export const articles = [
       "12+ Chic Messy Bun Hairstyles That Stand Out is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc51_cover_collage.jpg"
+    ]
   },
   {
     "id": "beautiful-bun-hairstyles-you-ll-love",
@@ -14003,8 +13960,7 @@ export const articles = [
       "11+ Beautiful Bun Hairstyles You\u2019ll Love is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc50_cover_collage.jpg"
+    ]
   },
   {
     "id": "stylish-updo-hairstyles-to-save-now",
@@ -14251,8 +14207,7 @@ export const articles = [
       "15+ Stylish Updo Hairstyles to Save Now is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc49_cover_collage.jpg"
+    ]
   },
   {
     "id": "stunning-sleek-low-ponytail-that-stand-out",
@@ -14477,8 +14432,7 @@ export const articles = [
       "13+ Stunning Sleek Low Ponytail That Stand Out is one of 2026's top everyday hair trends.",
       "Low-maintenance styling lets you look effortlessly put-together in minutes.",
       "Here are the best easy everyday hairstyle ideas to save for your daily routine."
-    ],
-    "image": "/images/doc48_cover_collage.jpg"
+    ]
   },
   {
     "id": "beautiful-natural-curly-hairstyles-for-women-over-50",
@@ -14758,8 +14712,7 @@ export const articles = [
       "19+ Beautiful Natural Curly Hairstyles for Women over 50 is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc47_cover_collage.jpg"
+    ]
   },
   {
     "id": "beautiful-layered-curly-hairstyles-to-inspire-you",
@@ -14962,8 +14915,7 @@ export const articles = [
       "11+ Beautiful Layered Curly Hairstyles to Inspire You is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc46_cover_collage.jpg"
+    ]
   },
   {
     "id": "trendy-hairstyles-for-women-over-40-with-curly-hair",
@@ -15221,8 +15173,7 @@ export const articles = [
       "16+ Trendy Hairstyles for Women over 40 with Curly Hair is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc45_cover_collage.jpg"
+    ]
   },
   {
     "id": "stylish-curly-hairstyles-for-women-over-60-to-try",
@@ -15527,8 +15478,7 @@ export const articles = [
       "18+ Stylish Curly Hairstyles for Women over 60 to Try is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc44_cover_collage.jpg"
+    ]
   },
   {
     "id": "chic-curly-hairstyles-for-women-over-40-to-inspire-you",
@@ -15863,8 +15813,7 @@ export const articles = [
       "21+ Chic Curly Hairstyles for Women over 40 to Inspire You is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc42_cover_collage.jpg"
+    ]
   },
   {
     "id": "short-curly-hairstyles-for-women-over-50-gray-hair-haircuts",
@@ -16163,8 +16112,7 @@ export const articles = [
       "19+ Short Curly Hairstyles for Women over 50 Gray Hair Haircuts is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc41_cover_collage.jpg"
+    ]
   },
   {
     "id": "chic-short-curly-hairstyles-for-older-women-to-try-now",
@@ -16523,8 +16471,7 @@ export const articles = [
       "23+ Chic Short Curly Hairstyles for Older Women to Try Now is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc40_cover_collage.jpg"
+    ]
   },
   {
     "id": "pretty-messy-curly-hair-worth-saving",
@@ -16738,8 +16685,7 @@ export const articles = [
       "12+ Pretty Messy Curly Hair Worth Saving is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc39_cover_collage.jpg"
+    ]
   },
   {
     "id": "stunning-curly-fluffy-hair-worth-trying",
@@ -16975,8 +16921,7 @@ export const articles = [
       "14+ Stunning Curly Fluffy Hair Worth Trying is leading 2026's natural texture movement.",
       "Embracing your natural curl pattern with smart shaping brings effortless volume and springy bounce.",
       "Here are inspiring curly haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc43_cover_collage.jpg"
+    ]
   },
   {
     "id": "modern-braided-hairstyles-you-can-t-miss",
@@ -17212,8 +17157,7 @@ export const articles = [
       "14+ Modern Braided Hairstyles You Can't Miss is one of 2026's most requested hair trends.",
       "Braids blend intricate artistic craftsmanship with effortless protective wear.",
       "Here are inspiring braided style ideas to save for your next salon appointment."
-    ],
-    "image": "/images/doc38_cover_collage.jpg"
+    ]
   },
   {
     "id": "trendy-twist-braid-hairstyles-women-are-loving",
@@ -17427,8 +17371,7 @@ export const articles = [
       "12+ Trendy Twist Braid Hairstyles Women Are Loving is one of 2026's most requested hair trends.",
       "Braids blend intricate artistic craftsmanship with effortless protective wear.",
       "Here are inspiring braided style ideas to save for your next salon appointment."
-    ],
-    "image": "/images/doc37_cover_collage.jpg"
+    ]
   },
   {
     "id": "stunning-rope-braid-hairstyles-to-consider",
@@ -17631,8 +17574,7 @@ export const articles = [
       "11+ Stunning Rope Braid Hairstyles to Consider is one of 2026's most requested hair trends.",
       "Braids blend intricate artistic craftsmanship with effortless protective wear.",
       "Here are inspiring braided style ideas to save for your next salon appointment."
-    ],
-    "image": "/images/doc36_cover_collage.jpg"
+    ]
   },
   {
     "id": "beautiful-braided-hairstyles-women-love",
@@ -17846,8 +17788,7 @@ export const articles = [
       "12+ Beautiful Braided Hairstyles Women Love is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc35_cover_collage.jpg"
+    ]
   },
   {
     "id": "chic-fishtail-braid-hairstyles-to-try-now",
@@ -18083,8 +18024,7 @@ export const articles = [
       "13+ Chic Fishtail Braid Hairstyles to Try Now is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc34_cover_collage.jpg"
+    ]
   },
   {
     "id": "stunning-cornrow-hairstyles-to-copy",
@@ -18320,8 +18260,7 @@ export const articles = [
       "14+ Stunning Cornrow Hairstyles to Copy is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc33_cover_collage.jpg"
+    ]
   },
   {
     "id": "chic-crown-braid-hairstyles-to-try",
@@ -18546,8 +18485,7 @@ export const articles = [
       "13+ Chic Crown Braid Hairstyles to Try is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc32_cover_collage.jpg"
+    ]
   },
   {
     "id": "trendy-double-dutch-braids-to-save",
@@ -18750,8 +18688,7 @@ export const articles = [
       "11+ Trendy Double Dutch Braids to Save is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc31_cover_collage.jpg"
+    ]
   },
   {
     "id": "chic-waterfall-braid-hairstyles-to-try-now",
@@ -18965,8 +18902,7 @@ export const articles = [
       "12+ Chic Waterfall Braid Hairstyles to Try Now is taking the hair world by storm in 2026.",
       "Braids combine intricate scalp geometry with effortless protective styling that saves morning prep time.",
       "Here are the top inspiring braided haircut ideas to save for your next salon visit."
-    ],
-    "image": "/images/doc30_cover_collage.jpg"
+    ]
   },
   {
     "id": "trending-choppy-bob-hairstyles",
@@ -19257,8 +19193,7 @@ export const articles = [
       "Choppy bobs are having a massive style moment in 2026.",
       "They offer effortless texture, piecey movement, and built-in crown volume without requiring high-maintenance morning routines.",
       "From textured ash blonde waves to rich caramel chops, here are 20 trending choppy bob hairstyles to save for your next salon visit."
-    ],
-    "image": "/images/doc29_cover_collage.jpg"
+    ]
   },
   {
     "id": "bob-hairstyles-with-bangs",
@@ -19447,8 +19382,7 @@ export const articles = [
       "Bobs with bangs are proof that structure and personality can absolutely coexist. One good cut can change your whole morning routine.",
       "Bangs handle the facial framing, the bob handles the perimeter shaping, and together they do the heavy lifting.",
       "Here are 11 chic bob hairstyles with bangs to try right now."
-    ],
-    "image": "/images/doc28_cover_collage.jpg"
+    ]
   },
   {
     "id": "bob-haircuts-for-fine-hair",
@@ -19692,8 +19626,7 @@ export const articles = [
       "A great bob haircut can do wonders for fine hair. It adds built-in shape, crown volume, and effortless movement without over-thinning your ends.",
       "Fine hair has a reputation for being tricky, but the right bob cut makes it look naturally full and polished.",
       "Here are 16 chic bob haircuts for fine hair that turn heads."
-    ],
-    "image": "/images/doc27_cover_collage.jpg"
+    ]
   },
   {
     "id": "angled-bob-hairstyles",
@@ -19893,8 +19826,7 @@ export const articles = [
       "Angled bobs are the haircut equivalent of a great tailored blazer\u2014clean, confident, and instantly polished.",
       "They frame the face, lift the nape line, and give your hair built-in structure even on low-effort days.",
       "From sleek, glass-smooth perimeters to soft, textured waves, here are 12 chic angled bob hairstyles that stand out."
-    ],
-    "image": "/images/doc26_cover_collage.jpg"
+    ]
   },
   {
     "id": "short-layered-bob-hairstyles-older-women",
@@ -20249,8 +20181,7 @@ export const articles = [
       "Are you ready to shake things up with a fresh, fabulous haircut? The short layered bob is a timeless style that\u2019s here to stay, especially for those who believe age is just a number.",
       "For older women, this cut offers ease, crown height, and facial framing.",
       "From chic silvers to warm caramels, here are 26 stunning short layered bobs tailored for mature beauty."
-    ],
-    "image": "/images/doc25_cover_collage.jpg"
+    ]
   },
   {
     "id": "short-bob-hairstyles-with-bangs",
@@ -20530,8 +20461,7 @@ export const articles = [
       "This cut is sharp enough for the office and effortlessly cool for weekend plans.",
       "It\u2019s structured, stylish, and surprisingly easy to maintain.",
       "From French-inspired jawline cuts to micro-fringe finishes, here are 19 gorgeous short bobs with bangs for your next salon transformation."
-    ],
-    "image": "/images/doc24_cover_collage.jpg"
+    ]
   },
   {
     "id": "short-bob-haircuts-women-over-40",
@@ -20799,8 +20729,7 @@ export const articles = [
       "The short bob has been doing that job beautifully for decades.",
       "It\u2019s polished without being fussy, modern without trying too hard, and always looks like you woke up with a plan.",
       "Here are 18 fresh short bobs with soft layers, effortless texture, and radiant color blends tailored for women over 40."
-    ],
-    "image": "/images/doc23_cover_collage.jpg"
+    ]
   },
   {
     "id": "long-layered-bob",
@@ -21015,8 +20944,7 @@ export const articles = [
       "This haircut has earned its place as a favorite thanks to its perfect balance of length, movement, and low-maintenance versatility.",
       "A long layered bob (or lob) removes heavy weight while framing your jawline with touchable elegance.",
       "Here are 13 chic long layered bob ideas to inspire your next salon visit."
-    ],
-    "image": "/images/doc22_cover_collage.jpg"
+    ]
   },
   {
     "id": "bob-hairstyles-women-over-60-fine-hair",
@@ -21247,8 +21175,7 @@ export const articles = [
       "Fine hair has a way of doing its own thing, especially after 60.",
       "The right bob haircut can fix a lot of that by adding natural shape, crown structure, and perimeter weight that makes styling effortless.",
       "In 2026, mature bob cuts lean softer and lighter, utilizing strategic layering to give fine strands a noticeably fuller feel."
-    ],
-    "image": "/images/doc21_cover_collage.jpg"
+    ]
   },
   {
     "id": "long-haircuts-with-bangs",
@@ -21495,8 +21422,7 @@ export const articles = [
       "It\u2019s the kind of haircut that transitions from casual daytime waves to polished evening sleekness in minutes.",
       "Bangs frame the face, add dimension to long locks, and bring instant flair without losing length.",
       "Here are 16 long haircuts with fringe for your next salon visit."
-    ],
-    "image": "/images/doc20_cover_collage.jpg"
+    ]
   },
   {
     "id": "haircuts-older-women-over-60-with-bangs",
@@ -21762,8 +21688,7 @@ export const articles = [
       "Haircuts for older women over 60 with bangs are having a refined design moment in 2026.",
       "Bangs are no longer a high-maintenance trend\u2014they are a thoughtful style choice that adds structure, softness, and balance to mature features.",
       "From polished bobs to textured shags and airy pixies, here are 18 modern cuts that prove great style is timeless."
-    ],
-    "image": "/images/doc19_cover_collage.jpg"
+    ]
   },
   {
     "id": "curly-hairstyles-older-women-over-50-with-bangs",
@@ -22049,8 +21974,7 @@ export const articles = [
       "Curls have a way of showing personality before you even say a word. Add bangs into the mix, and suddenly your haircut has its own spotlight moment.",
       "For women over 50, curly hairstyles with fringe aren't just about keeping things fresh\u2014they highlight natural hair texture, frame mature cheekbones, and bring youthful vitality.",
       "Here are 20 bouncy, beautiful curly cuts tailored for older women."
-    ],
-    "image": "/images/doc18_cover_collage.jpg"
+    ]
   },
   {
     "id": "straight-hairstyles-with-bangs",
@@ -22264,8 +22188,7 @@ export const articles = [
       "Straight hair paired with bangs has a reputation for looking ultra-polished and salon-fresh.",
       "From clean, razor-sharp lines to soft wispy fringe, straight hairstyles with bangs frame your eyes and face with intentional elegance.",
       "Here are 13 chic straight hairstyles with fringe that prove the payoff is worth every minute of styling."
-    ],
-    "image": "/images/doc17_cover_collage.jpg"
+    ]
   },
   {
     "id": "short-grunge-haircuts-with-bangs",
@@ -22519,8 +22442,7 @@ export const articles = [
       "There\u2019s something about a short haircut with just the right amount of messy texture that makes it feel like an instant statement.",
       "Add bangs into the mix, and suddenly you\u2019ve entered the effortlessly cool zone\u2014where raw edges, choppy layers, and piecey fringe reign supreme.",
       "Here are 17 current short grunge haircuts with bangs that embrace imperfect perfection."
-    ],
-    "image": "/images/doc16_cover_collage.jpg"
+    ]
   },
   {
     "id": "messy-fringe-haircut",
@@ -22724,8 +22646,7 @@ export const articles = [
       "The messy fringe is having a major moment\u2014equal parts French-girl chic and 'I woke up like this.",
       "' It hits the ideal balance between polish and playful texture, delivering effortless confidence for every hair type and face shape.",
       "Here are messy fringe haircuts that prove imperfect is the ultimate perfection."
-    ],
-    "image": "/images/doc15_cover_collage.jpg"
+    ]
   },
   {
     "id": "haircuts-women-over-60-with-bangs",
@@ -22946,8 +22867,7 @@ export const articles = [
       "Hitting your 60s doesn\u2019t mean you\u2019ve run out of great hairstyle options\u2014far from it. In fact, bangs are having a brilliant moment for mature women.",
       "They frame the face, soften forehead lines, and add a spark of personal style without requiring an hour in front of the mirror.",
       "From feathered bobs to layered shags and classic pixies, here are functional cuts that deliver real style for real life."
-    ],
-    "image": "/images/doc14_cover_collage.jpg"
+    ]
   },
   {
     "id": "bang-haircuts-older-women",
@@ -23205,8 +23125,7 @@ export const articles = [
       "Bangs are like the punctuation mark of a great haircut\u2014they say just enough without overexplaining.",
       "For older women, a tailored set of fringe can do wonders: softening fine lines around the forehead, highlighting your eyes, and making morning styling feel instantly refreshed.",
       "Whether you prefer airy wispy fringe or structured side-swept bangs, these cuts bring timeless confidence to mature hair."
-    ],
-    "image": "/images/doc13_cover_collage.jpg"
+    ]
   },
   {
     "id": "medium-length-hairstyles-with-bangs",
@@ -23517,8 +23436,7 @@ export const articles = [
       "If you're on the hunt for a fresh new look that\u2019s both trendy and versatile, you\u2019re in the right place.",
       "Medium length hairstyles with bangs hit the absolute sweet spot between easy daily maintenance and maximum styling flexibility.",
       "Whether you have fine hair needing a volume boost, or you're seeking a sophisticated cut for women over 50 or 60, medium lengths paired with fringe offer endless face-framing charm."
-    ],
-    "image": "/images/doc12_cover_collage.jpg"
+    ]
   },
   {
     "id": "hairstyles-older-women-glasses",
@@ -23808,8 +23726,7 @@ export const articles = [
       "For older women, the right haircut does plenty of heavy lifting: it softens facial contours, balances frame shapes, and makes morning routines wonderfully effortless.",
       "In 2026, hairstyles for mature women focus on polish, movement, and celebrating natural silver, blonde, and brunette textures.",
       "Here are cuts designed to work in harmony with your eyewear."
-    ],
-    "image": "/images/doc11_cover_collage.jpg"
+    ]
   },
   {
     "id": "ash-blonde-hair-color-ideas",
@@ -24023,8 +23940,7 @@ export const articles = [
       "It\u2019s cool, smoky, and pairs perfectly with both warm and cool complexions.",
       "This versatile color acts like a soft-focus filter, softening facial features and adding multi-dimensional depth.",
       "From icy platinum melts to soft ash bronde balayage, these shade ideas bring modern sophistication to every hair length."
-    ],
-    "image": "/images/doc10_cover_collage.jpg"
+    ]
   },
   {
     "id": "hairstyles-for-square-faces",
@@ -24301,8 +24217,7 @@ export const articles = [
       "A square face shape is a work of art\u2014strong, balanced, and striking. Choosing the right haircut can take it from stunning to truly unforgettable.",
       "The key lies in finding cuts that soften sharp angles and accentuate your cheekbones and eyes.",
       "Layers, soft waves, wispy curtain bangs, and strategic interior texture are your best friends when balancing a defined jawline."
-    ],
-    "image": "/images/doc9_cover_collage.jpg"
+    ]
   },
   {
     "id": "fine-thin-hair-older-women",
@@ -24614,8 +24529,7 @@ export const articles = [
       "Finding the right hairstyle for fine hair can sometimes feel like searching for the perfect pair of jeans: it\u2019s all about shape, proportions, and strategic support.",
       "For older women, fine strands offer a versatile canvas that, with the right cut and dimension, brings out natural elegance and volume.",
       "From featherlight pixies to blunt bobs and airy shags, these styles prove fine hair can enjoy impressive density and bounce."
-    ],
-    "image": "/images/doc8_cover_collage.jpg"
+    ]
   },
   {
     "id": "haircuts-with-glasses",
@@ -24939,8 +24853,7 @@ export const articles = [
       "The wrong haircut can compete with your frames, while the right one makes everything feel intentional.",
       "In 2026, hair trends are leaning into soft layers, clean lines, and subtle movement that works gracefully with your eyewear rather than fighting against it.",
       "Think of your haircut as the supporting role that quietly elevates your favorite frames."
-    ],
-    "image": "/images/doc7_cover_collage.jpg"
+    ]
   },
   {
     "id": "bubble-ponytail-ideas",
@@ -25154,8 +25067,7 @@ export const articles = [
       "Bubble ponytails are proof that hair can have a personality all on its own. They\u2019re playful, structured, and just the right amount of extra.",
       "This style takes the classic ponytail and says, 'nice try, but let\u2019s have more fun. ' It works for brunch, the office, or workouts.",
       "Think of it as a ponytail with built-in confidence."
-    ],
-    "image": "/images/doc6_cover_collage.jpg"
+    ]
   },
   {
     "id": "curly-hairstyles-older-women",
@@ -25501,8 +25413,7 @@ export const articles = [
       "Curly hair has a personality all its own, and sometimes it seems to have a meeting planned before you do.",
       "The good news is that the right haircut can help those curls work with you instead of negotiating terms every morning.",
       "From soft layered bobs to textured shags and chic pixie cuts, today's curly styles offer shape, movement, and plenty of natural bounce."
-    ],
-    "image": "/images/doc5_cover_collage.jpg"
+    ]
   },
   {
     "id": "beautiful-side-braid-hairstyles",
@@ -25695,8 +25606,7 @@ export const articles = [
       "From relaxed everyday plaits to detailed wedding-ready designs, there is plenty to try.",
       "These styles also work beautifully with highlights, balayage, and dimensional blonde or brunette tones.",
       "Get ready for braids that look impressive, even when your styling skills are running on coffee."
-    ],
-    "image": "/images/doc3_cover_collage.jpg"
+    ]
   },
   {
     "id": "amazing-bob-hairstyles-women-over-40",
@@ -25966,8 +25876,7 @@ export const articles = [
       "A great bob makes that search much easier.",
       "It brings shape, movement, and a polished finish without demanding an hour in front of the mirror every morning.",
       "Today's bob styles offer everything from sleek lines to soft layers, textured finishes, and natural-looking volume."
-    ],
-    "image": "/images/doc4_cover_collage.jpg"
+    ]
   },
   {
     "id": "hairstyles-women-over-50-with-bangs",
