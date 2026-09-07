@@ -10460,16 +10460,16 @@ export const articles = [
     "heroImage": "/images/doc_oblong_face_women_cover_pin.jpg",
     "description": "Explore 13+ Flattering Haircut for Oblong Face Women. Find flattering cuts, styling advice, and inspirational hair transformations.",
     "introParagraphs": [
-      "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape."
+      "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape."
     ],
     "items": [
       {
         "id": "item-1",
         "title": "1. Curly Shag",
         "image": "/images/doc_oblong_face_img_1.jpg",
-        "description": "A curly shag is a masterclass in texture and movement, making it an exceptional choice for oblong faces. This cut features choppy, shattered ends and layered angles throughout, which hold volume and create essential width \u3010turn0search0\u3011.",
+        "description": "A curly shag is a masterclass in texture and movement, making it an exceptional choice for oblong faces. This cut features choppy, shattered ends and layered angles throughout, which hold volume and create essential width.",
         "paragraphs": [
-          "A curly shag is a masterclass in texture and movement, making it an exceptional choice for oblong faces. This cut features choppy, shattered ends and layered angles throughout, which hold volume and create essential width \u3010turn0search0\u3011.",
+          "A curly shag is a masterclass in texture and movement, making it an exceptional choice for oblong faces. This cut features choppy, shattered ends and layered angles throughout, which hold volume and create essential width.",
           "The inherent texture and piece-y layers prevent the hair from lying flat, directly countering the vertical line of a long face. By adding fullness at the sides and a sense of expansiveness, the curly shag shifts the visual focus, making the face appear more balanced and oval. It\u2019s a stylish, low-effort cut that works beautifully with natural curls or waves."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10478,9 +10478,9 @@ export const articles = [
         "id": "item-2",
         "title": "2. Center-Parted Ponytail",
         "image": "/images/doc_oblong_face_img_2.jpg",
-        "description": "A sleek, center-parted ponytail positioned low on the head is a surprisingly effective style for oblong faces. The key is in the placement: positioning the ponytail at the center or lower part of the head avoids adding unwanted height at the crown, which would elongate the face further \u3010turn0search0\u3011.",
+        "description": "A sleek, center-parted ponytail positioned low on the head is a surprisingly effective style for oblong faces. The key is in the placement: positioning the ponytail at the center or lower part of the head avoids adding unwanted height at the crown, which would elongate the face further.",
         "paragraphs": [
-          "A sleek, center-parted ponytail positioned low on the head is a surprisingly effective style for oblong faces. The key is in the placement: positioning the ponytail at the center or lower part of the head avoids adding unwanted height at the crown, which would elongate the face further \u3010turn0search0\u3011.",
+          "A sleek, center-parted ponytail positioned low on the head is a surprisingly effective style for oblong faces. The key is in the placement: positioning the ponytail at the center or lower part of the head avoids adding unwanted height at the crown, which would elongate the face further.",
           "Exposing the ears by pulling the hair back creates the illusion of greater facial width. This simple, polished updo uses the structure of the hair to frame the face and add horizontal lines, achieving a balanced look with minimal effort."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10489,9 +10489,9 @@ export const articles = [
         "id": "item-3",
         "title": "3. Piecy Pixie",
         "image": "/images/doc_oblong_face_img_3.jpg",
-        "description": "A textured, piecy pixie cut proves that short hair can be incredibly flattering for oblong faces. This style incorporates soft, brow-skimming bangs\u00a0to shorten the appearance of the forehead and rounded, layered structure to add width at the temples \u3010turn0search0\u3011.",
+        "description": "A textured, piecy pixie cut proves that short hair can be incredibly flattering for oblong faces. This style incorporates soft, brow-skimming bangs\u00a0to shorten the appearance of the forehead and rounded, layered structure to add width at the temples.",
         "paragraphs": [
-          "A textured, piecy pixie cut proves that short hair can be incredibly flattering for oblong faces. This style incorporates soft, brow-skimming bangs\u00a0to shorten the appearance of the forehead and rounded, layered structure to add width at the temples \u3010turn0search0\u3011.",
+          "A textured, piecy pixie cut proves that short hair can be incredibly flattering for oblong faces. This style incorporates soft, brow-skimming bangs\u00a0to shorten the appearance of the forehead and rounded, layered structure to add width at the temples.",
           "The slightly longer length at the top can be styled for volume, while the trimmed sides and back expose the ears, contributing to the illusion of a wider face. It\u2019s a bold, chic cut that uses strategic layering and fringe to create perfect proportions."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10500,9 +10500,9 @@ export const articles = [
         "id": "item-4",
         "title": "4. Curtain Bangs",
         "image": "/images/doc_oblong_face_img_4.jpg",
-        "description": "Curtain bangs are a universally flattering choice, but they are particularly strategic for oblong face shapes. These face-framing, parted bangs gracefully sweep outward, shortening the visual length of the forehead and drawing attention outward to the cheekbones \u3010turn0search0\u3011\u3010turn0search10\u3011.",
+        "description": "Curtain bangs are a universally flattering choice, but they are particularly strategic for oblong face shapes. These face-framing, parted bangs gracefully sweep outward, shortening the visual length of the forehead and drawing attention outward to the cheekbones.",
         "paragraphs": [
-          "Curtain bangs are a universally flattering choice, but they are particularly strategic for oblong face shapes. These face-framing, parted bangs gracefully sweep outward, shortening the visual length of the forehead and drawing attention outward to the cheekbones \u3010turn0search0\u3011\u3010turn0search10\u3011.",
+          "Curtain bangs are a universally flattering choice, but they are particularly strategic for oblong face shapes. These face-framing, parted bangs gracefully sweep outward, shortening the visual length of the forehead and drawing attention outward to the cheekbones.",
           "This creates the necessary horizontal line that balances the face\u2019s verticality. Whether paired with long layers, a lob, or a bob, curtain bangs add a soft, sophisticated touch that inherently creates a more oval appearance."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10511,9 +10511,9 @@ export const articles = [
         "id": "item-5",
         "title": "5. Blunt Bangs",
         "image": "/images/doc_oblong_face_img_5.jpg",
-        "description": "Blunt, brow-grazing bangs\u00a0offer a striking way to balance an oblong face. By creating a strong horizontal line across the forehead, they immediately break up the face\u2019s length and shift the focus to the eyes and cheekbones \u3010turn0search0\u3011.",
+        "description": "Blunt, brow-grazing bangs\u00a0offer a striking way to balance an oblong face. By creating a strong horizontal line across the forehead, they immediately break up the face\u2019s length and shift the focus to the eyes and cheekbones.",
         "paragraphs": [
-          "Blunt, brow-grazing bangs\u00a0offer a striking way to balance an oblong face. By creating a strong horizontal line across the forehead, they immediately break up the face\u2019s length and shift the focus to the eyes and cheekbones \u3010turn0search0\u3011.",
+          "Blunt, brow-grazing bangs\u00a0offer a striking way to balance an oblong face. By creating a strong horizontal line across the forehead, they immediately break up the face\u2019s length and shift the focus to the eyes and cheekbones.",
           "A slight, piece-y part in the bangs can prevent them from looking too severe, allowing a bit of forehead to show and avoiding a crowded effect. This bold cut is a timeless and effective tool for creating visual width and harmony."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10522,9 +10522,9 @@ export const articles = [
         "id": "item-6",
         "title": "6. Curly Ponytail",
         "image": "/images/doc_oblong_face_img_6.jpg",
-        "description": "A curly ponytail leverages the natural volume and width of curls to balance an oblong face. Unlike sleek, pulled-back styles that can elongate, a curly ponytail, especially when worn low, adds significant structure and fullness at the sides \u3010turn0search0\u3011.",
+        "description": "A curly ponytail leverages the natural volume and width of curls to balance an oblong face. Unlike sleek, pulled-back styles that can elongate, a curly ponytail, especially when worn low, adds significant structure and fullness at the sides.",
         "paragraphs": [
-          "A curly ponytail leverages the natural volume and width of curls to balance an oblong face. Unlike sleek, pulled-back styles that can elongate, a curly ponytail, especially when worn low, adds significant structure and fullness at the sides \u3010turn0search0\u3011.",
+          "A curly ponytail leverages the natural volume and width of curls to balance an oblong face. Unlike sleek, pulled-back styles that can elongate, a curly ponytail, especially when worn low, adds significant structure and fullness at the sides.",
           "The curls themselves become a design element that expands the visual width of the head. This style combines the practicality of an updo with the flattering benefits of texture, making it a perfect choice for casual or dressed-up occasions."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10533,9 +10533,9 @@ export const articles = [
         "id": "item-7",
         "title": "7. Perfectly Messy Bun",
         "image": "/images/doc_oblong_face_img_7.jpg",
-        "description": "A perfectly messy bun, when styled correctly, can be a go-to flattering option for oblong faces. The secret lies in the face-framing pieces: allowing soft tendrils or layers to fall around the chin and jawline adds crucial horizontal lines \u3010turn0search0\u3011.",
+        "description": "A perfectly messy bun, when styled correctly, can be a go-to flattering option for oblong faces. The secret lies in the face-framing pieces: allowing soft tendrils or layers to fall around the chin and jawline adds crucial horizontal lines.",
         "paragraphs": [
-          "A perfectly messy bun, when styled correctly, can be a go-to flattering option for oblong faces. The secret lies in the face-framing pieces: allowing soft tendrils or layers to fall around the chin and jawline adds crucial horizontal lines \u3010turn0search0\u3011.",
+          "A perfectly messy bun, when styled correctly, can be a go-to flattering option for oblong faces. The secret lies in the face-framing pieces: allowing soft tendrils or layers to fall around the chin and jawline adds crucial horizontal lines.",
           "This breaks up the vertical stretch of the face and adds softness. The bun itself should be positioned low to avoid adding height, while the relaxed, textured aesthetic contributes to the overall sense of width and balance."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10544,10 +10544,10 @@ export const articles = [
         "id": "item-8",
         "title": "8. Angled Bob",
         "image": "/images/doc_oblong_face_img_8.jpg",
-        "description": "The angled bob is a powerhouse haircut for oblong faces, as it strategically uses angles and often bangs to create width. The longer front pieces graze the jawline, while the back is cut shorter, creating a rounded shape that adds fullness at the chin \u3010turn0search0\u3011.",
+        "description": "The angled bob is a powerhouse haircut for oblong faces, as it strategically uses angles and often bangs to create width. The longer front pieces graze the jawline, while the back is cut shorter, creating a rounded shape that adds fullness at the chin.",
         "paragraphs": [
-          "The angled bob is a powerhouse haircut for oblong faces, as it strategically uses angles and often bangs to create width. The longer front pieces graze the jawline, while the back is cut shorter, creating a rounded shape that adds fullness at the chin \u3010turn0search0\u3011.",
-          "When paired with bangs\u2014whether blunt, side-swept, or curtain\u2014the angle of the fringe helps to further round out the face and shorten the forehead \u3010turn0search0\u3011. This cut is versatile, sophisticated, and inherently balancing."
+          "The angled bob is a powerhouse haircut for oblong faces, as it strategically uses angles and often bangs to create width. The longer front pieces graze the jawline, while the back is cut shorter, creating a rounded shape that adds fullness at the chin.",
+          "When paired with bangs\u2014whether blunt, side-swept, or curtain\u2014the angle of the fringe helps to further round out the face and shorten the forehead. This cut is versatile, sophisticated, and inherently balancing."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       },
@@ -10555,9 +10555,9 @@ export const articles = [
         "id": "item-9",
         "title": "9. French Bob",
         "image": "/images/doc_oblong_face_img_9.jpg",
-        "description": "The French bob, characterized by its earlobe-grazing length and rounded silhouette, is a chic solution for oblong faces. Even without bangs, the cut\u2019s rounded structure creates the illusion of a rounder, wider face \u3010turn0search0\u3011.",
+        "description": "The French bob, characterized by its earlobe-grazing length and rounded silhouette, is a chic solution for oblong faces. Even without bangs, the cut\u2019s rounded structure creates the illusion of a rounder, wider face.",
         "paragraphs": [
-          "The French bob, characterized by its earlobe-grazing length and rounded silhouette, is a chic solution for oblong faces. Even without bangs, the cut\u2019s rounded structure creates the illusion of a rounder, wider face \u3010turn0search0\u3011.",
+          "The French bob, characterized by its earlobe-grazing length and rounded silhouette, is a chic solution for oblong faces. Even without bangs, the cut\u2019s rounded structure creates the illusion of a rounder, wider face.",
           "Its precise, chin-hugging shape adds horizontal emphasis right where an oblong face needs it most. This style is a masterclass in using cut alone, rather than styling, to achieve balance, resulting in a look that is both elegant and face-framing."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10566,9 +10566,9 @@ export const articles = [
         "id": "item-10",
         "title": "10. Sculpted Curls With Side Part",
         "image": "/images/doc_oblong_face_img_10.jpg",
-        "description": "Sculpted, defined curls paired with a deep side part offer glamorous balance for an oblong face shape. The side part immediately creates asymmetry, which breaks up the face\u2019s vertical symmetry and adds width on one side \u3010turn0search0\u3011.",
+        "description": "Sculpted, defined curls paired with a deep side part offer glamorous balance for an oblong face shape. The side part immediately creates asymmetry, which breaks up the face\u2019s vertical symmetry and adds width on one side.",
         "paragraphs": [
-          "Sculpted, defined curls paired with a deep side part offer glamorous balance for an oblong face shape. The side part immediately creates asymmetry, which breaks up the face\u2019s vertical symmetry and adds width on one side \u3010turn0search0\u3011.",
+          "Sculpted, defined curls paired with a deep side part offer glamorous balance for an oblong face shape. The side part immediately creates asymmetry, which breaks up the face\u2019s vertical symmetry and adds width on one side.",
           "The curls themselves, when structured and voluminous, add significant fullness at the sides. This combination is particularly striking for formal events, as it uses both the cut and styling direction to achieve a harmonious, oval-like proportion."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10577,9 +10577,9 @@ export const articles = [
         "id": "item-11",
         "title": "11. Layered Bob",
         "image": "/images/doc_oblong_face_img_11.jpg",
-        "description": "A layered bob is a highly recommended style for oblong faces because the layers add essential movement and volume. Subtly layered bobs with angles or bangs are specifically noted as a great choice for longer face shapes \u3010turn0search16\u3011\u3010turn0search17\u3011.",
+        "description": "A layered bob is a highly recommended style for oblong faces because the layers add essential movement and volume. Subtly layered bobs with angles or bangs are specifically noted as a great choice for longer face shapes.",
         "paragraphs": [
-          "A layered bob is a highly recommended style for oblong faces because the layers add essential movement and volume. Subtly layered bobs with angles or bangs are specifically noted as a great choice for longer face shapes \u3010turn0search16\u3011\u3010turn0search17\u3011.",
+          "A layered bob is a highly recommended style for oblong faces because the layers add essential movement and volume. Subtly layered bobs with angles or bangs are specifically noted as a great choice for longer face shapes.",
           "The layers prevent the bob from hanging flat, instead creating width and texture that balance the face\u2019s length. Whether worn sleek with defined layers or tousled for a beachy vibe, this cut is adaptable and consistently flattering."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10588,9 +10588,9 @@ export const articles = [
         "id": "item-12",
         "title": "12. Side-Swept Bob",
         "image": "/images/doc_oblong_face_img_12.jpg",
-        "description": "A side-swept bob is a variation that uses diagonal lines to flatter an oblong face. By parting the hair deeply to one side and sweeping the longer front layers across the forehead, you create a strong horizontal and diagonal line that counteracts vertical length \u3010turn0search22\u3011.",
+        "description": "A side-swept bob is a variation that uses diagonal lines to flatter an oblong face. By parting the hair deeply to one side and sweeping the longer front layers across the forehead, you create a strong horizontal and diagonal line that counteracts vertical length.",
         "paragraphs": [
-          "A side-swept bob is a variation that uses diagonal lines to flatter an oblong face. By parting the hair deeply to one side and sweeping the longer front layers across the forehead, you create a strong horizontal and diagonal line that counteracts vertical length \u3010turn0search22\u3011.",
+          "A side-swept bob is a variation that uses diagonal lines to flatter an oblong face. By parting the hair deeply to one side and sweeping the longer front layers across the forehead, you create a strong horizontal and diagonal line that counteracts vertical length.",
           "This asymmetry adds width and visual interest, while the bob length maintains focus on the jawline and cheekbones. It\u2019s a dynamic and modern take on the classic bob."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10599,9 +10599,9 @@ export const articles = [
         "id": "item-13",
         "title": "13. Long Layers",
         "image": "/images/doc_oblong_face_img_13.jpg",
-        "description": "Long layers are a fundamental and versatile choice for oblong faces with longer hair. The key is to ensure the layers are cut to start below the chin or at the collarbone, which adds volume and movement at the sides without creating height at the crown \u3010turn0search4\u3011.",
+        "description": "Long layers are a fundamental and versatile choice for oblong faces with longer hair. The key is to ensure the layers are cut to start below the chin or at the collarbone, which adds volume and movement at the sides without creating height at the crown.",
         "paragraphs": [
-          "Long layers are a fundamental and versatile choice for oblong faces with longer hair. The key is to ensure the layers are cut to start below the chin or at the collarbone, which adds volume and movement at the sides without creating height at the crown \u3010turn0search4\u3011.",
+          "Long layers are a fundamental and versatile choice for oblong faces with longer hair. The key is to ensure the layers are cut to start below the chin or at the collarbone, which adds volume and movement at the sides without creating height at the crown.",
           "Face-framing layers that cascade forward also help to shorten the forehead and draw the eye outward. This cut provides the foundation for numerous styles, from beachy waves to straight and sleek, all while maintaining balance."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10610,9 +10610,9 @@ export const articles = [
         "id": "item-14",
         "title": "14. Shoulder-Length Waves",
         "image": "/images/doc_oblong_face_img_14.jpg",
-        "description": "Shoulder-length hair styled into loose, tousled waves is effortlessly flattering for oblong faces. The waves themselves add crucial texture and width, breaking up the length of straight hair \u3010turn0search3\u3011\u3010turn0search4\u3011.",
+        "description": "Shoulder-length hair styled into loose, tousled waves is effortlessly flattering for oblong faces. The waves themselves add crucial texture and width, breaking up the length of straight hair.",
         "paragraphs": [
-          "Shoulder-length hair styled into loose, tousled waves is effortlessly flattering for oblong faces. The waves themselves add crucial texture and width, breaking up the length of straight hair \u3010turn0search3\u3011\u3010turn0search4\u3011.",
+          "Shoulder-length hair styled into loose, tousled waves is effortlessly flattering for oblong faces. The waves themselves add crucial texture and width, breaking up the length of straight hair.",
           "When combined with a center part and face-framing layers, this style creates a soft, horizontal frame around the face. The shoulder-skimming length is also ideal, as it adds fullness at the perfect point to balance the jawline."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10624,7 +10624,7 @@ export const articles = [
         "description": "A full, straight fringe (or bangs) is a bold and effective tool for oblong faces.",
         "paragraphs": [
           "A full, straight fringe (or bangs) is a bold and effective tool for oblong faces.",
-          "Similar to blunt bangs, it creates a definitive horizontal line across the forehead, visually shortening the face and shifting focus to the lower features \u3010turn0search4\u3011\u3010turn0search11\u3011. For the most flattering effect, the fringe should be cut to sit just at or below the brow, and it can be paired with various lengths, from a pixie to long layers, to achieve balance."
+          "Similar to blunt bangs, it creates a definitive horizontal line across the forehead, visually shortening the face and shifting focus to the lower features. For the most flattering effect, the fringe should be cut to sit just at or below the brow, and it can be paired with various lengths, from a pixie to long layers, to achieve balance."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
       },
@@ -10632,9 +10632,9 @@ export const articles = [
         "id": "item-16",
         "title": "16. Textured Crop",
         "image": "/images/doc_oblong_face_img_16.jpg",
-        "description": "A textured crop is a short, layered style that adds significant volume and width at the top and sides, making it excellent for oblong faces. The choppy, piece-y layers create texture and movement, which expand the face\u2019s appearance \u3010turn0search8\u3011.",
+        "description": "A textured crop is a short, layered style that adds significant volume and width at the top and sides, making it excellent for oblong faces. The choppy, piece-y layers create texture and movement, which expand the face\u2019s appearance.",
         "paragraphs": [
-          "A textured crop is a short, layered style that adds significant volume and width at the top and sides, making it excellent for oblong faces. The choppy, piece-y layers create texture and movement, which expand the face\u2019s appearance \u3010turn0search8\u3011.",
+          "A textured crop is a short, layered style that adds significant volume and width at the top and sides, making it excellent for oblong faces. The choppy, piece-y layers create texture and movement, which expand the face\u2019s appearance.",
           "This cut often includes a bit of length on top that can be styled for height in a controlled manner, paired with closely cropped sides. The overall effect is a modern, edgy look that perfectly balances facial proportions."
         ],
         "whyWeLoveIt": "Flatters features and balances style seamlessly for modern elegance."
@@ -10661,7 +10661,7 @@ export const articles = [
         "content": "Selecting a 13+ flattering haircut for oblong face women is all about harmony and confidence. Pay attention to how length and layering interact with your features."
       }
     ],
-    "intro": "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths \u3010turn0search0\u3011. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness \u3010turn0search0\u3011\u3010turn0search10\u3011. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape."
+    "intro": "Oblong face shapes are beautifully characterized by a length that is noticeably longer than their width, with the forehead, cheekbones, and jawline maintaining similar, narrow widths. The key to a flattering haircut is creating the illusion of width to balance this vertical proportion. This is achieved through strategic layers, bangs, texture, and volume, which break up the length and add horizontal fullness. The right cut can transform your look, enhancing your natural bone structure and creating a harmonious, oval-like balance. Whether you prefer short, medium, or long hair, there are numerous stylish options designed specifically to complement your oblong face shape."
   },
   {
     "id": "hairstyles-for-women-with-glasses-over-60-to-save",
