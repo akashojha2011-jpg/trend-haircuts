@@ -28462,8 +28462,8 @@ export const articles = [
     ]
   },
   {
-    "id": "stunning-blue-black-hair-colors-to-copy",
-    "slug": "stunning-blue-black-hair-colors-to-copy",
+    "id": "blue-black-hair-colors",
+    "slug": "blue-black-hair-colors",
     "title": "12+ Stunning Blue Black Hair Colors You’ll Want to Copy",
     "category": "Black Hair Color",
     "categorySlug": "black-hair-color",
@@ -28701,8 +28701,8 @@ export const articles = [
     ]
   },
   {
-    "id": "trendy-soft-black-hair-colors-worth-saving",
-    "slug": "trendy-soft-black-hair-colors-worth-saving",
+    "id": "soft-black-hair-colors",
+    "slug": "soft-black-hair-colors",
     "title": "13+ Trendy Soft Black Hair Colors Worth Saving",
     "category": "Black Hair Color",
     "categorySlug": "black-hair-color",
@@ -28929,8 +28929,8 @@ export const articles = [
     ]
   },
   {
-    "id": "winter-blue-black-hair-colors",
-    "slug": "winter-blue-black-hair-colors",
+    "id": "winter-blue-black-hair",
+    "slug": "winter-blue-black-hair",
     "title": "16+ Winter Blue Black Hair Colors You’ll Want to Try",
     "category": "Black Hair Color",
     "categorySlug": "black-hair-color",
@@ -29190,8 +29190,8 @@ export const articles = [
     ]
   },
   {
-    "id": "beautiful-blue-black-hair-colors-that-turn-heads",
-    "slug": "beautiful-blue-black-hair-colors-that-turn-heads",
+    "id": "blue-black-hair-ideas",
+    "slug": "blue-black-hair-ideas",
     "title": "12+ Beautiful Blue Black Hair Colors That Turn Heads",
     "category": "Black Hair Color",
     "categorySlug": "black-hair-color",
@@ -29396,8 +29396,8 @@ export const articles = [
     ]
   },
   {
-    "id": "jet-black-hair-colors-to-be-obsessed-with",
-    "slug": "jet-black-hair-colors-to-be-obsessed-with",
+    "id": "jet-black-hair-colors",
+    "slug": "jet-black-hair-colors",
     "title": "17+ Jet Black Hair Colors You’ll Be Obsessed With",
     "category": "Black Hair Color",
     "categorySlug": "black-hair-color",
@@ -29646,8 +29646,8 @@ export const articles = [
     ]
   },
   {
-    "id": "natural-black-hair-color-ideas-to-save",
-    "slug": "natural-black-hair-color-ideas-to-save",
+    "id": "natural-black-hair-ideas",
+    "slug": "natural-black-hair-ideas",
     "title": "15+ Natural Black Hair Color Ideas You’ll Want to Save",
     "category": "Black Hair Color",
     "categorySlug": "black-hair-color",
