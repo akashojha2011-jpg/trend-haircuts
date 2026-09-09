@@ -32904,5 +32904,1741 @@ export const articles = [
         "stylingTip": "Apply a hydrating color-safe oil and heat protectant spray before styling."
       }
     ]
+  },
+  {
+    "id": "coquette-bow-bun-hairstyles",
+    "slug": "coquette-bow-bun-hairstyles",
+    "title": "17+ Coquette Bow Bun Hairstyles That Make a Pretty Statement",
+    "docId": "doc140",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc140_img_1.jpg",
+    "heroImage": "/images/doc140_img_1.jpg",
+    "excerpt": "The coquette aesthetic has taken the beauty world by storm, blending vintage femininity with a playful, ballet-inspired charm",
+    "description": "The coquette aesthetic has taken the beauty world by storm, blending vintage femininity with a playful, ballet-inspired charm\n\nthat feels both nostalgic and modern. At the heart of this trend is thecoquette bow bun\n\nhairstyle, a versatile look that transforms a simple updo into a sophisticated fashion statement.\n\nWhether you are heading to a morning brunch, a formal wedding, or just want to romanticize your daily routine, incorporating ribbons and bows into your bun adds an\n\nundeniable touch of grace. This guide explores the most popular variations of the style, from\n\nmessy textures to sleek finishes, ensuring there is a perfect bow-adorned look for every hair type and occasion in\n\n2026. The high messy bun\n\nis a staple for those who want an effortless yet put-together look that screams \u201coff-duty ballerina.\u201d To achieve this, gather your hair at the crown\n\nand secure it loosely, allowing a few tendrils to frame your face for a soft, romantic effect. The magic happens when\n\nyou wrap a long satin or silk ribbon\n\naround the base of the bun, tying it into a voluminous bow with trailing ends. This adds a pop of color and texture to an\n\notherwise casual hairstyle. It works beautifully with second-day hair, as the added natural oils provide the grip needed to keep the bun\n\nin place throughout the day.\n\nFor a more polished and sophisticated vibe, thesleek low bunpaired with a silk bow is an unmatched choice.\n\nThis style involves brushing the hair back into a tight, smooth knot at the nape of the neck, often using a light pomade to eliminate flyaways.\n\nA structured, oversized silk bow clipped directly onto the top of the bun creates a focal point that exudes \u201cold money\u201d elegance.\n\nThis look is particularly popular for formal events or professional settings where you want to show personality without sacrificing neatness. The contrast between\n\nthe sharp, clean hair and the soft, flowing fabric of the bow creates a stunning visual balance.\n\nThe half-up bun is the ultimate \u201cbest of both worlds\u201d hairstyle, allowing you to show off your length while keeping hair out of your face.\n\nTo give it the coquette treatment, create a small top knot with the upper section of your hair and adorn\n\nit with multiple tiny velvet bows. Spacing three or four miniature bows around the base of the bun\n\nor even clipping them\n\nsporadically through the loose waves below adds a whimsical, doll-like charm. This variation\n\nis incredibly popular on social media because it photographs beautifully and works well for those with shorter hair or layers that might not fit into a full updo.\n\nSpace buns offer a playful and youthful energy that perfectly aligns with the coquette aesthetic\u2019s flirtatious roots. By splitting the hair down\n\nthe center and creating two high buns, you create a symmetrical look that frames the head beautifully. Enhancing these buns with matching ribbons\u2014tied either around the base or woven\n\ninto the hair before twisting\u2014elevates the style from \u201cfestival chic\u201d to \u201ccoquette dream.\u201d For a more modern\n\n2026 twist, keep the buns slightly undone and use lace ribbons to add a vintage, delicate feel. This style is a favorite for those with thick hair, as it distributes the weight of the hair more comfortably.\n\nCombining the intricate detail of braids with the classic bun results in\n\na textured masterpiece that feels deeply romantic. Start by creating a French or Dutch braid starting from\n\nthe hairline and leading back into a low or mid-height bun. Once the bun\n\nis secured, place a single, heavy velvet bow at the starting point of the bun to hide the elastic.\n\nThe velvet material adds a luxurious weight to the look, making it ideal for cooler months or evening occasions. The braid adds structural interest, while the bow provides that signature feminine finishing touch that defines the entire coquette movement across current fashion\n\ntrends. Theclassic ballerina bunis the foundation\n\nof the entire coquette movement, emphasizing discipline, grace, and clean lines.\n\nTo master this, use a hair donut or padding to create a perfectly round, full-bodied bun at the center-back of the head.\n\nInstead of just a clip-on bow, take a long piece of ribbon\n\nand wrap it multiple times around the base of the bun before tying a neat, symmetrical bow at the bottom.\n\nThis \u201cwrapped\u201d technique ensures the ribbon stays secure and adds a rhythmic detail to the updo.\n\nIt is a timeless look that pairs exceptionally well with square-neck tops and delicate pearl jewelry for a complete aesthetic. Lace is a core fabric in\n\nthe coquette wardrobe, and bringing it into your hair creates a soft, ethereal appearance. A messy low bun\n\nat the nape of the neck provides a relaxed canvas for a delicate lace bow. Unlike satin, lace has a sheer quality that blends beautifully with the hair\u2019s natural highlights and shadows.\n\nThis style is perfect for those who prefer a \u201ccottagecore\u201d influence within their coquette styling.\n\nPulling out small pieces of hair around the ears and curling them slightly enhances the \u201cundone\u201d beauty of this look, making it appear as though you stepped out of a classic Victorian\n\nnovel. Those with natural curls or tight coils can\n\nrock the coquette look by embracing their natural volume. A high, curly \u201cpineapple\u201d style bun\n\nallows the texture to take center stage, while a bow embellished with small pearls adds a touch of luxury. The pearls catch the light and provide a beautiful contrast against dark or textured hair.\n\nWhen styling a curly bun, avoid over-brushing to maintain\n\nthe integrity of the curl pattern. Simply gather the curls loosely and secure them\n\nwith a large, sturdy bow clip. This creates a high-impact, feminine silhouette that celebrates natural hair while staying perfectly on-trend with the coquette vibe.\n\nThe twisted bun offers a modern\n\nalternative to the traditional round bun, featuring two or more sections of hair intertwined before being pinned. For a unique coquette twist, incorporatea thin\n\nribboninto one of the sections of hair before you begin twisting.\n\nThis results in the ribbon\n\n\u201cpeeking\u201d through the hair, creating a candy-cane effect that is visually striking and intricate. Finish the look by tying the remaining ends of the ribbon\n\ninto a small bow at the side of the bun. This technique works best on\n\nlong hair and creates a secure hold that is less likely to slip during a long day of wear. If you want to make a bold fashion\n\nstatement, the oversized tulle bow is the way to go. Tulle provides incredible volume without the weight, allowing for a massive, cloud-like bow that sits proudly behind a high top knot.\n\nThis look is very much inspired by runway fashion and editorial styling, making it a \u201cmain\n\ncharacter\u201d hairstyle. Because the bow is so large, keep the top knot itself relatively simple and smooth.\n\nThis style is particularly effective for those with fine hair, as the massive accessory creates the illusion of more hair and a more dramatic overall silhouette for photos and special events.\n\nThe French twist is the epitome of classic French girl style, and it serves as a wonderful base for coquette accessories. Sweep the hair to one side and roll it inward, securing it with pins to create a vertical \u201cseam.\u201d Instead of leaving it plain, place a small, dainty bow at the very top or bottom\n\nof the twist. This subtle addition\n\nbreaks up the formal lines of the twist and adds a youthful, flirty element. This hairstyle is perfect for those who want a coquette look that feels a bit more \u201cgrown-up\u201d and sophisticated, making it a go-to for dinner dates or gallery openings.\n\nSometimes the bow doesn\u2019t have to be on the bun\n\nitself to achieve the coquette look. Using a long ribbon\n\nas a headband, tied in a bow at the crown\n\nor the nape of the neck, adds a frame to your face while your hair is pulled back into a loose, low bun. This creates a cohesive look that connects the front of the style to the back.\n\nIt is a great way to incorporate the bow trend if you have layers that are too short to be secured by a clip. The ribbon\n\nheadband also helps keep flyaways in check, making it a practical choice for windy days or outdoor activities.\n\nThe bubble bun is a creative variation\n\nwhere the hair is secured in sections to create \u201cbubbles\u201d of volume before being tucked into a bun\n\nshape. To make this coquette-friendly, tie a small satin\n\nribbon at each \u201cbubble\u201d section.\n\nThe repeated bows create a rhythmic, decorative effect that is very popular in 2026 street style.\n\nThis look is highly customizable, as you can use different colors of ribbon\n\nto match your outfit or stick to classic white and pink for a traditional aesthetic. It is a high-texture look that works exceptionally well on\n\nstraight or blown-out hair, providing a lot of visual interest. Asymmetrical hairstyles have a unique way of drawing attention\n\nto the neckline and shoulders. A low side bun, tucked just behind the ear, is a romantic choice that feels soft and approachable.\n\nAdding a long velvet ribbon that drapes over the shoulder alongside the bun\n\nadds a sense of movement to the hairstyle. This look is particularly flattering for those with heart-shaped or oval faces, as it creates a beautiful balance.\n\nThe velvet material ensures the ribbon stays in\n\nplace on the shoulder, and the side placement allows the bow to be seen\n\nclearly in both front-facing and profile photos.\n\nCombining the coquette love for bows with a floral touch creates a \u201cgarden-party\u201d aesthetic that is perfect for spring and summer. Aclassic chignon\u2014a smooth, horizontal bun\n\nat the nape\u2014can be decorated with a bow that features a small silk flower at its center.\n\nThis hybrid accessory brings together two of the biggest trends in feminine styling.\n\nThis look is a favorite for bridesmaids or graduation ceremonies, as it feels celebratory and refined.\n\nChoosing a ribbon color that matches the petals of the flower creates a harmonious, expertly styled appearance that looks much more complicated than\n\nit actually is to achieve. Taking a cue from\n\nY2K trends, the spiky bun involves leaving the ends of the hair poking out from\n\nthe bun for a sharp, edgy look.\n\nTo bring this into the coquette realm, add a sheer organza bow to the base. The contrast between\n\nthe \u201cspiky,\u201d modern ends and the soft, transparent bow creates a \u201cdark coquette\u201d or \u201crebellious coquette\u201d vibe.\n\nThis style is perfect for those who want to participate in the trend but prefer a look that isn\u2019t purely \u201csweet.\u201d Using a black or deep cherry-colored bow can\n\nfurther emphasize this edgy-meets-feminine aesthetic, making it a standout choice for night-out looks in 2026.\n\nFor the ultimate textured updo, a fishtail braided bun is a stunning choice.\n\nThe intricate weave of the fishtail braid already looks like a work of art, but adding a ribbon into the weave makes it even\n\nmore special. Once the braid is coiled into a bun, the ribbon\n\nappears in small, elegant flashes throughout the hair.\n\nSecure the look with a final bow at the center of the bun. While this style takes a bit more time and practice to master, the result is a high-end, boutique-quality hairstyle that is sure to garner compliments.\n\nIt is especially effective on highlighted hair, where the different tones can\n\nmingle with the ribbon. Why settle for one bun\n\nwhen you can\n\nhave three? Creating three small buns vertically stacked or horizontally aligned at the nape of the neck is a creative way to manage thick hair.\n\nAdding a small, identical bow to each bun creates a \u201cuniform\u201d look that is incredibly chic and organized.\n\nThis style feels very modern and is often\n\nseen on\n\nfashion influencers who want a look that is both architectural and feminine.\n\nBecause the buns are smaller, they tend to be more secure, making this an excellent choice for a long day of travel or an\n\nactive event where you still want to look aesthetic.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Messy Low Bun With Lace Bow",
+        "image": "/images/doc140_img_1.jpg",
+        "description": "Lace is a core fabric in the coquette wardrobe, and bringing it into your hair creates a soft, ethereal appearance.\n\nA messy low bun at the nape of the neck provides a relaxed canvas for a delicate lace bow.\n\nUnlike satin, lace has a sheer quality that blends beautifully with the hair\u2019s natural highlights and shadows. This style is perfect for those who prefer a \u201ccottagecore\u201d influence within\n\ntheir coquette styling. Pulling out small pieces of hair around the ears and curling them\n\nslightly enhances the \u201cundone\u201d beauty of this look, making it appear as though you stepped out of a classic Victorian novel.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for messy low bun with lace bow.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Fishtail Braided Bun With Ribbon",
+        "image": "/images/doc140_img_2.jpg",
+        "description": "For the ultimate textured updo, a fishtail braided bun is a stunning choice.\n\nThe intricate weave of the fishtail braid already looks like a work of art, but adding a ribbon into the weave makes it even\n\nmore special. Once the braid is coiled into a bun, the ribbon\n\nappears in small, elegant flashes throughout the hair.\n\nSecure the look with a final bow at the center of the bun. While this style takes a bit more time and practice to master, the result is a high-end, boutique-quality hairstyle that is sure to garner compliments.\n\nIt is especially effective on highlighted hair, where the different tones can\n\nmingle with the ribbon.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for fishtail braided bun with ribbon.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Bubble Bun With Satin Ribbons",
+        "image": "/images/doc140_img_3.jpg",
+        "description": "The bubble bun is a creative variation\n\nwhere the hair is secured in sections to create \u201cbubbles\u201d of volume before being tucked into a bun\n\nshape. To make this coquette-friendly, tie a small satin\n\nribbon at each \u201cbubble\u201d section.\n\nThe repeated bows create a rhythmic, decorative effect that is very popular in 2026 street style.\n\nThis look is highly customizable, as you can use different colors of ribbon\n\nto match your outfit or stick to classic white and pink for a traditional aesthetic. It is a high-texture look that works exceptionally well on\n\nstraight or blown-out hair, providing a lot of visual interest.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for bubble bun with satin ribbons.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Triple Bun Updo With Small Bows",
+        "image": "/images/doc140_img_4.jpg",
+        "description": "Why settle for one bun when\n\nyou can have three?\n\nCreating three small buns vertically stacked or horizontally aligned at the nape of the neck is a creative way to manage thick hair. Adding a small, identical bow to each bun\n\ncreates a \u201cuniform\u201d look that is incredibly chic and organized. This style feels very modern\n\nand is often seen\n\non fashion\n\ninfluencers who want a look that is both architectural and feminine. Because the buns are smaller, they tend to be more secure, making this an\n\nexcellent choice for a long day of travel or an active event where you still want to look aesthetic.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for triple bun updo with small bows.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Curly Bun With Pearl Bow",
+        "image": "/images/doc140_img_5.jpg",
+        "description": "Those with natural curls or tight coils can rock the coquette look by embracing their natural volume.\n\nA high, curly \u201cpineapple\u201d style bun allows the texture to take center stage, while a bow embellished with small pearls adds a touch of luxury.\n\nThe pearls catch the light and provide a beautiful contrast against dark or textured hair. When\n\nstyling a curly bun, avoid over-brushing to maintain the integrity of the curl pattern.\n\nSimply gather the curls loosely and secure them with a large, sturdy bow clip.\n\nThis creates a high-impact, feminine silhouette that celebrates natural hair while staying perfectly on-trend with the coquette vibe.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for curly bun with pearl bow.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Twisted Bun With Ribbon Weave",
+        "image": "/images/doc140_img_6.jpg",
+        "description": "The twisted bun offers a modern\n\nalternative to the traditional round bun, featuring two or more sections of hair intertwined before being pinned. For a unique coquette twist, incorporatea thin\n\nribboninto one of the sections of hair before you begin twisting.\n\nThis results in the ribbon\n\n\u201cpeeking\u201d through the hair, creating a candy-cane effect that is visually striking and intricate. Finish the look by tying the remaining ends of the ribbon\n\ninto a small bow at the side of the bun. This technique works best on\n\nlong hair and creates a secure hold that is less likely to slip during a long day of wear.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for twisted bun with ribbon weave.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Top Knot With Oversized Tulle Bow",
+        "image": "/images/doc140_img_7.jpg",
+        "description": "If you want to make a bold fashion statement, the oversized tulle bow is the way to go.\n\nTulle provides incredible volume without the weight, allowing for a massive, cloud-like bow that sits proudly behind a high top knot. This look is very much inspired by runway fashion\n\nand editorial styling, making it a \u201cmain character\u201d hairstyle.\n\nBecause the bow is so large, keep the top knot itself relatively simple and smooth. This style is particularly effective for those with fine hair, as the massive accessory creates the illusion\n\nof more hair and a more dramatic overall silhouette for photos and special events.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for top knot with oversized tulle bow.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Double Space Buns With Ribbons",
+        "image": "/images/doc140_img_8.jpg",
+        "description": "Space buns offer a playful and youthful energy that perfectly aligns with the coquette aesthetic\u2019s flirtatious roots. By splitting the hair down\n\nthe center and creating two high buns, you create a symmetrical look that frames the head beautifully. Enhancing these buns with matching ribbons\u2014tied either around the base or woven\n\ninto the hair before twisting\u2014elevates the style from \u201cfestival chic\u201d to \u201ccoquette dream.\u201d For a more modern\n\n2026 twist, keep the buns slightly undone and use lace ribbons to add a vintage, delicate feel. This style is a favorite for those with thick hair, as it distributes the weight of the hair more comfortably.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for double space buns with ribbons.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Braided Bun With Velvet Bow",
+        "image": "/images/doc140_img_9.jpg",
+        "description": "Combining the intricate detail of braids with the classic bun results in\n\na textured masterpiece that feels deeply romantic. Start by creating a French or Dutch braid starting from\n\nthe hairline and leading back into a low or mid-height bun. Once the bun\n\nis secured, place a single, heavy velvet bow at the starting point of the bun to hide the elastic.\n\nThe velvet material adds a luxurious weight to the look, making it ideal for cooler months or evening occasions. The braid adds structural interest, while the bow provides that signature feminine finishing touch that defines the entire coquette movement across current fashion\n\ntrends.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided bun with velvet bow.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Half Up Bun With Tiny Bows",
+        "image": "/images/doc140_img_10.jpg",
+        "description": "The half-up bun is the ultimate \u201cbest of both worlds\u201d hairstyle, allowing you to show off your length while keeping hair out of your face.\n\nTo give it the coquette treatment, create a small top knot with the upper section of your hair and adorn\n\nit with multiple tiny velvet bows. Spacing three or four miniature bows around the base of the bun\n\nor even clipping them\n\nsporadically through the loose waves below adds a whimsical, doll-like charm. This variation\n\nis incredibly popular on social media because it photographs beautifully and works well for those with shorter hair or layers that might not fit into a full updo.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for half up bun with tiny bows.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Sleek Low Bun With Silk Bow",
+        "image": "/images/doc140_img_11.jpg",
+        "description": "For a more polished and sophisticated vibe, thesleek low bunpaired with a silk bow is an unmatched choice.\n\nThis style involves brushing the hair back into a tight, smooth knot at the nape of the neck, often using a light pomade to eliminate flyaways.\n\nA structured, oversized silk bow clipped directly onto the top of the bun creates a focal point that exudes \u201cold money\u201d elegance.\n\nThis look is particularly popular for formal events or professional settings where you want to show personality without sacrificing neatness. The contrast between\n\nthe sharp, clean hair and the soft, flowing fabric of the bow creates a stunning visual balance.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek low bun with silk bow.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "High Messy Bun With Ribbon",
+        "image": "/images/doc140_img_12.jpg",
+        "description": "The high messy bun is a staple for those who want an\n\neffortless yet put-together look that screams \u201coff-duty ballerina.\u201d To achieve this, gather your hair at the crown and secure it loosely, allowing a few tendrils to frame your face for a soft, romantic effect.\n\nThe magic happens when you wrap a long satin\n\nor silk ribbon around the base of the bun, tying it into a voluminous bow with trailing ends.\n\nThis adds a pop of color and texture to an otherwise casual hairstyle.\n\nIt works beautifully with second-day hair, as the added natural oils provide the grip needed to keep the bun in\n\nplace throughout the day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for high messy bun with ribbon.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "French Twist Bun With Mini Bow",
+        "image": "/images/doc140_img_13.jpg",
+        "description": "The French twist is the epitome of classic French girl style, and it serves as a wonderful base for coquette accessories. Sweep the hair to one side and roll it inward, securing it with pins to create a vertical \u201cseam.\u201d Instead of leaving it plain, place a small, dainty bow at the very top or bottom\n\nof the twist. This subtle addition\n\nbreaks up the formal lines of the twist and adds a youthful, flirty element. This hairstyle is perfect for those who want a coquette look that feels a bit more \u201cgrown-up\u201d and sophisticated, making it a go-to for dinner dates or gallery openings.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for french twist bun with mini bow.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Ballerina Bun With Wrapped Ribbon",
+        "image": "/images/doc140_img_14.jpg",
+        "description": "Theclassic ballerina bunis the foundation of the entire coquette movement, emphasizing discipline, grace, and clean\n\nlines. To master this, use a hair donut or padding to create a perfectly round, full-bodied bun\n\nat the center-back of the head. Instead of just a clip-on\n\nbow, take a long piece of ribbon and wrap it multiple times around the base of the bun\n\nbefore tying a neat, symmetrical bow at the bottom. This \u201cwrapped\u201d technique ensures the ribbon\n\nstays secure and adds a rhythmic detail to the updo. It is a timeless look that pairs exceptionally well with square-neck tops and delicate pearl jewelry for a complete aesthetic.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for ballerina bun with wrapped ribbon.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Loose Bun With Ribbon Headband",
+        "image": "/images/doc140_img_15.jpg",
+        "description": "Sometimes the bow doesn\u2019t have to be on the bun\n\nitself to achieve the coquette look. Using a long ribbon\n\nas a headband, tied in a bow at the crown\n\nor the nape of the neck, adds a frame to your face while your hair is pulled back into a loose, low bun. This creates a cohesive look that connects the front of the style to the back.\n\nIt is a great way to incorporate the bow trend if you have layers that are too short to be secured by a clip. The ribbon\n\nheadband also helps keep flyaways in check, making it a practical choice for windy days or outdoor activities.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for loose bun with ribbon headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Chignon Bun With Flower Bow",
+        "image": "/images/doc140_img_16.jpg",
+        "description": "Combining the coquette love for bows with a floral touch creates a \u201cgarden-party\u201d aesthetic that is perfect for spring and summer. Aclassic chignon\u2014a smooth, horizontal bun\n\nat the nape\u2014can be decorated with a bow that features a small silk flower at its center.\n\nThis hybrid accessory brings together two of the biggest trends in feminine styling.\n\nThis look is a favorite for bridesmaids or graduation ceremonies, as it feels celebratory and refined.\n\nChoosing a ribbon color that matches the petals of the flower creates a harmonious, expertly styled appearance that looks much more complicated than\n\nit actually is to achieve.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for chignon bun with flower bow.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Spiky Bun With Sheer Bow",
+        "image": "/images/doc140_img_17.jpg",
+        "description": "Taking a cue from Y2K trends, the spiky bun\n\ninvolves leaving the ends of the hair poking out from the bun\n\nfor a sharp, edgy look. To bring this into the coquette realm, add a sheer organza bow to the base.\n\nThe contrast between the \u201cspiky,\u201d modern\n\nends and the soft, transparent bow creates a \u201cdark coquette\u201d or \u201crebellious coquette\u201d vibe. This style is perfect for those who want to participate in\n\nthe trend but prefer a look that isn\u2019t purely \u201csweet.\u201d Using a black or deep cherry-colored bow can further emphasize this edgy-meets-feminine aesthetic, making it a standout choice for night-out looks in\n\n2026.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for spiky bun with sheer bow.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "Side Bun With Velvet Ribbon",
+        "image": "/images/doc140_img_18.jpg",
+        "description": "Asymmetrical hairstyles have a unique way of drawing attention to the neckline and shoulders.\n\nA low side bun, tucked just behind the ear, is a romantic choice that feels soft and approachable. Adding a long velvet ribbon\n\nthat drapes over the shoulder alongside the bun adds a sense of movement to the hairstyle.\n\nThis look is particularly flattering for those with heart-shaped or oval faces, as it creates a beautiful balance. The velvet material ensures the ribbon\n\nstays in place on\n\nthe shoulder, and the side placement allows the bow to be seen clearly in\n\nboth front-facing and profile photos.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for side bun with velvet ribbon.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "headband-bun-hairstyles",
+    "slug": "headband-bun-hairstyles",
+    "title": "14+ Headband Bun Hairstyles for an Instantly Polished Look",
+    "docId": "doc141",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc141_img_1.jpg",
+    "heroImage": "/images/doc141_img_1.jpg",
+    "excerpt": "Finding the perfect balance between style and convenience can",
+    "description": "Finding the perfect balance between style and convenience can\n\nbe a challenge, but the headband bun hairstyle offers the ultimate solution\n\nfor any modern woman.\n\nThis versatile look combines the polished feel of a classic bun with the functional flair of a headband, making it ideal for everything from\n\nintense gym sessions to elegant formal events.\n\nWhether you are dealing with a bad hair day or simply want to elevate your casual aesthetic, integrating a headband into your updo adds instant texture and visual interest. By exploring different placements and accessory types, you can\n\ncustomize this hairstyle to suit your unique personality and hair type, ensuring you always look put together with minimal effort. When\n\nyou are heading to the gym or running errands, themessy bun\n\nwith athletic headbandis your best friend for a functional yet stylish look. This style prioritizes keeping hair out of your face while maintaining a relaxed, sporty vibe that works for all hair lengths.\n\nStart by pulling your hair into a high ponytail without worrying about perfection, then twist it into a loose knot and secure it with a sturdy elastic.\n\nSliding a wide moisture-wicking headband over your hairline not only catches sweat but also adds a pop of color to your workout gear. It is the perfect low-maintenance choice for active days when\n\nyou still want to feel confident and trendy. For a romantic and feminine touch, alow bunwith floral headband is an\n\nexquisite choice for weddings, brunches, or spring outings. This hairstyle focuses on\n\nsoftness and elegance, often featuring loose tendrils that frame the face beautifully while the rest of the hair is gathered at the nape.\n\nPosition a delicate floral headband or a flower crown\n\njust behind your ears before securing your hair into a sleek or slightly tousled chignon. The contrast between\n\nthe natural hair texture and the decorative floral elements creates a whimsical aesthetic that feels both timeless and fresh. It is an\n\neasy way to achieve a high-end look without spending hours in a salon\n\nchair. If you want to add height and a touch of vintage glamour to your look, thehigh bun\n\nwith padded headbandis a trending choice for 2026. The padded headband, often\n\ncovered in velvet or silk, acts as a bold statement piece that draws attention\n\nupward and provides a structured frame for the face. Sweep your hair into a voluminous top knot at the crown\n\nof your head, using a donut maker if extra thickness is needed for the bun itself.\n\nOnce the bun is secure, place the thick headband about two inches back from\n\nyour forehead to create a balanced silhouette. This sophisticated pairing is perfect for office wear or dinner dates where you want to project a polished image.\n\nThe braided bun with thin\n\nmetal headband offers a sophisticated twist on a classic updo, blending intricate texture with a minimalist accessory.\n\nBegin by braiding your hair into a standard or Dutch braid before wrapping it into a circular bun\n\nat the back of your head. A thin, metallic headband\u2014perhaps in\n\ngold or silver\u2014adds a subtle shimmer that elevates the hairstyle for evening events or formal gatherings. The metal band sits comfortably against the head, providing a sleek contrast to the detailed patterns of the braid.\n\nThis look is particularly effective for those with long hair who want to showcase their length in a controlled, elegant manner that stays secure all night.\n\nAchieving a professional and modern aesthetic is simple with a sleek bun\n\nwith knotted headband, which works exceptionally well for both straight and textured hair. This style starts with a smooth, middle-parted ponytail that is twisted into a tight, neat bun\n\nto create a clean canvas.\n\nThe addition of a fabric knotted headband provides a central focal point and hides any flyaways along the hairline, making it a great fix for second-day hair.\n\nChoose a headband in a neutral tone like navy, black, or beige to keep the look sophisticated for the workplace.\n\nThe knot detail adds just enough height to elongate the face, making this a flattering option for various facial shapes and styles.\n\nEmbrace a bohemian spirit by styling a loose bun\n\nwith scarf headband, a look that is as comfortable as it is chic for summer vacations or beach days. Using a silk or cotton\n\nscarf as a headband allows you to incorporate vibrant patterns and textures into your hair while keeping the overall feel relaxed. Gather your hair into a soft, undone bun\n\nand tie the scarf around your head, either knotting it at the top or the nape of the neck. The flowing ends of the scarf can\n\nbe tucked in or left out to add movement to the hairstyle.\n\nThis approach provides a playful, eclectic vibe that pairs perfectly with oversized sunglasses and breezy sundresses. For those who love a playful and youthful look, the double bun\n\nwith sparkly headband\u2014also known as space buns\u2014is a fun\n\nway to express your personality. Divide your hair into two equal sections and create two small buns on\n\neither side of the crown, then place a glittery or jeweled headband in\n\nfront of them. This combination\n\nis a favorite for music festivals or parties where a bit of extra shine is encouraged. The headband helps to anchor the look and prevents the buns from\n\nfeeling too \u201ccostume-like\u201d by adding a fashionable accessory element. It is a high-energy style that keeps your hair secure while ensuring you stand out in\n\nany crowd. A side bun\n\nwith embellished headband is the epitome of asymmetrical elegance, offering a unique profile that is perfect for formal photos or special occasions. By gathering your hair to one side and pinning it into a soft, textured bun\n\nbehind the ear, you create a sophisticated silhouette that highlights your neckline. An\n\nembellished headband featuring pearls, crystals, or intricate beadwork adds a touch of luxury and helps to balance the weight of the side-swept hair. This style is particularly flattering for those who prefer a side part and want to draw attention\n\nto their facial features. It is a red-carpet-ready look that feels intentional and expertly crafted with very little effort.\n\nThetop knot with bandana headbandis a classic \u201ccool girl\u201d staple that combines urban streetwear vibes with practical hair management.\n\nFold a colorful bandana into a narrow strip and tie it around your head, ensuring the knot is hidden or placed at the front for a retro feel.\n\nPull the rest of your hair into a messy top knot, allowing a few pieces to fall naturally around the ears for a lived-in look.\n\nThis style is excellent for protecting your hair from the elements or hiding roots between\n\ncolor appointments. The bandana adds a rugged, edgy texture that contrasts nicely with the softness of a bun, making it a go-to for casual weekend outings.\n\nWinter fashion often\n\ncalls for richer materials, and a textured bun with velvet headband is the perfect accessory-led hairstyle for the colder months.\n\nTo achieve this look, add some waves or curls to your hair before pinning it into a voluminous, textured bun to create depth.\n\nA wide velvet headband in a deep jewel tone like emerald, burgundy, or royal blue adds a luxurious finish and a cozy feel to your ensemble.\n\nThe velvet fabric has a natural grip that helps the headband stay in place throughout the day, even\n\nwith thicker hair types. This hairstyle bridges the gap between\n\ncasual and formal, making it a versatile choice for holiday gatherings or office parties. Pearls are a timeless symbol of class, and a twisted bun\n\nwith pearl headband brings that traditional beauty into a modern hair context.\n\nInstead of a standard wrap, twist sections of your hair around each other before securing them into a bun\n\nto create a rope-like effect. Placing a headband adorned with varied sizes of pearls over the hair adds a luminous, bridal-ready quality to the style.\n\nThis look works best with polished, shiny hair, so using a light serum before styling is recommended to enhance the pearl\u2019s natural glow.\n\nIt is a refined choice for anyone wanting to look sophisticated at a gala or a high-end dinner. Managing natural curls can\n\nbe made easier and more stylish by opting for a curly bun with wide headband.\n\nThis hairstyle celebrates your natural volume while using a wide, stretchy headband to keep the front sections smooth and controlled. Simply pile your curls high on\n\nyour head in a \u201cpineapple\u201d style or a loose bun, then\n\nslide the headband on to provide a clean\n\nborder at the hairline. The wide band helps to reduce frizz and protects your edges, making it a great protective style as well.\n\nIt is a vibrant, energetic look that showcases the beauty of curly textures while remaining completely functional for daily wear or light exercise. For an\n\nultra-sleek and minimalist appearance, the low chignon with satin\n\nheadband is a must-try for those who appreciate understated luxury. Satin\n\nheadbands provide a gentle, friction-free way to hold hair back, reducing the risk of breakage while adding a soft sheen to the crown.\n\nSmooth your hair back into a tight low ponytail and wrap it into a neat chignon, securing it with hidden U-pins for a seamless finish.\n\nThe thin satin\n\nband sits gracefully on the head, offering a touch of color without overwhelming the simplicity of the bun.\n\nThis look is perfect for minimalist fashion lovers who want their hair to look intentional but not overdone.\n\nThe half bun with boho headband is the perfect compromise for those who want the convenience of an\n\nupdo while still showing off their hair\u2019s length. Section\n\noff the top half of your hair and twist it into a small bun at the crown, leaving the bottom\n\nhalf to flow freely in natural waves.\n\nA boho-style headband, perhaps featuring embroidery or earthy tones, is placed across the forehead or just behind the hairline to complete the look. This hairstyle is ideal for outdoor events or casual days where you want a relaxed, artistic vibe.\n\nIt provides a great way to manage volume while maintaining a free-spirited and trendy aesthetic that works for all hair types. Combine two classic styles into one by creating a braided crown\n\nbun with jeweled headband for an\n\nexceptionally regal appearance. Start by braiding two sections of hair from\n\nthe front and wrapping them around the back to meet a central bun, or create a full circular crown\n\nbraid that ends in a bun.\n\nAdding a jeweled headband on top of the braided sections creates a tiara-like effect that is stunning for formal occasions or festive celebrations.\n\nThe light catches the jewels, drawing attention to the intricate detail of the braids and the height of the bun.\n\nThis is a high-impact hairstyle that looks like it took hours but can be achieved with a bit of practice.\n\nInfuse a bit of sweetness and charm into your daily routine with a messy top knot with bow headband.\n\nThis look is all about being cute and approachable, featuring a loose bun sitting high on\n\nthe head with a headband that sports a decorative bow. The bow can\n\nbe placed centrally for a bold look or slightly to the side for a more whimsical feel. This hairstyle is perfect for casual dates or aday out shopping, as it keeps your hair secure while adding a playful accessory.\n\nIt is an especially popular choice for those with bangs, as the headband sits perfectly behind them\n\nto create a clear separation. When\n\nfunctionality is the top priority, the slicked back bun with sporty headband ensures that not a single hair is out of place.\n\nUse a strong-hold gel or pomade to brush your hair back into a mid-height bun, ensuring a smooth and shiny finish. A thin, elastic sporty headband is then\n\nplaced close to the hairline to catch flyaways and keep the hair secure during high-intensity activities. This look is modern, sharp, and athletic, fitting perfectly with the \u201cclean\n\ngirl\u201d aesthetic that continues to trend. It is a powerful look that communicates focus and discipline, whether you are at the gym\n\nor in a high-stakes meeting.\n\nFor those who love big hair, a voluminous bun with printed headband is the way to go to make a bold fashion\n\nstatement. Use a teasing brush or a volumizing spray to give your bun\n\nmaximum size, creating a \u201ccloud\u201d of hair at the back or top of your head.\n\nA headband featuring a vibrant print\u2014like leopard, polka dots, or geometric shapes\u2014provides a striking contrast to the massive hair texture. This style is all about confidence and fun, making it perfect for social gatherings where you want your personality to shine through your style.\n\nThe printed band helps to ground the volume, ensuring the look remains fashionable and balanced. Create a seamless, natural look by opting for a low knot with braided headband, using either a hair-extension\n\nheadband or braiding your own front sections.\n\nThis style is incredibly elegant because the \u201cheadband\u201d appears to be part of the hairstyle itself, blending perfectly with the low knot at the nape. It is a favorite for bridesmaids or those attending garden\n\nparties, as it feels organic and soft. The braided element adds a level of complexity that elevates a simple low bun\n\ninto a work of art. Because it relies on\n\nhair texture rather than metal or plastic, it is also a very comfortable option\n\nfor long-term wear throughout a busy day.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Sleek Bun With Knotted Headband",
+        "image": "/images/doc141_img_1.jpg",
+        "description": "Achieving a professional and modern aesthetic is simple with a sleek bun\n\nwith knotted headband, which works exceptionally well for both straight and textured hair. This style starts with a smooth, middle-parted ponytail that is twisted into a tight, neat bun\n\nto create a clean canvas.\n\nThe addition of a fabric knotted headband provides a central focal point and hides any flyaways along the hairline, making it a great fix for second-day hair.\n\nChoose a headband in a neutral tone like navy, black, or beige to keep the look sophisticated for the workplace.\n\nThe knot detail adds just enough height to elongate the face, making this a flattering option for various facial shapes and styles.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek bun with knotted headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Slicked Back Bun With Sporty Headband",
+        "image": "/images/doc141_img_2.jpg",
+        "description": "When functionality is the top priority, the slicked back bun\n\nwith sporty headband ensures that not a single hair is out of place. Use a strong-hold gel or pomade to brush your hair back into a mid-height bun, ensuring a smooth and shiny finish.\n\nA thin, elastic sporty headband is then placed close to the hairline to catch flyaways and keep the hair secure during high-intensity activities.\n\nThis look is modern, sharp, and athletic, fitting perfectly with the \u201cclean girl\u201d aesthetic that continues to trend.\n\nIt is a powerful look that communicates focus and discipline, whether you are at the gym or in\n\na high-stakes meeting.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for slicked back bun with sporty headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Low Knot With Braided Headband",
+        "image": "/images/doc141_img_3.jpg",
+        "description": "Create a seamless, natural look by opting for a low knot with braided headband, using either a hair-extension headband or braiding your own\n\nfront sections. This style is incredibly elegant because the \u201cheadband\u201d appears to be part of the hairstyle itself, blending perfectly with the low knot at the nape.\n\nIt is a favorite for bridesmaids or those attending garden parties, as it feels organic and soft.\n\nThe braided element adds a level of complexity that elevates a simple low bun into a work of art.\n\nBecause it relies on hair texture rather than\n\nmetal or plastic, it is also a very comfortable option for long-term\n\nwear throughout a busy day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low knot with braided headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Messy Bun With Athletic Headband",
+        "image": "/images/doc141_img_4.jpg",
+        "description": "When you are heading to the gym\n\nor running errands, themessy bun with athletic headbandis your best friend for a functional yet stylish look.\n\nThis style prioritizes keeping hair out of your face while maintaining a relaxed, sporty vibe that works for all hair lengths. Start by pulling your hair into a high ponytail without worrying about perfection, then\n\ntwist it into a loose knot and secure it with a sturdy elastic. Sliding a wide moisture-wicking headband over your hairline not only catches sweat but also adds a pop of color to your workout gear.\n\nIt is the perfect low-maintenance choice for active days when you still want to feel confident and trendy.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for messy bun with athletic headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Textured Bun With Velvet Headband",
+        "image": "/images/doc141_img_5.jpg",
+        "description": "Winter fashion often\n\ncalls for richer materials, and a textured bun with velvet headband is the perfect accessory-led hairstyle for the colder months.\n\nTo achieve this look, add some waves or curls to your hair before pinning it into a voluminous, textured bun to create depth.\n\nA wide velvet headband in a deep jewel tone like emerald, burgundy, or royal blue adds a luxurious finish and a cozy feel to your ensemble.\n\nThe velvet fabric has a natural grip that helps the headband stay in place throughout the day, even\n\nwith thicker hair types. This hairstyle bridges the gap between\n\ncasual and formal, making it a versatile choice for holiday gatherings or office parties.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for textured bun with velvet headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Messy Top Knot With Bow Headband",
+        "image": "/images/doc141_img_6.jpg",
+        "description": "Infuse a bit of sweetness and charm into your daily routine with a messy top knot with bow headband.\n\nThis look is all about being cute and approachable, featuring a loose bun sitting high on\n\nthe head with a headband that sports a decorative bow. The bow can\n\nbe placed centrally for a bold look or slightly to the side for a more whimsical feel. This hairstyle is perfect for casual dates or aday out shopping, as it keeps your hair secure while adding a playful accessory.\n\nIt is an especially popular choice for those with bangs, as the headband sits perfectly behind them\n\nto create a clear separation.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for messy top knot with bow headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Curly Bun With Wide Headband",
+        "image": "/images/doc141_img_7.jpg",
+        "description": "Managing natural curls can be made easier and more stylish by opting for a curly bun\n\nwith wide headband. This hairstyle celebrates your natural volume while using a wide, stretchy headband to keep the front sections smooth and controlled.\n\nSimply pile your curls high on your head in\n\na \u201cpineapple\u201d style or a loose bun, then slide the headband on\n\nto provide a clean border at the hairline.\n\nThe wide band helps to reduce frizz and protects your edges, making it a great protective style as well. It is a vibrant, energetic look that showcases the beauty of curly textures while remaining completely functional for daily wear or light exercise.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for curly bun with wide headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Voluminous Bun With Printed Headband",
+        "image": "/images/doc141_img_8.jpg",
+        "description": "For those who love big hair, a voluminous bun with printed headband is the way to go to make a bold fashion\n\nstatement. Use a teasing brush or a volumizing spray to give your bun\n\nmaximum size, creating a \u201ccloud\u201d of hair at the back or top of your head.\n\nA headband featuring a vibrant print\u2014like leopard, polka dots, or geometric shapes\u2014provides a striking contrast to the massive hair texture. This style is all about confidence and fun, making it perfect for social gatherings where you want your personality to shine through your style.\n\nThe printed band helps to ground the volume, ensuring the look remains fashionable and balanced.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for voluminous bun with printed headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Half Bun With Boho Headband",
+        "image": "/images/doc141_img_9.jpg",
+        "description": "The half bun with boho headband is the perfect compromise for those who want the convenience of an\n\nupdo while still showing off their hair\u2019s length. Section\n\noff the top half of your hair and twist it into a small bun at the crown, leaving the bottom\n\nhalf to flow freely in natural waves.\n\nA boho-style headband, perhaps featuring embroidery or earthy tones, is placed across the forehead or just behind the hairline to complete the look. This hairstyle is ideal for outdoor events or casual days where you want a relaxed, artistic vibe.\n\nIt provides a great way to manage volume while maintaining a free-spirited and trendy aesthetic that works for all hair types.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for half bun with boho headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Loose Bun With Scarf Headband",
+        "image": "/images/doc141_img_10.jpg",
+        "description": "Embrace a bohemian spirit by styling a loose bun\n\nwith scarf headband, a look that is as comfortable as it is chic for summer vacations or beach days. Using a silk or cotton\n\nscarf as a headband allows you to incorporate vibrant patterns and textures into your hair while keeping the overall feel relaxed. Gather your hair into a soft, undone bun\n\nand tie the scarf around your head, either knotting it at the top or the nape of the neck. The flowing ends of the scarf can\n\nbe tucked in or left out to add movement to the hairstyle.\n\nThis approach provides a playful, eclectic vibe that pairs perfectly with oversized sunglasses and breezy sundresses.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for loose bun with scarf headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Double Bun With Sparkly Headband",
+        "image": "/images/doc141_img_11.jpg",
+        "description": "For those who love a playful and youthful look, the double bun with sparkly headband\u2014also known\n\nas space buns\u2014is a fun way to express your personality.\n\nDivide your hair into two equal sections and create two small buns on either side of the crown, then\n\nplace a glittery or jeweled headband in front of them.\n\nThis combination is a favorite for music festivals or parties where a bit of extra shine is encouraged.\n\nThe headband helps to anchor the look and prevents the buns from feeling too \u201ccostume-like\u201d by adding a fashionable accessory element.\n\nIt is a high-energy style that keeps your hair secure while ensuring you stand out in any crowd.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for double bun with sparkly headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Low Chignon With Satin Headband",
+        "image": "/images/doc141_img_12.jpg",
+        "description": "For an ultra-sleek and minimalist appearance, the low chignon\n\nwith satin headband is a must-try for those who appreciate understated luxury.\n\nSatin headbands provide a gentle, friction-free way to hold hair back, reducing the risk of breakage while adding a soft sheen\n\nto the crown. Smooth your hair back into a tight low ponytail and wrap it into a neat chignon, securing it with hidden\n\nU-pins for a seamless finish. The thin\n\nsatin band sits gracefully on\n\nthe head, offering a touch of color without overwhelming the simplicity of the bun. This look is perfect for minimalist fashion\n\nlovers who want their hair to look intentional but not overdone.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low chignon with satin headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Low Bun With Floral Headband",
+        "image": "/images/doc141_img_13.jpg",
+        "description": "For a romantic and feminine touch, alow bunwith floral headband is an exquisite choice for weddings, brunches, or spring outings.\n\nThis hairstyle focuses on softness and elegance, often\n\nfeaturing loose tendrils that frame the face beautifully while the rest of the hair is gathered at the nape. Position\n\na delicate floral headband or a flower crown just behind your ears before securing your hair into a sleek or slightly tousled chignon.\n\nThe contrast between the natural hair texture and the decorative floral elements creates a whimsical aesthetic that feels both timeless and fresh.\n\nIt is an easy way to achieve a high-end look without spending hours in\n\na salon chair.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun with floral headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "High Bun With Padded Headband",
+        "image": "/images/doc141_img_14.jpg",
+        "description": "If you want to add height and a touch of vintage glamour to your look, thehigh bun with padded headbandis a trending choice for 2026.\n\nThe padded headband, often covered in\n\nvelvet or silk, acts as a bold statement piece that draws attention upward and provides a structured frame for the face.\n\nSweep your hair into a voluminous top knot at the crown of your head, using a donut maker if extra thickness is needed for the bun\n\nitself. Once the bun\n\nis secure, place the thick headband about two inches back from your forehead to create a balanced silhouette.\n\nThis sophisticated pairing is perfect for office wear or dinner dates where you want to project a polished image.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for high bun with padded headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Twisted Bun With Pearl Headband",
+        "image": "/images/doc141_img_15.jpg",
+        "description": "Pearls are a timeless symbol of class, and a twisted bun with pearl headband brings that traditional beauty into a modern\n\nhair context. Instead of a standard wrap, twist sections of your hair around each other before securing them\n\ninto a bun to create a rope-like effect.\n\nPlacing a headband adorned with varied sizes of pearls over the hair adds a luminous, bridal-ready quality to the style. This look works best with polished, shiny hair, so using a light serum\n\nbefore styling is recommended to enhance the pearl\u2019s natural glow. It is a refined choice for anyone wanting to look sophisticated at a gala or a high-end dinner.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for twisted bun with pearl headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Braided Crown Bun With Jeweled Headband",
+        "image": "/images/doc141_img_16.jpg",
+        "description": "Combine two classic styles into one by creating a braided crown bun\n\nwith jeweled headband for an exceptionally regal appearance.\n\nStart by braiding two sections of hair from the front and wrapping them\n\naround the back to meet a central bun, or create a full circular crown braid that ends in\n\na bun. Adding a jeweled headband on\n\ntop of the braided sections creates a tiara-like effect that is stunning for formal occasions or festive celebrations. The light catches the jewels, drawing attention\n\nto the intricate detail of the braids and the height of the bun. This is a high-impact hairstyle that looks like it took hours but can\n\nbe achieved with a bit of practice.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided crown bun with jeweled headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Top Knot With Bandana Headband",
+        "image": "/images/doc141_img_17.jpg",
+        "description": "Thetop knot with bandana headbandis a classic \u201ccool girl\u201d staple that combines urban streetwear vibes with practical hair management.\n\nFold a colorful bandana into a narrow strip and tie it around your head, ensuring the knot is hidden or placed at the front for a retro feel.\n\nPull the rest of your hair into a messy top knot, allowing a few pieces to fall naturally around the ears for a lived-in look.\n\nThis style is excellent for protecting your hair from the elements or hiding roots between\n\ncolor appointments. The bandana adds a rugged, edgy texture that contrasts nicely with the softness of a bun, making it a go-to for casual weekend outings.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for top knot with bandana headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "Side Bun With Embellished Headband",
+        "image": "/images/doc141_img_18.jpg",
+        "description": "A side bun with embellished headband is the epitome of asymmetrical elegance, offering a unique profile that is perfect for formal photos or special occasions.\n\nBy gathering your hair to one side and pinning it into a soft, textured bun behind the ear, you create a sophisticated silhouette that highlights your neckline.\n\nAn embellished headband featuring pearls, crystals, or intricate beadwork adds a touch of luxury and helps to balance the weight of the side-swept hair.\n\nThis style is particularly flattering for those who prefer a side part and want to draw attention to their facial features.\n\nIt is a red-carpet-ready look that feels intentional and expertly crafted with very little effort.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for side bun with embellished headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 19,
+        "title": "Braided Bun With Thin Metal Headband",
+        "image": "/images/doc141_img_19.jpg",
+        "description": "The braided bun with thin\n\nmetal headband offers a sophisticated twist on a classic updo, blending intricate texture with a minimalist accessory.\n\nBegin by braiding your hair into a standard or Dutch braid before wrapping it into a circular bun\n\nat the back of your head. A thin, metallic headband\u2014perhaps in\n\ngold or silver\u2014adds a subtle shimmer that elevates the hairstyle for evening events or formal gatherings. The metal band sits comfortably against the head, providing a sleek contrast to the detailed patterns of the braid.\n\nThis look is particularly effective for those with long hair who want to showcase their length in a controlled, elegant manner that stays secure all night.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided bun with thin metal headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "man-bun-fade-haircuts",
+    "slug": "man-bun-fade-haircuts",
+    "title": "15+ Man Bun with Fade Haircuts That Nail the Modern Look",
+    "docId": "doc142",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc142_img_1.jpg",
+    "heroImage": "/images/doc142_img_1.jpg",
+    "excerpt": "The man bun",
+    "description": "The man bun\n\nwith fade haircut has officially cemented itself as a foundational pillar of modern grooming in\n\n2026. This versatile style perfectly bridges the gap between\n\nrugged masculinity and clean-cut sophistication. By combining the natural flow of longer hair on\n\ntop with the sharp, precise lines of a professional fade, men can\n\nachieve a look that works in boardrooms and casual settings alike.\n\nThis trend focuses heavily on personal expression\n\nand hair health, allowing individuals to showcase their unique texture while keeping the sides tidy. Whether you are dealing withstraight or curly locks, the fade adds a level of intentionality that elevates the standard bun\n\ninto a high-fashion statement that continues to dominate current trends across the globe today.\n\nChoosing a low fade man bun\n\nis the best way to maintain asubtle and professional appearancewhile enjoying longer hair.\n\nThis specific style involves a gradual taper that begins just above the ears and stays close to the hairline. It is an\n\nexcellent choice for men with oval face shapes, as the low placement of the fade adds a touch of balance without creating too much vertical height.\n\nIn 2026, the trend is to keep the transition\n\nvery smooth and natural-looking rather than having a harsh line.\n\nTo style this, simply pull your long hair into a soft bun at the crown\n\nand let the clean edges of the low fade provide a sharp finish that looks both modern\n\nand timeless. A high fade man\n\nbun offers a much more dramatic and high-contrast look for men\n\nwho want to stand out. This style starts the fading process much higher up on\n\nthe head, typically around the level of the temples or slightly above. By removing most of the hair on\n\nthe sides and back, the top section becomes the undeniable focal point of the entire hairstyle.\n\nThis look is particularly effective for those with round or square face shapes because the high sides create a slimming effect that adds perceived height. Keeping the top hair long enough to form\n\na substantial bun is crucial for maintaining the right proportions.\n\nRegular barber visits every two weeks are essential to keep this look fresh. Themid fademan\n\nbun represents the perfect middle ground for men\n\nwho want visible contrast without the extreme nature of a high fade. This cut begins the taper right at the temple area, creating a balanced silhouette that works well with almost any hair type.\n\nIt provides a clean, athletic aesthetic that is incredibly popular in 2026 due to its versatility and ease of maintenance.\n\nWhen you pull your hair back into a bun, the mid fade creates a sleek transition\n\nthat highlights your bone structure and jawline. It is a great option\n\nfor men who are transitioning from\n\nshorter styles to longer looks, as it keeps the overall shape manageable and tidy during the growing-out phase while still looking very modern. Opting for a skin\n\nfade man bun\n\nis a bold move that emphasizes a sharp, ultra-clean aesthetic.\n\nAlso known as a bald fade, this technique involves tapering the hair down\n\nuntil it completely disappears into the skin. The result is a striking contrast between\n\nthe bare sides and the long, bunned hair on top, which creates a very modern\n\nand edgy vibe. This style is particularly popular among men\n\nwho want a low-maintenance side profile that requires zero daily styling. Because the skin\n\nis visible, it is important to keep the scalp healthy and moisturized to prevent any dryness. This haircut looks best when\n\nthe bun on\n\ntop is well-defined, providing a clear focal point for this specific high-impact look. A taper fade man\n\nbun is the go-to choice for men\n\nwho prefer a more traditional and understated look. Unlike a standard fade that removes hair down\n\nto the skin, a taper fade gradually changes the hair length from the top down\n\nto the neckline. This creates a very soft and blended appearance that looks natural as it grows out.\n\nIt is one of the most requested styles in 2026 for office-bound professionals who want to rock a man\n\nbun without it feeling too aggressive.\n\nThe key to this look is precision around the edges, ensuring that the sideburns are cleanly shaped.\n\nIt pairs beautifully with longer, flowing hair on top that is tied into a relaxed, effortless bun.\n\nThe burst fade man bun\n\nis a unique and artistic variation that follows the curve of the ear.\n\nThis style leaves the hair at the back of the neck longer while \u201cbursting\u201d the fade out around the ears in a semi-circular pattern.\n\nIt creates a dynamic and energetic look that is often paired with natural texture or curls.\n\nIn 2026, many men\n\nare choosing this style to add a bit of flair to their standard man bun\n\nwithout committing to a full-head fade. It works exceptionally well for those who want to keep some length in\n\nthe back for a slightly more rugged silhouette. Styling involves pulling thetop hair into a high knotto showcase the intricate fading work.\n\nA drop fade man bun\n\nfeatures a taper that literally drops down behind the ear, following the natural contour of the skull.\n\nThis results in a curved line that adds a sophisticated and custom\n\nfeel to the haircut. The drop fade is excellent for creating a more rounded and natural shape to the head, making it a favorite for men\n\nwith flatter crown areas.\n\nWhen combined with a man\n\nbun, it offers a sleek and flowing look that feels more intentional than a straight-line fade.\n\nThis style is highly versatile and can be customized with different lengths on\n\ntop to suit your preference. It provides a modern\n\nupdate to the bun trend that looks great from\n\nevery angle and profile. Embracing your natural curls with a curly man\n\nbun fade is a massive trend in\n\n2026. This style celebrates texture by keeping the top long and voluminous while the faded sides provide structure and control.\n\nFor men with curly or wavy hair, a fade is essential to prevent the sides from\n\nbecoming too bulky or frizzy. By removing the weight from\n\nthe sides, the curls on top can\n\ntruly shine and form a textured, interesting bun.\n\nUsing a curl-defining cream before tying the hair up will help maintain\n\nthe shape and prevent flyaways. This look is perfect for achieving a relaxed, bohemian\n\nvibe that still feels groomed thanks to the sharp contrast provided by the professional fade. The braided man\n\nbun fade is a highly detailed and protective style that is gaining huge popularity.\n\nThis look involves braiding the top section of the hair before securing it into a bun\n\nat the crown or nape.\n\nCombining these intricate braids with a clean fade on\n\nthe sides creates a powerful and culturally rich aesthetic. It is an\n\nexcellent choice for men with thick or coarse hair, as the braids keep the hair managed and the fade keeps the look feeling modern.\n\nIn 2026, many men\n\nare adding subtle designs into the fade to further personalize this look. Regular maintenance involves keeping the scalp hydrated and ensuring the braids are not pulled too tightly during the process.\n\nFor a more casual and effortless appearance, the messy man bun\n\nfade is the ultimate choice. This style relies on\n\na deliberate aesthetic that is surprisingly trendy. The key is to have a sharp fade on\n\nthe sides to provide a clean frame, while the top is tied up loosely with stray hairs and texture left visible.\n\nThis contrast between the precise barbering on\n\nthe sides and the relaxed hair on top creates a balanced and approachable look.\n\nIt is perfect for weekend outings or creative work environments where a strictly polished bun might feel too formal.\n\nUsing a bit of sea salt spray can help add the necessary grit and volume to keep the messy bun\n\nlooking intentional. A slick back man\n\nbun fade is the epitome of modern\n\nelegance and precision. This style involves using a high-quality pomade to smooth the hair straight back from\n\nthe forehead before securing it into a tight bun. When\n\npaired with a sharp fade on the sides, the result is a streamlined and professional silhouette that emphasizes your facial features.\n\nThis look is particularly popular for formal events where a clean-cut image is essential. The fade ensures that there is no unwanted bulk around the ears, keeping the focus entirely on\n\nthe sleek top. In\n\n2026, matte finish products are preferred over high-shine gels to keep the look feeling natural yet completely under control at all times. Pairing aman\n\nbun fade with a beardis a classic grooming combination\n\nthat continues to lead trends in 2026.\n\nThis look creates a harmonious balance between the top of the head and the jawline, resulting in\n\na very masculine and structured appearance. The fade serves as a crucial transition\n\npoint, often connecting the hair on\n\nthe head to the beard through a precise taper at the sideburns. Keeping both the fade and the beard well-groomed is essential for maintaining a sharp look.\n\nThis style is incredibly versatile and can be adapted with different beard lengths.\n\nIt is the go-to choice for men who want to project confidence and a strong sense of personal style every day.\n\nThe top knot fade is a sharper and more localized version of the traditional man\n\nbun. It typically sits higher on\n\nthe head, often right at the crown\n\nor even slightly forward.\n\nThis style is frequently paired with a high or skin fade to create a dramatic disconnected look.\n\nThe top knot itself is often smaller and more tightly secured than\n\na standard bun, giving it a sleek and athletic vibe. In\n\n2026, this style is popular among fitness enthusiasts because it keeps the hair completely out of the face during intense activity. The sharp fade on\n\nthe sides ensures that the look stays cool and manageable, making it a practical yet stylish choice for those with an active lifestyle.\n\nAn undercut fade man\n\nbun combines the edgy nature of an\n\nundercut with the smooth transition of a fade.\n\nThis involves shaving the hair significantly short all the way around the sides and back, but adding a faded element where the short hair meets the skin. It provides a very clear separation\n\nbetween the long hair on\n\ntop and the shorter sides, making the bun stand out prominently.\n\nThis style is excellent for men with very thick hair, as it removes a substantial amount of weight and volume, making it much easier to tie back.\n\nIt is a bold choice that looks incredibly sharp when paired with contemporary fashion\n\nstyles in 2026 for a modern\n\nurban aesthetic.\n\nThe afro man bun\n\nfade is a stunning way to showcase natural coily hair textures. This style involves letting the natural volume of the afro form\n\nthe bun on\n\ntop while the sides are tapered for a clean finish.\n\nIt is a popular choice for black men who want a versatile look that combines heritage with modern\n\ngrooming trends. The fade helps to define the shape of the head and provides a sharp contrast to the textured bun\n\nabove. In\n\n2026, many are opting for a high skin fade to make the afro texture pop even\n\nmore. Using hydrating leave-in\n\nconditioners is vital to keep the hair healthy and the bun looking full and soft throughout the day.\n\nA long hair man bun\n\nfade is ideal for men who have spent a significant amount of time growing out their locks.\n\nThis look allows you to maintain impressive length while the fade keeps the overall silhouette from\n\nlooking messy or overgrown. By fading the hair around the ears and nape, you create a structured frame that makes even\n\nthe longest hair look intentional and styled. This version\n\nof the bun is often\n\nlarger and more voluminous, creating a striking profile. It is a favorite for those who enjoy the versatility of wearing their hair down\n\noccasionally, as the fade remains a cool detail. In\n\n2026, this style is often worn\n\nwith a relaxed, low-hanging bun. The short hair man\n\nbun fade, often\n\ncalled a mini bun, is perfect for men\n\nwho are in the earlier stages of growing their hair.\n\nEven with relatively short hair, you can\n\nachieve a bun if the top is at least five or six inches long.\n\nThe fade is essential here because it creates the necessary contrast to make the small bun look like a deliberate style choice.\n\nThis look is very modern and works well for men\n\nwith fine hair who might not have the bulk for a larger bun. It provides a clean\n\nand youthful appearance that is easy to maintain and style with just a simple elastic band and some light-hold hair styling cream.\n\nA temple fade man bun\n\nfocuses the fading action specifically around the temples and the hairline at the front.\n\nThis creates a very sharp and framed look around the face while leaving more hair on the sides than\n\na traditional high fade. It is a sophisticated option\n\nthat adds a touch of modern barbering to a classic long hairstyle.\n\nThe temple fade is often paired with a line-up to create perfectly straight edges around the forehead.\n\nThis look is highly popular in 2026 for men\n\nwho want a subtle edge without losing too much hair. It draws attention\n\nto the eyes and cheekbones, making it a very flattering choice for men with strong features.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Mid Fade Man Bun",
+        "image": "/images/doc142_img_1.jpg",
+        "description": "Themid fademan bun\n\nrepresents the perfect middle ground for men who want visible contrast without the extreme nature of a high fade.\n\nThis cut begins the taper right at the temple area, creating a balanced silhouette that works well with almost any hair type. It provides a clean, athletic aesthetic that is incredibly popular in\n\n2026 due to its versatility and ease of maintenance. When\n\nyou pull your hair back into a bun, the mid fade creates a sleek transition that highlights your bone structure and jawline.\n\nIt is a great option for men\n\nwho are transitioning from shorter styles to longer looks, as it keeps the overall shape manageable and tidy during the growing-out phase while still looking very modern.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for mid fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Burst Fade Man Bun",
+        "image": "/images/doc142_img_2.jpg",
+        "description": "The burst fade man bun\n\nis a unique and artistic variation that follows the curve of the ear.\n\nThis style leaves the hair at the back of the neck longer while \u201cbursting\u201d the fade out around the ears in a semi-circular pattern.\n\nIt creates a dynamic and energetic look that is often paired with natural texture or curls.\n\nIn 2026, many men\n\nare choosing this style to add a bit of flair to their standard man bun\n\nwithout committing to a full-head fade. It works exceptionally well for those who want to keep some length in\n\nthe back for a slightly more rugged silhouette. Styling involves pulling thetop hair into a high knotto showcase the intricate fading work.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for burst fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Low Fade Man Bun",
+        "image": "/images/doc142_img_3.jpg",
+        "description": "Choosing a low fade man bun\n\nis the best way to maintain asubtle and professional appearancewhile enjoying longer hair.\n\nThis specific style involves a gradual taper that begins just above the ears and stays close to the hairline. It is an\n\nexcellent choice for men with oval face shapes, as the low placement of the fade adds a touch of balance without creating too much vertical height.\n\nIn 2026, the trend is to keep the transition\n\nvery smooth and natural-looking rather than having a harsh line.\n\nTo style this, simply pull your long hair into a soft bun at the crown\n\nand let the clean edges of the low fade provide a sharp finish that looks both modern\n\nand timeless.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Taper Fade Man Bun",
+        "image": "/images/doc142_img_4.jpg",
+        "description": "A taper fade man bun\n\nis the go-to choice for men who prefer a more traditional and understated look.\n\nUnlike a standard fade that removes hair down to the skin, a taper fade gradually changes the hair length from\n\nthe top down to the neckline.\n\nThis creates a very soft and blended appearance that looks natural as it grows out. It is one of the most requested styles in\n\n2026 for office-bound professionals who want to rock a man bun\n\nwithout it feeling too aggressive. The key to this look is precision\n\naround the edges, ensuring that the sideburns are cleanly shaped. It pairs beautifully with longer, flowing hair on\n\ntop that is tied into a relaxed, effortless bun.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for taper fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Skin Fade Man Bun",
+        "image": "/images/doc142_img_5.jpg",
+        "description": "Opting for a skin fade man\n\nbun is a bold move that emphasizes a sharp, ultra-clean\n\naesthetic. Also known\n\nas a bald fade, this technique involves tapering the hair down until it completely disappears into the skin.\n\nThe result is a striking contrast between the bare sides and the long, bunned hair on\n\ntop, which creates a very modern and edgy vibe.\n\nThis style is particularly popular among men who want a low-maintenance side profile that requires zero daily styling.\n\nBecause the skin is visible, it is important to keep the scalp healthy and moisturized to prevent any dryness.\n\nThis haircut looks best when the bun\n\non top is well-defined, providing a clear focal point for this specific high-impact look.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for skin fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Afro Man Bun Fade",
+        "image": "/images/doc142_img_6.jpg",
+        "description": "The afro man bun\n\nfade is a stunning way to showcase natural coily hair textures. This style involves letting the natural volume of the afro form\n\nthe bun on\n\ntop while the sides are tapered for a clean finish.\n\nIt is a popular choice for black men who want a versatile look that combines heritage with modern\n\ngrooming trends. The fade helps to define the shape of the head and provides a sharp contrast to the textured bun\n\nabove. In\n\n2026, many are opting for a high skin fade to make the afro texture pop even\n\nmore. Using hydrating leave-in\n\nconditioners is vital to keep the hair healthy and the bun looking full and soft throughout the day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for afro man bun fade.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "High Fade Man Bun",
+        "image": "/images/doc142_img_7.jpg",
+        "description": "A high fade man bun\n\noffers a much more dramatic and high-contrast look for men who want to stand out.\n\nThis style starts the fading process much higher up on the head, typically around the level of the temples or slightly above.\n\nBy removing most of the hair on the sides and back, the top section\n\nbecomes the undeniable focal point of the entire hairstyle. This look is particularly effective for those with round or square face shapes because the high sides create a slimming effect that adds perceived height.\n\nKeeping the top hair long enough to form a substantial bun\n\nis crucial for maintaining the right proportions. Regular barber visits every two weeks are essential to keep this look fresh.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for high fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Top Knot Fade",
+        "image": "/images/doc142_img_8.jpg",
+        "description": "The top knot fade is a sharper and more localized version of the traditional man\n\nbun. It typically sits higher on\n\nthe head, often right at the crown\n\nor even slightly forward.\n\nThis style is frequently paired with a high or skin fade to create a dramatic disconnected look.\n\nThe top knot itself is often smaller and more tightly secured than\n\na standard bun, giving it a sleek and athletic vibe. In\n\n2026, this style is popular among fitness enthusiasts because it keeps the hair completely out of the face during intense activity. The sharp fade on\n\nthe sides ensures that the look stays cool and manageable, making it a practical yet stylish choice for those with an active lifestyle.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for top knot fade.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Braided Man Bun Fade",
+        "image": "/images/doc142_img_9.jpg",
+        "description": "The braided man bun\n\nfade is a highly detailed and protective style that is gaining huge popularity. This look involves braiding the top section\n\nof the hair before securing it into a bun at the crown\n\nor nape. Combining these intricate braids with a clean\n\nfade on the sides creates a powerful and culturally rich aesthetic.\n\nIt is an excellent choice for men\n\nwith thick or coarse hair, as the braids keep the hair managed and the fade keeps the look feeling modern. In\n\n2026, many men are adding subtle designs into the fade to further personalize this look.\n\nRegular maintenance involves keeping the scalp hydrated and ensuring the braids are not pulled too tightly during the process.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided man bun fade.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Man Bun Fade With Beard",
+        "image": "/images/doc142_img_10.jpg",
+        "description": "Pairing aman bun\n\nfade with a beardis a classic grooming combination that continues to lead trends in\n\n2026. This look creates a harmonious balance between\n\nthe top of the head and the jawline, resulting in a very masculine and structured appearance.\n\nThe fade serves as a crucial transition point, often\n\nconnecting the hair on the head to the beard through a precise taper at the sideburns.\n\nKeeping both the fade and the beard well-groomed is essential for maintaining a sharp look. This style is incredibly versatile and can\n\nbe adapted with different beard lengths. It is the go-to choice for men\n\nwho want to project confidence and a strong sense of personal style every day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for man bun fade with beard.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Temple Fade Man Bun",
+        "image": "/images/doc142_img_11.jpg",
+        "description": "A temple fade man bun\n\nfocuses the fading action specifically around the temples and the hairline at the front.\n\nThis creates a very sharp and framed look around the face while leaving more hair on the sides than\n\na traditional high fade. It is a sophisticated option\n\nthat adds a touch of modern barbering to a classic long hairstyle.\n\nThe temple fade is often paired with a line-up to create perfectly straight edges around the forehead.\n\nThis look is highly popular in 2026 for men\n\nwho want a subtle edge without losing too much hair. It draws attention\n\nto the eyes and cheekbones, making it a very flattering choice for men with strong features.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for temple fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Short Hair Man Bun Fade",
+        "image": "/images/doc142_img_12.jpg",
+        "description": "The short hair man bun\n\nfade, often called a mini\n\nbun, is perfect for men who are in\n\nthe earlier stages of growing their hair. Even\n\nwith relatively short hair, you can achieve a bun\n\nif the top is at least five or six inches long. The fade is essential here because it creates the necessary contrast to make the small bun\n\nlook like a deliberate style choice. This look is very modern\n\nand works well for men with fine hair who might not have the bulk for a larger bun.\n\nIt provides a clean and youthful appearance that is easy to maintain\n\nand style with just a simple elastic band and some light-hold hair styling cream.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for short hair man bun fade.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Messy Man Bun Fade",
+        "image": "/images/doc142_img_13.jpg",
+        "description": "For a more casual and effortless appearance, the messy man bun\n\nfade is the ultimate choice. This style relies on\n\na deliberate aesthetic that is surprisingly trendy. The key is to have a sharp fade on\n\nthe sides to provide a clean frame, while the top is tied up loosely with stray hairs and texture left visible.\n\nThis contrast between the precise barbering on\n\nthe sides and the relaxed hair on top creates a balanced and approachable look.\n\nIt is perfect for weekend outings or creative work environments where a strictly polished bun might feel too formal.\n\nUsing a bit of sea salt spray can help add the necessary grit and volume to keep the messy bun\n\nlooking intentional.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for messy man bun fade.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Drop Fade Man Bun",
+        "image": "/images/doc142_img_14.jpg",
+        "description": "A drop fade man bun\n\nfeatures a taper that literally drops down behind the ear, following the natural contour of the skull.\n\nThis results in a curved line that adds a sophisticated and custom\n\nfeel to the haircut. The drop fade is excellent for creating a more rounded and natural shape to the head, making it a favorite for men\n\nwith flatter crown areas.\n\nWhen combined with a man\n\nbun, it offers a sleek and flowing look that feels more intentional than a straight-line fade.\n\nThis style is highly versatile and can be customized with different lengths on\n\ntop to suit your preference. It provides a modern\n\nupdate to the bun trend that looks great from\n\nevery angle and profile.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for drop fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Undercut Fade Man Bun",
+        "image": "/images/doc142_img_15.jpg",
+        "description": "An undercut fade man\n\nbun combines the edgy nature of an\n\nundercut with the smooth transition of a fade.\n\nThis involves shaving the hair significantly short all the way around the sides and back, but adding a faded element where the short hair meets the skin. It provides a very clear separation\n\nbetween the long hair on\n\ntop and the shorter sides, making the bun stand out prominently.\n\nThis style is excellent for men with very thick hair, as it removes a substantial amount of weight and volume, making it much easier to tie back.\n\nIt is a bold choice that looks incredibly sharp when paired with contemporary fashion\n\nstyles in 2026 for a modern\n\nurban aesthetic.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for undercut fade man bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Curly Man Bun Fade",
+        "image": "/images/doc142_img_16.jpg",
+        "description": "Embracing your natural curls with a curly man bun\n\nfade is a massive trend in 2026.\n\nThis style celebrates texture by keeping the top long and voluminous while the faded sides provide structure and control. For men\n\nwith curly or wavy hair, a fade is essential to prevent the sides from becoming too bulky or frizzy.\n\nBy removing the weight from the sides, the curls on\n\ntop can truly shine and form\n\na textured, interesting bun. Using a curl-defining cream\n\nbefore tying the hair up will help maintain the shape and prevent flyaways.\n\nThis look is perfect for achieving a relaxed, bohemian vibe that still feels groomed thanks to the sharp contrast provided by the professional fade.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for curly man bun fade.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Long Hair Man Bun Fade",
+        "image": "/images/doc142_img_17.jpg",
+        "description": "A long hair man bun\n\nfade is ideal for men who have spent a significant amount of time growing out their locks.\n\nThis look allows you to maintain impressive length while the fade keeps the overall silhouette from\n\nlooking messy or overgrown. By fading the hair around the ears and nape, you create a structured frame that makes even\n\nthe longest hair look intentional and styled. This version\n\nof the bun is often\n\nlarger and more voluminous, creating a striking profile. It is a favorite for those who enjoy the versatility of wearing their hair down\n\noccasionally, as the fade remains a cool detail. In\n\n2026, this style is often worn\n\nwith a relaxed, low-hanging bun.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for long hair man bun fade.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "Slick Back Man Bun Fade",
+        "image": "/images/doc142_img_18.jpg",
+        "description": "A slick back man bun\n\nfade is the epitome of modern elegance and precision.\n\nThis style involves using a high-quality pomade to smooth the hair straight back from the forehead before securing it into a tight bun.\n\nWhen paired with a sharp fade on\n\nthe sides, the result is a streamlined and professional silhouette that emphasizes your facial features. This look is particularly popular for formal events where a clean-cut image is essential.\n\nThe fade ensures that there is no unwanted bulk around the ears, keeping the focus entirely on the sleek top.\n\nIn 2026, matte finish products are preferred over high-shine gels to keep the look feeling natural yet completely under control at all times.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for slick back man bun fade.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "minimalist-office-bun-hairstyles",
+    "slug": "minimalist-office-bun-hairstyles",
+    "title": "16+ Minimalist Office Bun Hairstyles for Effortless Workday Style",
+    "docId": "doc143",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc143_img_1.jpg",
+    "heroImage": "/images/doc143_img_1.jpg",
+    "excerpt": "Sleek, simple, and clean, a minimalist office bun can",
+    "description": "Sleek, simple, and clean, a minimalist office bun can\n\nmake busy work mornings feel calmer and more organized. These buns keep hair off your face, pair well with blazers or button-downs, and stay put through long meetings.\n\nWhen you focus on\n\nlow-fuss shapes, clean lines, and smooth finishes, your hair looks polished without looking overdone or fussy.\n\nMost of these looks work on straight, wavy, or slightly curly hair and can\n\nbe done with a basic hair tie, a few bobby pins, and maybe a light styling product. You can\n\nalso adjust the tightness, parting, and height of the bun to match your office dress code and comfort.\n\nFrom classic low knots tosoft looped buns, the key is neatness, simplicity, and a professional finish.\n\nOn rushed mornings, the classic low office bun\n\nis often the easiest way to look instantly put together.\n\nYou start by brushing your hair to remove tangles, then gather it at the nape of your neck like a low ponytail.\n\nTwist the length, wrap it around the base, and secure it with pins for a compact, simple shape that feels sleek but not severe. This neat bun\n\npairs well with collared shirts, blazers, or simple dresses and looks appropriate in conservative offices.\n\nUse smoothing cream or a light hairspray to tame flyaways without making your hair look stiff or crunchy.\n\nIf your hair is fine, gently tug at the bun for a bit of soft volume while keeping the overall outline clean\n\nand minimal. A sleek middle part low bun\n\ngives a sharp, minimal look that feels modern yet professional.\n\nBegin with straight or smoothed hair, then\n\ncreate a precise center part using a comb for a clean line.\n\nPull hair back into a low ponytail at the nape, keeping the sides tight and flat for that polished effect. Twist the ponytail into a bun\n\nand secure with pins, then lightly smooth any frizz with serum\n\nor cream. This look works especially well for formal meetings, presentations, or days when\n\nyou want your hair to look very controlled. Because the bun\n\nsits low, it feels comfortable for long hours and doesn\u2019t tug at your scalp as much as a high ponytail or top knot. If a middle part feels too severe, a side part low office bun\n\nsoftens your features while staying neat. Create a deep or soft side part, depending on\n\nwhat flatters your face, then bring the hair back into a low ponytail.\n\nKeep the top fairly smooth but allow a very slight curve around the forehead so the style doesn\u2019t look harsh. Twist the ponytail, wrap it into a bun\n\nat the nape, and secure with pins, keeping thebun small and tidy.\n\nThis style flatters many face shapes and looks great with minimal makeup and simple jewelry in a corporate setting.\n\nA light mist of flexible-hold hairspray keeps everything in place without sacrificing comfort or movement during the day.\n\nA minimalist low knot bun feels almost like a tiny knot at the base of your neck, ideal for very simple work looks.\n\nYou gather hair into a low ponytail, then loop it once and tuck the ends underneath to form\n\na compact knot. Pin\n\nthe knot close to the head so it doesn\u2019t stick out too far, which keeps the style subtle under coats or collared shirts. The finish should look smooth and clean\n\nbut not overly slicked, giving a calm, controlled vibe. This bun\n\nworks especially well on medium\n\nto long hair that\u2019s straight or slightly wavy. It\u2019s also a great option\n\nif you wear glasses or in-ear headphones at work because it sits low and doesn\u2019t interfere with frames or bands. For days when\n\nyou want a slightly more lifted look, the smooth high office bun sits at the crown\n\nand opens up your features. Brush hair upward and gather it into a high ponytail, keeping the sides as smooth as you reasonably can.\n\nTwist the ponytail, then wrap it around the base and secure with pins or a strong hair tie.\n\nThis bun gives the illusion\n\nof a longer neck and a taller silhouette, which can look especially chic with tailored blazers.\n\nBecause it sits higher, it also keeps hair away from collars and scarves, which can\n\nfeel more comfortable in warm\n\noffices. Finish with a light shine spray to enhance the sleek look without making the style feel heavy.\n\nAlow chignon office bunis a slightly softer take on\n\na classic bun, with a smooth front and gently tucked back. Start with a low ponytail at the nape, then\n\nloosely twist or roll the hair upward and pin it into a compact, horizontal shape.\n\nThe front stays neat, but the chignon itself can\n\nhave a subtle curve that looks refined rather than rigid.\n\nThis shape works well with business-casual outfits and gives off a polished, approachable vibe. If your hair has natural wave, you can\n\nlet a bit of that texture show in the chignon\n\nwhile keeping the top smooth for office-appropriate balance. Avoid over-pulling pieces out; the key to minimalism\n\nhere is a controlled, streamlined finish with just a hint of softness. The simple low loop bun\n\nis perfect for beginners who want a minimalist office look in under five minutes.\n\nPull your hair into a low ponytail but don\u2019t pull it all the way through the last time, leaving a loop with the ends tucked under. Wrap those ends around the base or pin\n\nthem flat under the loop for a cleaner finish.\n\nThis creates a compact, slightly rounded bun that looks relaxed but still professional enough for most workplaces.\n\nUse your fingers instead of a fine-tooth comb if you prefer a softer, more natural texture around the head. A quick mist of hair spray at the sides and top will help prevent frizz without taking away the easy, minimalist feel.\n\nWith a low twisted office bun, the main detail comes from\n\nsimple twists rather than braids or accessories.\n\nSplit your hair into two sections at the nape, twist each section individually, then\n\ntwist them together like a rope.\n\nWrap that rope-like twist into a bun and secure with pins, letting the twisted texture show on\n\nthe surface. This style adds interest while staying understated, which makes it perfect if you like minimal looks that still feel special.\n\nKeep the front and sides smooth or softly brushed back, depending on your office\u2019s formality level.\n\nBecause the twist helps hold the bun together, it\u2019s a great option\n\nfor medium-thick hair that tends to slip out of simpler buns. A low bun\n\nwith a smooth front focuses on a clean, flat top section\n\nand a neat bun at the nape.\n\nApply a small amount of smoothing cream or gel to the crown\n\nand sides, then brush hair back into a low ponytail.\n\nSecure the ponytail, twist the length, and coil it into a bun that sits flat rather than\n\nsticking out too far. This style reads as very professional, making it ideal for interviews, presentations, or days with back-to-back meetings.\n\nBecause the front is sleek, you can keep makeup simple and still look polished.\n\nIf you have baby hairs along the hairline, use a soft toothbrush or edge brush to gently smooth them without creating a harsh, glued look.\n\nFor more relaxed offices, a minimalist messy low bun offers a balance between\n\ntidy and effortless. Start with slightly textured hair, like second-day hair or softly waved lengths, and gather it into a low ponytail.\n\nTwist and wrap the hair into a bun, but don\u2019t worry about every strand being perfectly in place.\n\nGently pull a few pieces around the bun for soft volume while keeping the overall shape compact.\n\nThe front should still look controlled, so avoid pulling out too many face-framing strands. This bun\n\nlooks great with knit tops, simple dresses, and minimal jewelry, giving a calm, approachable look that still feels work-ready. A half up office bun\n\nworks well when you want hair off your face but still like some length showing.\n\nSection off the top half of your hair from\n\ntemple to temple and pull it back into a small ponytail. Twist that section\n\ninto a compact bun at the crown\n\nor upper back of your head, keeping the bun small and neat.\n\nLeave the lower half of your hair down and lightly smoothed so it doesn\u2019t look too casual or messy.\n\nThis look suitsbusiness-casual environmentsor creative workplaces where a bit of personality is welcome. You can\n\nwear the lower section straight, lightly waved, or naturally textured, as long as the top bun\n\nremains tidy and minimalist. A low bun\n\nwith subtle volume gives you a little lift at the crown without losing that pared-back, office-ready finish.\n\nLightly tease the hair at the crown or use a small volumizing powder to create gentle height.\n\nSmooth the top layer over the teased section so it looks seamless, then\n\ngather your hair into a low ponytail. Twist the ponytail into a bun\n\nand pin it close to the head, making sure the volume focuses at the top rather than\n\naround the bun. This style works well if you feel flat buns make your head shape look too narrow.\n\nKeep the volume moderate so it still feels minimal, avoiding any dramatic pouf that might look more evening than office.\n\nA braided base low bun adds discreet detail while keeping the overall look calm\n\nand professional. First, secure your hair into a low ponytail at the nape of the neck.\n\nBraid the ponytail into a simple three-strand braid, secure the end, then wrap the braid around the base to form\n\na bun. The braid gives texture and grip, which helps the bun\n\nhold all day without constant readjusting. Keep the front and sides smooth and minimal so the bun\n\nremains the main feature.\n\nThis style works especially well for long hair and looks nice from the back during team\n\nmeetings or presentations where others see your profile. A low bun\n\nwith face-framing pieces softens your overall look while still reading as office-appropriate. Create a middle or side part, then\n\ngently pull out a few thin pieces around your face before securing a low ponytail.\n\nTwist the ponytail into a bun and pin\n\nit neatly at the nape, keeping the bun small and polished.\n\nLightly curl or smooth the face-framing pieces so they skim the cheeks rather than\n\nhanging in your eyes.\n\nThis look can be especially flattering if you like to balance a sharp blazer or structured shirt with softer hair.\n\nBe sure to keep the pieces narrow and controlled so the style feels intentional rather than messy or distracting at work.\n\nA low coiled office bun gives a compact, spiral effect that looks tidy from\n\nevery angle. After brushing your hair back into a low ponytail, divide the ponytail into two or three smaller sections.\n\nTwist each section and coil them\n\naround the base one at a time, pinning as you go to create a layered bun. This technique adds subtle detail and can\n\nhelp distribute thick hair more evenly. The front should stay smooth or softly brushed back, keeping the focus on\n\nthe clean coiled shape at the nape.\n\nUse a flexible-hold hairspray to keep everything secure while still allowing a natural look and comfortable movement throughout the day. A low bun\n\nwith awrapped hair tiehides your elastic and gives a more minimal, tailored finish. Form\n\na low ponytail, leaving a small strand of hair out before tying the elastic. After twisting the ponytail into a bun\n\nand pinning it, wrap the reserved strand around the base to cover the hair tie completely. Pin\n\nthe ends underneath for a seamless, clean look that feels surprisingly polished for such a small tweak.\n\nThis trick works on most bun\n\nshapes and is especially useful if you only have a bright or mismatched hair tie handy. The wrapped base makes the bun\n\nlook more intentional and refined without adding any extra accessories or clutter. A tight low office bun\n\noffers maximum control and is great for very formal or highly active workdays.\n\nApply smoothing product to damp or dry hair, then brush it firmly back into a low ponytail with no visible bumps.\n\nTwist the ponytail tightly and wrap it into a firm bun\n\nthat sits close to the head. Secure with strong pins or a sturdy elastic so the style does not loosen\n\nas you move. This bun\n\nkeeps every strand contained, which is ideal if your job involves movement, uniforms, or strict grooming standards. Because it can\n\nfeel snug, avoid pulling the hairline too tight and consider loosening it slightly at the front for comfort. A soft textured low office bun\n\nis a gentle option when\n\nyou want some movement but still need a tidy look. Start with naturally wavy hair or create loose waves with a curler, then\n\nbrush lightly to blend. Gather the hair into a low ponytail, but don\u2019t over-smooth; allow a bit of texture to show.\n\nTwist the ponytail loosely into a bun and pin\n\nit, letting some of the wave pattern remain\n\nvisible in the bun\n\nsurface. Keep the bun\n\nsmall and controlled so it stays appropriate for the office and doesn\u2019t look like an evening updo.\n\nFinish with a light mist of flexible hairspray to maintain the texture while preventing frizz through the workday.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Low Bun With Subtle Volume",
+        "image": "/images/doc143_img_1.jpg",
+        "description": "A low bun with subtle volume gives you a little lift at the crown\n\nwithout losing that pared-back, office-ready finish. Lightly tease the hair at the crown\n\nor use a small volumizing powder to create gentle height. Smooth the top layer over the teased section\n\nso it looks seamless, then gather your hair into a low ponytail.\n\nTwist the ponytail into a bun and pin\n\nit close to the head, making sure the volume focuses at the top rather than around the bun.\n\nThis style works well if you feel flat buns make your head shape look too narrow. Keep the volume moderate so it still feels minimal, avoiding any dramatic pouf that might look more evening than\n\noffice.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun with subtle volume.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Low Bun With Wrapped Hair Tie",
+        "image": "/images/doc143_img_2.jpg",
+        "description": "A low bun with awrapped hair tiehides your elastic and gives a more minimal, tailored finish.\n\nForm a low ponytail, leaving a small strand of hair out before tying the elastic.\n\nAfter twisting the ponytail into a bun and pinning it, wrap the reserved strand around the base to cover the hair tie completely.\n\nPin the ends underneath for a seamless, clean\n\nlook that feels surprisingly polished for such a small tweak. This trick works on\n\nmost bun shapes and is especially useful if you only have a bright or mismatched hair tie handy.\n\nThe wrapped base makes the bun look more intentional and refined without adding any extra accessories or clutter.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun with wrapped hair tie.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Side Part Low Office Bun",
+        "image": "/images/doc143_img_3.jpg",
+        "description": "If a middle part feels too severe, a side part low office bun softens your features while staying neat.\n\nCreate a deep or soft side part, depending on what flatters your face, then\n\nbring the hair back into a low ponytail. Keep the top fairly smooth but allow a very slight curve around the forehead so the style doesn\u2019t look harsh.\n\nTwist the ponytail, wrap it into a bun at the nape, and secure with pins, keeping thebun\n\nsmall and tidy. This style flatters many face shapes and looks great with minimal makeup and simple jewelry in\n\na corporate setting. A light mist of flexible-hold hairspray keeps everything in\n\nplace without sacrificing comfort or movement during the day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for side part low office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Low Twisted Office Bun",
+        "image": "/images/doc143_img_4.jpg",
+        "description": "With a low twisted office bun, the main detail comes from\n\nsimple twists rather than braids or accessories.\n\nSplit your hair into two sections at the nape, twist each section individually, then\n\ntwist them together like a rope.\n\nWrap that rope-like twist into a bun and secure with pins, letting the twisted texture show on\n\nthe surface. This style adds interest while staying understated, which makes it perfect if you like minimal looks that still feel special.\n\nKeep the front and sides smooth or softly brushed back, depending on your office\u2019s formality level.\n\nBecause the twist helps hold the bun together, it\u2019s a great option\n\nfor medium-thick hair that tends to slip out of simpler buns.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low twisted office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Simple Low Loop Bun",
+        "image": "/images/doc143_img_5.jpg",
+        "description": "The simple low loop bun is perfect for beginners who want a minimalist office look in\n\nunder five minutes. Pull your hair into a low ponytail but don\u2019t pull it all the way through the last time, leaving a loop with the ends tucked under.\n\nWrap those ends around the base or pin them\n\nflat under the loop for a cleaner finish. This creates a compact, slightly rounded bun\n\nthat looks relaxed but still professional enough for most workplaces. Use your fingers instead of a fine-tooth comb if you prefer a softer, more natural texture around the head.\n\nA quick mist of hair spray at the sides and top will help prevent frizz without taking away the easy, minimalist feel.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for simple low loop bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Low Bun With Smooth Front",
+        "image": "/images/doc143_img_6.jpg",
+        "description": "A low bun with a smooth front focuses on\n\na clean, flat top section and a neat bun\n\nat the nape. Apply a small amount of smoothing cream\n\nor gel to the crown and sides, then\n\nbrush hair back into a low ponytail. Secure the ponytail, twist the length, and coil it into a bun\n\nthat sits flat rather than sticking out too far.\n\nThis style reads as very professional, making it ideal for interviews, presentations, or days with back-to-back meetings. Because the front is sleek, you can\n\nkeep makeup simple and still look polished. If you have baby hairs along the hairline, use a soft toothbrush or edge brush to gently smooth them\n\nwithout creating a harsh, glued look.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun with smooth front.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Tight Low Office Bun",
+        "image": "/images/doc143_img_7.jpg",
+        "description": "A tight low office bun offers maximum\n\ncontrol and is great for very formal or highly active workdays. Apply smoothing product to damp or dry hair, then\n\nbrush it firmly back into a low ponytail with no visible bumps. Twist the ponytail tightly and wrap it into a firm\n\nbun that sits close to the head.\n\nSecure with strong pins or a sturdy elastic so the style does not loosen as you move.\n\nThis bun keeps every strand contained, which is ideal if your job involves movement, uniforms, or strict grooming standards.\n\nBecause it can feel snug, avoid pulling the hairline too tight and consider loosening it slightly at the front for comfort.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for tight low office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Braided Base Low Bun",
+        "image": "/images/doc143_img_8.jpg",
+        "description": "A braided base low bun adds discreet detail while keeping the overall look calm\n\nand professional. First, secure your hair into a low ponytail at the nape of the neck.\n\nBraid the ponytail into a simple three-strand braid, secure the end, then wrap the braid around the base to form\n\na bun. The braid gives texture and grip, which helps the bun\n\nhold all day without constant readjusting. Keep the front and sides smooth and minimal so the bun\n\nremains the main feature.\n\nThis style works especially well for long hair and looks nice from the back during team\n\nmeetings or presentations where others see your profile.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided base low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Sleek Middle Part Low Bun",
+        "image": "/images/doc143_img_9.jpg",
+        "description": "A sleek middle part low bun gives a sharp, minimal look that feels modern\n\nyet professional. Begin\n\nwith straight or smoothed hair, then create a precise center part using a comb for a clean\n\nline. Pull hair back into a low ponytail at the nape, keeping the sides tight and flat for that polished effect.\n\nTwist the ponytail into a bun and secure with pins, then\n\nlightly smooth any frizz with serum or cream.\n\nThis look works especially well for formal meetings, presentations, or days when you want your hair to look very controlled.\n\nBecause the bun sits low, it feels comfortable for long hours and doesn\u2019t tug at your scalp as much as a high ponytail or top knot.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek middle part low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Half Up Office Bun",
+        "image": "/images/doc143_img_10.jpg",
+        "description": "A half up office bun works well when\n\nyou want hair off your face but still like some length showing. Section\n\noff the top half of your hair from temple to temple and pull it back into a small ponytail.\n\nTwist that section into a compact bun\n\nat the crown or upper back of your head, keeping the bun\n\nsmall and neat. Leave the lower half of your hair down\n\nand lightly smoothed so it doesn\u2019t look too casual or messy. This look suitsbusiness-casual environmentsor creative workplaces where a bit of personality is welcome.\n\nYou can wear the lower section\n\nstraight, lightly waved, or naturally textured, as long as the top bun remains tidy and minimalist.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for half up office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Minimalist Messy Low Bun For Work",
+        "image": "/images/doc143_img_11.jpg",
+        "description": "For more relaxed offices, a minimalist messy low bun offers a balance between\n\ntidy and effortless. Start with slightly textured hair, like second-day hair or softly waved lengths, and gather it into a low ponytail.\n\nTwist and wrap the hair into a bun, but don\u2019t worry about every strand being perfectly in place.\n\nGently pull a few pieces around the bun for soft volume while keeping the overall shape compact.\n\nThe front should still look controlled, so avoid pulling out too many face-framing strands. This bun\n\nlooks great with knit tops, simple dresses, and minimal jewelry, giving a calm, approachable look that still feels work-ready.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for minimalist messy low bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Low Chignon Office Bun",
+        "image": "/images/doc143_img_12.jpg",
+        "description": "Alow chignon office bunis a slightly softer take on\n\na classic bun, with a smooth front and gently tucked back. Start with a low ponytail at the nape, then\n\nloosely twist or roll the hair upward and pin it into a compact, horizontal shape.\n\nThe front stays neat, but the chignon itself can\n\nhave a subtle curve that looks refined rather than rigid.\n\nThis shape works well with business-casual outfits and gives off a polished, approachable vibe. If your hair has natural wave, you can\n\nlet a bit of that texture show in the chignon\n\nwhile keeping the top smooth for office-appropriate balance. Avoid over-pulling pieces out; the key to minimalism\n\nhere is a controlled, streamlined finish with just a hint of softness.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low chignon office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Smooth High Office Bun",
+        "image": "/images/doc143_img_13.jpg",
+        "description": "For days when you want a slightly more lifted look, the smooth high office bun\n\nsits at the crown and opens up your features.\n\nBrush hair upward and gather it into a high ponytail, keeping the sides as smooth as you reasonably can. Twist the ponytail, then\n\nwrap it around the base and secure with pins or a strong hair tie. This bun\n\ngives the illusion of a longer neck and a taller silhouette, which can\n\nlook especially chic with tailored blazers. Because it sits higher, it also keeps hair away from\n\ncollars and scarves, which can feel more comfortable in\n\nwarm offices.\n\nFinish with a light shine spray to enhance the sleek look without making the style feel heavy.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for smooth high office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Classic Low Office Bun",
+        "image": "/images/doc143_img_14.jpg",
+        "description": "On rushed mornings, the classic low office bun\n\nis often the easiest way to look instantly put together.\n\nYou start by brushing your hair to remove tangles, then gather it at the nape of your neck like a low ponytail.\n\nTwist the length, wrap it around the base, and secure it with pins for a compact, simple shape that feels sleek but not severe. This neat bun\n\npairs well with collared shirts, blazers, or simple dresses and looks appropriate in conservative offices.\n\nUse smoothing cream or a light hairspray to tame flyaways without making your hair look stiff or crunchy.\n\nIf your hair is fine, gently tug at the bun for a bit of soft volume while keeping the overall outline clean\n\nand minimal.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for classic low office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Low Coiled Office Bun",
+        "image": "/images/doc143_img_15.jpg",
+        "description": "A low coiled office bun gives a compact, spiral effect that looks tidy from\n\nevery angle. After brushing your hair back into a low ponytail, divide the ponytail into two or three smaller sections.\n\nTwist each section and coil them\n\naround the base one at a time, pinning as you go to create a layered bun. This technique adds subtle detail and can\n\nhelp distribute thick hair more evenly. The front should stay smooth or softly brushed back, keeping the focus on\n\nthe clean coiled shape at the nape.\n\nUse a flexible-hold hairspray to keep everything secure while still allowing a natural look and comfortable movement throughout the day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low coiled office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Minimalist Low Knot Bun",
+        "image": "/images/doc143_img_16.jpg",
+        "description": "A minimalist low knot bun feels almost like a tiny knot at the base of your neck, ideal for very simple work looks.\n\nYou gather hair into a low ponytail, then loop it once and tuck the ends underneath to form\n\na compact knot. Pin\n\nthe knot close to the head so it doesn\u2019t stick out too far, which keeps the style subtle under coats or collared shirts. The finish should look smooth and clean\n\nbut not overly slicked, giving a calm, controlled vibe. This bun\n\nworks especially well on medium\n\nto long hair that\u2019s straight or slightly wavy. It\u2019s also a great option\n\nif you wear glasses or in-ear headphones at work because it sits low and doesn\u2019t interfere with frames or bands.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for minimalist low knot bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Soft Textured Low Office Bun",
+        "image": "/images/doc143_img_17.jpg",
+        "description": "A soft textured low office bun is a gentle option\n\nwhen you want some movement but still need a tidy look.\n\nStart with naturally wavy hair or create loose waves with a curler, then brush lightly to blend.\n\nGather the hair into a low ponytail, but don\u2019t over-smooth; allow a bit of texture to show. Twist the ponytail loosely into a bun\n\nand pin it, letting some of the wave pattern\n\nremain visible in\n\nthe bun surface.\n\nKeep the bun small and controlled so it stays appropriate for the office and doesn\u2019t look like an\n\nevening updo. Finish with a light mist of flexible hairspray to maintain\n\nthe texture while preventing frizz through the workday.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for soft textured low office bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "Low Bun With Face-Framing Pieces",
+        "image": "/images/doc143_img_18.jpg",
+        "description": "A low bun with face-framing pieces softens your overall look while still reading as office-appropriate.\n\nCreate a middle or side part, then gently pull out a few thin\n\npieces around your face before securing a low ponytail. Twist the ponytail into a bun\n\nand pin it neatly at the nape, keeping the bun\n\nsmall and polished. Lightly curl or smooth the face-framing pieces so they skim\n\nthe cheeks rather than hanging in\n\nyour eyes. This look can\n\nbe especially flattering if you like to balance a sharp blazer or structured shirt with softer hair. Be sure to keep the pieces narrow and controlled so the style feels intentional rather than\n\nmessy or distracting at work.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun with face-framing pieces.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "old-money-bun-hairstyles",
+    "slug": "old-money-bun-hairstyles",
+    "title": "17+ Old Money Bun Hairstyles for That Quiet-Luxury Look",
+    "docId": "doc144",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc144_img_1.jpg",
+    "heroImage": "/images/doc144_img_1.jpg",
+    "excerpt": "The old money bun has a quiet confidence that never tries too hard, yet instantly looks polished and expensive.",
+    "description": "The old money bun has a quiet confidence that never tries too hard, yet instantly looks polished and expensive.\n\nThis hairstyle is all about restraint, clean lines, and healthy, well-groomed hair rather than\n\nloud trends or intricate, fussy details. Think of it as the updo version\n\nof a tailored blazer: it works for workdays, weddings, and everything in between, and it makes almost any outfit feel more refined.\n\nOld money buns today lean into smooth finishes, soft volume, and strategic parting that flatters your face while keeping the overall shape simple and timeless.\n\nWhether your hair is medium or long, straight or softly wavy, you can\n\nadapt this look by focusing on shine, minimal accessories, and neat structure.\n\nBelow are 20 distinct bun looks that capture that classic, quiet luxury mood.\n\nA low polished bun is often\n\nthe first hairstyle people picture when they think of theold money lookbecause it sits neatly at the nape and looks instantly put together.\n\nHair is brushed smooth, parting is clean, and the bun is wrapped tightly enough to look sleek but not pulled so hard that it feels severe.\n\nThis version works best on\n\nmedium to long hair and looks great with a simple blouse, blazer, or understated dress.\n\nUse a smoothing cream or light gel from\n\nroots to mid-lengths to control flyaways, then gather hair into a low ponytail and twist it into a compact bun\n\nsecured with pins. Finish with a light mist of flexible-hold spray so the hair still moves slightly instead of looking crunchy or stiff.\n\nThe classic center part low bun brings a clean, symmetrical frame to your face, which feels very refined and expensive without much effort.\n\nYou create a straight middle part, smooth each side back with a boar-bristle brush, and secure a low ponytail at the nape before wrapping it into a neat bun. This look pairs beautifully with pearl earrings or a simple chain\n\nnecklace, and it works for office days, dinners, or formal events. To keep it soft, avoid overloading the roots with heavy product; instead, apply a lightweight serum\n\nor cream on\n\nmid-lengths and ends, and only a small amount near the parting. The result is a bun\n\nthat reads as polished and controlled, while the hair still has a natural, healthy sheen instead of looking overly styled.\n\nA side part old money bun feels slightly more relaxed and flattering for many face shapes while staying within\n\nthat clean, quiet luxury aesthetic. You start by creating a deep or soft side part, then\n\nbrush hair back into a low ponytail, making sure the front section has a smooth, gentle sweep rather than\n\nharsh volume. From\n\nthere, twist the ponytail into a bun and pin\n\nit close to the head. This style is especially nice if you want to balance strong features or soften\n\na high forehead, since the side part adds a bit of asymmetry and movement near the face. Use a light-hold spray and a tiny bit of pomade on\n\nyour hairline to control flyaways, keeping everything sleek but not overly flat or stiff. An\n\nelegantbridal old money bunis a timeless choice for weddings because it looks sophisticated in photos now and still will decades later.\n\nThis version usually sits low, with the bun\n\neither directly centered or slightly off to one side, and the hair is smoothed carefully so there are no harsh bumps or messy pieces. You can\n\nincorporate subtle twists or cross-over sections at the back for interest, but the overall silhouette should stay clean and classic.\n\nA veil, pearl pins, or a minimal comb can be added without overwhelming the shape.\n\nPrep the hair with a blowout for shine, then use a strong but flexible hairspray so the bun\n\nholds through the day while still keeping that soft, expensive-looking finish in real life and on\n\ncamera. Thelow chignon\n\nold money bunis a softer, slightly more rounded take on the classic low bun, making it perfect for evening events or dressy days.\n\nHair is gathered at the nape and tucked into a looped or rolled shape, creating a compact knot that feels more sculpted and less twisted. This style often\n\nhas a bit of subtle volume at the crown so the head shape looks balanced, but it still avoids teased, obvious height.\n\nTo get the look, blow-dry your hair smooth, backcomb lightly at the crown if needed, then\n\nform a low ponytail and fold it under itself before pinning.\n\nA light serum on\n\nthe surface adds shine, while the chignon\u2019s tidy shape gives off that effortless, inherited elegance vibe. A French twist old money bun\n\nmerges two classics: the long vertical roll and the neat bun finish at the base or top of the twist.\n\nHair is swept back from the sides, twisted upward along the back of the head, and then\n\neither tucked into itself or finished with the ends rolled into a small bun near the crown\n\nor nape. This look works best on\n\nmedium to long hair and feels very appropriate for black-tie events, theater nights, and weddings.\n\nTo keep it modern and old money rather than\n\ndated, aim for smooth sides and a softly structured twist without hard, crunchy spray lines.\n\nUse plenty of discreet bobby pins and finish with a light mist of shine spray so the twist reflects light in a subtle, healthy way.\n\nThe sleek mid bun old money look places the bun\n\nin the middle of the back of your head, halfway between\n\nthe crown and the nape, which feels refined yet slightly unexpected.\n\nIt\u2019s especially good if you want your bun to show clearly from\n\nboth the front and back when you turn\n\nyour head. To style it, create either a middle or soft side part, then\n\nbrush hair back smoothly and secure a mid-height ponytail. Twist the pony into a tight bun\n\nand pin it flush against the head.\n\nThis placement opens up the neck like a low bun, but gives a bit more lift visually. Use a smoothing cream\n\nand fine-tooth comb to refine the surface, making sure the bun\u2019s edges are clean for that understated, \u201cold money\u201d precision.\n\nA textured low old money bun works well when\n\nyou want a softer finish without slipping into messy, undone territory. The hair is prepped with loose waves or curls, then\n\ngently gathered into a low bun at the nape while keeping some of that texture visible in\n\nthe bun itself.\n\nThe key is to control frizz and keep the top smooth, so the style still feels expensive rather than casual.\n\nCurl your hair with a large-barrel iron, brush through for soft waves, then loosely twist and pin\n\ninto a bun, allowing the loops and folds to show. Add a small amount of light-hold hairspray and shine spray to catch the light without making the hair look stiff or overloaded with products.\n\nAnold money bun with pearlstakes a classic low bun\n\nand elevates it with minimal, strategic pearl accents that instantly read as quiet luxury. Start with a polished low bun, then\n\ntuck in a few small pearl pins around one side or along the base rather than\n\nscattering them everywhere.\n\nThis design is lovely for weddings, graduations, and evening events where you want something special but not flashy.\n\nKeep other accessories simple: small stud earrings and a delicate necklace are enough. Make sure the hair underneath is very smooth, since pearls highlight the bun\u2019s structure and any frizz will stand out.\n\nA shine serum and smoothing brush before styling will help the bun\n\nlook refined and worthy of those understated embellishments. The old money bun\n\nwith face framing pieces softens the look without losing that elevated, put-together feel. You leave out a few thin\n\nstrands or soft sections around the front before pulling the rest into a low or mid bun. These pieces are gently smoothed or curled to skim\n\nthe cheekbones and jawline, giving a romantic, approachable feel to an otherwise sleek style.\n\nThis is a great option if you feel too exposed with all your hair back or if you want to balance a strong jaw.\n\nUse a small curling iron to create loose bends in\n\nthose front pieces, then apply a tiny bit of lightweight oil to keep them\n\nshiny and frizz-free while the bun itself remains neat and structured.\n\nThe old money bun for medium\n\nlength hair focuses on clean\n\ntechnique and clever pinning so you can still get a refined bun\n\neven without very long lengths.\n\nYou\u2019ll typically work with a low or mid bun, since high buns need more hair to look full. Start by smoothing your hair and making a simple ponytail, then\n\ndivide it into two sections and knot or twist them before wrapping each piece around the base.\n\nThis creates the illusion of more volume and structure.\n\nUse bobby pins that match your hair color so they disappear into the style. Finish with a lightweight hairspray to hold everything without weighing the hair down, maintaining that polished, quietly luxurious effect.\n\nAn old money bun\n\nfor long thick hair takes advantage of natural density to create a full, elegant shape that looks very high-end when controlled properly.\n\nBecause thick hair can be heavy, you\u2019ll usually want a low or mid bun\n\nto avoid tension on\n\nthe scalp. Blow-dry the hair smooth with a large round brush, then\n\ngather it into a ponytail and twist or rope-braid it before wrapping into a bun. This helps manage bulk and keeps the silhouette neat instead of bulky or messy.\n\nYou may need extra-long pins or hairpins for security. A smoothing cream\n\nand shine spray will keep the surface glossy, while a firm but flexible hairspray locks the shape in\n\nplace for hours without losing that soft, expensive-looking movement. The old money bun\n\nwith soft waves starts by embracing a wavy texture through the lengths, then gathering it into a refined updo.\n\nYou curl the hair first with a large-barrel iron or rollers, brush it out for smooth waves, and then\n\nloosely twist it into a low bun. The waves add a gentle, romantic dimension\n\ninside the bun and around the head, but the overall outline stays tidy and controlled.\n\nThis style is perfect for daytime events,cocktail parties, or polished weekends, because it feels slightly more relaxed than a super-sleek bun\n\nwhile still looking expensive. Use a light texturizing spray before curling, then\n\nfinish with a soft-hold hairspray to keep the waves visible inside the bun without turning crunchy.\n\nAn old money bun\n\nwith middle part waves blends the symmetry of a center part with the softness of waved lengths, giving a modern yet classic feel.\n\nYou start by creating a sharp middle part and curling the lengths into smooth waves, then gently sweep the sides back and gather everything into a low bun\n\nat the nape. The part keeps the style polished, while the waves create a subtle halo of movement instead of a flat, slicked-back look.\n\nThis works especially well if you want to highlight cheekbones and eyes without exposing your entire forehead with a slick style. Apply a shine spray after curling, then\n\nuse a lightweight cream around the hairline to control flyaways while keeping the waves soft and touchable.\n\nThe old money bun with side bangs is ideal if you already have side-swept bangs or want to create the effect with shorter front sections.\n\nThe bun itself stays clean\n\nand minimal, usually low or mid, while the side bangs are styled smooth or gently curved to skim across the forehead.\n\nThis combination balances a structured bun\n\nwith a softer, more approachable front view, which can be very flattering on\n\nround, square, or heart-shaped faces. To style, blow-dry the bangs with a round brush for a smooth curve, then\n\npull the rest of the hair into a neat bun. Finish with a small amount of serum\n\non the bangs and a light spray on\n\nthe bun so everything looks polished without feeling stiff.\n\nAn old money bun\n\nwithvolume at the crowngives a subtle lift that feels regal without looking overdone or teased to extremes. Hair is lightly backcombed at the crown\n\nbefore being smoothed over and gathered into a low or mid bun. This creates a gentle height that elongates the face and pairs beautifully with eveningwear, tailored coats, or structured dresses.\n\nThe key is keeping the bump very controlled and minimal so it reads as natural head shape rather than obvious styling.\n\nUse a fine-tooth comb to smooth the top layer over the backcombing, then secure your ponytail and form\n\nthe bun as usual.\n\nA flexible hairspray will hold the volume while the rest of the hair stays sleek and glossy. The old money bun\n\nfor formal events is all about immaculate finish and long-lasting structure that still looks soft in person\n\nand in photos.\n\nUsually, this means a low or mid bun with a clean\n\npart, smooth sides, and a carefully pinned bun that shows no visible elastics or bobby pins.\n\nThe style should complement gowns and tailored suits without competing with necklines or jewelry. For extra polish, stylists often\n\nprep the hair with a blowout and smoothing products, then layer sprays: a heat protectant for styling, a working spray while pinning, and a final fine mist for hold.\n\nThe result is a bun that stays neat through hours of movement but still carries that quiet, inherited elegance associated with the old money aesthetic.\n\nA simple everyday old money bun proves that you don\u2019t need a big event to wear a polished, refined updo.\n\nThis version is quick: you smooth your hair into a low or mid ponytail, twist it into a small bun, and pin\n\nit securely, focusing more on neatness than\n\non perfect symmetry.\n\nThe look pairs well with button-down shirts, simple knitwear, and structured outerwear, making everyday outfits feel more intentional.\n\nTo keep it practical, skip heavy sprays and use a light cream or leave-in\n\nconditioner to tame frizz and flyaways. The goal is a bun\n\nthat looks quietly expensive but still very wearable for work, errands, and casual lunches, instead of a style that feels too formal for daily life.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Simple Everyday Old Money Bun",
+        "image": "/images/doc144_img_1.jpg",
+        "description": "A simple everyday old money bun proves that you don\u2019t need a big event to wear a polished, refined updo.\n\nThis version is quick: you smooth your hair into a low or mid ponytail, twist it into a small bun, and pin\n\nit securely, focusing more on neatness than\n\non perfect symmetry.\n\nThe look pairs well with button-down shirts, simple knitwear, and structured outerwear, making everyday outfits feel more intentional.\n\nTo keep it practical, skip heavy sprays and use a light cream or leave-in\n\nconditioner to tame frizz and flyaways. The goal is a bun\n\nthat looks quietly expensive but still very wearable for work, errands, and casual lunches, instead of a style that feels too formal for daily life.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for simple everyday old money bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Old Money Bun For Long Thick Hair",
+        "image": "/images/doc144_img_2.jpg",
+        "description": "An old money bun\n\nfor long thick hair takes advantage of natural density to create a full, elegant shape that looks very high-end when controlled properly.\n\nBecause thick hair can be heavy, you\u2019ll usually want a low or mid bun\n\nto avoid tension on\n\nthe scalp. Blow-dry the hair smooth with a large round brush, then\n\ngather it into a ponytail and twist or rope-braid it before wrapping into a bun. This helps manage bulk and keeps the silhouette neat instead of bulky or messy.\n\nYou may need extra-long pins or hairpins for security. A smoothing cream\n\nand shine spray will keep the surface glossy, while a firm but flexible hairspray locks the shape in\n\nplace for hours without losing that soft, expensive-looking movement.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun for long thick hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Old Money Bun With Pearls",
+        "image": "/images/doc144_img_3.jpg",
+        "description": "Anold money bun with pearlstakes a classic low bun\n\nand elevates it with minimal, strategic pearl accents that instantly read as quiet luxury. Start with a polished low bun, then\n\ntuck in a few small pearl pins around one side or along the base rather than\n\nscattering them everywhere.\n\nThis design is lovely for weddings, graduations, and evening events where you want something special but not flashy.\n\nKeep other accessories simple: small stud earrings and a delicate necklace are enough. Make sure the hair underneath is very smooth, since pearls highlight the bun\u2019s structure and any frizz will stand out.\n\nA shine serum and smoothing brush before styling will help the bun\n\nlook refined and worthy of those understated embellishments.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun with pearls.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Classic Center Part Low Bun",
+        "image": "/images/doc144_img_4.jpg",
+        "description": "The classic center part low bun brings a clean, symmetrical frame to your face, which feels very refined and expensive without much effort.\n\nYou create a straight middle part, smooth each side back with a boar-bristle brush, and secure a low ponytail at the nape before wrapping it into a neat bun. This look pairs beautifully with pearl earrings or a simple chain\n\nnecklace, and it works for office days, dinners, or formal events. To keep it soft, avoid overloading the roots with heavy product; instead, apply a lightweight serum\n\nor cream on\n\nmid-lengths and ends, and only a small amount near the parting. The result is a bun\n\nthat reads as polished and controlled, while the hair still has a natural, healthy sheen instead of looking overly styled.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for classic center part low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Old Money Bun For Formal Events",
+        "image": "/images/doc144_img_5.jpg",
+        "description": "The old money bun for formal events is all about immaculate finish and long-lasting structure that still looks soft in\n\nperson and in\n\nphotos. Usually, this means a low or mid bun\n\nwith a clean part, smooth sides, and a carefully pinned bun\n\nthat shows no visible elastics or bobby pins. The style should complement gowns and tailored suits without competing with necklines or jewelry.\n\nFor extra polish, stylists often prep the hair with a blowout and smoothing products, then\n\nlayer sprays: a heat protectant for styling, a working spray while pinning, and a final fine mist for hold. The result is a bun\n\nthat stays neat through hours of movement but still carries that quiet, inherited elegance associated with the old money aesthetic.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun for formal events.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Old Money Bun With Middle Part Waves",
+        "image": "/images/doc144_img_6.jpg",
+        "description": "An old money bun\n\nwith middle part waves blends the symmetry of a center part with the softness of waved lengths, giving a modern yet classic feel.\n\nYou start by creating a sharp middle part and curling the lengths into smooth waves, then gently sweep the sides back and gather everything into a low bun\n\nat the nape. The part keeps the style polished, while the waves create a subtle halo of movement instead of a flat, slicked-back look.\n\nThis works especially well if you want to highlight cheekbones and eyes without exposing your entire forehead with a slick style. Apply a shine spray after curling, then\n\nuse a lightweight cream around the hairline to control flyaways while keeping the waves soft and touchable.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun with middle part waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Sleek Mid Bun Old Money Look",
+        "image": "/images/doc144_img_7.jpg",
+        "description": "The sleek mid bun old money look places the bun\n\nin the middle of the back of your head, halfway between\n\nthe crown and the nape, which feels refined yet slightly unexpected.\n\nIt\u2019s especially good if you want your bun to show clearly from\n\nboth the front and back when you turn\n\nyour head. To style it, create either a middle or soft side part, then\n\nbrush hair back smoothly and secure a mid-height ponytail. Twist the pony into a tight bun\n\nand pin it flush against the head.\n\nThis placement opens up the neck like a low bun, but gives a bit more lift visually. Use a smoothing cream\n\nand fine-tooth comb to refine the surface, making sure the bun\u2019s edges are clean for that understated, \u201cold money\u201d precision.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek mid bun old money look.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Old Money Bun With Face Framing Pieces",
+        "image": "/images/doc144_img_8.jpg",
+        "description": "The old money bun with face framing pieces softens the look without losing that elevated, put-together feel.\n\nYou leave out a few thin strands or soft sections around the front before pulling the rest into a low or mid bun.\n\nThese pieces are gently smoothed or curled to skim the cheekbones and jawline, giving a romantic, approachable feel to an\n\notherwise sleek style. This is a great option\n\nif you feel too exposed with all your hair back or if you want to balance a strong jaw. Use a small curling iron\n\nto create loose bends in those front pieces, then\n\napply a tiny bit of lightweight oil to keep them shiny and frizz-free while the bun\n\nitself remains neat and structured.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun with face framing pieces.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Textured Low Old Money Bun",
+        "image": "/images/doc144_img_9.jpg",
+        "description": "A textured low old money bun works well when\n\nyou want a softer finish without slipping into messy, undone territory. The hair is prepped with loose waves or curls, then\n\ngently gathered into a low bun at the nape while keeping some of that texture visible in\n\nthe bun itself.\n\nThe key is to control frizz and keep the top smooth, so the style still feels expensive rather than casual.\n\nCurl your hair with a large-barrel iron, brush through for soft waves, then loosely twist and pin\n\ninto a bun, allowing the loops and folds to show. Add a small amount of light-hold hairspray and shine spray to catch the light without making the hair look stiff or overloaded with products.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for textured low old money bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Old Money Bun With Soft Waves",
+        "image": "/images/doc144_img_10.jpg",
+        "description": "The old money bun with soft waves starts by embracing a wavy texture through the lengths, then\n\ngathering it into a refined updo. You curl the hair first with a large-barrel iron\n\nor rollers, brush it out for smooth waves, and then loosely twist it into a low bun.\n\nThe waves add a gentle, romantic dimension inside the bun\n\nand around the head, but the overall outline stays tidy and controlled. This style is perfect for daytime events,cocktail parties, or polished weekends, because it feels slightly more relaxed than\n\na super-sleek bun while still looking expensive.\n\nUse a light texturizing spray before curling, then finish with a soft-hold hairspray to keep the waves visible inside the bun\n\nwithout turning crunchy.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun with soft waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "French Twist Old Money Bun",
+        "image": "/images/doc144_img_11.jpg",
+        "description": "A French twist old money bun merges two classics: the long vertical roll and the neat bun\n\nfinish at the base or top of the twist. Hair is swept back from\n\nthe sides, twisted upward along the back of the head, and then either tucked into itself or finished with the ends rolled into a small bun\n\nnear the crown or nape.\n\nThis look works best on medium\n\nto long hair and feels very appropriate for black-tie events, theater nights, and weddings. To keep it modern\n\nand old money rather than dated, aim\n\nfor smooth sides and a softly structured twist without hard, crunchy spray lines. Use plenty of discreet bobby pins and finish with a light mist of shine spray so the twist reflects light in\n\na subtle, healthy way.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for french twist old money bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Low Chignon Old Money Bun",
+        "image": "/images/doc144_img_12.jpg",
+        "description": "Thelow chignon old money bunis a softer, slightly more rounded take on\n\nthe classic low bun, making it perfect for evening events or dressy days. Hair is gathered at the nape and tucked into a looped or rolled shape, creating a compact knot that feels more sculpted and less twisted.\n\nThis style often has a bit of subtle volume at the crown\n\nso the head shape looks balanced, but it still avoids teased, obvious height. To get the look, blow-dry your hair smooth, backcomb lightly at the crown\n\nif needed, then form\n\na low ponytail and fold it under itself before pinning. A light serum\n\non the surface adds shine, while the chignon\u2019s tidy shape gives off that effortless, inherited elegance vibe.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low chignon old money bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Old Money Bun For Medium Length Hair",
+        "image": "/images/doc144_img_13.jpg",
+        "description": "The old money bun for medium\n\nlength hair focuses on clean\n\ntechnique and clever pinning so you can still get a refined bun\n\neven without very long lengths.\n\nYou\u2019ll typically work with a low or mid bun, since high buns need more hair to look full. Start by smoothing your hair and making a simple ponytail, then\n\ndivide it into two sections and knot or twist them before wrapping each piece around the base.\n\nThis creates the illusion of more volume and structure.\n\nUse bobby pins that match your hair color so they disappear into the style. Finish with a lightweight hairspray to hold everything without weighing the hair down, maintaining that polished, quietly luxurious effect.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun for medium length hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Side Part Old Money Bun",
+        "image": "/images/doc144_img_14.jpg",
+        "description": "A side part old money bun feels slightly more relaxed and flattering for many face shapes while staying within\n\nthat clean, quiet luxury aesthetic. You start by creating a deep or soft side part, then\n\nbrush hair back into a low ponytail, making sure the front section has a smooth, gentle sweep rather than\n\nharsh volume. From\n\nthere, twist the ponytail into a bun and pin\n\nit close to the head. This style is especially nice if you want to balance strong features or soften\n\na high forehead, since the side part adds a bit of asymmetry and movement near the face. Use a light-hold spray and a tiny bit of pomade on\n\nyour hairline to control flyaways, keeping everything sleek but not overly flat or stiff.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for side part old money bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Old Money Bun With Side Bangs",
+        "image": "/images/doc144_img_15.jpg",
+        "description": "The old money bun with side bangs is ideal if you already have side-swept bangs or want to create the effect with shorter front sections.\n\nThe bun itself stays clean\n\nand minimal, usually low or mid, while the side bangs are styled smooth or gently curved to skim across the forehead.\n\nThis combination balances a structured bun\n\nwith a softer, more approachable front view, which can be very flattering on\n\nround, square, or heart-shaped faces. To style, blow-dry the bangs with a round brush for a smooth curve, then\n\npull the rest of the hair into a neat bun. Finish with a small amount of serum\n\non the bangs and a light spray on\n\nthe bun so everything looks polished without feeling stiff.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun with side bangs.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Elegant Bridal Old Money Bun",
+        "image": "/images/doc144_img_16.jpg",
+        "description": "An elegantbridal old money bunis a timeless choice for weddings because it looks sophisticated in\n\nphotos now and still will decades later. This version\n\nusually sits low, with the bun either directly centered or slightly off to one side, and the hair is smoothed carefully so there are no harsh bumps or messy pieces.\n\nYou can incorporate subtle twists or cross-over sections at the back for interest, but the overall silhouette should stay clean\n\nand classic. A veil, pearl pins, or a minimal comb can\n\nbe added without overwhelming the shape. Prep the hair with a blowout for shine, then\n\nuse a strong but flexible hairspray so the bun holds through the day while still keeping that soft, expensive-looking finish in\n\nreal life and on camera.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for elegant bridal old money bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Old Money Bun With Volume At Crown",
+        "image": "/images/doc144_img_17.jpg",
+        "description": "An old money bun\n\nwithvolume at the crowngives a subtle lift that feels regal without looking overdone or teased to extremes. Hair is lightly backcombed at the crown\n\nbefore being smoothed over and gathered into a low or mid bun. This creates a gentle height that elongates the face and pairs beautifully with eveningwear, tailored coats, or structured dresses.\n\nThe key is keeping the bump very controlled and minimal so it reads as natural head shape rather than obvious styling.\n\nUse a fine-tooth comb to smooth the top layer over the backcombing, then secure your ponytail and form\n\nthe bun as usual.\n\nA flexible hairspray will hold the volume while the rest of the hair stays sleek and glossy.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for old money bun with volume at crown.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "Low Polished Old Money Bun",
+        "image": "/images/doc144_img_18.jpg",
+        "description": "A low polished bun is often\n\nthe first hairstyle people picture when they think of theold money lookbecause it sits neatly at the nape and looks instantly put together.\n\nHair is brushed smooth, parting is clean, and the bun is wrapped tightly enough to look sleek but not pulled so hard that it feels severe.\n\nThis version works best on\n\nmedium to long hair and looks great with a simple blouse, blazer, or understated dress.\n\nUse a smoothing cream or light gel from\n\nroots to mid-lengths to control flyaways, then gather hair into a low ponytail and twist it into a compact bun\n\nsecured with pins. Finish with a light mist of flexible-hold spray so the hair still moves slightly instead of looking crunchy or stiff.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low polished old money bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "overnight-bun-waves-hairstyles",
+    "slug": "overnight-bun-waves-hairstyles",
+    "title": "13+ Overnight Bun Waves Hairstyles for Effortless Texture",
+    "docId": "doc145",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc145_img_1.jpg",
+    "heroImage": "/images/doc145_img_1.jpg",
+    "excerpt": "Waking up with a stunning overnight bun waves hairstyle is the ultimate time-saving hack for anyone looking to embraceheatless beautyin",
+    "description": "Waking up with a stunning overnight bun waves hairstyle is the ultimate time-saving hack for anyone looking to embraceheatless beautyin\n\n2026. This method involves securing your damp or dry hair into a bun\n\nbefore sleep to create natural-looking texture without the damage of hot tools. As trends shift toward healthier hair and effortless aesthetics, mastering various bun\n\ntechniques allows you to customize your wave pattern from\n\nloose beachy bends to tight bouncy curls. Whether you have fine strands or thick tresses, there is a specific bun\n\nstyle that will provide the volume and definition you desire.\n\nThis guide explores twenty different variations of the classic overnight bun to help you achieve professional results while you rest peacefully.\n\nSecuring your hair in a low bun\n\nwaves overnight is one of the most popular ways to achieve a relaxed and sophisticated look. To start, gather your slightly damp hair at the nape of your neck and twist it into a neat coil.\n\nFasten the bun\n\nwith a soft silk scrunchie to minimize friction and prevent any unwanted creases while you sleep.\n\nThis specific placement ensures that the waves begin lower down\n\nthe hair shaft, creating a beautiful transition from\n\nsmooth roots to textured ends. In\n\nthe morning, gently unravel the bun and use your fingers to shake out the strands for a soft, voluminous finish that looks professionally styled without any heat application.\n\nIf you want maximum volume at the roots, the high bun\n\nwaves technique is your best option for overnight styling.\n\nBy gathering your hair at the very top of your head, you pull the roots upward, which creates a natural lift once the hair is released. Twist your hair firmly and wrap it into a secure bun\n\nusing a fabric-covered elastic to avoid snagging. This method is particularly effective for those with longer hair who find that low buns can\n\nfeel heavy or uncomfortable while sleeping. When\n\nyou wake up, your hair will have incredible body and large, bouncy waves that frame your face perfectly and provide a glamorous, full-bodied appearance. Creating space buns waves is a fantastic way to get more defined and symmetrical texture throughout your entire head of hair.\n\nStart by parting your hair down the middle and creatingtwo high pigtails, then\n\ntwist each one into a tight bun. Because the hair is divided into two sections, the wave pattern\n\nbecomes more consistent and tighter than a single bun.\n\nThis method works exceptionally well for individuals with thick hair who need to distribute the bulk to ensure everything dries and sets properly overnight. The result is a fun, energetic wave pattern\n\nthat looks balanced and uniform from\n\nside to side, providing a beautiful and very effortless aesthetic. For those who prefer a more structured and crimped texture, combining braids with buns results in\n\nbeautiful braided bun waves.\n\nFirst, braid your hair into a simple three-strand plait or a fishtail braid, then roll that braid up into a bun\n\nand secure it tightly. This double-styling technique locks the hair into a specific pattern\n\nthat creates very long-lasting waves with a unique, woven appearance.\n\nIt is an excellent choice for people with slippery or fine hair that usually struggles to hold a curl.\n\nIn the morning, you will find that your hair has a beautiful, textured look that stays defined throughout the day with minimal need for extra hairspray.\n\nAchieving a lived-in and casual look is easy when\n\nyou utilize the messy bun waves method for your overnight hair routine.\n\nInstead of twisting the hair into a perfect coil, tuck the ends loosely and allow some pieces to remain slightly relaxed within\n\nthe bun. This lack of uniformity creates a very natural and beachy wave pattern\n\nthat does not look too \u201cdone\u201d or structured. It is perfect for those who enjoy a bohemian\n\nvibe or want a hairstyle that looks great with very little effort. The soft bends and varied textures provide a modern, effortless finish that works beautifully for any casual occasion\n\nor a simple day at the office. The twisted bun\n\nwaves technique is ideal for creating elegant, rope-like spirals that look like they were made with a professional curling wand. Divide your hair into two sections and twist each one tightly around itself before coiling them\n\nboth into a single bun at the back of your head.\n\nThis internal twisting adds extra tension to the strands, which helps the wave set more firmly into the hair cuticle while you sleep.\n\nWhen you release the bun\n\nin the morning, you will be greeted with smooth, sleek spirals that have a polished shine.\n\nThis method is highly recommended for anyone who wants a more refined and glossy finish to their waves. Using a foam\n\ndonut or a rolled-up sock to createsock bun wavesis a classic heatless method that never fails.\n\nBy wrapping your hair around the large surface area of the sock, you create big, voluminous loops rather than tight curls.\n\nStart with a high ponytail and pull the hair through the center of the sock, then roll it down\n\ntoward the base until it is secure. The foam\n\nor fabric provides a soft cushion that is comfortable to sleep on\n\nwhile keeping the hair in a consistent shape.\n\nThis results in wide, Hollywood-style waves that add a touch of timeless glamour and incredible fullness to your hair.\n\nProtecting your hair while styling is a top priority, and silk scrunchie bun waves offer the perfect balance of care and beauty.\n\nUsing a 100% silk or high-quality satin scrunchie to secure your bun\n\nprevents the hair from breaking or developing those annoying horizontal dents.\n\nSilk allows the hair to glide easily, which keeps the wave pattern smooth and reduces frizz significantly during the night.\n\nThis approach is best for individuals with fragile or color-treated hair who want to avoid any physical stress on their strands.\n\nYou will wake up with healthy, glowing waves that feel as soft as they look, with zero damage to your precious hair. The ballerina bun\n\nwaves method involves creating a very tight and sleek bun that sits firmly against the head for a structured set.\n\nThis technique works best on hair that is about eighty percent dry, as the tight coil forces the moisture to evaporate slowly while holding the shape.\n\nBecause the bun is so compact, the resulting waves are often\n\nsmaller and more frequent, giving the hair a very dense and textured appearance once it is brushed out. It is a fantastic option\n\nfor someone who wants to achieve more of a \u201cringlet\u201d feel rather than a loose wave.\n\nIt also provides a neat and tidy way to keep your hair out of the way. If you\u2019re looking for a simple and effective way to get height and texture, the top knot bun\n\nwaves technique is a perfect choice. This method requires pulling all your hair to the crown\n\nof your head and securing it in a very high bun.\n\nThis placement creates a very flattering lift that opens up your face and adds a modern, chic feel to your appearance. It is an\n\nexcellent way to prepare for a busy day when you don\u2019t have time to style your hair in\n\nthe morning. When\n\nyou undo the bun, the waves flow beautifully from the top of your head, giving you a very sophisticated and energetic style.\n\nUsing damp hair bun waves is one of the most reliable ways to make sure your texture sets correctly and lasts all day.\n\nWhen the hair is slightly moist, the bonds are more flexible and can\n\nbe easily molded into the shape of the bun as they dry.\n\nStart with a hair treatment or a small amount of sea salt spray on your damp strands before twisting them\n\ninto a secure bun. This creates a more defined and resilient wave that doesn\u2019t fall flat as quickly as waves done on\n\ndry hair. In\n\nthe morning, you\u2019ll find that your hair has a very bouncy and voluminous texture that stays in place.\n\nCreating fine hair bun waves requires a delicate touch and the right products to ensure that the texture doesn\u2019t look stringy or weighted down.\n\nFor those with fine hair, it is important to avoid heavy oils and instead use a light volumizing mousse before putting your hair into a bun. Twist the hair gently and secure it with a small, fabric-covered elastic that won\u2019t pull on\n\nyour delicate strands. This method provides the perfect amount of body and movement for hair that typically lacks volume and tends to be very flat.\n\nThe result is a soft, airy wave that makes your hair look much thicker and more full of life. For those with thick hair bun\n\nwaves, it\u2019s all about managing the density of the hair to get a consistent and beautiful result. If your hair is very thick, you might find that one single bun\n\ntakes too long to dry and doesn\u2019t create enough texture. Instead, try dividing your hair into two or three smaller buns to ensure that the wave pattern\n\nis evenly distributed and the hair dries completely. This technique helps to tame the natural bulk of thick hair and transforms it into manageable, flowing waves that look polished and intentional.\n\nIn the morning, your hair will have a beautiful, controlled texture that is easy to style further.\n\nThe loose bun waves method is perfect for achieving that barely-there, effortless texture that looks completely natural and soft.\n\nInstead of a tight twist, simply gather your hair and coil it loosely into a large bun, securing it with abig claw clipor a soft scrunchie. This approach creates wide, subtle bends in\n\nthe hair rather than defined curls, giving you a very relaxed and modern\n\naesthetic. It is an\n\nexcellent choice for those who want to add just a little bit of movement to their hair without it looking like they\u2019ve spent much time on it.\n\nThe soft, gentle waves provide a very fresh and youthful appearance. If you are after a more dramatic and defined look, the tight bun\n\nwaves technique is definitely the way to go. By twisting your hair firmly and securing it in\n\na very compact bun, you create a lot of tension that helps the wave set deeply into the strands.\n\nThis results in much tighter, more spiraled waves that have a lot of spring and bounce when\n\nthey are released. This method is great for special events or when\n\nyou want a more glamorous and high-impact hairstyle. The tightness of the bun\n\nensures that the waves will hold their shape for a long time, providing a very elegant and structured finish. Using scarf wrapped bun\n\nwaves is a classic and very gentle way to protect your hair while achieving beautiful texture overnight. Simply wrap asilk or satin\n\nscarfaround your ponytail before twisting it into a bun, which provides a smooth barrier between your strands and the outside environment.\n\nThe fabric helps to distribute the pressure of the bun more evenly and prevents any harsh lines or creases from\n\nforming. This technique is particularly beneficial for those with curly or frizz-prone hair, as it keeps the hair smooth and polished.\n\nIn the morning, you\u2019ll find that your waves are incredibly soft, shiny, and completely free of any unwanted flyaways.\n\nThe half up bun waves technique is a fun\n\nand creative way to get volume at the top of your head while leaving the bottom part of your hair more relaxed.\n\nSecure the top half of your hair into a bun before bed and leave the rest of your hair down\n\nor in a loose braid.\n\nThis creates a beautiful contrast between the more textured top layers and the softer waves underneath.\n\nIt is a fantastic option for those who want a multidimensional look that has a lot of movement and depth.\n\nWhen you let it all down\n\nin the morning, the different wave patterns blend together for a very unique look.\n\nCreating side bun waves is a simple variation\n\nthat can result in\n\na more asymmetrical and interesting wave pattern. By placing your bun\n\non one side of your head, you change the angle at which the hair is twisted and secured.\n\nThis creates waves that flow in a slightly different direction, which can\n\nbe very flattering for certain face shapes and hair lengths.\n\nIt is a fun way to experiment with your overnight styling and see how the placement of the bun\n\naffects the final result. In\n\nthe morning, your hair will have a very natural and dynamic wave that looks effortless and modern, providing a very fresh look.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Tight Bun Waves",
+        "image": "/images/doc145_img_1.jpg",
+        "description": "If you are after a more dramatic and defined look, the tight bun waves technique is definitely the way to go.\n\nBy twisting your hair firmly and securing it in a very compact bun, you create a lot of tension\n\nthat helps the wave set deeply into the strands. This results in\n\nmuch tighter, more spiraled waves that have a lot of spring and bounce when they are released.\n\nThis method is great for special events or when you want a more glamorous and high-impact hairstyle.\n\nThe tightness of the bun ensures that the waves will hold their shape for a long time, providing a very elegant and structured finish.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for tight bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "High Bun Waves",
+        "image": "/images/doc145_img_2.jpg",
+        "description": "If you want maximum volume at the roots, the high bun\n\nwaves technique is your best option for overnight styling.\n\nBy gathering your hair at the very top of your head, you pull the roots upward, which creates a natural lift once the hair is released. Twist your hair firmly and wrap it into a secure bun\n\nusing a fabric-covered elastic to avoid snagging. This method is particularly effective for those with longer hair who find that low buns can\n\nfeel heavy or uncomfortable while sleeping. When\n\nyou wake up, your hair will have incredible body and large, bouncy waves that frame your face perfectly and provide a glamorous, full-bodied appearance.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for high bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Thick Hair Bun Waves",
+        "image": "/images/doc145_img_3.jpg",
+        "description": "For those with thick hair bun waves, it\u2019s all about managing the density of the hair to get a consistent and beautiful result.\n\nIf your hair is very thick, you might find that one single bun takes too long to dry and doesn\u2019t create enough texture.\n\nInstead, try dividing your hair into two or three smaller buns to ensure that the wave pattern is evenly distributed and the hair dries completely.\n\nThis technique helps to tame the natural bulk of thick hair and transforms it into manageable, flowing waves that look polished and intentional. In\n\nthe morning, your hair will have a beautiful, controlled texture that is easy to style further.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for thick hair bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Damp Hair Bun Waves",
+        "image": "/images/doc145_img_4.jpg",
+        "description": "Using damp hair bun waves is one of the most reliable ways to make sure your texture sets correctly and lasts all day.\n\nWhen the hair is slightly moist, the bonds are more flexible and can\n\nbe easily molded into the shape of the bun as they dry.\n\nStart with a hair treatment or a small amount of sea salt spray on your damp strands before twisting them\n\ninto a secure bun. This creates a more defined and resilient wave that doesn\u2019t fall flat as quickly as waves done on\n\ndry hair. In\n\nthe morning, you\u2019ll find that your hair has a very bouncy and voluminous texture that stays in place.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for damp hair bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Half Up Bun Waves",
+        "image": "/images/doc145_img_5.jpg",
+        "description": "The half up bun waves technique is a fun\n\nand creative way to get volume at the top of your head while leaving the bottom part of your hair more relaxed.\n\nSecure the top half of your hair into a bun before bed and leave the rest of your hair down\n\nor in a loose braid.\n\nThis creates a beautiful contrast between the more textured top layers and the softer waves underneath.\n\nIt is a fantastic option for those who want a multidimensional look that has a lot of movement and depth.\n\nWhen you let it all down\n\nin the morning, the different wave patterns blend together for a very unique look.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for half up bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Sock Bun Waves",
+        "image": "/images/doc145_img_6.jpg",
+        "description": "Using a foam donut or a rolled-up sock to createsock bun\n\nwavesis a classic heatless method that never fails. By wrapping your hair around the large surface area of the sock, you create big, voluminous loops rather than\n\ntight curls. Start with a high ponytail and pull the hair through the center of the sock, then\n\nroll it down toward the base until it is secure.\n\nThe foam or fabric provides a soft cushion\n\nthat is comfortable to sleep on while keeping the hair in\n\na consistent shape. This results in\n\nwide, Hollywood-style waves that add a touch of timeless glamour and incredible fullness to your hair.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sock bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Loose Bun Waves",
+        "image": "/images/doc145_img_7.jpg",
+        "description": "The loose bun waves method is perfect for achieving that barely-there, effortless texture that looks completely natural and soft.\n\nInstead of a tight twist, simply gather your hair and coil it loosely into a large bun, securing it with abig claw clipor a soft scrunchie. This approach creates wide, subtle bends in\n\nthe hair rather than defined curls, giving you a very relaxed and modern\n\naesthetic. It is an\n\nexcellent choice for those who want to add just a little bit of movement to their hair without it looking like they\u2019ve spent much time on it.\n\nThe soft, gentle waves provide a very fresh and youthful appearance.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for loose bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Low Bun Waves",
+        "image": "/images/doc145_img_8.jpg",
+        "description": "Securing your hair in a low bun\n\nwaves overnight is one of the most popular ways to achieve a relaxed and sophisticated look. To start, gather your slightly damp hair at the nape of your neck and twist it into a neat coil.\n\nFasten the bun\n\nwith a soft silk scrunchie to minimize friction and prevent any unwanted creases while you sleep.\n\nThis specific placement ensures that the waves begin lower down\n\nthe hair shaft, creating a beautiful transition from\n\nsmooth roots to textured ends. In\n\nthe morning, gently unravel the bun and use your fingers to shake out the strands for a soft, voluminous finish that looks professionally styled without any heat application.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Fine Hair Bun Waves",
+        "image": "/images/doc145_img_9.jpg",
+        "description": "Creating fine hair bun waves requires a delicate touch and the right products to ensure that the texture doesn\u2019t look stringy or weighted down.\n\nFor those with fine hair, it is important to avoid heavy oils and instead use a light volumizing mousse before putting your hair into a bun. Twist the hair gently and secure it with a small, fabric-covered elastic that won\u2019t pull on\n\nyour delicate strands. This method provides the perfect amount of body and movement for hair that typically lacks volume and tends to be very flat.\n\nThe result is a soft, airy wave that makes your hair look much thicker and more full of life.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for fine hair bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Ballerina Bun Waves",
+        "image": "/images/doc145_img_10.jpg",
+        "description": "The ballerina bun waves method involves creating a very tight and sleek bun\n\nthat sits firmly against the head for a structured set. This technique works best on\n\nhair that is about eighty percent dry, as the tight coil forces the moisture to evaporate slowly while holding the shape. Because the bun\n\nis so compact, the resulting waves are often smaller and more frequent, giving the hair a very dense and textured appearance once it is brushed out.\n\nIt is a fantastic option for someone who wants to achieve more of a \u201cringlet\u201d feel rather than\n\na loose wave. It also provides a neat and tidy way to keep your hair out of the way.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for ballerina bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Side Bun Waves",
+        "image": "/images/doc145_img_11.jpg",
+        "description": "Creating side bun waves is a simple variation\n\nthat can result in\n\na more asymmetrical and interesting wave pattern. By placing your bun\n\non one side of your head, you change the angle at which the hair is twisted and secured.\n\nThis creates waves that flow in a slightly different direction, which can\n\nbe very flattering for certain face shapes and hair lengths.\n\nIt is a fun way to experiment with your overnight styling and see how the placement of the bun\n\naffects the final result. In\n\nthe morning, your hair will have a very natural and dynamic wave that looks effortless and modern, providing a very fresh look.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for side bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Braided Bun Waves",
+        "image": "/images/doc145_img_12.jpg",
+        "description": "For those who prefer a more structured and crimped texture, combining braids with buns results in beautiful braided bun\n\nwaves. First, braid your hair into a simple three-strand plait or a fishtail braid, then\n\nroll that braid up into a bun and secure it tightly.\n\nThis double-styling technique locks the hair into a specific pattern that creates very long-lasting waves with a unique, woven\n\nappearance. It is an\n\nexcellent choice for people with slippery or fine hair that usually struggles to hold a curl. In\n\nthe morning, you will find that your hair has a beautiful, textured look that stays defined throughout the day with minimal need for extra hairspray.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Twisted Bun Waves",
+        "image": "/images/doc145_img_13.jpg",
+        "description": "The twisted bun waves technique is ideal for creating elegant, rope-like spirals that look like they were made with a professional curling wand.\n\nDivide your hair into two sections and twist each one tightly around itself before coiling them both into a single bun\n\nat the back of your head. This internal twisting adds extra tension\n\nto the strands, which helps the wave set more firmly into the hair cuticle while you sleep. When\n\nyou release the bun in\n\nthe morning, you will be greeted with smooth, sleek spirals that have a polished shine. This method is highly recommended for anyone who wants a more refined and glossy finish to their waves.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for twisted bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Space Buns Waves",
+        "image": "/images/doc145_img_14.jpg",
+        "description": "Creating space buns waves is a fantastic way to get more defined and symmetrical texture throughout your entire head of hair. Start by parting your hair down\n\nthe middle and creatingtwo high pigtails, then twist each one into a tight bun.\n\nBecause the hair is divided into two sections, the wave pattern becomes more consistent and tighter than\n\na single bun. This method works exceptionally well for individuals with thick hair who need to distribute the bulk to ensure everything dries and sets properly overnight.\n\nThe result is a fun, energetic wave pattern that looks balanced and uniform\n\nfrom side to side, providing a beautiful and very effortless aesthetic.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for space buns waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Scarf Wrapped Bun Waves",
+        "image": "/images/doc145_img_15.jpg",
+        "description": "Using scarf wrapped bun waves is a classic and very gentle way to protect your hair while achieving beautiful texture overnight.\n\nSimply wrap asilk or satin scarfaround your ponytail before twisting it into a bun, which provides a smooth barrier between\n\nyour strands and the outside environment. The fabric helps to distribute the pressure of the bun\n\nmore evenly and prevents any harsh lines or creases from forming.\n\nThis technique is particularly beneficial for those with curly or frizz-prone hair, as it keeps the hair smooth and polished. In\n\nthe morning, you\u2019ll find that your waves are incredibly soft, shiny, and completely free of any unwanted flyaways.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for scarf wrapped bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Messy Bun Waves",
+        "image": "/images/doc145_img_16.jpg",
+        "description": "Achieving a lived-in and casual look is easy when\n\nyou utilize the messy bun waves method for your overnight hair routine.\n\nInstead of twisting the hair into a perfect coil, tuck the ends loosely and allow some pieces to remain slightly relaxed within\n\nthe bun. This lack of uniformity creates a very natural and beachy wave pattern\n\nthat does not look too \u201cdone\u201d or structured. It is perfect for those who enjoy a bohemian\n\nvibe or want a hairstyle that looks great with very little effort. The soft bends and varied textures provide a modern, effortless finish that works beautifully for any casual occasion\n\nor a simple day at the office.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for messy bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Silk Scrunchie Bun Waves",
+        "image": "/images/doc145_img_17.jpg",
+        "description": "Protecting your hair while styling is a top priority, and silk scrunchie bun waves offer the perfect balance of care and beauty.\n\nUsing a 100% silk or high-quality satin scrunchie to secure your bun\n\nprevents the hair from breaking or developing those annoying horizontal dents.\n\nSilk allows the hair to glide easily, which keeps the wave pattern smooth and reduces frizz significantly during the night.\n\nThis approach is best for individuals with fragile or color-treated hair who want to avoid any physical stress on their strands.\n\nYou will wake up with healthy, glowing waves that feel as soft as they look, with zero damage to your precious hair.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for silk scrunchie bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "Top Knot Bun Waves",
+        "image": "/images/doc145_img_18.jpg",
+        "description": "If you\u2019re looking for a simple and effective way to get height and texture, the top knot bun waves technique is a perfect choice.\n\nThis method requires pulling all your hair to the crown of your head and securing it in\n\na very high bun. This placement creates a very flattering lift that opens up your face and adds a modern, chic feel to your appearance.\n\nIt is an excellent way to prepare for a busy day when\n\nyou don\u2019t have time to style your hair in the morning.\n\nWhen you undo the bun, the waves flow beautifully from\n\nthe top of your head, giving you a very sophisticated and energetic style.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for top knot bun waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "tidy-office-bun-hairstyles",
+    "slug": "tidy-office-bun-hairstyles",
+    "title": "14+ Tidy Bun Hairstyles for Office Mornings That Look Polished",
+    "docId": "doc146",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc146_img_1.jpg",
+    "heroImage": "/images/doc146_img_1.jpg",
+    "excerpt": "Mornings can feel rushed, and figuring out what to do with your hair before heading to the office is often",
+    "description": "Mornings can feel rushed, and figuring out what to do with your hair before heading to the office is often\n\nthe last thing you want to spend time on. That is where tidy bun\n\nhairstyles come to the rescue. A well-done bun\n\nlooks polished, professional, and put-together in just minutes.\n\nWhether your hair is short, medium, or long, there is a bun that works for your texture and your schedule.\n\nFrom classic low buns to sleek top knots, these hairstyles keep every strand in\n\nplace so you can focus on\n\nyour day ahead. Below are twenty tidy bun\n\noptions perfect forbusy office morningsthat still want to look sharp and confident from the moment you walk through the door.\n\nThe classic low bun is one of the most timeless and office-friendly hairstyles you can\n\nwear. It sits neatly at the nape of your neck and gives off a clean, professional vibe that pairs well with blazers, blouses, and tailored outfits.\n\nTo create it, simply gather your hair into a low ponytail, twist the length around the base, and secure it with bobby pins. You can\n\nkeep it completely smooth or allow a few soft strands to fall around your face for a softer finish. This bun\n\nworks beautifully on all hair lengths and textures, making it a go-to choice for women\n\nwho want something reliable and elegant every single morning. Aslicked back top knot bunis the definition\n\nof modern office chic.\n\nThis style pulls every strand away from your face, giving you a sharp and focused look that works especially well on\n\ndays when you have important meetings or presentations.\n\nStart by applying a small amount of gel or edge control to smooth your hair back, then gather it into a high ponytail at the crown\n\nof your head. Twist the ponytail into a tight bun\n\nand pin it in\n\nplace. The sleek finish of this bun\n\nmakes it ideal for women with straight or wavy hair, and it stays neat throughout a full workday without needing touch-ups.\n\nAdding a braid to your low bun instantly elevates the look and gives it a refined, polished feel that is perfect for the office.\n\nBegin by creating a simple three-strand braid on\n\none side of your head, then gather the rest of your hair along with the braid into a low ponytail.\n\nTwist the ponytail into a bun at the nape and pin\n\nit securely. The braid wraps along the edge of the bun, creating a beautiful detail that stands out without being too flashy.\n\nThis style works well on medium\n\nto long hair and is a great option when\n\nyou want something a little more interesting than a plain\n\nlow bun but still completely office-appropriate.\n\nA twisted chignon bun\n\nis a sophisticated updo that looks like you spent far more time on it than\n\nyou actually did. This style involves twisting sections of your hair and pinning them\n\ninto a compact bun at the back of your head.\n\nYou can create it by dividing your hair into two sections, twisting each one individually, and then\n\nwrapping them around each other at the nape.\n\nThe result is a textured yet tidy bun that holds its shape all day long.\n\nIt is an excellent choice for women\n\nwith medium to long hair who want an\n\nelegant office hairstyle that transitions seamlessly from yourmorning commuteto an\n\nafter-work event. Not all messy buns belong at the gym.\n\nA neat messy bun with intentional flyaways strikes the perfect balance between\n\ncasual and polished for the office. The key is to keep the overall shape contained while letting a few strands loosen\n\nnaturally around your face and nape. Pull your hair into a mid-height ponytail, twist it loosely, and wrap it around the base without over-tightening.\n\nUse a few bobby pins to hold the structure and lightly tug a few pieces free with your fingers. This bun\n\nlooks effortless but still professional, making it one of the best choices when your alarm\n\ngoes off late and you need to be out the door in under five minutes.\n\nInspired by dancers who need their hair to stay perfectly in place for hours, theballet bunis as practical as it is graceful.\n\nThis style sits high on the crown\n\nof the head and is pulled so tight that not a single strand escapes. To achieve it, brush your hair into a high ponytail, twist the entire length tightly, and coil it around the base.\n\nSecure it with a hairnet and several bobby pins for a flawless finish. The ballet bun\n\nis ideal for long hair and works wonderfully in formal office environments where a more structured look is expected.\n\nIt also keeps your hair completely out of the way for maximum focus and productivity.\n\nThe French twist bun combines the elegance of a classic French roll with the practicality of a bun.\n\nTo create this look, gather your hair to one side at the nape, twist it upward, and tuck the ends inside the roll. Pin\n\nit along the twist to hold everything in place.\n\nThe result is a sleek, vertical shape that looks incredibly refined and polished. This hairstyle has been\n\na staple in professional settings for decades because it always looks sophisticated and never goes out of style.\n\nIt works best on medium\n\nto long hair and pairs beautifully with structured office wear like pencil skirts, button-downs, and tailored coats. A sleek middle part bun\n\nis a minimal, modern hairstyle that commands attention\n\nwith its clean lines and sharp silhouette.\n\nStart by parting your hair down the middle and applying smoothing cream\n\nfrom root to tip.\n\nPull both sections back tightly and gather them into a low or mid-height bun\n\nat the back of your head. The symmetry of the middle part gives this bun\n\na balanced and intentional look that is perfect for the office. It is especially flattering on\n\nwomen with oval or heart-shaped faces because the part frames the face evenly.\n\nKeep a comb handy for quick touch-ups, and use a light hairspray to lock the look in place for the full workday.\n\nSometimes a little texture is all you need to take a basic low bun from\n\nsimple to stunning. A textured low bun\n\nadds softness and dimension while still looking neat enough for any professional environment.\n\nAfter pulling your hair into a low ponytail, use a curling iron or flat iron\n\nto add subtle waves before twisting the hair into a bun. You can\n\nalso tease the ponytail slightly for added volume before pinning it up. The gentle texture prevents the bun\n\nfrom looking flat or too severe, which makes it a great everyday office option.\n\nThis style suits all hair types and is particularly flattering on women\n\nwith fine hair who want to create the illusion of fullness.\n\nThe high ponytail bun takes the simplicity of a ponytail and turns it into a neat, elevated updo.\n\nGather your hair into a high ponytail at the top of your head, smooth any bumps, and then twist the tail into a bun.\n\nYou can make it tight and sleek or slightly loose for a softer feel depending on\n\nyour office dress code. This bun\n\nstyle draws the eye upward and can make your face appear more lifted, which is a nice bonus for early mornings.\n\nIt works well on all hair lengths and is one of the fastest bun\n\nstyles to create when you are short on\n\ntime but still want to look pulled together and professional. A crown\n\nbraid bun wraps a braided section\n\nof hair around your head like a halo before feeding the rest into a bun at the back.\n\nThis hairstyle is intricate enough to look special but still understated enough for the office. Start by braiding a section\n\nof hair along your hairline, then continue the braid around to the opposite side.\n\nGather the remaining loose hair and the end of the braid into a low bun and pin\n\neverything securely. The crown\n\nbraid adds a beautiful detail that makes the overall look feel intentional and polished. It is best suited for medium\n\nto long hair and is a lovely choice when you want to feel a bit more styled without extra effort.\n\nThe half up bun is a playful yet professional option\n\nthat lets you keep some hair down while still getting the neatness of an\n\nupdo. Take the top half of your hair and twist it into a small bun\n\nat the crown, leaving the bottom half loose and flowing.\n\nYou can straighten\n\nor curl the lower section depending on\n\nyour preference and your outfit. This style works especially well for women\n\nwith medium to long hair who do not want a full updo but still need their hair out of their face.\n\nThe half up bun is quick to create, looks fresh and youthful, and fits right into most office settings without feeling too casual.\n\nA knotted low bun is exactly what it sounds like \u2014 a bun\n\ncreated by tying your hair into a literal knot. This technique gives the bun\n\na unique,rope-like texturethat stands out from standard twisted buns.\n\nGather your hair into a low ponytail, split it into two sections, and tie them together like you would tie a shoelace.\n\nTuck the remaining ends under the knot and pin them\n\nflat against your head. The result is a compact, tidy bun\n\nthat stays put all day. This style is incredibly easy to do and requires no special tools beyond a few bobby pins.\n\nIt looks especially good on straight or slightly wavy hair and adds a quiet detail to an\n\notherwise simple office look. A low bun\n\npaired with a headband scarf is a simple way to add personality to your office look without going overboard. Start by creating a clean\n\nlow bun at the nape of your neck.\n\nThen, wrap a thin silk or cotton\n\nscarf around your head like a headband, tying it at the top or side. The scarf adds a pop of color or pattern\n\nthat can complement your outfit and brighten\n\nup your overall appearance. This combination\n\nworks well with any hair texture and length, and it is a great option for mornings when\n\nyour hair might need a little extra help looking tidy. The scarf also helps keep flyaways in\n\ncheck throughout the day. The sock bun\n\nis a well-known trick for creating a perfectly round, voluminous bun\n\nusing a sock or a foam donut as a base.\n\nThis method is especially helpful for women with medium\n\nhair who want a fuller bun without needing extra length.\n\nSimply place the sock donut at the end of your ponytail, spread your hair evenly over it, and roll it down toward the base of your head.\n\nTuck any loose ends underneath and secure with pins. The result is a flawless, symmetrical bun\n\nthat looks salon-finished. It is quick, reliable, and works for almost any office environment.\n\nKeep a foam donut in\n\nyour desk drawer for emergency touch-ups before meetings. A braided top knot combines the height of a top knot with the detail of a braid for a bun\n\nthat stands out in the best way possible.\n\nPull your hair into a high ponytail and braid the entire length. Then\n\nwrap the braid around the base of the ponytail to form the bun, tucking the end underneath and pinning it in\n\nplace. The braid adds visual interest and texture while keeping everything neat and secure at the top of your head.\n\nThis style works best on medium\n\nto long hair and is a great way to make a simple top knot feel more styled and intentional. It holds up beautifully through a long workday and keeps hair completely out of your face.\n\nPairing a low bun with side bangs creates a flattering and professional look that highlights your facial features beautifully.\n\nSweep your bangs to one side and pin them\n\nor let them fall naturally, then\n\ngather the rest of your hair into a tidy low bun at the nape.\n\nThe side bangs soften the overall look and add a touch of femininity that balances the structure of the bun.\n\nThis style is perfect for women who have bangs and want to keep their hair up without losing that framing element.\n\nIt works well for all hair textures and lengths, and it takes just a few minutes to pull together before heading out for your morning commute.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Ballet Bun for Long Hair",
+        "image": "/images/doc146_img_1.jpg",
+        "description": "Inspired by dancers who need their hair to stay perfectly in place for hours, theballet bunis as practical as it is graceful.\n\nThis style sits high on the crown\n\nof the head and is pulled so tight that not a single strand escapes. To achieve it, brush your hair into a high ponytail, twist the entire length tightly, and coil it around the base.\n\nSecure it with a hairnet and several bobby pins for a flawless finish. The ballet bun\n\nis ideal for long hair and works wonderfully in formal office environments where a more structured look is expected.\n\nIt also keeps your hair completely out of the way for maximum focus and productivity.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for ballet bun for long hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Sock Bun for Medium Hair",
+        "image": "/images/doc146_img_2.jpg",
+        "description": "The sock bun is a well-known\n\ntrick for creating a perfectly round, voluminous bun using a sock or a foam\n\ndonut as a base. This method is especially helpful for women\n\nwith medium hair who want a fuller bun\n\nwithout needing extra length. Simply place the sock donut at the end of your ponytail, spread your hair evenly over it, and roll it down\n\ntoward the base of your head. Tuck any loose ends underneath and secure with pins.\n\nThe result is a flawless, symmetrical bun that looks salon-finished.\n\nIt is quick, reliable, and works for almost any office environment. Keep a foam\n\ndonut in your desk drawer for emergency touch-ups before meetings.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sock bun for medium hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Braided Low Bun for Office",
+        "image": "/images/doc146_img_3.jpg",
+        "description": "Adding a braid to your low bun instantly elevates the look and gives it a refined, polished feel that is perfect for the office.\n\nBegin by creating a simple three-strand braid on\n\none side of your head, then gather the rest of your hair along with the braid into a low ponytail.\n\nTwist the ponytail into a bun at the nape and pin\n\nit securely. The braid wraps along the edge of the bun, creating a beautiful detail that stands out without being too flashy.\n\nThis style works well on medium\n\nto long hair and is a great option when\n\nyou want something a little more interesting than a plain\n\nlow bun but still completely office-appropriate.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided low bun for office.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Slicked Back Top Knot Bun",
+        "image": "/images/doc146_img_4.jpg",
+        "description": "Aslicked back top knot bunis the definition of modern\n\noffice chic. This style pulls every strand away from\n\nyour face, giving you a sharp and focused look that works especially well on days when\n\nyou have important meetings or presentations. Start by applying a small amount of gel or edge control to smooth your hair back, then\n\ngather it into a high ponytail at the crown of your head.\n\nTwist the ponytail into a tight bun and pin\n\nit in place.\n\nThe sleek finish of this bun makes it ideal for women\n\nwith straight or wavy hair, and it stays neat throughout a full workday without needing touch-ups.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for slicked back top knot bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Low Bun With Side Bangs",
+        "image": "/images/doc146_img_5.jpg",
+        "description": "Pairing a low bun with side bangs creates a flattering and professional look that highlights your facial features beautifully.\n\nSweep your bangs to one side and pin them\n\nor let them fall naturally, then\n\ngather the rest of your hair into a tidy low bun at the nape.\n\nThe side bangs soften the overall look and add a touch of femininity that balances the structure of the bun.\n\nThis style is perfect for women who have bangs and want to keep their hair up without losing that framing element.\n\nIt works well for all hair textures and lengths, and it takes just a few minutes to pull together before heading out for your morning commute.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun with side bangs.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "French Twist Bun",
+        "image": "/images/doc146_img_6.jpg",
+        "description": "The French twist bun combines the elegance of a classic French roll with the practicality of a bun.\n\nTo create this look, gather your hair to one side at the nape, twist it upward, and tuck the ends inside the roll. Pin\n\nit along the twist to hold everything in place.\n\nThe result is a sleek, vertical shape that looks incredibly refined and polished. This hairstyle has been\n\na staple in professional settings for decades because it always looks sophisticated and never goes out of style.\n\nIt works best on medium\n\nto long hair and pairs beautifully with structured office wear like pencil skirts, button-downs, and tailored coats.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for french twist bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "High Ponytail Bun",
+        "image": "/images/doc146_img_7.jpg",
+        "description": "The high ponytail bun takes the simplicity of a ponytail and turns it into a neat, elevated updo.\n\nGather your hair into a high ponytail at the top of your head, smooth any bumps, and then twist the tail into a bun.\n\nYou can make it tight and sleek or slightly loose for a softer feel depending on\n\nyour office dress code. This bun\n\nstyle draws the eye upward and can make your face appear more lifted, which is a nice bonus for early mornings.\n\nIt works well on all hair lengths and is one of the fastest bun\n\nstyles to create when you are short on\n\ntime but still want to look pulled together and professional.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for high ponytail bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Twisted Chignon Bun",
+        "image": "/images/doc146_img_8.jpg",
+        "description": "A twisted chignon bun\n\nis a sophisticated updo that looks like you spent far more time on it than\n\nyou actually did. This style involves twisting sections of your hair and pinning them\n\ninto a compact bun at the back of your head.\n\nYou can create it by dividing your hair into two sections, twisting each one individually, and then\n\nwrapping them around each other at the nape.\n\nThe result is a textured yet tidy bun that holds its shape all day long.\n\nIt is an excellent choice for women\n\nwith medium to long hair who want an\n\nelegant office hairstyle that transitions seamlessly from yourmorning commuteto an\n\nafter-work event.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for twisted chignon bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Crown Braid Bun",
+        "image": "/images/doc146_img_9.jpg",
+        "description": "A crown braid bun\n\nwraps a braided section of hair around your head like a halo before feeding the rest into a bun\n\nat the back. This hairstyle is intricate enough to look special but still understated enough for the office.\n\nStart by braiding a section of hair along your hairline, then\n\ncontinue the braid around to the opposite side. Gather the remaining loose hair and the end of the braid into a low bun\n\nand pin everything securely.\n\nThe crown braid adds a beautiful detail that makes the overall look feel intentional and polished.\n\nIt is best suited for medium to long hair and is a lovely choice when\n\nyou want to feel a bit more styled without extra effort.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for crown braid bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Classic Low Bun for Work",
+        "image": "/images/doc146_img_10.jpg",
+        "description": "The classic low bun is one of the most timeless and office-friendly hairstyles you can\n\nwear. It sits neatly at the nape of your neck and gives off a clean, professional vibe that pairs well with blazers, blouses, and tailored outfits.\n\nTo create it, simply gather your hair into a low ponytail, twist the length around the base, and secure it with bobby pins. You can\n\nkeep it completely smooth or allow a few soft strands to fall around your face for a softer finish. This bun\n\nworks beautifully on all hair lengths and textures, making it a go-to choice for women\n\nwho want something reliable and elegant every single morning.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for classic low bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Knotted Low Bun",
+        "image": "/images/doc146_img_11.jpg",
+        "description": "A knotted low bun is exactly what it sounds like \u2014 a bun\n\ncreated by tying your hair into a literal knot. This technique gives the bun\n\na unique,rope-like texturethat stands out from standard twisted buns.\n\nGather your hair into a low ponytail, split it into two sections, and tie them together like you would tie a shoelace.\n\nTuck the remaining ends under the knot and pin them\n\nflat against your head. The result is a compact, tidy bun\n\nthat stays put all day. This style is incredibly easy to do and requires no special tools beyond a few bobby pins.\n\nIt looks especially good on straight or slightly wavy hair and adds a quiet detail to an\n\notherwise simple office look.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for knotted low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Neat Messy Bun With Flyaways",
+        "image": "/images/doc146_img_12.jpg",
+        "description": "Not all messy buns belong at the gym. A neat messy bun\n\nwith intentional flyaways strikes the perfect balance between casual and polished for the office.\n\nThe key is to keep the overall shape contained while letting a few strands loosen naturally around your face and nape.\n\nPull your hair into a mid-height ponytail, twist it loosely, and wrap it around the base without over-tightening. Use a few bobby pins to hold the structure and lightly tug a few pieces free with your fingers.\n\nThis bun looks effortless but still professional, making it one of the best choices when\n\nyour alarm goes off late and you need to be out the door in\n\nunder five minutes.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for neat messy bun with flyaways.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Braided Top Knot",
+        "image": "/images/doc146_img_13.jpg",
+        "description": "A braided top knot combines the height of a top knot with the detail of a braid for a bun that stands out in\n\nthe best way possible. Pull your hair into a high ponytail and braid the entire length.\n\nThen wrap the braid around the base of the ponytail to form\n\nthe bun, tucking the end underneath and pinning it in place.\n\nThe braid adds visual interest and texture while keeping everything neat and secure at the top of your head. This style works best on\n\nmedium to long hair and is a great way to make a simple top knot feel more styled and intentional.\n\nIt holds up beautifully through a long workday and keeps hair completely out of your face.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided top knot.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Low Bun With Headband Scarf",
+        "image": "/images/doc146_img_14.jpg",
+        "description": "A low bun paired with a headband scarf is a simple way to add personality to your office look without going overboard.\n\nStart by creating a clean low bun\n\nat the nape of your neck. Then, wrap a thin\n\nsilk or cotton scarf around your head like a headband, tying it at the top or side.\n\nThe scarf adds a pop of color or pattern that can\n\ncomplement your outfit and brighten up your overall appearance.\n\nThis combination works well with any hair texture and length, and it is a great option\n\nfor mornings when your hair might need a little extra help looking tidy.\n\nThe scarf also helps keep flyaways in check throughout the day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun with headband scarf.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Sleek Middle Part Bun",
+        "image": "/images/doc146_img_15.jpg",
+        "description": "A sleek middle part bun is a minimal, modern\n\nhairstyle that commands attention with its clean\n\nlines and sharp silhouette. Start by parting your hair down\n\nthe middle and applying smoothing cream from\n\nroot to tip. Pull both sections back tightly and gather them\n\ninto a low or mid-height bun at the back of your head.\n\nThe symmetry of the middle part gives this bun a balanced and intentional look that is perfect for the office.\n\nIt is especially flattering on women\n\nwith oval or heart-shaped faces because the part frames the face evenly. Keep a comb handy for quick touch-ups, and use a light hairspray to lock the look in\n\nplace for the full workday.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek middle part bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Half Up Bun",
+        "image": "/images/doc146_img_16.jpg",
+        "description": "The half up bun is a playful yet professional option\n\nthat lets you keep some hair down while still getting the neatness of an\n\nupdo. Take the top half of your hair and twist it into a small bun\n\nat the crown, leaving the bottom half loose and flowing.\n\nYou can straighten\n\nor curl the lower section depending on\n\nyour preference and your outfit. This style works especially well for women\n\nwith medium to long hair who do not want a full updo but still need their hair out of their face.\n\nThe half up bun is quick to create, looks fresh and youthful, and fits right into most office settings without feeling too casual.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for half up bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Textured Low Bun",
+        "image": "/images/doc146_img_17.jpg",
+        "description": "Sometimes a little texture is all you need to take a basic low bun from\n\nsimple to stunning. A textured low bun\n\nadds softness and dimension while still looking neat enough for any professional environment.\n\nAfter pulling your hair into a low ponytail, use a curling iron or flat iron\n\nto add subtle waves before twisting the hair into a bun. You can\n\nalso tease the ponytail slightly for added volume before pinning it up. The gentle texture prevents the bun\n\nfrom looking flat or too severe, which makes it a great everyday office option.\n\nThis style suits all hair types and is particularly flattering on women\n\nwith fine hair who want to create the illusion of fullness.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for textured low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "beach-bun-hairstyles",
+    "slug": "beach-bun-hairstyles",
+    "title": "15+ Beach Bun Hairstyles for Your Next Sun-Soaked Day",
+    "docId": "doc147",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc147_img_1.jpg",
+    "heroImage": "/images/doc147_img_1.jpg",
+    "excerpt": "Sun on",
+    "description": "Sun on\n\nyour shoulders, salty air in your hair, and a bun\n\nthat actually stays put while still looking cute and relaxed. That is the heart of the beach bun\n\nhairstyle trend this year. A beach bun\n\nis all about easy texture, soft movement, and quick styling that works whether you are swimming, walking the boardwalk, or grabbing lunch after the beach. Most modern\n\nversions combine undone waves, loose tendrils, and flexible hold products so your hair moves instead of looking stiff. You can\n\ngo high or low, sleek or messy, and still protect your ends from sun\n\nand salt. These buns also work on\n\nmany hair types and lengths with just a few tweaks, which makes them perfect for real life summer days.\n\nSalt-kissed texture and a high messy bun are a natural match when\n\nyou want your hair off your neck but still fun and flirty.\n\nStart by gathering all your hair into a high ponytail near the crown, letting shorter pieces fall out around the hairline for that relaxed feel. Twist the ponytail loosely and wrap it around the base, securing with a sturdy elastic and a few pins instead of trying to make it look perfect.\n\nIf your hair is slightly damp or \u201cdirty,\u201d the bun holds even\n\nbetter and looks more lived in, which is exactly what you want at the beach. Finish by gently pulling at the bun\n\nand crown for extra volume, and mist a sea salt or texture spray to enhance movement without crunch.\n\nWhen you want something chic enough for seaside dinners but easy enough to do without a mirror, a low twisted beach bun\n\nis ideal. This look starts with a low ponytail at the nape, which you then\n\ntwist into a loose bun and secure with pins or a clear elastic.\n\nThe magic comes from the face-framing twist detail on\n\nthe sides: you section the front, gently twist each side back, and wrap those twists around the bun\n\nto dress it up. You can\n\nplay with where you part your hair and how much volume you keep on top to flatter your face shape.\n\nThe overall effect is soft, beachy, and very wearable, and it transitions beautifully from sand to a casual restaurant without needing a full restyle.\n\nA tousled high bun gives you that \u201ceffortless glam\u201d look that works for everything from\n\nbeach walks to summer events. You pull your hair up high on\n\nthe head, create a loose bun, and then rough it up a bit so it looks intentionally undone instead of too polished.\n\nTexture is key here, and using salt spray or a curl cream first helps create body and hold so the bun\n\ndoes not collapse in the heat.\n\nLeave a few wispy strands around the face and nape to soften the style and make it feel more relaxed.\n\nBecause the bun sits high, your neck stays cooler in\n\nstrong sun, and the shape reads more playful and youthful while still looking put together in photos and videos.\n\nIf you like your hair to really stay put in wind and waves, a braided beach bun\n\nupdo is a smart choice. Begin\n\nwith a simple three-strand or fishtail braid down the length of your hair, keeping the tension\n\nlight so it still looks soft and beachy. Then\n\nwrap the braid into a bun at the nape or just above and secure it with pins, letting a few face-framing pieces escape.\n\nThis combination of braid and bun\n\nlocks in your texture and prevents tangles from\n\nsaltwater while still feeling romantic. You can\n\nkeep it plain for everyday wear or add tiny shells or delicate clips if you are heading to a beach party or anoutdoor summer weddingby the water.\n\nAscarf wrapped beach bungives you extra style and extra protection in\n\none quick move. You create a simple high or low bun\n\nfirst, then fold a lightweight scarf and wrap it around the base, tying it off to one side in\n\na knot or small bow. The scarf helps shield your scalp from\n\nsun, keeps frizz down, and adds color and pattern that instantly makes the bun\n\nfeel more intentional. Choose a breathable fabric that dries quickly if it gets damp, and avoid anything heavy that might weigh the style down.\n\nThis look works well on all textures and is especially helpful on\n\nday three or four hair when you want to hide roots but still look cute at the beach or boardwalk.\n\nFor a playful take on the beach bun\n\ntrend, space buns give you two mini updos that feel fun\n\nand trendy. Part your hair down\n\nthe middle, then create two high ponytails and twist each into a separate bun, keeping them\n\nslightly loose for a softer finish. You can\n\nleave some hair down at the back if your hair is long, or gather everything up for maximum\n\ncoolness in the heat.\n\nSpace buns work especially well with natural waves or curls because the texture adds volume and movement around each bun. This look is great for beach festivals, days with strong wind, or anytime you want your hairstyle to be just as fun\n\nas your swimwear and accessories. The half up beach bun\n\nis perfect when you want to keep your hair out of your face but still show off your natural waves or curls.\n\nGather the top third or half of your hair into a small ponytail at the crown, leaving the rest loose, then twist that top section\n\ninto a relaxed bun. Because only part of your hair is pinned up, this style feels lighter on\n\nthe scalp and works well on thick hair that can\n\nfeel heavy in a full bun.\n\nUse a sea salt or texture spray on the loose lengths to define waves and keep them\n\nfrom looking flat.\n\nThe half up bun looks casual but still intentional, so it is perfect for beach days that might end with casual plans or drinks on\n\na patio afterward. A curly beach bun\n\nfor natural hair focuses on keeping curls moisturized, defined, and secure while you enjoy the sun.\n\nStart by applying a leave-in conditioner or curl cream\n\nto damp hair, then gather your curls into a puff or bun\n\nat the crown or slightly higher.\n\nUse a soft, stretchy band or scarf to secure the bun without crushing the curl pattern.\n\nFluff the ends so they stay full and rounded, giving you that lifted shape that looks beautiful from every angle.\n\nThis type of bun keeps your ends away from\n\nsalt and sand as much as possible and works well paired with SPF on your scalp and hairline to prevent dryness and sun\n\ndamage. On\n\ndays when you want a clean, sleek look that still handles humidity and water, aslicked back beach bunis a strong option.\n\nComb your hair straight back from the forehead with a wide-tooth comb, then\n\napply a gel or styling cream that offers hold without feeling crunchy.\n\nGather the hair into a low or mid-height bun and secure it smoothly, making sure there are no bumps along the hairline.\n\nThis style works particularly well for straight or wavy hair and looks sharp with swimsuits, sunglasses, and minimalist jewelry. Because everything is pulled back, you will likely need to reapply sunscreen\n\nalong your exposed part and hairline, but the payoff is a very polished beach look that stays tidy all day. Soft face-framing pieces can\n\ncompletely change the vibe of a basic beach bun and make it feel more flattering.\n\nAfter putting your hair into a high, mid, or low bun, gently pull out a few small strands around your hairline and near your ears. Lightly twist or scrunch these pieces with a bit of salt spray or curl cream\n\nso they form loose waves or curls instead of lying flat.\n\nThis creates softness around your features and helps balance the style, especially if your bun is high on\n\nthe head. The overall effect is romantic and relaxed, ideal for everything from\n\nbeach photos to casual wedding guest outfits, and it works with many different bun shapes and placements.\n\nMessy bun beach hair with waves looks like you have been\n\nin the ocean\n\nall afternoon, in the best way.\n\nStart with hair that already has some wave, whether from natural texture, braids, or a curling wand, and add a light mist of sea salt spray.\n\nPull your hair into a high or mid ponytail, twist loosely into a bun, and secure with an elastic, letting some ends stick out.\n\nAfter securing, gently tug on sections of the bun\n\nand the hair at the crown to create more fullness and that \u201clazy\u201d texture.\n\nFinish by scrunching the loose ends and any shorter pieces around your face so the entire look feels cohesive, undone, and perfect for a laid-back beach day. A low messy beach bun\n\nis the hairstyle you reach for when the wind picks up and you just want everything loosely gathered.\n\nYou collect your hair at the nape without over-combing, twist it into a quick bun, and secure it with an elastic or a few pins.\n\nPull out a few strands at the front and crown to create a bit of height and movement, making sure nothing feels tight or rigid.\n\nThis style works beautifully with naturally wavy or air-dried hair that already has some texture from salt or product.\n\nIt is comfortable under hats, easy to restyle throughout the day, and still looks cute with sunglasses, beachwear, and light summer makeup if you are wearing any. The braided crown\n\nbeach bun combines the security of braids with the coolness of an\n\nupdo. You start by creating one or two braids along the sides of your head, close to the hairline, which gives the look of a crown\n\nwhen viewed from\n\nthe front. The rest of your hair is gathered into a bun\n\nat the back, and the braids are wrapped around the base or pinned just above it. This design\n\nkeeps hair away from your face and neck while still feeling feminine and detailed, making it great for beach weddings or vacations.\n\nBecause most of the hair is contained, you will also deal with fewer tangles and knots after swimming or spending hours in the wind and sun.\n\nAclaw clip beach bunis the quickest way to get your hair up while still following current trends. Gather your hair at the back as if you are making a low ponytail, twist it upward, and secure the twist with a medium\n\nor large claw clip. Let the ends spill out over the top or fold them\n\ndown into the clip depending on\n\nyour hair length and how secure you want the style. The claw clip gives strong hold without the tension\n\nof a tight elastic, which is helpful if you are wearing your hair up all day. Choose a clip in\n\na neutral or shell-inspired color for a more beachy aesthetic, and remember that this look is easy to redo even with wet or sandy hair.\n\nThe top knot beach bun sits right at the top of your head and makes a bold, practical statement.\n\nFlip your head upside down, gather all your hair toward the top center, and secure a high ponytail. Twist the ponytail and wrap it around the base, then\n\nsecure with a strong elastic and a few pins if needed, keeping some texture instead of smoothing every strand. This placement keeps your hair fully off your neck and shoulders, which is perfect for very hot days or active beach sports.\n\nThe top knot is also a great base for hats or visors, and it works well onsecond or third day hairwhen you just want everything out of the way but still cute.\n\nAdding a headband to your beach bun is an\n\neasy way to keep flyaways in check and add a bit of personal style.\n\nAfter securing your hair into a high, mid, or low bun, slide on a soft fabric headband that sits just behind the hairline.\n\nThis helps keep sweat and sunscreen away from\n\nyour eyes while taming shorter pieces that tend to pop out in humidity.\n\nChoose stretchy, breathable materials that dry fast and will not slip easily on damp hair.\n\nThe headband makes the entire look appear more intentional and pulled together, which is perfect when you are moving from\n\nthe beach to shops or a casual restaurant without time for a full restyle. If your hair is on\n\nthe shorter side, you can still enjoy a beach bun\n\nwith a few smart tricks. Focus on\n\na small bun or knot at the back or high on\n\nthe head, and do not worry if some pieces around the neck and ears slip out. In\n\nfact, those loose bits add to the casual, beachy feel and look especially cute when they have a bit of wave or bend.\n\nUse bobby pins or small clips to secure any sections that feel too loose, but avoid over-pinning so the style stays soft. This approach works best on\n\nhair that at least reaches your jawline, and you can boost grip with sea salt spray or dry shampoo before putting it up.\n\nMedium length hair might be the easiest to put into a beach bun\n\nbecause you have enough length to twist without the weight of very long hair. You can\n\nchoose between high, mid, or low buns and still get a full shape that looks good from\n\nevery angle. For extra hold, start with aloose braid or rope twistbefore wrapping into a bun, especially if your hair is straight and slippery.\n\nMedium hair also takes well to texturizing products, so salt spray, mousse, or curl foam\n\ncan all help create that lived-in, beachy finish.\n\nThe versatility of this length means you can easily switch between\n\nscarf buns, space buns, and sleek buns throughout a beach trip without much effort.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Tousled High Bun For Beach",
+        "image": "/images/doc147_img_1.jpg",
+        "description": "A tousled high bun gives you that \u201ceffortless glam\u201d look that works for everything from\n\nbeach walks to summer events. You pull your hair up high on\n\nthe head, create a loose bun, and then rough it up a bit so it looks intentionally undone instead of too polished.\n\nTexture is key here, and using salt spray or a curl cream first helps create body and hold so the bun\n\ndoes not collapse in the heat.\n\nLeave a few wispy strands around the face and nape to soften the style and make it feel more relaxed.\n\nBecause the bun sits high, your neck stays cooler in\n\nstrong sun, and the shape reads more playful and youthful while still looking put together in photos and videos.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for tousled high bun for beach.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Top Knot Beach Bun",
+        "image": "/images/doc147_img_2.jpg",
+        "description": "The top knot beach bun sits right at the top of your head and makes a bold, practical statement.\n\nFlip your head upside down, gather all your hair toward the top center, and secure a high ponytail. Twist the ponytail and wrap it around the base, then\n\nsecure with a strong elastic and a few pins if needed, keeping some texture instead of smoothing every strand. This placement keeps your hair fully off your neck and shoulders, which is perfect for very hot days or active beach sports.\n\nThe top knot is also a great base for hats or visors, and it works well onsecond or third day hairwhen you just want everything out of the way but still cute.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for top knot beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Braided Crown Beach Bun",
+        "image": "/images/doc147_img_3.jpg",
+        "description": "The braided crown beach bun\n\ncombines the security of braids with the coolness of an updo.\n\nYou start by creating one or two braids along the sides of your head, close to the hairline, which gives the look of a crown when\n\nviewed from the front.\n\nThe rest of your hair is gathered into a bun at the back, and the braids are wrapped around the base or pinned just above it.\n\nThis design keeps hair away from\n\nyour face and neck while still feeling feminine and detailed, making it great for beach weddings or vacations. Because most of the hair is contained, you will also deal with fewer tangles and knots after swimming or spending hours in\n\nthe wind and sun.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided crown beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Claw Clip Beach Bun",
+        "image": "/images/doc147_img_4.jpg",
+        "description": "Aclaw clip beach bunis the quickest way to get your hair up while still following current trends. Gather your hair at the back as if you are making a low ponytail, twist it upward, and secure the twist with a medium\n\nor large claw clip. Let the ends spill out over the top or fold them\n\ndown into the clip depending on\n\nyour hair length and how secure you want the style. The claw clip gives strong hold without the tension\n\nof a tight elastic, which is helpful if you are wearing your hair up all day. Choose a clip in\n\na neutral or shell-inspired color for a more beachy aesthetic, and remember that this look is easy to redo even with wet or sandy hair.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for claw clip beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Beach Bun For Short Hair",
+        "image": "/images/doc147_img_5.jpg",
+        "description": "If your hair is on the shorter side, you can\n\nstill enjoy a beach bun with a few smart tricks.\n\nFocus on a small bun\n\nor knot at the back or high on the head, and do not worry if some pieces around the neck and ears slip out.\n\nIn fact, those loose bits add to the casual, beachy feel and look especially cute when\n\nthey have a bit of wave or bend. Use bobby pins or small clips to secure any sections that feel too loose, but avoid over-pinning so the style stays soft.\n\nThis approach works best on hair that at least reaches your jawline, and you can\n\nboost grip with sea salt spray or dry shampoo before putting it up.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for beach bun for short hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Beach Bun For Medium Hair",
+        "image": "/images/doc147_img_6.jpg",
+        "description": "Medium length hair might be the easiest to put into a beach bun\n\nbecause you have enough length to twist without the weight of very long hair. You can\n\nchoose between high, mid, or low buns and still get a full shape that looks good from\n\nevery angle. For extra hold, start with aloose braid or rope twistbefore wrapping into a bun, especially if your hair is straight and slippery.\n\nMedium hair also takes well to texturizing products, so salt spray, mousse, or curl foam\n\ncan all help create that lived-in, beachy finish.\n\nThe versatility of this length means you can easily switch between\n\nscarf buns, space buns, and sleek buns throughout a beach trip without much effort.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for beach bun for medium hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Low Twisted Beach Bun",
+        "image": "/images/doc147_img_7.jpg",
+        "description": "When you want something chic enough for seaside dinners but easy enough to do without a mirror, a low twisted beach bun\n\nis ideal. This look starts with a low ponytail at the nape, which you then\n\ntwist into a loose bun and secure with pins or a clear elastic.\n\nThe magic comes from the face-framing twist detail on\n\nthe sides: you section the front, gently twist each side back, and wrap those twists around the bun\n\nto dress it up. You can\n\nplay with where you part your hair and how much volume you keep on top to flatter your face shape.\n\nThe overall effect is soft, beachy, and very wearable, and it transitions beautifully from sand to a casual restaurant without needing a full restyle.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low twisted beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Slicked Back Beach Bun",
+        "image": "/images/doc147_img_8.jpg",
+        "description": "On days when\n\nyou want a clean, sleek look that still handles humidity and water, aslicked back beach bunis a strong option. Comb your hair straight back from\n\nthe forehead with a wide-tooth comb, then apply a gel or styling cream\n\nthat offers hold without feeling crunchy. Gather the hair into a low or mid-height bun\n\nand secure it smoothly, making sure there are no bumps along the hairline. This style works particularly well for straight or wavy hair and looks sharp with swimsuits, sunglasses, and minimalist jewelry.\n\nBecause everything is pulled back, you will likely need to reapply sunscreen along your exposed part and hairline, but the payoff is a very polished beach look that stays tidy all day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for slicked back beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Messy Bun Beach Hair With Waves",
+        "image": "/images/doc147_img_9.jpg",
+        "description": "Messy bun beach hair with waves looks like you have been\n\nin the ocean\n\nall afternoon, in the best way.\n\nStart with hair that already has some wave, whether from natural texture, braids, or a curling wand, and add a light mist of sea salt spray.\n\nPull your hair into a high or mid ponytail, twist loosely into a bun, and secure with an elastic, letting some ends stick out.\n\nAfter securing, gently tug on sections of the bun\n\nand the hair at the crown to create more fullness and that \u201clazy\u201d texture.\n\nFinish by scrunching the loose ends and any shorter pieces around your face so the entire look feels cohesive, undone, and perfect for a laid-back beach day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for messy bun beach hair with waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Space Buns Beach Hair",
+        "image": "/images/doc147_img_10.jpg",
+        "description": "For a playful take on the beach bun\n\ntrend, space buns give you two mini updos that feel fun\n\nand trendy. Part your hair down\n\nthe middle, then create two high ponytails and twist each into a separate bun, keeping them\n\nslightly loose for a softer finish. You can\n\nleave some hair down at the back if your hair is long, or gather everything up for maximum\n\ncoolness in the heat.\n\nSpace buns work especially well with natural waves or curls because the texture adds volume and movement around each bun. This look is great for beach festivals, days with strong wind, or anytime you want your hairstyle to be just as fun\n\nas your swimwear and accessories.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for space buns beach hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Beach Bun With Headband",
+        "image": "/images/doc147_img_11.jpg",
+        "description": "Adding a headband to your beach bun is an\n\neasy way to keep flyaways in check and add a bit of personal style.\n\nAfter securing your hair into a high, mid, or low bun, slide on a soft fabric headband that sits just behind the hairline.\n\nThis helps keep sweat and sunscreen away from\n\nyour eyes while taming shorter pieces that tend to pop out in humidity.\n\nChoose stretchy, breathable materials that dry fast and will not slip easily on damp hair.\n\nThe headband makes the entire look appear more intentional and pulled together, which is perfect when you are moving from\n\nthe beach to shops or a casual restaurant without time for a full restyle.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for beach bun with headband.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Scarf Wrapped Beach Bun",
+        "image": "/images/doc147_img_12.jpg",
+        "description": "Ascarf wrapped beach bungives you extra style and extra protection in\n\none quick move. You create a simple high or low bun\n\nfirst, then fold a lightweight scarf and wrap it around the base, tying it off to one side in\n\na knot or small bow. The scarf helps shield your scalp from\n\nsun, keeps frizz down, and adds color and pattern that instantly makes the bun\n\nfeel more intentional. Choose a breathable fabric that dries quickly if it gets damp, and avoid anything heavy that might weigh the style down.\n\nThis look works well on all textures and is especially helpful on\n\nday three or four hair when you want to hide roots but still look cute at the beach or boardwalk.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for scarf wrapped beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Braided Beach Bun Updo",
+        "image": "/images/doc147_img_13.jpg",
+        "description": "If you like your hair to really stay put in wind and waves, a braided beach bun\n\nupdo is a smart choice. Begin\n\nwith a simple three-strand or fishtail braid down the length of your hair, keeping the tension\n\nlight so it still looks soft and beachy. Then\n\nwrap the braid into a bun at the nape or just above and secure it with pins, letting a few face-framing pieces escape.\n\nThis combination of braid and bun\n\nlocks in your texture and prevents tangles from\n\nsaltwater while still feeling romantic. You can\n\nkeep it plain for everyday wear or add tiny shells or delicate clips if you are heading to a beach party or anoutdoor summer weddingby the water.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided beach bun updo.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Low Messy Beach Bun",
+        "image": "/images/doc147_img_14.jpg",
+        "description": "A low messy beach bun is the hairstyle you reach for when\n\nthe wind picks up and you just want everything loosely gathered. You collect your hair at the nape without over-combing, twist it into a quick bun, and secure it with an\n\nelastic or a few pins. Pull out a few strands at the front and crown\n\nto create a bit of height and movement, making sure nothing feels tight or rigid. This style works beautifully with naturally wavy or air-dried hair that already has some texture from\n\nsalt or product. It is comfortable under hats, easy to restyle throughout the day, and still looks cute with sunglasses, beachwear, and light summer makeup if you are wearing any.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low messy beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Half Up Beach Bun",
+        "image": "/images/doc147_img_15.jpg",
+        "description": "The half up beach bun is perfect when\n\nyou want to keep your hair out of your face but still show off your natural waves or curls. Gather the top third or half of your hair into a small ponytail at the crown, leaving the rest loose, then\n\ntwist that top section into a relaxed bun.\n\nBecause only part of your hair is pinned up, this style feels lighter on the scalp and works well on\n\nthick hair that can feel heavy in\n\na full bun. Use a sea salt or texture spray on\n\nthe loose lengths to define waves and keep them from\n\nlooking flat. The half up bun\n\nlooks casual but still intentional, so it is perfect for beach days that might end with casual plans or drinks on a patio afterward.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for half up beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "High Messy Beach Bun",
+        "image": "/images/doc147_img_16.jpg",
+        "description": "Salt-kissed texture and a high messy bun are a natural match when\n\nyou want your hair off your neck but still fun and flirty.\n\nStart by gathering all your hair into a high ponytail near the crown, letting shorter pieces fall out around the hairline for that relaxed feel. Twist the ponytail loosely and wrap it around the base, securing with a sturdy elastic and a few pins instead of trying to make it look perfect.\n\nIf your hair is slightly damp or \u201cdirty,\u201d the bun holds even\n\nbetter and looks more lived in, which is exactly what you want at the beach. Finish by gently pulling at the bun\n\nand crown for extra volume, and mist a sea salt or texture spray to enhance movement without crunch.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for high messy beach bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Beach Bun With Face Framing Pieces",
+        "image": "/images/doc147_img_17.jpg",
+        "description": "Soft face-framing pieces can completely change the vibe of a basic beach bun\n\nand make it feel more flattering. After putting your hair into a high, mid, or low bun, gently pull out a few small strands around your hairline and near your ears.\n\nLightly twist or scrunch these pieces with a bit of salt spray or curl cream so they form\n\nloose waves or curls instead of lying flat. This creates softness around your features and helps balance the style, especially if your bun\n\nis high on the head.\n\nThe overall effect is romantic and relaxed, ideal for everything from beach photos to casual wedding guest outfits, and it works with many different bun\n\nshapes and placements.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for beach bun with face framing pieces.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "Curly Beach Bun For Natural Hair",
+        "image": "/images/doc147_img_18.jpg",
+        "description": "A curly beach bun for natural hair focuses on\n\nkeeping curls moisturized, defined, and secure while you enjoy the sun. Start by applying a leave-in\n\nconditioner or curl cream to damp hair, then\n\ngather your curls into a puff or bun at the crown\n\nor slightly higher. Use a soft, stretchy band or scarf to secure the bun\n\nwithout crushing the curl pattern. Fluff the ends so they stay full and rounded, giving you that lifted shape that looks beautiful from\n\nevery angle. This type of bun\n\nkeeps your ends away from salt and sand as much as possible and works well paired with SPF on\n\nyour scalp and hairline to prevent dryness and sun damage.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for curly beach bun for natural hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "low-messy-hair-buns",
+    "slug": "low-messy-hair-buns",
+    "title": "12+ Beautiful Low Messy Hair Buns for an Effortlessly Chic Look",
+    "docId": "doc148",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc148_img_1.jpg",
+    "heroImage": "/images/doc148_img_1.jpg",
+    "excerpt": "Messy buns are having their moment\u2014and it\u2019s not just because we\u2019re running late to brunch. A little texture, a few loose strands, and suddenly you look like you...",
+    "description": "Messy buns are having their moment\u2014and it\u2019s not just because we\u2019re running late to brunch. A little texture, a few loose strands, and suddenly you look like you planned this chic chaos all along.\n\n\u2728 Low messy buns are the sweet spot between elegance and effortlessness.\n\nThey work for weddings, workdays, and yes, even grocery runs.\n\nThe best part? You don\u2019t need to be a professional stylist to pull one off.\n\nWith the right inspiration, your hair can go from\n\n\u201cjust tied back\u201d to \u201ceffortlessly polished\u201d in minutes.\n\nReady to scroll through buns that are anything but boring? Keep reading\u2014you\u2019ll want to screenshot these.\n\nThis look combines soft, voluminous twists with a rich dark chocolate base, highlighted by warm caramel streaks.\n\nLoose tendrils frame the face, giving a graceful yet relaxed finish that\u2019s ideal for both formal and casual occasions. A smooth, polished low bun\n\nstyled with a clean twist at the nape.\n\nThe cool blonde tones with soft lowlights add depth, while the seamless finish gives it a refined, elegant feel. Perfect for modern\n\nbrides or evening events. This style pairs a loosely gathered bun\n\nwith delicate highlights that catch the light beautifully. A tiny floral detail enhances the romantic mood, making it a dreamy choice for weddings and celebrations.\n\nEffortless texture defines this low bun, created with gentle twists and a relaxed silhouette. The honey-blonde tones with lighter strands throughout amplify dimension, giving the style a carefree yet chic character.\n\nA gently gathered bun enriched by multi-tonal brunette shades and golden\n\nribbons of light. The front waves softly curve along the face, adding a touch of softness to the polished low bun.\n\nThis style blends a sleek low bun with face-framing curtain\n\nbangs. The deep brunette shade reflects light beautifully, while the softly curled tendrils bring a graceful balance between\n\nstructure and softness. A textured low bun\n\nfull of movement, enhanced by subtle caramel undertones. The airy front waves provide an\n\neffortless elegance, making this a timeless look for evening occasions or formal gatherings. A refined low bun\n\nwith smooth texture and gentle side layers that frame the face. The ash-brown\n\nbase paired with delicate highlights adds natural dimension, making it chic yet understated. A simple and understated low bun\n\nstyled close to the nape. The neutral blonde shade keeps the look clean\n\nand timeless, making it an effortless go-to for everyday sophistication.\n\nA softly styled low bun crafted with loose curls and a deep brunette base.\n\nThe effortless placement of curls creates movement and dimension, striking the right balance between relaxed and refined.\n\nA relaxed low bun styled with fine strands left loose for a soft finish.\n\nThe sandy blonde color with subtle darker roots adds depth, keeping the style polished yet easygoing. This style pairs a textured bun\n\nwith warm honey blonde tones and face-framing waves.\n\nThe layered highlights create movement and dimension, making it a graceful choice for special occasions. A fuller low bun\n\ncrafted with smooth twists and tucked sections. The platinum\n\nblonde shade enhances the sculpted texture, giving it a chic and modern edge.\n\nA neat low bun styled close to the nape, paired with a golden\n\nblonde color that reflects light beautifully. Loose face-framing tendrils soften\n\nthe look, balancing structure with elegance.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Platinum Blonde Bun with Defined Twists",
+        "image": "/images/doc148_img_1.jpg",
+        "description": "A fuller low bun crafted with smooth twists and tucked sections.\n\nThe platinum blonde shade enhances the sculpted texture, giving it a chic and modern\n\nedge.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for platinum blonde bun with defined twists.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Tousled Blonde Low Bun with Volume",
+        "image": "/images/doc148_img_2.jpg",
+        "description": "Effortless texture defines this low bun, created with gentle twists and a relaxed silhouette. The honey-blonde tones with lighter strands throughout amplify dimension, giving the style a carefree yet chic character.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for tousled blonde low bun with volume.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Textured Low Bun with Dark Chocolate Waves",
+        "image": "/images/doc148_img_3.jpg",
+        "description": "This look combines soft, voluminous twists with a rich dark chocolate base, highlighted by warm caramel streaks.\n\nLoose tendrils frame the face, giving a graceful yet relaxed finish that\u2019s ideal for both formal and casual occasions.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for textured low bun with dark chocolate waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Soft Blonde Bun with Natural Texture",
+        "image": "/images/doc148_img_4.jpg",
+        "description": "A relaxed low bun styled with fine strands left loose for a soft finish.\n\nThe sandy blonde color with subtle darker roots adds depth, keeping the style polished yet easygoing.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for soft blonde bun with natural texture.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Sleek Bun with Soft Golden Blonde Shine",
+        "image": "/images/doc148_img_5.jpg",
+        "description": "A neat low bun styled close to the nape, paired with a golden\n\nblonde color that reflects light beautifully. Loose face-framing tendrils soften\n\nthe look, balancing structure with elegance.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek bun with soft golden blonde shine.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Sleek Blonde Low Bun with Subtle Dimension",
+        "image": "/images/doc148_img_6.jpg",
+        "description": "A smooth, polished low bun styled with a clean\n\ntwist at the nape. The cool blonde tones with soft lowlights add depth, while the seamless finish gives it a refined, elegant feel.\n\nPerfect for modern brides or evening events.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek blonde low bun with subtle dimension.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Classic Bun with Curtain Bangs and Rich Brunette Shine",
+        "image": "/images/doc148_img_7.jpg",
+        "description": "This style blends a sleek low bun with face-framing curtain\n\nbangs. The deep brunette shade reflects light beautifully, while the softly curled tendrils bring a graceful balance between\n\nstructure and softness.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for classic bun with curtain bangs and rich brunette shine.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Minimalist Blonde Low Bun",
+        "image": "/images/doc148_img_8.jpg",
+        "description": "A simple and understated low bun styled close to the nape.\n\nThe neutral blonde shade keeps the look clean and timeless, making it an\n\neffortless go-to for everyday sophistication.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for minimalist blonde low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Romantic Bun with Soft Highlights and Floral Accent",
+        "image": "/images/doc148_img_9.jpg",
+        "description": "This style pairs a loosely gathered bun with delicate highlights that catch the light beautifully.\n\nA tiny floral detail enhances the romantic mood, making it a dreamy choice for weddings and celebrations.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for romantic bun with soft highlights and floral accent.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Romantic Bun with Honey Blonde Highlights",
+        "image": "/images/doc148_img_10.jpg",
+        "description": "This style pairs a textured bun with warm\n\nhoney blonde tones and face-framing waves. The layered highlights create movement and dimension, making it a graceful choice for special occasions.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for romantic bun with honey blonde highlights.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Voluminous Bun with Warm Caramel Undertones",
+        "image": "/images/doc148_img_11.jpg",
+        "description": "A textured low bun full of movement, enhanced by subtle caramel undertones.\n\nThe airy front waves provide an effortless elegance, making this a timeless look for evening occasions or formal gatherings.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for voluminous bun with warm caramel undertones.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Loose Brunette Bun with Gentle Curls",
+        "image": "/images/doc148_img_12.jpg",
+        "description": "A softly styled low bun crafted with loose curls and a deep brunette base.\n\nThe effortless placement of curls creates movement and dimension, striking the right balance between relaxed and refined.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for loose brunette bun with gentle curls.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Polished Bun with Soft Face-Framing Layers",
+        "image": "/images/doc148_img_13.jpg",
+        "description": "A refined low bun with smooth texture and gentle side layers that frame the face.\n\nThe ash-brown base paired with delicate highlights adds natural dimension, making it chic yet understated.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for polished bun with soft face-framing layers.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Soft Brunette Bun with Gentle Waves",
+        "image": "/images/doc148_img_14.jpg",
+        "description": "A gently gathered bun enriched by multi-tonal brunette shades and golden\n\nribbons of light. The front waves softly curve along the face, adding a touch of softness to the polished low bun.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for soft brunette bun with gentle waves.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "business-bun-hairstyles",
+    "slug": "business-bun-hairstyles",
+    "title": "17+ Business Bun Hairstyles That Mean Serious Style",
+    "docId": "doc149",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc149_img_1.jpg",
+    "heroImage": "/images/doc149_img_1.jpg",
+    "excerpt": "Polished bun hairstyles can",
+    "description": "Polished bun hairstyles can\n\nmake you feel instantly more confident walking into any meeting, interview, or presentation. A goodbusiness bun\n\nkeeps hair tidy, away from your face, and neat from\n\nevery angle, without taking too long to create in a busy morning.\n\nMany women now prefer buns for work because they look professional on\n\ncamera and in person, which is essential with hybrid and remote jobs.\n\nModern office buns are softer than\n\nold-school strict updos, balancing structure with a bit of natural texture so you do not look overly severe. You can\n\nadapt most buns for different dress codes, from conservative offices to more creative workplaces.\n\nDetails like parting, placement, and finish help you customize each look to your face shape and outfit while still staying work-appropriate and polished all day. A sleek low business bun\n\nis the classic work hairstyle many professionals rely on when\n\nthey need to look neat in minutes.\n\nHair is brushed smooth, parted cleanly, then gathered at the nape before twisting into a compact bun\n\nanchored with pins and a firm-hold hairspray. This placement looks elegant from\n\nthe side and works especially well with collared shirts, blazers, and structured dresses. A low bun\n\nlike this is perfect for straight or slightly wavy hair and helps control frizz through long office days or commute humidity. You can\n\nsoften the vibe by leaving the front just a touch relaxed instead of ultra-tight while still keeping your bun\n\nitself very tidy. For longer days, smoothing serum\n\nand a few extra bobby pins will help the bun stay sleek and professional through back-to-back meetings or client calls.\n\nA middle part low bun for work feels modern\n\nand balanced, especially if you like symmetrical, minimal fashion. You start by creating a straight center part, smoothing each side down, and gathering hair into a low ponytail before twisting it into a snug bun\n\nat the nape. This structure highlights your facial features evenly, which looks great on\n\nvideo calls and in bright office lighting.\n\nThe middle part pairs well with glasses, simple earrings, and button-up shirts because everything lines up in a clean, polished way.\n\nIf your hair is thick or frizzy, use a light styling cream or gel along the parting and sides to prevent puffiness while keeping shine.\n\nFor long days or travel, wrap the bun with a hair elastic or hair net under the pins to keep it from\n\nloosening while you move around. A side part low business bun\n\ngives an instant soft, flattering frame to the face while still looking office-ready.\n\nYou create a defined side part, smooth hair toward the back, and secure a low ponytail slightly off-center before twisting it into a tidy bun. This subtle shift in\n\nparting can balance strong jawlines or wide foreheads and can\n\nlook especially nice on heart-shaped or oval faces.\n\nSide-part buns feel a bit more relaxed than center parts, which is helpful if your office culture is business casual rather than\n\nvery formal. You can\n\nleave a single soft strand near the part if dress code allows, but keep the rest sleek so it still reads professional instead of messy. A light mist of flexible hairspray is usually enough hold for this look, so your hair moves naturally but stays put through your schedule.\n\nAsleek high business bunis perfect when you want your hair completely off your neck and shoulders yet still very refined.\n\nTo create it, brush hair smooth, pull it high at the crown or slightly above, and twist into a tight coil that you pin\n\nsecurely in place.\n\nThis style opens up your face and neckline, which can look sharp with tailored blazers, structured tops, or high-neck blouses.\n\nBecause the bun is elevated, it reads more assertive and polished, ideal for presentations, interviews, or important meetings.\n\nFor a truly sleek finish, work in a smoothing cream\n\nfrom roots to mid-lengths and brush everything upward before securing your ponytail.\n\nThis bun is especially good for straight or relaxed hair textures, and adding a shine spray at the end keeps it camera-ready all day.\n\nAlow chignon bunfor the office blends classic elegance with everyday practicality.\n\nInstead of a simple twist, hair is looped or rolled at the nape, creating a compact knot that looks smooth from every angle.\n\nThis shape sits a bit flatter against the head than some buns, making it comfortable when\n\nyou lean back in\n\na chair or wear over-ear headphones. Chignons suit straight, wavy, or slightly layered hair and work with conservative office dress codes because they feel timeless, not trendy.\n\nYou can keep the front sleek or add a very subtle side part to soften\n\nthe look without losing polish. A few well-placed pins underneath and a spritz of medium-hold hairspray will keep your chignon\n\nintact through commuting, desk work, and after-work events without constant touch-ups. A French twist bun\n\nfor business gives you that polished, executive look with a little extra sophistication. The style gathers hair at the nape, twists it upward along the back of the head, and tucks the ends into a folded roll secured with pins.\n\nIn many modern\n\nversions, the twist is shaped into a bun-like form at the crown, giving more volume and structure while still looking elegant.\n\nThis updo is ideal for important meetings, client events, or days when you need to look especially put-together.\n\nIt works best on medium\n\nto long hair, and adding a bit of root volume or texture spray helps the twist look full instead of flat. Finish with a strong-hold hairspray so the twist stays smooth and secure from\n\nmorning to evening, even if you are moving around a lot.\n\nA low messy bun for work offers a relaxed yet intentional look when\n\nyou want something softer than a fully sleek updo.\n\nThe key is to keep your part clean and your sides fairly smooth while allowing gentle texture around the bun\n\nitself. Start by creating a clear part, gather hair into a low ponytail at the nape, then\n\ntwist and pin loosely, leaving some movement.\n\nThis technique makes the bun look \u201clived in\u201d but not sloppy, ideal for creative or business-casual workplaces.\n\nLight waves or natural texture give this bun the best finish, and a touch of texturizing spray adds grip so it does not fall apart.\n\nKeep front pieces minimal and controlled so your overall vibe still feels organized and professional throughout your workday. A half up business bun\n\nhairstyle is great when you want your face clear but prefer to keep some length down\n\nfor softness. You section\n\noff the top half of your hair, secure it into a ponytail, twist it into a small bun, and leave the rest loose. This look can\n\nbe surprisingly work-appropriate if the bun itself is neat and the lower hair is combed and controlled instead of overly tousled.\n\nIt suits offices with a more relaxed dress code or days when you are moving between\n\ndesk work and casual off-duty plans. Straight, wavy, and even\n\ncurly textures can wear this style, as long as any frizz is tamed with a light cream\n\nor serum. Keep accessories simple and professional, avoiding flashy clips so your half up bun\n\nstill looks polished and not overly playful. A braided low business bun\n\nadds detail while staying neat and conservative enough for most workplaces. You begin\n\nwith a low ponytail at the nape, braid the length, then wrap that braid around the base to form\n\na structured bun. The braid naturally holds itself together, giving the bun\n\nlasting power without needing heavy product. This style looks especially nice on\n\nmedium to long hair and can\n\nhelp show off natural highlights or subtle color variations. It works for straight or slightly wavy textures; if your hair is very silky, add a bit of texturizing spray before braiding for better grip.\n\nKeep the front smooth and minimalist so the braided detail at the back feels intentional yet still appropriate for client meetings and formal days. A braided crown\n\nbun for the office circles your head with a discreet braid before tucking everything into a neat bun.\n\nYou can either braid along the hairline and wrap the remaining length into a bun, or create a halo braid that joins into a low knot at the back.\n\nThis look appears intricate while still feeling professional, especially when the braids are smooth and free of flyaways.\n\nIt is well-suited to longer workdays, because braids help keep shorter layers and face-framing pieces tucked away. This bun\n\npairs nicely with simple jewelry and understated makeup, letting the clean braid pattern\n\nbe the main visual detail.\n\nUse small, clear elastics and plenty of discreet pins so the crown effect stays neat and does not loosen\n\nas you move around. A twisted low business bun\n\ngives you a softer alternative to standard buns without losing a polished finish. To create it, split your low ponytail into two or three sections, twist each one, then\n\nwrap them around the base in\n\noverlapping loops. The overlapping twists create gentle dimension\n\nthat looks great from behind, especially under office lighting.\n\nThis approach works well for fine or medium hair because twisting adds fullness without needing a lot of product.\n\nYou can keep the top sleek or slightly relaxed, depending on\n\nhow formal your work setting is. A light, flexible hairspray will hold the twists in\n\nplace while still allowing some natural movement so your bun does not look stiff.\n\nAloop low bun for workuses a simple folded ponytail to create a modern, minimalist shape.\n\nYou pull hair into a low ponytail, do not pull it all the way through the last twist of the band, and then tuck and pin\n\nthe loop\u2019s ends. The result is a soft, rounded bun\n\nthat sits close to the nape and feels very current but still office-friendly. This bun\n\nis ideal when you are short on\n\ntime because it only needs a few pins and a smoothing pass with your brush. It works well on\n\nstraight or slightly wavy textures, and a touch of serum at the ends keeps the exposed tips looking healthy.\n\nBecause it is so quick and simple, this is a great everyday choice for commuters or anyone who styles their hair at the office. A bun\n\nwith face framing pieces balances professionalism with a softer, more approachable feel.\n\nYou secure your bun\u2014usually low or mid-height\u2014then gently pull out a few thin\n\nstrands around the front to skim your cheekbones or jawline.\n\nThese pieces help soften strong features and can\n\nbe especially flattering on camera or in\n\nbright office lighting. The key is to keep the pieces smooth and lightly styled, not frizzy or overly curled, so the overall look still reads neat.\n\nThis bun pairs well with more relaxed dress codes or creative roles where a bit of personality in\n\nyour hair is welcomed. If your office is more formal, keep the pieces very subtle and use a small amount of styling cream\n\nso they stay controlled throughout the day. A high puff bun\n\nfor natural hair is a great way to showcase your texture while keeping a professional shape. Usually, the hair is smoothed around the edges, gathered high on\n\nthe crown, and fluffed into a rounded puff or bun-like shape. This keeps coils and curls visible in\n\na way that feels stylish yet appropriate for most office environments. Edge control products and a soft brush help define the hairline so the style looks sharp rather than\n\ncasual. You can\n\nadjust the puff size depending on your workplace; a slightly smaller, more compact bun\n\nmay feel better in very conservative settings.\n\nA light oil or cream on\n\nthe curls will maintain definition\n\nand shine so your texture looks intentional and healthy all day. A low bun\n\non natural hair gives a sleek, professional look while protecting your curls during busy workweeks.\n\nStart by stretching or smoothing your hair slightly, then gather it at the nape and tuck the ends into a compact bun\n\nor coiled knot. This keeps your strands tucked away from\n\ndaily friction and helps maintain\n\nmoisture. The smooth base and clean\n\nbun shape suit business settings, especially when\n\npaired with simple accessories and tailored clothing. You can\n\npart your hair in the middle or on\n\nthe side to flatter your face and add subtle variety without changing the base style. Finish with an\n\nedge control gel around the hairline and a satin scrunchie or covered band to avoid breakage while still looking polished.\n\nAlow bun with a claw clipoffers a quick, professional hairstyle that is easy to adjust throughout the day.\n\nYou twist your hair into a low coil and secure it at the nape with a medium or large claw clip instead of pins.\n\nThis creates a structured bun shape while allowing you to release and redo it quickly between\n\nmeetings or after commuting. The key to keeping this office-appropriate is choosing a neutral, minimal clip\u2014think tortoiseshell or solid black rather than\n\nbright or decorative. This bun\n\nworks for straight, wavy, and some curly textures, as long as the hair is smoothed around the sides. A light mist of hairspray along the front will prevent flyaways while the clip does most of the work holding the bun\n\nin place.\n\nAsock bun for workgives you a perfectly round, full bun\n\neven if your hair is fine or medium\n\nlength. You pull your hair into a ponytail, slide on\n\na bun donut or sock form, spread the hair around it, and tuck the ends under.\n\nThis creates a structured, symmetrical shape that looks very polished with suits, dresses, and tailored office outfits. The added volume from\n\nthe form makes the bun\n\nstand out nicely without requiring a lot of teasing or product. It is especially helpful for interviews or formal presentations when\n\nyou want your hairstyle to look deliberately styled. Use pins to secure the base, then\n\nsmooth any flyaways with serum or spray so the bun\n\nlooks sleek and professional from every angle.\n\nA double twisted low bun is a small upgrade from\n\na simple bun that still feels fully work-ready.\n\nYou divide your hair into two low ponytails, twist each one, then cross them\n\nover each other and pin into a combined bun\n\nat the nape. The overlapping twists make the bun\n\nlook more intricate without adding much styling time. This look is great for medium\n\nto long hair and works well with subtle highlights because the twists show off color variation. It is appropriate for business settings as long as the front and sides remain\n\nsmooth and controlled. Finish with a light hairspray to keep the twists defined and to make sure your bun\n\ndoes not separate as the day goes on.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Sleek High Business Bun",
+        "image": "/images/doc149_img_1.jpg",
+        "description": "Asleek high business bunis perfect when you want your hair completely off your neck and shoulders yet still very refined.\n\nTo create it, brush hair smooth, pull it high at the crown or slightly above, and twist into a tight coil that you pin\n\nsecurely in place.\n\nThis style opens up your face and neckline, which can look sharp with tailored blazers, structured tops, or high-neck blouses.\n\nBecause the bun is elevated, it reads more assertive and polished, ideal for presentations, interviews, or important meetings.\n\nFor a truly sleek finish, work in a smoothing cream\n\nfrom roots to mid-lengths and brush everything upward before securing your ponytail.\n\nThis bun is especially good for straight or relaxed hair textures, and adding a shine spray at the end keeps it camera-ready all day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek high business bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Double Twisted Low Bun",
+        "image": "/images/doc149_img_2.jpg",
+        "description": "A double twisted low bun is a small upgrade from\n\na simple bun that still feels fully work-ready.\n\nYou divide your hair into two low ponytails, twist each one, then cross them\n\nover each other and pin into a combined bun\n\nat the nape. The overlapping twists make the bun\n\nlook more intricate without adding much styling time. This look is great for medium\n\nto long hair and works well with subtle highlights because the twists show off color variation. It is appropriate for business settings as long as the front and sides remain\n\nsmooth and controlled. Finish with a light hairspray to keep the twists defined and to make sure your bun\n\ndoes not separate as the day goes on.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for double twisted low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Side Part Low Business Bun",
+        "image": "/images/doc149_img_3.jpg",
+        "description": "A side part low business bun gives an\n\ninstant soft, flattering frame to the face while still looking office-ready. You create a defined side part, smooth hair toward the back, and secure a low ponytail slightly off-center before twisting it into a tidy bun.\n\nThis subtle shift in parting can\n\nbalance strong jawlines or wide foreheads and can look especially nice on\n\nheart-shaped or oval faces. Side-part buns feel a bit more relaxed than\n\ncenter parts, which is helpful if your office culture is business casual rather than very formal.\n\nYou can leave a single soft strand near the part if dress code allows, but keep the rest sleek so it still reads professional instead of messy.\n\nA light mist of flexible hairspray is usually enough hold for this look, so your hair moves naturally but stays put through your schedule.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for side part low business bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Sock Bun For Work",
+        "image": "/images/doc149_img_4.jpg",
+        "description": "Asock bun for workgives you a perfectly round, full bun\n\neven if your hair is fine or medium\n\nlength. You pull your hair into a ponytail, slide on\n\na bun donut or sock form, spread the hair around it, and tuck the ends under.\n\nThis creates a structured, symmetrical shape that looks very polished with suits, dresses, and tailored office outfits. The added volume from\n\nthe form makes the bun\n\nstand out nicely without requiring a lot of teasing or product. It is especially helpful for interviews or formal presentations when\n\nyou want your hairstyle to look deliberately styled. Use pins to secure the base, then\n\nsmooth any flyaways with serum or spray so the bun\n\nlooks sleek and professional from every angle.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sock bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Bun With Face Framing Pieces",
+        "image": "/images/doc149_img_5.jpg",
+        "description": "A bun with face framing pieces balances professionalism\n\nwith a softer, more approachable feel. You secure your bun\u2014usually low or mid-height\u2014then\n\ngently pull out a few thin strands around the front to skim\n\nyour cheekbones or jawline. These pieces help soften\n\nstrong features and can be especially flattering on\n\ncamera or in bright office lighting.\n\nThe key is to keep the pieces smooth and lightly styled, not frizzy or overly curled, so the overall look still reads neat. This bun\n\npairs well with more relaxed dress codes or creative roles where a bit of personality in your hair is welcomed.\n\nIf your office is more formal, keep the pieces very subtle and use a small amount of styling cream so they stay controlled throughout the day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for bun with face framing pieces.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "High Puff Bun For Natural Hair",
+        "image": "/images/doc149_img_6.jpg",
+        "description": "A high puff bun for natural hair is a great way to showcase your texture while keeping a professional shape.\n\nUsually, the hair is smoothed around the edges, gathered high on the crown, and fluffed into a rounded puff or bun-like shape.\n\nThis keeps coils and curls visible in a way that feels stylish yet appropriate for most office environments.\n\nEdge control products and a soft brush help define the hairline so the style looks sharp rather than casual.\n\nYou can adjust the puff size depending on\n\nyour workplace; a slightly smaller, more compact bun may feel better in\n\nvery conservative settings. A light oil or cream\n\non the curls will maintain\n\ndefinition and shine so your texture looks intentional and healthy all day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for high puff bun for natural hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Low Messy Bun For Work",
+        "image": "/images/doc149_img_7.jpg",
+        "description": "A low messy bun for work offers a relaxed yet intentional look when\n\nyou want something softer than a fully sleek updo.\n\nThe key is to keep your part clean and your sides fairly smooth while allowing gentle texture around the bun\n\nitself. Start by creating a clear part, gather hair into a low ponytail at the nape, then\n\ntwist and pin loosely, leaving some movement.\n\nThis technique makes the bun look \u201clived in\u201d but not sloppy, ideal for creative or business-casual workplaces.\n\nLight waves or natural texture give this bun the best finish, and a touch of texturizing spray adds grip so it does not fall apart.\n\nKeep front pieces minimal and controlled so your overall vibe still feels organized and professional throughout your workday.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low messy bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Braided Low Business Bun",
+        "image": "/images/doc149_img_8.jpg",
+        "description": "A braided low business bun adds detail while staying neat and conservative enough for most workplaces.\n\nYou begin with a low ponytail at the nape, braid the length, then\n\nwrap that braid around the base to form a structured bun.\n\nThe braid naturally holds itself together, giving the bun lasting power without needing heavy product.\n\nThis style looks especially nice on medium\n\nto long hair and can help show off natural highlights or subtle color variations.\n\nIt works for straight or slightly wavy textures; if your hair is very silky, add a bit of texturizing spray before braiding for better grip. Keep the front smooth and minimalist so the braided detail at the back feels intentional yet still appropriate for client meetings and formal days.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided low business bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Low Chignon Bun For Office",
+        "image": "/images/doc149_img_9.jpg",
+        "description": "Alow chignon bunfor the office blends classic elegance with everyday practicality.\n\nInstead of a simple twist, hair is looped or rolled at the nape, creating a compact knot that looks smooth from every angle.\n\nThis shape sits a bit flatter against the head than some buns, making it comfortable when\n\nyou lean back in\n\na chair or wear over-ear headphones. Chignons suit straight, wavy, or slightly layered hair and work with conservative office dress codes because they feel timeless, not trendy.\n\nYou can keep the front sleek or add a very subtle side part to soften\n\nthe look without losing polish. A few well-placed pins underneath and a spritz of medium-hold hairspray will keep your chignon\n\nintact through commuting, desk work, and after-work events without constant touch-ups.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low chignon bun for office.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Low Bun On Natural Hair",
+        "image": "/images/doc149_img_10.jpg",
+        "description": "A low bun on\n\nnatural hair gives a sleek, professional look while protecting your curls during busy workweeks. Start by stretching or smoothing your hair slightly, then\n\ngather it at the nape and tuck the ends into a compact bun or coiled knot.\n\nThis keeps your strands tucked away from daily friction\n\nand helps maintain moisture.\n\nThe smooth base and clean bun\n\nshape suit business settings, especially when paired with simple accessories and tailored clothing.\n\nYou can part your hair in\n\nthe middle or on the side to flatter your face and add subtle variety without changing the base style.\n\nFinish with an edge control gel around the hairline and a satin\n\nscrunchie or covered band to avoid breakage while still looking polished.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun on natural hair.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Twisted Low Business Bun",
+        "image": "/images/doc149_img_11.jpg",
+        "description": "A twisted low business bun gives you a softer alternative to standard buns without losing a polished finish.\n\nTo create it, split your low ponytail into two or three sections, twist each one, then wrap them\n\naround the base in overlapping loops.\n\nThe overlapping twists create gentle dimension that looks great from\n\nbehind, especially under office lighting. This approach works well for fine or medium\n\nhair because twisting adds fullness without needing a lot of product. You can\n\nkeep the top sleek or slightly relaxed, depending on how formal your work setting is.\n\nA light, flexible hairspray will hold the twists in place while still allowing some natural movement so your bun\n\ndoes not look stiff.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for twisted low business bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Middle Part Low Bun For Work",
+        "image": "/images/doc149_img_12.jpg",
+        "description": "A middle part low bun for work feels modern\n\nand balanced, especially if you like symmetrical, minimal fashion. You start by creating a straight center part, smoothing each side down, and gathering hair into a low ponytail before twisting it into a snug bun\n\nat the nape. This structure highlights your facial features evenly, which looks great on\n\nvideo calls and in bright office lighting.\n\nThe middle part pairs well with glasses, simple earrings, and button-up shirts because everything lines up in a clean, polished way.\n\nIf your hair is thick or frizzy, use a light styling cream or gel along the parting and sides to prevent puffiness while keeping shine.\n\nFor long days or travel, wrap the bun with a hair elastic or hair net under the pins to keep it from\n\nloosening while you move around.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for middle part low bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "Half Up Business Bun Hairstyle",
+        "image": "/images/doc149_img_13.jpg",
+        "description": "A half up business bun hairstyle is great when\n\nyou want your face clear but prefer to keep some length down for softness.\n\nYou section off the top half of your hair, secure it into a ponytail, twist it into a small bun, and leave the rest loose.\n\nThis look can be surprisingly work-appropriate if the bun\n\nitself is neat and the lower hair is combed and controlled instead of overly tousled. It suits offices with a more relaxed dress code or days when\n\nyou are moving between desk work and casual off-duty plans.\n\nStraight, wavy, and even curly textures can\n\nwear this style, as long as any frizz is tamed with a light cream or serum.\n\nKeep accessories simple and professional, avoiding flashy clips so your half up bun still looks polished and not overly playful.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for half up business bun hairstyle.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Braided Crown Bun For Office",
+        "image": "/images/doc149_img_14.jpg",
+        "description": "A braided crown bun\n\nfor the office circles your head with a discreet braid before tucking everything into a neat bun. You can\n\neither braid along the hairline and wrap the remaining length into a bun, or create a halo braid that joins into a low knot at the back. This look appears intricate while still feeling professional, especially when\n\nthe braids are smooth and free of flyaways. It is well-suited to longer workdays, because braids help keep shorter layers and face-framing pieces tucked away.\n\nThis bun pairs nicely with simple jewelry and understated makeup, letting the clean\n\nbraid pattern be the main\n\nvisual detail. Use small, clear elastics and plenty of discreet pins so the crown\n\neffect stays neat and does not loosen as you move around.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided crown bun for office.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Low Bun With Claw Clip",
+        "image": "/images/doc149_img_15.jpg",
+        "description": "Alow bun with a claw clipoffers a quick, professional hairstyle that is easy to adjust throughout the day.\n\nYou twist your hair into a low coil and secure it at the nape with a medium or large claw clip instead of pins.\n\nThis creates a structured bun shape while allowing you to release and redo it quickly between\n\nmeetings or after commuting. The key to keeping this office-appropriate is choosing a neutral, minimal clip\u2014think tortoiseshell or solid black rather than\n\nbright or decorative. This bun\n\nworks for straight, wavy, and some curly textures, as long as the hair is smoothed around the sides. A light mist of hairspray along the front will prevent flyaways while the clip does most of the work holding the bun\n\nin place.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for low bun with claw clip.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Sleek Low Business Bun",
+        "image": "/images/doc149_img_16.jpg",
+        "description": "A sleek low business bun is the classic work hairstyle many professionals rely on\n\nwhen they need to look neat in\n\nminutes. Hair is brushed smooth, parted cleanly, then\n\ngathered at the nape before twisting into a compact bun anchored with pins and a firm-hold hairspray.\n\nThis placement looks elegant from the side and works especially well with collared shirts, blazers, and structured dresses.\n\nA low bun like this is perfect for straight or slightly wavy hair and helps control frizz through long office days or commute humidity.\n\nYou can soften\n\nthe vibe by leaving the front just a touch relaxed instead of ultra-tight while still keeping your bun itself very tidy.\n\nFor longer days, smoothing serum and a few extra bobby pins will help the bun\n\nstay sleek and professional through back-to-back meetings or client calls.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek low business bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Loop Low Bun For Work",
+        "image": "/images/doc149_img_17.jpg",
+        "description": "Aloop low bun for workuses a simple folded ponytail to create a modern, minimalist shape.\n\nYou pull hair into a low ponytail, do not pull it all the way through the last twist of the band, and then tuck and pin\n\nthe loop\u2019s ends. The result is a soft, rounded bun\n\nthat sits close to the nape and feels very current but still office-friendly. This bun\n\nis ideal when you are short on\n\ntime because it only needs a few pins and a smoothing pass with your brush. It works well on\n\nstraight or slightly wavy textures, and a touch of serum at the ends keeps the exposed tips looking healthy.\n\nBecause it is so quick and simple, this is a great everyday choice for commuters or anyone who styles their hair at the office.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for loop low bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "French Twist Bun For Business",
+        "image": "/images/doc149_img_18.jpg",
+        "description": "A French twist bun for business gives you that polished, executive look with a little extra sophistication.\n\nThe style gathers hair at the nape, twists it upward along the back of the head, and tucks the ends into a folded roll secured with pins. In\n\nmany modern versions, the twist is shaped into a bun-like form\n\nat the crown, giving more volume and structure while still looking elegant. This updo is ideal for important meetings, client events, or days when\n\nyou need to look especially put-together. It works best on\n\nmedium to long hair, and adding a bit of root volume or texture spray helps the twist look full instead of flat.\n\nFinish with a strong-hold hairspray so the twist stays smooth and secure from morning to evening, even\n\nif you are moving around a lot.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for french twist bun for business.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
+  },
+  {
+    "id": "cute-work-bun-hairstyles",
+    "slug": "cute-work-bun-hairstyles",
+    "title": "18+ Cute Bun Hairstyles for Work That Look Anything But Boring",
+    "docId": "doc150",
+    "category": "Bun Hairstyles",
+    "date": "2026-09-09",
+    "author": "Antigravity Hair Team",
+    "readTime": "6 min read",
+    "coverImage": "/images/doc150_img_1.jpg",
+    "heroImage": "/images/doc150_img_1.jpg",
+    "excerpt": "Finding the perfect balance between professional and stylish can",
+    "description": "Finding the perfect balance between professional and stylish can\n\nbe a challenge when you are rushing out the door.\n\nThat is exactly where these 20 cute bun hairstyle ideas for work come to the rescue.\n\nA great bun keeps your hair out of your face while looking incredibly polished for any office environment.\n\nWhether you have a strict corporate dress code or enjoy a creative and relaxed workplace, there is a bun waiting for you.\n\nFrom sleek and sophisticated low chignons to effortlessly chic messy top knots, you can\n\neasily transform your morning routine.\n\nThese options work wonderfully for all hair types and lengths. Get ready to upgrade your professional look with these simple yet stunning bun\n\nhairstyles that will turn heads at the office.\n\nHave you ever wanted a hairstyle that commands respect while looking effortlessly chic? The sleek low bun\n\nfor work is your ultimate go-to for important meetings and presentations. This look pulls your hair tightly back at the nape of your neck, creating a clean\n\nsilhouette that pairs perfectly with blazers and tailored outfits. To achieve this, simply brush your hair back, secure it into a tight ponytail, and twist it into a smooth coil.\n\nUse a light holding gel to tame any flyaways for a flawless finish. It is a timeless choice that works exceptionally well for straight and wavy hair textures.\n\nYou will look completely put together in under five minutes.\n\nThose mornings when you hit snooze too many times call for a quick and easy solution.\n\nThe messy top knot bun is a lifesaver for busy professionals who still want to look stylish.\n\nSitting right at the crown of your head, this style gives off a relaxed yet intentional vibe.\n\nSimply gather your hair, twist it around itself, and pull a few pieces loose to frame your face. It adds instant volume and a touch of softness to your overall work look.\n\nThis bun is especially great for thick or curly hair that holds shape well.\n\nPair it with a cozy sweater for the office, and you are ready to conquer your day. Want to add a little texture to your everyday office look without going over the top?\n\nThe braided low bun combines the elegance of aclassic chignonwith the pretty detail of a simple braid.\n\nYou just need to create a basic three-strand braid with your low ponytail, then wrap it around its base and pin\n\nit securely. This creates a beautiful woven\n\neffect that catches the eye and looks much more complicated than it actually is.\n\nIt is a fantastic way to keep your hair neat and professional while showing off your creative side. This style holds up beautifully throughout a long workday, ensuring you look just as fresh at five as you did at nine.\n\nDreaming of a perfectly round and voluminous bun that lasts from\n\nyour morning coffee to your evening commute? The sock bun\n\nfor office wear is a fantastic trick that never fails. By using a simple hair donut or rolled sock, you can\n\ncreate a flawlessly full and symmetrical bun at the back of your head.\n\nPull your hair over the donut, roll it down, and spread the hair evenly to hide the tool underneath. The result is a highly polished and sophisticated look that commands attention\n\nin any boardroom.\n\nIt works wonders for finer hair types by adding instant body and thickness. You will always look remarkably groomed and ready for any professional challenge.\n\nLooking for a subtle upgrade from your standard everyday ponytail?\n\nThe twisted low chignon offers a graceful and romantic touch to your typical work wardrobe.\n\nInstead of a standard braid or coil, you simply divide your low ponytail into two sections, twist them individually, and then\n\nwrap them around each other before pinning into place.\n\nThis creates a stunning rope-like effect that adds wonderful dimension to your hair.\n\nIt feels highly appropriate for corporate settings but still maintains a soft feminine charm. This style is incredibly forgiving on\n\nsecond-day hair, making it a perfect midweek option. You can\n\neasily transition this elegant look straight from\n\nyour desk to an after-work social event.\n\nNeed a hairstyle that stays completely secure during a hectic day of running errands and back-to-back calls? The french braid top bun\n\nis a powerhouse style that keeps every single strand in place.\n\nStarting from your front hairline, french braid your hair all the way up to the crown, then\n\ngather the remaining length into a high bun. This gives you a gorgeous sculpted look at the front while maintaining the professional bulk of a bun\n\nat the back. It is a striking and confident choice that holds up flawlessly against wind and weather.\n\nThis look pairs beautifully with a crisp button-down shirt, giving you an\n\nundeniably sharp and capable appearance all day long. Ever wonder how dancers maintain\n\nsuch flawless poise during intense performances? Theclassic ballet bunbrings that same level of refined grace right into your workplace.\n\nPositioned at the back of the head, this tight and perfectly round bun leaves no stray hairs behind.\n\nIt requires a good brush, strong hair ties, and plenty of bobby pins to lock it down tight.\n\nThis immaculate style pairs wonderfully with high-neckline tops and structured blazers, giving you a beautifully elongated neck and posture. It is ideal for formal office environments where a highly groomed appearance is absolutely essential.\n\nWhen you need to look strictly professional and perfectly pulled together, this bun\n\nis a guaranteed winner. Who says you have to choose between\n\nwearing your hair up or down? The half up double bun\n\nlets you enjoy the best of both worlds for a fun and modern\n\nwork look. You simply take the top section\n\nof your hair, split it into two small buns on the crown\n\nof your head, and let the rest flow freely. This quirky yet professional style is surprisingly acceptable in\n\ncreative workspaces and adds a playful twist to your outfit. It keeps your hair out of your eyes while showing off the length and health of your lower layers.\n\nThis is a fantastic way to experiment with different shapes while keeping things office-appropriate and fresh. Want to turn\n\na basic bun into something totally eye-catching?\n\nThe bubble bun for work adds incredible volume and a playful bounce to your standard office updo.\n\nYou achieve this by tying multiple small hair elastics down the length of your ponytail, gently pulling at each section\n\nto create rounded bubbles, and then wrapping the whole thing around the base.\n\nThe resulting shape looks puffy and unique, giving off a trendy but polished vibe. It is a brilliant trick for anyone with thin\n\nhair who wants their bun to look significantly thicker and more impressive.\n\nYou can wear this comfortably with a smart dress or a business casual outfit, ensuring you stand out for all the right reasons.\n\nTired of wearing your hair in the exact same position\n\nevery single day? The side swept low bun\n\nprovides a refreshing change of pace while keeping things entirely work appropriate. Instead of sitting directly in\n\nthe center, this bun rests just behind your ear, creating a beautiful asymmetrical look.\n\nYou can leave a few face-framing pieces out for a softer feel, or slick it back for a more formal environment.\n\nIt looks particularly stunning if you have long layers that naturally cascade toward one side. This elegant style pairs perfectly with a scoop-neck top, highlighting your collarbone and giving you a wonderfully graceful silhouette for all your professional endeavors.\n\nLooking to add a touch of whimsy to your everyday office attire? Thehair bow bunis a creative and charming way to style your hair that still looks entirely professional.\n\nAfter forming a high looped ponytail, you split the loop into two halves and pull the remaining tail up between them\n\nto form a bow shape.\n\nThis creates a visually striking accessory out of your own hair, eliminating the need for extra clips or pins.\n\nIt is a fantastic conversation starter and shows off your fun\n\npersonality while maintaining a neat appearance. This style holds securely all day and pairs wonderfully with a tailored vest or a classic cardigan\n\nat work. Want a style that looks incredibly intricate but takes barely any effort?\n\nThe rope twisted bun gives the illusion\n\nof complex braiding without requiring any actual braiding skills at all. You simply divide your ponytail into two sections, twist them\n\nin opposite directions, and then\n\nwrap them around each other before coiling them\n\ninto a bun. The resulting pattern\n\nlooks like a beautiful thick rope that adds wonderful texture to your professional look. It is a highly reliable style that will not unravel easily during a busy shift.\n\nThis bun looks particularly stunning on\n\nhighlighted or balayage hair, as the twists really show off the dimensional colors under harsh office lighting. Need a hairstyle that looks royal enough for an\n\nimportant client pitch? The crown\n\nbraid bun wraps a delicate french braid around the top of your head like a tiara, gathering the rest of your hair into a sophisticated low bun.\n\nThis majestic look gives you an instant boost of confidence and makes you look incredibly put together.\n\nIt is a stunning option for medium\n\nto long hair and keeps your part completely covered and secure. You will love how this elegant style frames your face and highlights your facial features.\n\nWear this with a sharp pantsuit, and you will definitely project an air of absolute authority and grace in\n\nthe workplace. Searching for the fastest way to get out the door on\n\nMonday morning? The donut bun\n\nfor work is a universally flattering and incredibly quick option for busy women.\n\nYou just pull your hair through the styling tool, roll it up, and fan it out to create a perfect circle.\n\nIt looks incredibly neat and highly professional, making it a staple for lawyers, teachers, and businesswomen alike.\n\nThis style sits securely at the back of the head and will not budge no matter how stressful your day gets. It provides a beautiful polished finish that complements any office outfit, ensuring you always look organized, efficient, and completely in\n\ncontrol of your day. Do you struggle with taming your beautiful natural curls for a corporate environment?\n\nThe curly messy bun embraces your natural texture while keeping your hair neatly contained and out of your way.\n\nInstead of fighting your curls, you gently gather them at the crown\n\nand let them spiral and spill out naturally.\n\nThis creates a gorgeous voluminous bun that looks effortlessly stylish and full of life.\n\nPull a few curly tendrils down to frame your face for a soft and approachable look.\n\nThis style is incredibly low maintenance but yields stunning results that celebrate your natural hair. It pairs perfectly with a bright blouse, bringing a wonderful energy to your workspace.\n\nWondering how to wear your hair up without exposing your entire forehead? The bun\n\nwith curtain bangs offers the perfect solution\n\nby leaving out those flattering face-framing pieces. Sweeping softly down\n\nthe sides of your face, these bangs beautifully soften the severity of an\n\nupdo and highlight your cheekbones. You can\n\nstyle the back into any simple low or high bun while the front does all the heavy lifting for your face shape.\n\nIt is an incredibly trendy yet professional look that works brilliantly forzoom\n\ncalls and in-person meetingsalike.\n\nThis style gives you the best mix of a polished back and a soft, romantic front for a highly balanced look. Looking for an\n\nupdo that adds a little extra height and elongates your neck? The twisted top knot does exactly that by incorporating thick rope-like twists into a high bun.\n\nInstead of a standard smooth coil, you wrap two thick twists around each other at the crown of your head.\n\nThis adds gorgeous structural interest and makes the bun look much larger and more impressive.\n\nIt is a sleek and modern choice that looks highly professional and fashion-forward.\n\nYou can easily secure it with a few strong pins and a mist of hairspray for all-day hold.\n\nPair it with a turtleneck for a wonderfully chic and sophisticated office aesthetic. Ever wish your everyday bun\n\ncould look a little more architectural and interesting? Thelooped low bunoffers a unique geometric shape that elevates your standard office hairstyle.\n\nInstead of wrapping the hair completely around, you pull your ponytail only halfway through the elastic, creating a sophisticated loop. You then\n\ntake the remaining ends and wrap them around the base to hide the hair tie.\n\nThis creates a stunning keyhole effect at the nape of your neck that catches the light beautifully. It is an\n\nincredibly elegant style that feels very high-end and polished. This look works perfectly with a blazer, giving you a sharp and highly tailored professional appearance.\n\nWant to take a basic bun from\n\nboring to breathtaking in just a few seconds?\n\nThe accessorized low bun uses stylish hairpins, clips, or a delicate headband to completely transform\n\nyour look. You can\n\ncreate a standard low chignon and then\n\nstrategically placemetallic pins or pearl clipsalong the sides for a customized touch. This allows you to express your personal style while staying well within\n\nyour office dress code. It is a fantastic way to dress up a simple hairstyle for an\n\nimportant presentation or a networking event.\n\nThe right accessories can make your hair look professionally done, giving you a major boost of confidence all day.",
+    "items": [
+      {
+        "number": 1,
+        "title": "Rope Twisted Bun",
+        "image": "/images/doc150_img_1.jpg",
+        "description": "Want a style that looks incredibly intricate but takes barely any effort? The rope twisted bun\n\ngives the illusion of complex braiding without requiring any actual braiding skills at all.\n\nYou simply divide your ponytail into two sections, twist them in\n\nopposite directions, and then wrap them\n\naround each other before coiling them into a bun.\n\nThe resulting pattern looks like a beautiful thick rope that adds wonderful texture to your professional look.\n\nIt is a highly reliable style that will not unravel easily during a busy shift. This bun\n\nlooks particularly stunning on highlighted or balayage hair, as the twists really show off the dimensional colors under harsh office lighting.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for rope twisted bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 2,
+        "title": "Sock Bun For Office",
+        "image": "/images/doc150_img_2.jpg",
+        "description": "Dreaming of a perfectly round and voluminous bun that lasts from\n\nyour morning coffee to your evening commute? The sock bun\n\nfor office wear is a fantastic trick that never fails. By using a simple hair donut or rolled sock, you can\n\ncreate a flawlessly full and symmetrical bun at the back of your head.\n\nPull your hair over the donut, roll it down, and spread the hair evenly to hide the tool underneath. The result is a highly polished and sophisticated look that commands attention\n\nin any boardroom.\n\nIt works wonders for finer hair types by adding instant body and thickness. You will always look remarkably groomed and ready for any professional challenge.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sock bun for office.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 3,
+        "title": "Curly Messy Bun",
+        "image": "/images/doc150_img_3.jpg",
+        "description": "Do you struggle with taming your beautiful natural curls for a corporate environment? The curly messy bun\n\nembraces your natural texture while keeping your hair neatly contained and out of your way. Instead of fighting your curls, you gently gather them\n\nat the crown and let them\n\nspiral and spill out naturally. This creates a gorgeous voluminous bun\n\nthat looks effortlessly stylish and full of life. Pull a few curly tendrils down\n\nto frame your face for a soft and approachable look. This style is incredibly low maintenance but yields stunning results that celebrate your natural hair.\n\nIt pairs perfectly with a bright blouse, bringing a wonderful energy to your workspace.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for curly messy bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 4,
+        "title": "Donut Bun For Work",
+        "image": "/images/doc150_img_4.jpg",
+        "description": "Searching for the fastest way to get out the door on Monday morning?\n\nThe donut bun for work is a universally flattering and incredibly quick option\n\nfor busy women. You just pull your hair through the styling tool, roll it up, and fan\n\nit out to create a perfect circle. It looks incredibly neat and highly professional, making it a staple for lawyers, teachers, and businesswomen\n\nalike. This style sits securely at the back of the head and will not budge no matter how stressful your day gets.\n\nIt provides a beautiful polished finish that complements any office outfit, ensuring you always look organized, efficient, and completely in control of your day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for donut bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 5,
+        "title": "Bubble Bun For Work",
+        "image": "/images/doc150_img_5.jpg",
+        "description": "Want to turn a basic bun\n\ninto something totally eye-catching? The bubble bun\n\nfor work adds incredible volume and a playful bounce to your standard office updo. You achieve this by tying multiple small hair elastics down\n\nthe length of your ponytail, gently pulling at each section to create rounded bubbles, and then\n\nwrapping the whole thing around the base. The resulting shape looks puffy and unique, giving off a trendy but polished vibe.\n\nIt is a brilliant trick for anyone with thin hair who wants their bun\n\nto look significantly thicker and more impressive. You can\n\nwear this comfortably with a smart dress or a business casual outfit, ensuring you stand out for all the right reasons.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for bubble bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 6,
+        "title": "Twisted Top Knot",
+        "image": "/images/doc150_img_6.jpg",
+        "description": "Looking for an updo that adds a little extra height and elongates your neck?\n\nThe twisted top knot does exactly that by incorporating thick rope-like twists into a high bun. Instead of a standard smooth coil, you wrap two thick twists around each other at the crown\n\nof your head. This adds gorgeous structural interest and makes the bun\n\nlook much larger and more impressive. It is a sleek and modern\n\nchoice that looks highly professional and fashion-forward. You can\n\neasily secure it with a few strong pins and a mist of hairspray for all-day hold. Pair it with a turtleneck for a wonderfully chic and sophisticated office aesthetic.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for twisted top knot.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 7,
+        "title": "Accessorized Low Bun",
+        "image": "/images/doc150_img_7.jpg",
+        "description": "Want to take a basic bun from\n\nboring to breathtaking in just a few seconds?\n\nThe accessorized low bun uses stylish hairpins, clips, or a delicate headband to completely transform\n\nyour look. You can\n\ncreate a standard low chignon and then\n\nstrategically placemetallic pins or pearl clipsalong the sides for a customized touch. This allows you to express your personal style while staying well within\n\nyour office dress code. It is a fantastic way to dress up a simple hairstyle for an\n\nimportant presentation or a networking event.\n\nThe right accessories can make your hair look professionally done, giving you a major boost of confidence all day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for accessorized low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 8,
+        "title": "Side Swept Low Bun",
+        "image": "/images/doc150_img_8.jpg",
+        "description": "Tired of wearing your hair in the exact same position\n\nevery single day? The side swept low bun\n\nprovides a refreshing change of pace while keeping things entirely work appropriate. Instead of sitting directly in\n\nthe center, this bun rests just behind your ear, creating a beautiful asymmetrical look.\n\nYou can leave a few face-framing pieces out for a softer feel, or slick it back for a more formal environment.\n\nIt looks particularly stunning if you have long layers that naturally cascade toward one side. This elegant style pairs perfectly with a scoop-neck top, highlighting your collarbone and giving you a wonderfully graceful silhouette for all your professional endeavors.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for side swept low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 9,
+        "title": "Hair Bow Bun",
+        "image": "/images/doc150_img_9.jpg",
+        "description": "Looking to add a touch of whimsy to your everyday office attire? Thehair bow bunis a creative and charming way to style your hair that still looks entirely professional.\n\nAfter forming a high looped ponytail, you split the loop into two halves and pull the remaining tail up between them\n\nto form a bow shape.\n\nThis creates a visually striking accessory out of your own hair, eliminating the need for extra clips or pins.\n\nIt is a fantastic conversation starter and shows off your fun\n\npersonality while maintaining a neat appearance. This style holds securely all day and pairs wonderfully with a tailored vest or a classic cardigan\n\nat work.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for hair bow bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 10,
+        "title": "Looped Low Bun",
+        "image": "/images/doc150_img_10.jpg",
+        "description": "Ever wish your everyday bun could look a little more architectural and interesting?\n\nThelooped low bunoffers a unique geometric shape that elevates your standard office hairstyle. Instead of wrapping the hair completely around, you pull your ponytail only halfway through the elastic, creating a sophisticated loop.\n\nYou then take the remaining ends and wrap them\n\naround the base to hide the hair tie. This creates a stunning keyhole effect at the nape of your neck that catches the light beautifully.\n\nIt is an incredibly elegant style that feels very high-end and polished.\n\nThis look works perfectly with a blazer, giving you a sharp and highly tailored professional appearance.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for looped low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 11,
+        "title": "Sleek Low Bun For Work",
+        "image": "/images/doc150_img_11.jpg",
+        "description": "Have you ever wanted a hairstyle that commands respect while looking effortlessly chic? The sleek low bun\n\nfor work is your ultimate go-to for important meetings and presentations. This look pulls your hair tightly back at the nape of your neck, creating a clean\n\nsilhouette that pairs perfectly with blazers and tailored outfits. To achieve this, simply brush your hair back, secure it into a tight ponytail, and twist it into a smooth coil.\n\nUse a light holding gel to tame any flyaways for a flawless finish. It is a timeless choice that works exceptionally well for straight and wavy hair textures.\n\nYou will look completely put together in under five minutes.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for sleek low bun for work.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 12,
+        "title": "Twisted Low Chignon",
+        "image": "/images/doc150_img_12.jpg",
+        "description": "Looking for a subtle upgrade from your standard everyday ponytail?\n\nThe twisted low chignon offers a graceful and romantic touch to your typical work wardrobe.\n\nInstead of a standard braid or coil, you simply divide your low ponytail into two sections, twist them individually, and then\n\nwrap them around each other before pinning into place.\n\nThis creates a stunning rope-like effect that adds wonderful dimension to your hair.\n\nIt feels highly appropriate for corporate settings but still maintains a soft feminine charm. This style is incredibly forgiving on\n\nsecond-day hair, making it a perfect midweek option. You can\n\neasily transition this elegant look straight from\n\nyour desk to an after-work social event.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for twisted low chignon.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 13,
+        "title": "French Braid Top Bun",
+        "image": "/images/doc150_img_13.jpg",
+        "description": "Need a hairstyle that stays completely secure during a hectic day of running errands and back-to-back calls? The french braid top bun\n\nis a powerhouse style that keeps every single strand in place.\n\nStarting from your front hairline, french braid your hair all the way up to the crown, then\n\ngather the remaining length into a high bun. This gives you a gorgeous sculpted look at the front while maintaining the professional bulk of a bun\n\nat the back. It is a striking and confident choice that holds up flawlessly against wind and weather.\n\nThis look pairs beautifully with a crisp button-down shirt, giving you an\n\nundeniably sharp and capable appearance all day long.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for french braid top bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 14,
+        "title": "Classic Ballet Bun",
+        "image": "/images/doc150_img_14.jpg",
+        "description": "Ever wonder how dancers maintain such flawless poise during intense performances?\n\nTheclassic ballet bunbrings that same level of refined grace right into your workplace. Positioned at the back of the head, this tight and perfectly round bun\n\nleaves no stray hairs behind. It requires a good brush, strong hair ties, and plenty of bobby pins to lock it down\n\ntight. This immaculate style pairs wonderfully with high-neckline tops and structured blazers, giving you a beautifully elongated neck and posture.\n\nIt is ideal for formal office environments where a highly groomed appearance is absolutely essential. When\n\nyou need to look strictly professional and perfectly pulled together, this bun is a guaranteed winner.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for classic ballet bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 15,
+        "title": "Braided Low Bun",
+        "image": "/images/doc150_img_15.jpg",
+        "description": "Want to add a little texture to your everyday office look without going over the top? The braided low bun\n\ncombines the elegance of aclassic chignonwith the pretty detail of a simple braid. You just need to create a basic three-strand braid with your low ponytail, then\n\nwrap it around its base and pin it securely.\n\nThis creates a beautiful woven effect that catches the eye and looks much more complicated than\n\nit actually is. It is a fantastic way to keep your hair neat and professional while showing off your creative side.\n\nThis style holds up beautifully throughout a long workday, ensuring you look just as fresh at five as you did at nine.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for braided low bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 16,
+        "title": "Half Up Double Bun",
+        "image": "/images/doc150_img_16.jpg",
+        "description": "Who says you have to choose between wearing your hair up or down?\n\nThe half up double bun lets you enjoy the best of both worlds for a fun\n\nand modern work look.\n\nYou simply take the top section of your hair, split it into two small buns on\n\nthe crown of your head, and let the rest flow freely.\n\nThis quirky yet professional style is surprisingly acceptable in creative workspaces and adds a playful twist to your outfit.\n\nIt keeps your hair out of your eyes while showing off the length and health of your lower layers. This is a fantastic way to experiment with different shapes while keeping things office-appropriate and fresh.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for half up double bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 17,
+        "title": "Messy Top Knot Bun",
+        "image": "/images/doc150_img_17.jpg",
+        "description": "Those mornings when you hit snooze too many times call for a quick and easy solution.\n\nThe messy top knot bun is a lifesaver for busy professionals who still want to look stylish.\n\nSitting right at the crown of your head, this style gives off a relaxed yet intentional vibe.\n\nSimply gather your hair, twist it around itself, and pull a few pieces loose to frame your face. It adds instant volume and a touch of softness to your overall work look.\n\nThis bun is especially great for thick or curly hair that holds shape well.\n\nPair it with a cozy sweater for the office, and you are ready to conquer your day.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for messy top knot bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 18,
+        "title": "Crown Braid Bun",
+        "image": "/images/doc150_img_18.jpg",
+        "description": "Need a hairstyle that looks royal enough for an important client pitch?\n\nThe crown braid bun\n\nwraps a delicate french braid around the top of your head like a tiara, gathering the rest of your hair into a sophisticated low bun. This majestic look gives you an\n\ninstant boost of confidence and makes you look incredibly put together. It is a stunning option\n\nfor medium to long hair and keeps your part completely covered and secure.\n\nYou will love how this elegant style frames your face and highlights your facial features. Wear this with a sharp pantsuit, and you will definitely project an\n\nair of absolute authority and grace in the workplace.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for crown braid bun.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      },
+      {
+        "number": 19,
+        "title": "Bun With Curtain Bangs",
+        "image": "/images/doc150_img_19.jpg",
+        "description": "Wondering how to wear your hair up without exposing your entire forehead? The bun\n\nwith curtain bangs offers the perfect solution\n\nby leaving out those flattering face-framing pieces. Sweeping softly down\n\nthe sides of your face, these bangs beautifully soften the severity of an\n\nupdo and highlight your cheekbones. You can\n\nstyle the back into any simple low or high bun while the front does all the heavy lifting for your face shape.\n\nIt is an incredibly trendy yet professional look that works brilliantly forzoom\n\ncalls and in-person meetingsalike.\n\nThis style gives you the best mix of a polished back and a soft, romantic front for a highly balanced look.",
+        "whyWeLoveIt": "Creates effortless volume and secure, polished structure for bun with curtain bangs.",
+        "stylingTip": "Secure with a lightweight hair tie and finish with a touch of flexible hairspray."
+      }
+    ]
   }
 ];
