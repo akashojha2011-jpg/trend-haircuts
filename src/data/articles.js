@@ -28460,5 +28460,1439 @@ export const articles = [
         "stylingTip": "Use a sulfate-free color-safe shampoo and hydrating gloss treatment to preserve tone and shine."
       }
     ]
+  },
+  {
+    "id": "stunning-blue-black-hair-colors-to-copy",
+    "slug": "stunning-blue-black-hair-colors-to-copy",
+    "title": "12+ Stunning Blue Black Hair Colors You’ll Want to Copy",
+    "category": "Black Hair Color",
+    "categorySlug": "black-hair-color",
+    "heroImage": "/images/doc105_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": true,
+    "isTrending": false,
+    "intro": "Blue-black hair has that secret agent vibe. It’s sleek, dramatic, and makes you look like you know exactly what you’re doing—even if you’re just deciding on dinner. 🕶️ This color is all about contrast. In some lights, it’s a polished black; in others, those blue tones quietly steal the show. It works on straight, wavy, or curly styles. The best part? It always looks intentional, even on a messy hair day. So if you’re ready for hair that says “mystery with a touch of fun,” keep scrolling. Your next salon screenshot might be waiting below.",
+    "introParagraphs": [
+      "Blue-black hair has that secret agent vibe. It’s sleek, dramatic, and makes you look like you know exactly what you’re doing—even if you’re just deciding on dinner. 🕶️ This color is all about contrast. In some lights, it’s a polished black; in others, those blue tones quietly steal the show. It works on straight, wavy, or curly styles. The best part? It always looks intentional, even on a messy hair day. So if you’re ready for hair that says “mystery with a touch of fun,” keep scrolling. Your next salon screenshot might be waiting below."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc105-guide",
+        "title": "Black Hair Color & Shine Maintenance Guide",
+        "content": "Black hair color creates unmatched contrast, mirror shine, and healthy-looking thickness. Proper care maintains cool or warm undertones without dullness.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Deep Gloss & Pigment Coverage"
+          },
+          {
+            "val": "Low-Upkeep",
+            "label": "Rich Natural Regrowth Blend"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Coily"
+          }
+        ]
+      },
+      {
+        "id": "section-doc105-masterclass",
+        "title": "Stylist Masterclass: Maintaining High-Shine Black Hair",
+        "steps": [
+          "Rinse with Cool Water: Seals hair cuticles to lock in deep black pigment and shine.",
+          "Apply UV Protection Spray: Prevents sun exposure from oxidation and brassy warm shifts.",
+          "Use Gloss Oils & Serums: Enhances light reflection for a glass-hair finish.",
+          "Schedule Deep Conditioning Treatments: Keeps rich black strands deeply hydrated and silky."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How do I maintain glossy black hair color?",
+        "a": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine.",
+        "question": "How do I maintain glossy black hair color?",
+        "answer": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine."
+      },
+      {
+        "q": "Does black hair color flatter all skin tones?",
+        "a": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion.",
+        "question": "Does black hair color flatter all skin tones?",
+        "answer": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Midnight Blue Layers",
+        "image": "/images/doc105_img_1.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Midnight Blue Layers delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 2,
+        "title": "Glossy Blue-Black Straight",
+        "image": "/images/doc105_img_2.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Glossy Blue-Black Straight delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 3,
+        "title": "Soft Blue-Black Waves",
+        "image": "/images/doc105_img_3.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Soft Blue-Black Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 4,
+        "title": "Sleek Blue-Black Length",
+        "image": "/images/doc105_img_4.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Sleek Blue-Black Length delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 5,
+        "title": "Dimensional Blue-Black Waves",
+        "image": "/images/doc105_img_5.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Dimensional Blue-Black Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 6,
+        "title": "Layered Blue-Black Straight",
+        "image": "/images/doc105_img_6.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Layered Blue-Black Straight delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 7,
+        "title": "Effortless Blue-Black Curls",
+        "image": "/images/doc105_img_7.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Effortless Blue-Black Curls delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 8,
+        "title": "Voluminous Blue-Black Waves",
+        "image": "/images/doc105_img_8.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Voluminous Blue-Black Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 9,
+        "title": "Blue-Black Lob with Layers",
+        "image": "/images/doc105_img_9.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Blue-Black Lob with Layers delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 10,
+        "title": "Softly Tousled Blue-Black",
+        "image": "/images/doc105_img_10.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Softly Tousled Blue-Black delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 11,
+        "title": "Wavy Blue-Black Lob",
+        "image": "/images/doc105_img_11.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Wavy Blue-Black Lob delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 12,
+        "title": "Long Blue-Black Waves with Curtain Fringe",
+        "image": "/images/doc105_img_12.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Long Blue-Black Waves with Curtain Fringe delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 13,
+        "title": "Layered Blue-Black with Face-Framing Volume",
+        "image": "/images/doc105_img_13.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Layered Blue-Black with Face-Framing Volume delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 14,
+        "title": "Sleek Blue-Black Length with Center Part",
+        "image": "/images/doc105_img_14.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Sleek Blue-Black Length with Center Part delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 15,
+        "title": "Blue-Black with Electric Indigo Accents",
+        "image": "/images/doc105_img_15.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Blue-Black with Electric Indigo Accents delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 16,
+        "title": "Dimensional Blue-Black Medium Cut",
+        "image": "/images/doc105_img_16.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Dimensional Blue-Black Medium Cut delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      }
+    ]
+  },
+  {
+    "id": "trendy-soft-black-hair-colors-worth-saving",
+    "slug": "trendy-soft-black-hair-colors-worth-saving",
+    "title": "13+ Trendy Soft Black Hair Colors Worth Saving",
+    "category": "Black Hair Color",
+    "categorySlug": "black-hair-color",
+    "heroImage": "/images/doc106_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": true,
+    "isTrending": false,
+    "intro": "Soft black hair has a secret power: it makes everything look shinier than it really is ✨. Add a good cut or some waves, and suddenly you look like you have a personal glam squad. This shade is sleek, timeless, and surprisingly easy to wear. It flatters every skin tone and works with any length or texture. Think of it as the little black dress of hair color. Always stylish, never out of place, and it makes you feel like your best self without even trying. Ready to see the proof? Here are some fresh takes on soft black hair that will keep you inspired for your next salon visit.",
+    "introParagraphs": [
+      "Soft black hair has a secret power: it makes everything look shinier than it really is ✨. Add a good cut or some waves, and suddenly you look like you have a personal glam squad. This shade is sleek, timeless, and surprisingly easy to wear. It flatters every skin tone and works with any length or texture. Think of it as the little black dress of hair color. Always stylish, never out of place, and it makes you feel like your best self without even trying. Ready to see the proof? Here are some fresh takes on soft black hair that will keep you inspired for your next salon visit."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc106-guide",
+        "title": "Black Hair Color & Shine Maintenance Guide",
+        "content": "Black hair color creates unmatched contrast, mirror shine, and healthy-looking thickness. Proper care maintains cool or warm undertones without dullness.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Deep Gloss & Pigment Coverage"
+          },
+          {
+            "val": "Low-Upkeep",
+            "label": "Rich Natural Regrowth Blend"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Coily"
+          }
+        ]
+      },
+      {
+        "id": "section-doc106-masterclass",
+        "title": "Stylist Masterclass: Maintaining High-Shine Black Hair",
+        "steps": [
+          "Rinse with Cool Water: Seals hair cuticles to lock in deep black pigment and shine.",
+          "Apply UV Protection Spray: Prevents sun exposure from oxidation and brassy warm shifts.",
+          "Use Gloss Oils & Serums: Enhances light reflection for a glass-hair finish.",
+          "Schedule Deep Conditioning Treatments: Keeps rich black strands deeply hydrated and silky."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How do I maintain glossy black hair color?",
+        "a": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine.",
+        "question": "How do I maintain glossy black hair color?",
+        "answer": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine."
+      },
+      {
+        "q": "Does black hair color flatter all skin tones?",
+        "a": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion.",
+        "question": "Does black hair color flatter all skin tones?",
+        "answer": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Long Soft Black Waves",
+        "image": "/images/doc106_img_1.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Long Soft Black Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 2,
+        "title": "Sleek Soft Black Straight Hair",
+        "image": "/images/doc106_img_2.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Sleek Soft Black Straight Hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 3,
+        "title": "Voluminous Layers in Soft Black",
+        "image": "/images/doc106_img_3.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Voluminous Layers in Soft Black delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 4,
+        "title": "Loose Soft Black Curls",
+        "image": "/images/doc106_img_4.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Loose Soft Black Curls delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 5,
+        "title": "Shoulder-Length Soft Black Layers",
+        "image": "/images/doc106_img_5.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Shoulder-Length Soft Black Layers delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 6,
+        "title": "Extra Long Soft Black Waves",
+        "image": "/images/doc106_img_6.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Extra Long Soft Black Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 7,
+        "title": "Face-Framing Soft Black Layers",
+        "image": "/images/doc106_img_7.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Face-Framing Soft Black Layers delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 8,
+        "title": "Soft Black Mid-Length Waves",
+        "image": "/images/doc106_img_8.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Soft Black Mid-Length Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 9,
+        "title": "Romantic Soft Black Waves",
+        "image": "/images/doc106_img_9.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Romantic Soft Black Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 10,
+        "title": "Soft Black Curtain Layers",
+        "image": "/images/doc106_img_10.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Soft Black Curtain Layers delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 11,
+        "title": "Feathered Layers with Curtain Bangs in Soft Black",
+        "image": "/images/doc106_img_11.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Feathered Layers with Curtain Bangs in Soft Black delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 12,
+        "title": "Sleek Soft Black with Gentle Waves",
+        "image": "/images/doc106_img_12.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Sleek Soft Black with Gentle Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 13,
+        "title": "Flowing Waves in Soft Black",
+        "image": "/images/doc106_img_13.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Flowing Waves in Soft Black delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 14,
+        "title": "Tousled Soft Black Waves",
+        "image": "/images/doc106_img_14.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Tousled Soft Black Waves delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 15,
+        "title": "Layered Soft Black with Face-Framing Shape",
+        "image": "/images/doc106_img_15.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Layered Soft Black with Face-Framing Shape delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      }
+    ]
+  },
+  {
+    "id": "winter-blue-black-hair-colors",
+    "slug": "winter-blue-black-hair-colors",
+    "title": "16+ Winter Blue Black Hair Colors You’ll Want to Try",
+    "category": "Black Hair Color",
+    "categorySlug": "black-hair-color",
+    "heroImage": "/images/doc107_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": true,
+    "intro": "Have you ever considered updating your look for the colder months with a shade that perfectly captures the icy essence of the season? Exploring a stunning 20 winter blue black hair color guide might be exactly what you need to find your next signature style. This deep, mesmerizing shade blends the fierce depth of midnight black with subtle, striking hints of sapphire or navy, creating a finish that looks incredibly glossy and rich under the winter sunlight. It is a fantastic option if you want a natural look that still offers a unique twist. Whether you prefer a soft denim tint or a bold reflective metallic finish, there is a perfect variation waiting for you. Let us dive into the most captivating options to inspire your next salon visit.",
+    "introParagraphs": [
+      "Have you ever considered updating your look for the colder months with a shade that perfectly captures the icy essence of the season? Exploring a stunning 20 winter blue black hair color guide might be exactly what you need to find your next signature style. This deep, mesmerizing shade blends the fierce depth of midnight black with subtle, striking hints of sapphire or navy, creating a finish that looks incredibly glossy and rich under the winter sunlight. It is a fantastic option if you want a natural look that still offers a unique twist. Whether you prefer a soft denim tint or a bold reflective metallic finish, there is a perfect variation waiting for you. Let us dive into the most captivating options to inspire your next salon visit."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc107-guide",
+        "title": "Black Hair Color & Shine Maintenance Guide",
+        "content": "Black hair color creates unmatched contrast, mirror shine, and healthy-looking thickness. Proper care maintains cool or warm undertones without dullness.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Deep Gloss & Pigment Coverage"
+          },
+          {
+            "val": "Low-Upkeep",
+            "label": "Rich Natural Regrowth Blend"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Coily"
+          }
+        ]
+      },
+      {
+        "id": "section-doc107-masterclass",
+        "title": "Stylist Masterclass: Maintaining High-Shine Black Hair",
+        "steps": [
+          "Rinse with Cool Water: Seals hair cuticles to lock in deep black pigment and shine.",
+          "Apply UV Protection Spray: Prevents sun exposure from oxidation and brassy warm shifts.",
+          "Use Gloss Oils & Serums: Enhances light reflection for a glass-hair finish.",
+          "Schedule Deep Conditioning Treatments: Keeps rich black strands deeply hydrated and silky."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How do I maintain glossy black hair color?",
+        "a": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine.",
+        "question": "How do I maintain glossy black hair color?",
+        "answer": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine."
+      },
+      {
+        "q": "Does black hair color flatter all skin tones?",
+        "a": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion.",
+        "question": "Does black hair color flatter all skin tones?",
+        "answer": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Midnight Blue Black Hair Color",
+        "image": "/images/doc107_img_1.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Imagine stepping out into the moonlight with hair that mirrors the night sky. The midnight blue black hair color is a timeless choice that gives you a mysterious and elegant vibe. This shade relies heavily on a rich black base with subtle blue undertones that only truly pop when the light hits them.",
+          "It is perfect for anyone who wants to keep things professional during the day but show off a fun, reflective side at night. This look works beautifully on straight hair, as the smooth surface allows the blue tones to glide across the strands. You can wear this shade confidently at the office or at any weekend gathering."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 2,
+        "title": "Icy Blue Black Hair Color",
+        "image": "/images/doc107_img_2.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Are you looking for a shade that matches the frosty weather outside? Icy blue black hair color brings out the best of winter by mixing cool-toned blue hues with a deep, dark base. This combination creates a striking, frosty finish that looks incredibly sharp and modern.",
+          "It is an amazing option if you have cool or neutral undertones in your skin, as it will brighten your complexion instantly. The icy blue strands can be blended throughout the mid-lengths and ends to give a frozen, dimensional effect. Keep your hair highly moisturized during the cold months to maintain that vibrant, chilly gloss. This bold look guarantees you will turn heads."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 3,
+        "title": "Navy Blue Black Hair Color",
+        "image": "/images/doc107_img_3.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "There is something undeniably sophisticated about a deep, ocean-inspired shade. Navy blue black hair color offers a mature and polished take on this trend, leaning closer to a very dark indigo than a bright azure. It is a highly versatile option that looks fantastic in any professional setting while still giving you that colorful edge.",
+          "This shade pairs wonderfully with thick, wavy textures, as the waves catch the navy tones and create a stunning sense of movement. If you want a color that feels grounding and rich, this is definitely the route to take. It requires minimal upkeep compared to brighter blues, making it a practical yet stylish choice."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 4,
+        "title": "Teal Blue Black Hair Color",
+        "image": "/images/doc107_img_4.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Want to add a pop of green to your dark tresses? Teal blue black hair color shifts the focus slightly toward the warmer, more vibrant end of the blue spectrum, creating an unforgettable finish. This shade looks incredibly striking on darker skin tones, as the rich teal contrasts beautifully with warm, deep complexions.",
+          "The blend of dark roots transitioning into a teal-blue mid-length gives your hair a dense, luxurious feel. It is a remarkable way to experiment with color without giving up the deep, dark aesthetic you love. Use a color-depositing conditioner once a week to keep the teal tones looking fresh and vibrant all season long."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 5,
+        "title": "Sapphire Blue Black Hair Color",
+        "image": "/images/doc107_img_5.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Have you ever wanted your hair to resemble a precious gemstone? Sapphire blue black hair color delivers a rich, velvety texture that looks incredibly expensive and glamorous. This shade takes the intense, brilliant hue of a sapphire and pairs it with a deep black base, resulting in a highly reflective, show-stopping finish.",
+          "It is perfect for special winter events where you want your hair to look absolutely dazzling. The sapphire tones pop best when styled in loose, romantic curls, allowing the light to bounce off every curve. Treat your hair with a glossy serum to amplify that jewel-like shine and keep your locks looking healthy and radiant."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 6,
+        "title": "Denim Blue Black Hair Color",
+        "image": "/images/doc107_img_6.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Looking for a softer, more lived-in approach to this trend? Denim blue black hair color gives you a muted, dusty finish that feels incredibly casual and chic. This shade mimics the look of your favorite pair of faded jeans, combining soft blue-gray tones with dark roots for an effortlessly cool aesthetic.",
+          "It is an excellent choice if you prefer a low-maintenance style because the grown-out roots look entirely intentional. This color looks fantastic on messy, textured bobs or shag haircuts, adding to that relaxed, undone vibe. A purple shampoo can help neutralize any unwanted brassiness, keeping your denim shade looking cool and authentic."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 7,
+        "title": "Blue Black Balayage Hair Color",
+        "image": "/images/doc107_img_7.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Craving dimension and movement in your dark hair? Blue black balayage hair color offers a seamless, hand-painted blend of blue tones through a black base, creating a stunning sun-kissed effect. The beauty of this technique lies in its natural, growing appearance.",
+          "The darker roots transition smoothly into vibrant blue tips, making it an ideal style for those who do not want frequent touch-ups. This look works wonders on long hair, where the gradient can truly shine and flow. Whether you choose a subtle dusting of blue or a more concentrated pop of color at the ends, this painted technique brings life and depth to your winter style."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 8,
+        "title": "Blue Black Ombre Hair Color",
+        "image": "/images/doc107_img_8.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Why settle for one color when you can have a bold transition? Blue black ombre hair color creates a stark, noticeable contrast between the dark roots and the vivid blue ends. Unlike the subtle blending of a balayage, an ombre features a more defined line where the black meets the blue, giving a striking, graphic appeal.",
+          "This is a fantastic option for anyone who loves a dramatic, edgy look that stands out in a crowd. It looks particularly stunning on straight hair, where the color blocking is sharp and clear. Protect the dyed ends with a deep conditioning mask to prevent the bright blue from fading or turning dull."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 9,
+        "title": "Velvet Blue Black Hair Color",
+        "image": "/images/doc107_img_9.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Can you imagine your hair feeling and looking as soft as velvet? Velvet blue black hair color focuses on creating a plush, smooth texture that looks incredibly touchable and rich. This shade uses a dense, inky black base with a heavy dose of blue pigment, resulting in a color that absorbs light rather than reflecting it brightly.",
+          "It gives your hair a thick, velvety appearance that feels very wintry and elegant. This is the perfect shade for anyone with fine hair, as the deep color can create the illusion of thicker, denser strands. A smoothing hair oil will enhance that soft, frictionless finish every single day."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 10,
+        "title": "Metallic Blue Black Hair Color",
+        "image": "/images/doc107_img_10.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Ready to bring the drama with a highly reflective finish? Metallic blue black hair color uses special pigments that mimic the look of liquid metal, giving your hair a brilliant, mirror-like shine. This futuristic shade takes the classic blue black and elevates it with a high-gloss coating that looks spectacular under bright winter lights.",
+          "It is an incredibly bold choice that commands attention and pairs perfectly with sleek, straight styles or a high ponytail. To maintain that liquid metal effect, you must keep your hair extremely healthy and hydrated. A glass-hair spray will instantly boost that metallic reflection and keep your style looking sharp and flawless."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 11,
+        "title": "Blue Black Hair With Silver Highlights",
+        "image": "/images/doc107_img_11.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Do you want to brighten up your dark mane with a touch of frost? Blue black hair with silver highlights adds icy, bright streaks throughout a deep base, giving you a beautifully frozen appearance. The silver pieces frame your face and create a gorgeous contrast against the dark blue and black shades.",
+          "This combination is highly flattering for cool skin tones and adds a magical, wintry sparkle to your everyday look. The highlights can be fine and subtle or chunky and bold, depending on your personal preference. Use a reliable silver-toned shampoo to keep those highlights crisp and prevent them from turning brassy over time."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 12,
+        "title": "Blue Black Hair With Purple Undertones",
+        "image": "/images/doc107_img_12.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Have you ever noticed how beautiful a bruised plum shade can be? Blue black hair with purple undertones blends the depth of midnight blue with the richness of dark violet, creating a multi-dimensional finish. This shade looks incredibly vibrant in direct sunlight, yet it remains subtle and professional indoors.",
+          "It is a wonderful option for anyone who wants to experiment with two cool tones at once. The purple adds warmth and complexity to the blue, preventing the color from looking flat or washed out. A reliable color-safe, sulfate-free shampoo is essential for preserving this complex mix of pigments and keeping your hair looking freshly dyed."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 13,
+        "title": "Dusty Blue Black Hair Color",
+        "image": "/images/doc107_img_13.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Searching for a shade that feels vintage and soft? Dusty blue black hair color tones down the brightness of traditional blue, resulting in a muted, smoky finish that feels incredibly nostalgic. This shade looks as if you took a classic blue black and lightly draped a sheer gray veil over it.",
+          "It is a highly sophisticated, understated option that does not scream for attention but still draws people in. This color pairs beautifully with textured, wavy styles that enhance the soft, hazy vibe of the dye. Regular deep conditioning treatments will ensure the dusty tone stays smooth and does not become frizzy or dull."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 14,
+        "title": "Sheer Blue Black Hair Color",
+        "image": "/images/doc107_img_14.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "What if you only want a mere hint of color? Sheer blue black hair color applies a translucent wash of blue over your natural dark hair, creating a subtle, tinted effect. Instead of a solid, opaque block of color, this technique allows your natural hair pattern to show through, giving a very natural and delicate finish.",
+          "It is the ideal choice for someone trying blue for the first time or for someone bound by strict workplace dress codes. The sheer application means your root grow-out will be barely noticeable, making it a very low-commitment style. A simple clear gloss treatment can boost this translucent shine beautifully."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 15,
+        "title": "Peekaboo Blue Black Hair Color",
+        "image": "/images/doc107_img_15.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Want to keep your color a fun secret? Peekaboo blue black hair color hides vibrant blue panels underneath the top layer of your dark hair. When you wear your hair down, it looks completely black, but the moment you tie it up or tuck it behind your ear, the striking blue is revealed.",
+          "This is an incredibly fun and creative way to wear a bold color without committing to a full head of dye. It adds an unexpected pop of personality to your everyday look. The contrast between the dark top layer and the bright underlayer looks absolutely fantastic. Use a gentle wash to protect those hidden colors."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 16,
+        "title": "Blue Black Money Piece Hair Color",
+        "image": "/images/doc107_img_16.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Are you looking to frame your face with a pop of color? Blue black money piece hair color features bold, bright blue streaks right at the front of your hair, while the rest remains a deep, dark black. This technique instantly brightens your complexion and draws attention to your face, creating a highly flattering and trendy look.",
+          "The money piece can be thick and chunky for a retro vibe, or thin and blended for a modern touch. It is a fantastic way to make a statement without bleaching your entire head. Keep those front pieces highly conditioned so they always look vibrant and healthy."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 17,
+        "title": "Short Blue Black Bob Hair Color",
+        "image": "/images/doc107_img_17.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Have you ever thought about how striking a bold color looks on a sharp cut? Short blue black bob hair color combines the sleekness of a classic bob with the depth of a winter-inspired shade. The blunt ends of a bob cut allow the blue and black pigments to pool together, creating an incredibly dense and shiny finish.",
+          "This look is sharp, modern, and very easy to manage during the harsh winter months. Whether you choose a chin-length bob or a slightly longer lob, the color will elevate the entire haircut. A lightweight styling cream will keep your bob looking smooth and free of flyaways."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 18,
+        "title": "Long Layered Blue Black Hair Color",
+        "image": "/images/doc107_img_18.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Do you want to show off movement and dimension? Long layered blue black hair color uses varying lengths to display the different tones of blue and black throughout your mane. The layers allow the blue to peek out from underneath the black, creating a dynamic, flowing effect that looks amazing when you walk.",
+          "This style prevents long hair from looking heavy or flat, giving it a beautiful bounce and life. It is an excellent option if you love wearing your hair down and styled with big, soft waves. The layers will catch the light and show off the true complexity of your blue black dye."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      }
+    ]
+  },
+  {
+    "id": "beautiful-blue-black-hair-colors-that-turn-heads",
+    "slug": "beautiful-blue-black-hair-colors-that-turn-heads",
+    "title": "12+ Beautiful Blue Black Hair Colors That Turn Heads",
+    "category": "Black Hair Color",
+    "categorySlug": "black-hair-color",
+    "heroImage": "/images/doc108_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": true,
+    "intro": "Blue black hair is that quiet overachiever—subtle at first glance, but full of depth when the light hits just right ✨ It’s the kind of color that makes people do a double take, then lean in a little closer. Add in soft waves, sleek layers, or a polished blowout, and suddenly your hair is doing all the talking.",
+    "introParagraphs": [
+      "Blue black hair is that quiet overachiever—subtle at first glance, but full of depth when the light hits just right ✨ It’s the kind of color that makes people do a double take, then lean in a little closer. Add in soft waves, sleek layers, or a polished blowout, and suddenly your hair is doing all the talking."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc108-guide",
+        "title": "Black Hair Color & Shine Maintenance Guide",
+        "content": "Black hair color creates unmatched contrast, mirror shine, and healthy-looking thickness. Proper care maintains cool or warm undertones without dullness.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Deep Gloss & Pigment Coverage"
+          },
+          {
+            "val": "Low-Upkeep",
+            "label": "Rich Natural Regrowth Blend"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Coily"
+          }
+        ]
+      },
+      {
+        "id": "section-doc108-masterclass",
+        "title": "Stylist Masterclass: Maintaining High-Shine Black Hair",
+        "steps": [
+          "Rinse with Cool Water: Seals hair cuticles to lock in deep black pigment and shine.",
+          "Apply UV Protection Spray: Prevents sun exposure from oxidation and brassy warm shifts.",
+          "Use Gloss Oils & Serums: Enhances light reflection for a glass-hair finish.",
+          "Schedule Deep Conditioning Treatments: Keeps rich black strands deeply hydrated and silky."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How do I maintain glossy black hair color?",
+        "a": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine.",
+        "question": "How do I maintain glossy black hair color?",
+        "answer": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine."
+      },
+      {
+        "q": "Does black hair color flatter all skin tones?",
+        "a": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion.",
+        "question": "Does black hair color flatter all skin tones?",
+        "answer": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Long Soft Waves with Blue Black Shine",
+        "image": "/images/doc108_img_1.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Long Soft Waves with Blue Black Shine delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 2,
+        "title": "Side-Parted Glam Waves in Blue Black",
+        "image": "/images/doc108_img_2.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Side-Parted Glam Waves in Blue Black delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 3,
+        "title": "Classic Loose Curls with Blue Black Depth",
+        "image": "/images/doc108_img_3.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Classic Loose Curls with Blue Black Depth delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 4,
+        "title": "Textured Beach Waves with Blue Black Tone",
+        "image": "/images/doc108_img_4.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Textured Beach Waves with Blue Black Tone delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 5,
+        "title": "Sleek Straight Layers in Blue Black",
+        "image": "/images/doc108_img_5.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Sleek Straight Layers in Blue Black delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 6,
+        "title": "Polished Straight Cut with Subtle Blue Black Tint",
+        "image": "/images/doc108_img_6.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Polished Straight Cut with Subtle Blue Black Tint delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 7,
+        "title": "Dimensional Waves with Blue Black Highlights",
+        "image": "/images/doc108_img_7.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Dimensional Waves with Blue Black Highlights delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 8,
+        "title": "Long Flowing Waves in Rich Blue Black",
+        "image": "/images/doc108_img_8.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Long Flowing Waves in Rich Blue Black delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 9,
+        "title": "Feathered Layers with Blue Black Finish",
+        "image": "/images/doc108_img_9.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Feathered Layers with Blue Black Finish delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 10,
+        "title": "Layered Blowout with Deep Blue Black Gloss",
+        "image": "/images/doc108_img_10.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Layered Blowout with Deep Blue Black Gloss delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 11,
+        "title": "Long Layered Waves with Blue Black Gloss",
+        "image": "/images/doc108_img_11.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Long Layered Waves with Blue Black Gloss delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 12,
+        "title": "Extra Long Natural Waves in Blue Black",
+        "image": "/images/doc108_img_12.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Extra Long Natural Waves in Blue Black delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 13,
+        "title": "Mid-Length Sculpted Waves with Blue Black Dimension",
+        "image": "/images/doc108_img_13.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Mid-Length Sculpted Waves with Blue Black Dimension delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      }
+    ]
+  },
+  {
+    "id": "jet-black-hair-colors-to-be-obsessed-with",
+    "slug": "jet-black-hair-colors-to-be-obsessed-with",
+    "title": "17+ Jet Black Hair Colors You’ll Be Obsessed With",
+    "category": "Black Hair Color",
+    "categorySlug": "black-hair-color",
+    "heroImage": "/images/doc109_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": false,
+    "intro": "Jet black hair is the ultimate symbol of sophistication and mystery in the world of beauty. This deep, ink-like shade offers a level of shine and drama that few other colors can match. Whether you are looking for a total transformation or just want to enhance your natural dark locks, jet black provides a striking contrast that makes your features pop. It works beautifully across all hair textures, from sleek straight strands to bouncy natural curls. This color is also incredibly versatile, looking just as good on a professional bob as it does on edgy, waist-length layers. Choosing the right tone of black can completely change your aesthetic and elevate your overall look instantly. This guide explores twenty stunning ways to wear this timeless and bold shade.",
+    "introParagraphs": [
+      "Jet black hair is the ultimate symbol of sophistication and mystery in the world of beauty. This deep, ink-like shade offers a level of shine and drama that few other colors can match. Whether you are looking for a total transformation or just want to enhance your natural dark locks, jet black provides a striking contrast that makes your features pop. It works beautifully across all hair textures, from sleek straight strands to bouncy natural curls. This color is also incredibly versatile, looking just as good on a professional bob as it does on edgy, waist-length layers. Choosing the right tone of black can completely change your aesthetic and elevate your overall look instantly. This guide explores twenty stunning ways to wear this timeless and bold shade."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc109-guide",
+        "title": "Black Hair Color & Shine Maintenance Guide",
+        "content": "Black hair color creates unmatched contrast, mirror shine, and healthy-looking thickness. Proper care maintains cool or warm undertones without dullness.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Deep Gloss & Pigment Coverage"
+          },
+          {
+            "val": "Low-Upkeep",
+            "label": "Rich Natural Regrowth Blend"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Coily"
+          }
+        ]
+      },
+      {
+        "id": "section-doc109-masterclass",
+        "title": "Stylist Masterclass: Maintaining High-Shine Black Hair",
+        "steps": [
+          "Rinse with Cool Water: Seals hair cuticles to lock in deep black pigment and shine.",
+          "Apply UV Protection Spray: Prevents sun exposure from oxidation and brassy warm shifts.",
+          "Use Gloss Oils & Serums: Enhances light reflection for a glass-hair finish.",
+          "Schedule Deep Conditioning Treatments: Keeps rich black strands deeply hydrated and silky."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How do I maintain glossy black hair color?",
+        "a": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine.",
+        "question": "How do I maintain glossy black hair color?",
+        "answer": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine."
+      },
+      {
+        "q": "Does black hair color flatter all skin tones?",
+        "a": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion.",
+        "question": "Does black hair color flatter all skin tones?",
+        "answer": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Blue black hair color",
+        "image": "/images/doc109_img_1.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Blue black hair color delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 2,
+        "title": "Jet black bob haircut",
+        "image": "/images/doc109_img_2.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "A jet black bob haircut is a classic styling choice that never goes out of fashion. The sharpness of a bob combined with the intensity of black pigment creates a look that is both professional and incredibly chic. Because black hair reflects light so well, a blunt bob can look like polished silk, making the hair appear much healthier and thicker.",
+          "This style works wonders for framing the face and highlighting the jawline. You can wear it sleek and straight for a high-fashion aesthetic or add soft waves for a more relaxed, modern feel. Regular trims are essential to keep the ends looking crisp and the dark color looking intentional and well-maintained."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 3,
+        "title": "Long jet black hair with layers",
+        "image": "/images/doc109_img_3.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Long jet black hair with layers delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 4,
+        "title": "Soft jet black hair color",
+        "image": "/images/doc109_img_4.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Soft jet black hair color delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 5,
+        "title": "Jet black hair for pale skin",
+        "image": "/images/doc109_img_5.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Choosing jet black hair for pale skin creates one of the most iconic and high-contrast beauty looks possible. This combination often brings out the brightness of the eyes and makes the skin look porcelain and clear. While it is a bold choice, it can be incredibly flattering when paired with the right makeup, such as a classic red lip or winged eyeliner.",
+          "The key is to ensure the hair stays glossy so it doesn’t wash out your features. Many people choose a cool-toned jet black to complement the pink or blue undertones in their fair skin. It is a timeless aesthetic that feels both vintage-inspired and modern at the same time."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 6,
+        "title": "Jet black hair on dark skin",
+        "image": "/images/doc109_img_6.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Jet black hair on dark skin delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 7,
+        "title": "Glossy jet black hair",
+        "image": "/images/doc109_img_7.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Glossy jet black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 8,
+        "title": "Jet black hair with curtain bangs",
+        "image": "/images/doc109_img_8.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Jet black hair with curtain bangs delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 9,
+        "title": "Short jet black pixie cut",
+        "image": "/images/doc109_img_9.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "A short jet black pixie cut is a daring and low-maintenance option that exudes confidence. When you combine a very short haircut with a very dark color, the focus shifts entirely to your facial features and bone structure. This look is perfect for highlighting high cheekbones or a strong jawline.",
+          "The jet black shade adds a level of sophistication to the edgy cut, preventing it from looking too messy. It is also an incredibly easy style to manage on a daily basis, requiring minimal product to look good. A tiny bit of styling wax can help define the texture and add a healthy-looking sheen to the short layers."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 10,
+        "title": "Jet black hair with blue highlights",
+        "image": "/images/doc109_img_10.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Jet black hair with blue highlights delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 11,
+        "title": "Raven black hair color",
+        "image": "/images/doc109_img_11.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Raven black hair color delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 12,
+        "title": "Jet black curly hair",
+        "image": "/images/doc109_img_12.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Jet black curly hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 13,
+        "title": "Jet black blunt cut",
+        "image": "/images/doc109_img_13.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "A jet black blunt cut is all about precision and clean lines. Whether it is a long mane or a shoulder-length lob, the absence of layers combined with the dark color creates a very strong and impactful look.",
+          "This style is ideal for those with fine hair as the blunt ends and dark pigment make the hair appear significantly thicker than it actually is. It is a very modern and minimalist aesthetic that works well with high-fashion outfits and bold makeup. To keep the lines looking sharp, frequent trims every six to eight weeks are highly recommended to prevent split ends from ruining the silhouette."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 14,
+        "title": "Matte jet black hair",
+        "image": "/images/doc109_img_14.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Matte jet black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 15,
+        "title": "Jet black hair with money piece",
+        "image": "/images/doc109_img_15.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Jet black hair with a money piece is a fun way to incorporate a pop of color or a lighter shade into a dark base. A money piece involves dyeing the two front sections of hair that frame the face in a contrasting color, such as platinum blonde, silver, or even a bright fantasy color.",
+          "This technique allows you to enjoy the drama of jet black hair while still having some brightness around your face. It is a great middle ground for those who are worried that all-over black might be too overwhelming for their complexion. It adds a trendy, youthful element to any traditional long or medium-length hairstyle."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 16,
+        "title": "Charcoal black hair color",
+        "image": "/images/doc109_img_16.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Charcoal black hair color delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 17,
+        "title": "Jet black wolf cut",
+        "image": "/images/doc109_img_17.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "The jet black wolf cut is an edgy, high-texture hairstyle that has taken the beauty world by storm. This cut combines elements of a shag and a mullet, featuring lots of wispy layers and volume at the crown. When dyed jet black, the layers become even more pronounced, creating a moody and rebellious aesthetic.",
+          "The dark color adds weight to the thin ends, preventing the cut from looking too sparse. It is a fantastic choice for those who want a “cool girl” look that requires very little daily styling. A bit of sea salt spray is usually all you need to enhance the natural movement."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      }
+    ]
+  },
+  {
+    "id": "natural-black-hair-color-ideas-to-save",
+    "slug": "natural-black-hair-color-ideas-to-save",
+    "title": "15+ Natural Black Hair Color Ideas You’ll Want to Save",
+    "category": "Black Hair Color",
+    "categorySlug": "black-hair-color",
+    "heroImage": "/images/doc110_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": false,
+    "intro": "Natural black hair color offers a level of depth and sophistication that few other shades can match. While many people think of black as a single flat color, it actually encompasses a wide range of beautiful tones and subtle undertones. From the coolness of blue-black to the warmth of espresso, there is a perfect dark shade for every skin tone and personality. Choosing the right black hair color can enhance your features and give your hair a healthy, lustrous glow. This guide explores twenty stunning variations of natural-looking black hair to inspire your next salon visit. Each shade provides a unique vibe, whether you want something edgy and modern or soft and classic. Let us dive into these rich and captivating options.",
+    "introParagraphs": [
+      "Natural black hair color offers a level of depth and sophistication that few other shades can match. While many people think of black as a single flat color, it actually encompasses a wide range of beautiful tones and subtle undertones. From the coolness of blue-black to the warmth of espresso, there is a perfect dark shade for every skin tone and personality. Choosing the right black hair color can enhance your features and give your hair a healthy, lustrous glow. This guide explores twenty stunning variations of natural-looking black hair to inspire your next salon visit. Each shade provides a unique vibe, whether you want something edgy and modern or soft and classic. Let us dive into these rich and captivating options."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc110-guide",
+        "title": "Black Hair Color & Shine Maintenance Guide",
+        "content": "Black hair color creates unmatched contrast, mirror shine, and healthy-looking thickness. Proper care maintains cool or warm undertones without dullness.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Deep Gloss & Pigment Coverage"
+          },
+          {
+            "val": "Low-Upkeep",
+            "label": "Rich Natural Regrowth Blend"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Coily"
+          }
+        ]
+      },
+      {
+        "id": "section-doc110-masterclass",
+        "title": "Stylist Masterclass: Maintaining High-Shine Black Hair",
+        "steps": [
+          "Rinse with Cool Water: Seals hair cuticles to lock in deep black pigment and shine.",
+          "Apply UV Protection Spray: Prevents sun exposure from oxidation and brassy warm shifts.",
+          "Use Gloss Oils & Serums: Enhances light reflection for a glass-hair finish.",
+          "Schedule Deep Conditioning Treatments: Keeps rich black strands deeply hydrated and silky."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How do I maintain glossy black hair color?",
+        "a": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine.",
+        "question": "How do I maintain glossy black hair color?",
+        "answer": "Use cold water rinses, sulfate-free shampoos, and hair gloss treatments to maintain intense shine."
+      },
+      {
+        "q": "Does black hair color flatter all skin tones?",
+        "a": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion.",
+        "question": "Does black hair color flatter all skin tones?",
+        "answer": "Yes, adjusting the undertones (cool blue-black vs warm espresso) flatters every complexion."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Jet black hair",
+        "image": "/images/doc110_img_1.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Jet black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 2,
+        "title": "Soft black hair",
+        "image": "/images/doc110_img_2.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Soft black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 3,
+        "title": "Blue black hair",
+        "image": "/images/doc110_img_3.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Blue black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 4,
+        "title": "Espresso black hair",
+        "image": "/images/doc110_img_4.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Espresso black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 5,
+        "title": "Violet black hair",
+        "image": "/images/doc110_img_5.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Violet black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 6,
+        "title": "Raven black hair",
+        "image": "/images/doc110_img_6.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Raven black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 7,
+        "title": "Midnight black hair",
+        "image": "/images/doc110_img_7.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Midnight black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 8,
+        "title": "Smoky black hair",
+        "image": "/images/doc110_img_8.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Smoky black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 9,
+        "title": "Chocolate black hair",
+        "image": "/images/doc110_img_9.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Chocolate black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 10,
+        "title": "Ash black hair",
+        "image": "/images/doc110_img_10.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Ash black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 11,
+        "title": "Plum black hair",
+        "image": "/images/doc110_img_11.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Plum black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 12,
+        "title": "Ink black hair",
+        "image": "/images/doc110_img_12.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Ink black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 13,
+        "title": "Licorice black hair",
+        "image": "/images/doc110_img_13.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Licorice black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 14,
+        "title": "Icy black hair",
+        "image": "/images/doc110_img_14.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Icy black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 15,
+        "title": "Cherry black hair",
+        "image": "/images/doc110_img_15.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Cherry black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 16,
+        "title": "Brownish black hair",
+        "image": "/images/doc110_img_16.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Brownish black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      },
+      {
+        "number": 17,
+        "title": "Velvet black hair",
+        "image": "/images/doc110_img_17.jpg",
+        "whyWeLoveIt": "Delivers rich espresso depth, mirror-like shine, and dramatic color reflection.",
+        "paragraphs": [
+          "Velvet black hair delivers intense depth, high shine, and a dramatic finish.",
+          "This rich black hair color technique ensures a smooth, glossy finish that flatters your natural features."
+        ],
+        "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
+      }
+    ]
   }
 ];
