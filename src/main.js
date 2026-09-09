@@ -205,13 +205,46 @@ function renderApp() {
       ${renderEditorialFeature(featuredArticle)}
     `;
   } else if (route === 'article') {
-    const cleanSlug = slug.toLowerCase().trim();
-    const targetArticle = articles.find(a => 
+    const cleanSlug = slug.toLowerCase().trim().replace(/^\/+/, '').replace(/^article\//, '').replace(/\/+$/, '');
+    
+    // Tier 1: Exact match by slug or id
+    let targetArticle = articles.find(a => 
       a.slug === cleanSlug || 
-      a.id === cleanSlug || 
-      a.slug.replace(/[^a-z0-9]+/g, '-') === cleanSlug.replace(/[^a-z0-9]+/g, '-') ||
-      a.id.replace(/[^a-z0-9]+/g, '-') === cleanSlug.replace(/[^a-z0-9]+/g, '-')
+      a.id === cleanSlug
     );
+
+    // Tier 2: Normalized hyphen match
+    if (!targetArticle) {
+      const normClean = cleanSlug.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      targetArticle = articles.find(a => 
+        (a.slug && a.slug.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === normClean) ||
+        (a.id && a.id.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === normClean)
+      );
+    }
+
+    // Tier 3: Smart Keyword Fallback (prevents 404 Not Found for legacy/renamed URLs)
+    if (!targetArticle) {
+      const normClean = cleanSlug.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      const words = normClean.split('-').filter(w => w.length > 2);
+      if (words.length > 0) {
+        let bestMatch = null;
+        let maxScore = 0;
+        for (const a of articles) {
+          const targetText = `${a.slug || ''} ${a.id || ''} ${a.title || ''} ${a.category || ''}`.toLowerCase();
+          let score = 0;
+          for (const w of words) {
+            if (targetText.includes(w)) score++;
+          }
+          if (score > maxScore) {
+            maxScore = score;
+            bestMatch = a;
+          }
+        }
+        if (bestMatch && maxScore >= 1) {
+          targetArticle = bestMatch;
+        }
+      }
+    }
 
     if (!targetArticle) {
       updateSeoMetadata(
