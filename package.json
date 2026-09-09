@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite --host 0.0.0.0 --port 3000",
     "validate": "node scripts/validate_articles.cjs",
-    "build": "cp index.source.html index.html && npm run validate && vite build && cp dist/index.html index.html && cp -r dist/assets/* assets/",
+    "build": "rm -rf assets/* dist && cp index.source.html index.html && npm run validate && vite build && cp dist/index.html index.html && mkdir -p assets && cp -r dist/assets/* assets/",
     "preview": "vite preview"
   },
   "devDependencies": {
