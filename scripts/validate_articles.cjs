@@ -1,28 +1,23 @@
 const fs = require('fs');
 const path = require('path');
 
-// Read articles.js content and parse
-const articlesPath = path.join(__dirname, '..', 'src', 'data', 'articles.js');
+// Read articles.json content
+const jsonPath = path.join(__dirname, '..', 'src', 'data', 'articles.json');
+const jsPath = path.join(__dirname, '..', 'src', 'data', 'articles.js');
 const publicDir = path.join(__dirname, '..', 'public');
 
-if (!fs.existsSync(articlesPath)) {
-  console.error(`❌ Error: ${articlesPath} does not exist!`);
-  process.exit(1);
-}
-
-// Extract array using Regex / Function evaluation
-const fileContent = fs.readFileSync(articlesPath, 'utf8');
-
-// Convert ES module export to CommonJS module.exports
 let articles;
-try {
+if (fs.existsSync(jsonPath)) {
+  articles = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+} else if (fs.existsSync(jsPath)) {
+  const fileContent = fs.readFileSync(jsPath, 'utf8');
   const cjsCode = fileContent.replace('export const articles =', 'module.exports =');
   const tempFilePath = path.join(__dirname, '_temp_articles.cjs');
   fs.writeFileSync(tempFilePath, cjsCode);
   articles = require(tempFilePath);
   fs.unlinkSync(tempFilePath);
-} catch (err) {
-  console.error('❌ Failed to parse articles.js:', err.message);
+} else {
+  console.error(`❌ Error: Neither articles.json nor articles.js exist!`);
   process.exit(1);
 }
 
