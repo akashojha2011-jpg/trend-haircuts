@@ -150,24 +150,24 @@ export function renderArticleView(article) {
           <nav class="breadcrumb-clean" aria-label="Breadcrumb">
             <a href="/" data-route="home">Home</a>
             <span class="bc-sep">/</span>
-            <a href="/category/${article.categorySlug}" data-route="category" data-slug="${article.categorySlug}">${article.category}</a>
+            <a href="/category/${article.categorySlug || 'hair-color-ideas'}" data-route="category" data-slug="${article.categorySlug || 'hair-color-ideas'}">${article.category || 'Hairstyles'}</a>
             <span class="bc-sep">/</span>
-            <span class="bc-active">${article.title}</span>
+            <span class="bc-active">${article.title || 'Hairstyle Guide'}</span>
           </nav>
         </div>
       </div>
 
       <!-- Article Header -->
       <header class="article-header container">
-        <a href="/category/${article.categorySlug}" class="article-category" data-route="category" data-slug="${article.categorySlug}">
-          ${article.category}
+        <a href="/category/${article.categorySlug || 'hair-color-ideas'}" class="article-category" data-route="category" data-slug="${article.categorySlug || 'hair-color-ideas'}">
+          ${article.category || 'Hairstyles'}
         </a>
-        <h1 class="article-title">${article.title}</h1>
+        <h1 class="article-title">${article.title || 'Hairstyle Guide'}</h1>
         
         <div class="article-meta">
-          <span class="meta-item">Updated ${article.date}</span>
+          <span class="meta-item">Updated ${article.date || '2026-09-09'}</span>
           <span class="meta-dot">•</span>
-          <span class="meta-item">${article.readTime}</span>
+          <span class="meta-item">${article.readTime || '5 min read'}</span>
           <span class="meta-dot">•</span>
           <span class="meta-item">By Trend Haircuts Editorial Team</span>
         </div>
