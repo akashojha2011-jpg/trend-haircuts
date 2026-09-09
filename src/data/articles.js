@@ -36592,7 +36592,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "headband-bun-hairstyles",
@@ -36852,7 +36852,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "man-bun-fade-haircuts",
@@ -37100,7 +37100,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "minimalist-office-bun-hairstyles",
@@ -37348,7 +37348,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "old-money-bun-hairstyles",
@@ -37596,7 +37596,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "overnight-bun-waves-hairstyles",
@@ -37844,7 +37844,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "tidy-office-bun-hairstyles",
@@ -38082,7 +38082,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "beach-bun-hairstyles",
@@ -38330,7 +38330,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "low-messy-hair-buns",
@@ -38503,7 +38503,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "business-bun-hairstyles",
@@ -38751,7 +38751,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "cute-work-bun-hairstyles",
@@ -39019,7 +39019,7 @@ export const articles = [
         "a": "Yes! Consult your hair stylist to tailor the layering, length, and face-framing pieces to perfectly balance your unique features."
       }
     ],
-    "categorySlug": "updo-hairstyles"
+    "categorySlug": "bun-hairstyles"
   },
   {
     "id": "dark-brown-hair-caramel-balayage",
