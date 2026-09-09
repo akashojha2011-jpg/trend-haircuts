@@ -1,7 +1,7 @@
 export const articles = [
   {
-    "id": "pumpkin-spice-balayage-ideas",
-    "slug": "pumpkin-spice-balayage-ideas",
+    "id": "pumpkin-spice-balayage",
+    "slug": "pumpkin-spice-balayage",
     "title": "13+ Stunning Pumpkin Spice Balayage Ideas to Warm Up Your Look",
     "category": "Balayage Hair Color",
     "categorySlug": "balayage-hair-color",
@@ -1671,8 +1671,8 @@ export const articles = [
     ]
   },
   {
-    "id": "soft-black-hair-color-ideas",
-    "slug": "soft-black-hair-color-ideas",
+    "id": "soft-black-hair-color",
+    "slug": "soft-black-hair-color",
     "title": "12+ Elegant Soft Black Hair Color Ideas for a Refined Everyday Style",
     "category": "Black Hair Color",
     "categorySlug": "black-hair-color",
@@ -2301,8 +2301,8 @@ export const articles = [
     ]
   },
   {
-    "id": "black-hair-color-ideas",
-    "slug": "black-hair-color-ideas",
+    "id": "black-hair-color",
+    "slug": "black-hair-color",
     "title": "14+ Gorgeous Black Hair Color Ideas You’ll Love for Your Next Makeover",
     "category": "Black Hair Color",
     "categorySlug": "black-hair-color",
@@ -7263,8 +7263,8 @@ export const articles = [
     ]
   },
   {
-    "id": "champagne-blonde-balayage-ideas",
-    "slug": "champagne-blonde-balayage-ideas",
+    "id": "champagne-blonde-balayage",
+    "slug": "champagne-blonde-balayage",
     "title": "13+ Elegant Champagne Blonde Balayage Ideas to Save for Your Next Look",
     "category": "Blonde Balayage Hair",
     "categorySlug": "blonde-balayage-hair",
@@ -8535,8 +8535,8 @@ export const articles = [
     ]
   },
   {
-    "id": "golden-bronde-balayage-hair-color-to-try",
-    "slug": "golden-bronde-balayage-hair-color-to-try",
+    "id": "golden-bronde-balayage-hair-color",
+    "slug": "golden-bronde-balayage-hair-color",
     "title": "16+ Golden Bronde Balayage Hair Color to Try",
     "category": "Balayage Hair Color",
     "author": "Trend Haircuts Team",
@@ -9154,8 +9154,8 @@ export const articles = [
     ]
   },
   {
-    "id": "burgundy-wine-balayage-women-must-try",
-    "slug": "burgundy-wine-balayage-women-must-try",
+    "id": "burgundy-wine-balayage-women-must",
+    "slug": "burgundy-wine-balayage-women-must",
     "title": "17+ Burgundy Wine Balayage Women Must Try",
     "category": "Balayage Hair Color",
     "author": "Trend Haircuts Team",
@@ -10305,9 +10305,9 @@ export const articles = [
     "intro": "Preparing for a job interview involves choosing the perfect outfit and making sure your hair looks polished. If you wear eyewear, finding the right look can feel tricky, but it does not have to be."
   },
   {
-    "id": "flattering-haircut-for-oblong-face-women",
+    "id": "flattering-haircut-for-oblong-face",
     "title": "13+ Flattering Haircut for Oblong Face Women",
-    "slug": "flattering-haircut-for-oblong-face-women",
+    "slug": "flattering-haircut-for-oblong-face",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
     "date": "August 31, 2026",
@@ -11262,8 +11262,8 @@ export const articles = [
     "intro": "Finding a flattering short haircut for women with glasses can feel like a daunting task, but the right style actually enhances your frames while highlighting your best facial features. Short hair offers a unique opportunity to draw attention to your eyes and the style of your eyewear, creating a cohesive and fashionable look that works for any occasion."
   },
   {
-    "id": "short-haircuts-for-round-faces-you-ll-love",
-    "slug": "short-haircuts-for-round-faces-you-ll-love",
+    "id": "short-haircuts-for-round-faces-you-ll",
+    "slug": "short-haircuts-for-round-faces-you-ll",
     "title": "14+ Short Haircuts for Round Faces You’ll Love",
     "category": "Face Shape & Glasses Hairstyles",
     "categorySlug": "face-shape-glasses",
@@ -13439,8 +13439,8 @@ export const articles = [
     ]
   },
   {
-    "id": "beautiful-bun-hairstyles-you-ll-love",
-    "slug": "beautiful-bun-hairstyles-you-ll-love",
+    "id": "beautiful-bun-hairstyles-you-ll",
+    "slug": "beautiful-bun-hairstyles-you-ll",
     "title": "12+ Beautiful Bun Hairstyles You’ll Love",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
@@ -14819,8 +14819,8 @@ export const articles = [
     ]
   },
   {
-    "id": "stylish-curly-hairstyles-for-women-over-60-to-try",
-    "slug": "stylish-curly-hairstyles-for-women-over-60-to-try",
+    "id": "stylish-curly-hairstyles-for-women-over-60",
+    "slug": "stylish-curly-hairstyles-for-women-over-60",
     "title": "20+ Stylish Curly Hairstyles for Women over 60 to Try",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
@@ -16969,8 +16969,8 @@ export const articles = [
     ]
   },
   {
-    "id": "stunning-rope-braid-hairstyles-to-consider",
-    "slug": "stunning-rope-braid-hairstyles-to-consider",
+    "id": "stunning-rope-braid-hairstyles",
+    "slug": "stunning-rope-braid-hairstyles",
     "title": "11+ Stunning Rope Braid Hairstyles to Consider",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
@@ -17166,8 +17166,8 @@ export const articles = [
     ]
   },
   {
-    "id": "beautiful-braided-hairstyles-women-love",
-    "slug": "beautiful-braided-hairstyles-women-love",
+    "id": "beautiful-braided-hairstyles",
+    "slug": "beautiful-braided-hairstyles",
     "title": "12+ Beautiful Braided Hairstyles Women Love",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
@@ -17834,8 +17834,8 @@ export const articles = [
     ]
   },
   {
-    "id": "chic-crown-braid-hairstyles-to-try",
-    "slug": "chic-crown-braid-hairstyles-to-try",
+    "id": "chic-crown-braid-hairstyles",
+    "slug": "chic-crown-braid-hairstyles",
     "title": "13+ Chic Crown Braid Hairstyles to Try",
     "category": "Braided Hairstyles",
     "categorySlug": "braided-hairstyles",
@@ -19358,8 +19358,8 @@ export const articles = [
     ]
   },
   {
-    "id": "short-layered-bob-hairstyles-older-women",
-    "slug": "short-layered-bob-hairstyles-older-women",
+    "id": "short-layered-bob-hairstyles-older",
+    "slug": "short-layered-bob-hairstyles-older",
     "title": "26+ Beautiful Short Layered Bob Hairstyles for Older Women",
     "category": "Bob & Lob Haircuts",
     "categorySlug": "bob-lob-haircuts",
@@ -22327,8 +22327,8 @@ export const articles = [
     ]
   },
   {
-    "id": "bang-haircuts-older-women",
-    "slug": "bang-haircuts-older-women",
+    "id": "bang-haircuts-older",
+    "slug": "bang-haircuts-older",
     "title": "17+ Chic Bang Haircuts for Older Women to Inspire You",
     "category": "Bangs & Fringe Hairstyles",
     "categorySlug": "bangs-fringe",
@@ -23168,8 +23168,8 @@ export const articles = [
     ]
   },
   {
-    "id": "ash-blonde-hair-color-ideas",
-    "slug": "ash-blonde-hair-color-ideas",
+    "id": "ash-blonde-hair-color",
+    "slug": "ash-blonde-hair-color",
     "title": "12+ Beautiful Ash Blonde Hair Color Worth Trying",
     "category": "Blonde Balayage Hair",
     "categorySlug": "blonde-balayage-hair",
@@ -23647,8 +23647,8 @@ export const articles = [
     ]
   },
   {
-    "id": "fine-thin-hair-older-women",
-    "slug": "fine-thin-hair-older-women",
+    "id": "fine-thin-hair-older",
+    "slug": "fine-thin-hair-older",
     "title": "21+ Beautiful Hairstyles for Older Women with Fine Hair",
     "category": "Fine & Thin Hair Styles",
     "categorySlug": "fine-thin-hair",
@@ -24271,8 +24271,8 @@ export const articles = [
     ]
   },
   {
-    "id": "bubble-ponytail-ideas",
-    "slug": "bubble-ponytail-ideas",
+    "id": "bubble-ponytail",
+    "slug": "bubble-ponytail",
     "title": "12+ Stunning Bubble Ponytail to Copy",
     "category": "Easy & Everyday Hairstyles",
     "categorySlug": "easy-everyday-hairstyles",
@@ -24479,8 +24479,8 @@ export const articles = [
     ]
   },
   {
-    "id": "curly-hairstyles-older-women",
-    "slug": "curly-hairstyles-older-women",
+    "id": "curly-hairstyles-older",
+    "slug": "curly-hairstyles-older",
     "title": "24+ Beautiful Curly Hairstyles for Older Women Worth Saving",
     "category": "Curly Hairstyles & Haircuts",
     "categorySlug": "curly-hairstyles",
@@ -26451,8 +26451,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "black-hair-with-highlights-ideas",
-    "slug": "black-hair-with-highlights-ideas",
+    "id": "black-hair-with-highlights",
+    "slug": "black-hair-with-highlights",
     "title": "12+ Stunning Black Hair with Highlights You’ll Love",
     "docId": "doc99",
     "category": "Balayage Hair Color",
@@ -26643,8 +26643,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "cobalt-blue-balayage-ideas",
-    "slug": "cobalt-blue-balayage-ideas",
+    "id": "cobalt-blue-balayage",
+    "slug": "cobalt-blue-balayage",
     "title": "13+ Cobalt Blue Balayage That Deserves a Save",
     "docId": "doc100",
     "category": "Balayage Hair Color",
@@ -27137,8 +27137,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "natural-looking-highlights-ideas",
-    "slug": "natural-looking-highlights-ideas",
+    "id": "natural-looking-highlights",
+    "slug": "natural-looking-highlights",
     "title": "15+ Natural Looking Highlights You’ll Want to Recreate",
     "docId": "doc102",
     "category": "Balayage Hair Color",
@@ -27389,8 +27389,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "opal-balayage-hair-ideas",
-    "slug": "opal-balayage-hair-ideas",
+    "id": "opal-balayage-hair",
+    "slug": "opal-balayage-hair",
     "title": "16+ Opal Balayage Hair That Looks Absolutely Dreamy",
     "docId": "doc103",
     "category": "Balayage Hair Color",
@@ -28546,8 +28546,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "blue-black-hair-ideas",
-    "slug": "blue-black-hair-ideas",
+    "id": "blue-black-hair",
+    "slug": "blue-black-hair",
     "title": "12+ Beautiful Blue Black Hair Colors That Turn Heads",
     "docId": "doc108",
     "category": "Black Hair Color",
@@ -28944,8 +28944,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "natural-black-hair-ideas",
-    "slug": "natural-black-hair-ideas",
+    "id": "natural-black-hair",
+    "slug": "natural-black-hair",
     "title": "15+ Natural Black Hair Color Ideas You’ll Want to Save",
     "docId": "doc110",
     "category": "Black Hair Color",
@@ -34848,8 +34848,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "brunette-color-refresh-ideas",
-    "slug": "brunette-color-refresh-ideas",
+    "id": "brunette-color-refresh",
+    "slug": "brunette-color-refresh",
     "title": "17+ Brunette Color Refresh Ideas for Your Next Hair Appointment",
     "docId": "doc134",
     "category": "Brown & Brunette Hair Color",
@@ -35371,8 +35371,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "dimensional-brunette-hair-ideas",
-    "slug": "dimensional-brunette-hair-ideas",
+    "id": "dimensional-brunette-hair",
+    "slug": "dimensional-brunette-hair",
     "title": "14+ Dimensional Brunette Hair Ideas That Add Gorgeous Depth",
     "docId": "doc136",
     "category": "Brown & Brunette Hair Color",
@@ -42842,8 +42842,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "warm-caramel-brown-hair-color",
-    "slug": "warm-caramel-brown-hair-color",
+    "id": "warm-caramel-brown-hair-color-2",
+    "slug": "warm-caramel-brown-hair-color-2",
     "title": "2+ Stunning Caramel Hair Color for a Richer Look",
     "docId": "doc167",
     "category": "Caramel Brown Hair Color",
@@ -49764,8 +49764,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "chunky-copper-front-pieces-style",
-    "slug": "chunky-copper-front-pieces-style",
+    "id": "chunky-copper-front-pieces-2",
+    "slug": "chunky-copper-front-pieces-2",
     "title": "15+ Chunky Copper Front Pieces to Try",
     "docId": "doc196",
     "category": "Copper Hair Color",
@@ -50000,8 +50000,8 @@ export const articles = [
     "categorySlug": "hair-color-ideas"
   },
   {
-    "id": "copper-brown-hair-color-fall",
-    "slug": "copper-brown-hair-color-fall",
+    "id": "copper-brown-hair-color",
+    "slug": "copper-brown-hair-color",
     "title": "16+ Copper Brown Hair Color for Fall to Consider",
     "docId": "doc197",
     "category": "Copper Hair Color",
@@ -54978,8 +54978,8 @@ export const articles = [
     "categorySlug": "curly-hairstyles"
   },
   {
-    "id": "balayage-curly-hair-ideas",
-    "slug": "balayage-curly-hair-ideas",
+    "id": "balayage-curly-hair",
+    "slug": "balayage-curly-hair",
     "title": "17+ Balayage for Curly Hair With a Beautiful Blend",
     "docId": "doc218",
     "category": "Curly Hair Color",
@@ -55454,8 +55454,8 @@ export const articles = [
     "categorySlug": "curly-hairstyles"
   },
   {
-    "id": "honey-blonde-babylights-mature-women",
-    "slug": "honey-blonde-babylights-mature-women",
+    "id": "honey-blonde-babylights-mature",
+    "slug": "honey-blonde-babylights-mature",
     "title": "13+ Honey Blonde Babylights for Mature Women to Brighten Up",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -55707,8 +55707,8 @@ export const articles = [
     ]
   },
   {
-    "id": "honey-blonde-mature-women",
-    "slug": "honey-blonde-mature-women",
+    "id": "honey-blonde-mature",
+    "slug": "honey-blonde-mature",
     "title": "14+ Honey Blonde for Mature Women With a Warm Glow",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -55926,8 +55926,8 @@ export const articles = [
     ]
   },
   {
-    "id": "low-maintenance-blonde-mature-women",
-    "slug": "low-maintenance-blonde-mature-women",
+    "id": "low-maintenance-blonde-mature",
+    "slug": "low-maintenance-blonde-mature",
     "title": "15+ Low Maintenance Blonde for Mature Women to Consider",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -56165,8 +56165,8 @@ export const articles = [
     ]
   },
   {
-    "id": "copper-hair-color-mature-women",
-    "slug": "copper-hair-color-mature-women",
+    "id": "copper-hair-color-mature",
+    "slug": "copper-hair-color-mature",
     "title": "16+ Mature Women Copper Hair Color Ideas to Explore",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -56431,8 +56431,8 @@ export const articles = [
     ]
   },
   {
-    "id": "natural-balayage-older-women",
-    "slug": "natural-balayage-older-women",
+    "id": "natural-balayage-older",
+    "slug": "natural-balayage-older",
     "title": "17+ Natural Looking Balayage for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -56671,8 +56671,8 @@ export const articles = [
     ]
   },
   {
-    "id": "silver-feathered-haircuts-older-women",
-    "slug": "silver-feathered-haircuts-older-women",
+    "id": "silver-feathered-haircuts-older",
+    "slug": "silver-feathered-haircuts-older",
     "title": "13+ Silver Feathered Haircuts for Older Women to Love",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -56911,8 +56911,8 @@ export const articles = [
     ]
   },
   {
-    "id": "blonde-gray-blend-mature-women",
-    "slug": "blonde-gray-blend-mature-women",
+    "id": "blonde-gray-blend-mature",
+    "slug": "blonde-gray-blend-mature",
     "title": "14+ Blonde Gray Blend for Mature Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -57169,8 +57169,8 @@ export const articles = [
     ]
   },
   {
-    "id": "blonde-refresh-older-women",
-    "slug": "blonde-refresh-older-women",
+    "id": "blonde-refresh-older",
+    "slug": "blonde-refresh-older",
     "title": "15+ Blonde Refresh for Older Women to Consider",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -57422,8 +57422,8 @@ export const articles = [
     ]
   },
   {
-    "id": "brunette-refresh-older-women",
-    "slug": "brunette-refresh-older-women",
+    "id": "brunette-refresh-older",
+    "slug": "brunette-refresh-older",
     "title": "16+ Brunette Refresh for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -57666,8 +57666,8 @@ export const articles = [
     ]
   },
   {
-    "id": "cool-espresso-brunette-mature-women",
-    "slug": "cool-espresso-brunette-mature-women",
+    "id": "cool-espresso-brunette-mature",
+    "slug": "cool-espresso-brunette-mature",
     "title": "17+ Cool Espresso Brunette for Mature Women to Love",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -57896,8 +57896,8 @@ export const articles = [
     ]
   },
   {
-    "id": "mushroom-brunette-highlights-older-women",
-    "slug": "mushroom-brunette-highlights-older-women",
+    "id": "mushroom-brunette-highlights-older",
+    "slug": "mushroom-brunette-highlights-older",
     "title": "13+ Mushroom Brunette Highlights for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -58148,8 +58148,8 @@ export const articles = [
     ]
   },
   {
-    "id": "natural-brunette-refresh-mature-women",
-    "slug": "natural-brunette-refresh-mature-women",
+    "id": "natural-brunette-refresh-mature",
+    "slug": "natural-brunette-refresh-mature",
     "title": "14+ Natural Brunette Refresh for Mature Women to Explore",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -58376,8 +58376,8 @@ export const articles = [
     ]
   },
   {
-    "id": "silver-balayage-mature-women",
-    "slug": "silver-balayage-mature-women",
+    "id": "silver-balayage-mature",
+    "slug": "silver-balayage-mature",
     "title": "15+ Silver Balayage for Mature Women to Consider",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -58613,8 +58613,8 @@ export const articles = [
     ]
   },
   {
-    "id": "soft-brunette-balayage-older-women",
-    "slug": "soft-brunette-balayage-older-women",
+    "id": "soft-brunette-balayage-older",
+    "slug": "soft-brunette-balayage-older",
     "title": "16+ Soft Brunette Balayage for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -58852,8 +58852,8 @@ export const articles = [
     ]
   },
   {
-    "id": "textured-hairstyles-older-women",
-    "slug": "textured-hairstyles-older-women",
+    "id": "textured-hairstyles-older",
+    "slug": "textured-hairstyles-older",
     "title": "23+ Amazing Textured Hairstyles for Older Women to Love",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -62482,8 +62482,8 @@ export const articles = [
     ]
   },
   {
-    "id": "layered-curly-haircuts-ideas",
-    "slug": "layered-curly-haircuts-ideas",
+    "id": "layered-curly-haircuts",
+    "slug": "layered-curly-haircuts",
     "title": "25 Beautiful Layered Curly Haircuts to Love",
     "category": "Layered Curly Hairstyles",
     "categorySlug": "layered-curly-hairstyles",
@@ -64348,8 +64348,8 @@ export const articles = [
     ]
   },
   {
-    "id": "cute-layered-haircut-ideas",
-    "slug": "cute-layered-haircut-ideas",
+    "id": "cute-layered-haircut",
+    "slug": "cute-layered-haircut",
     "title": "13+ Cute Layered Haircut Ideas for Women to Try",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -67840,8 +67840,8 @@ export const articles = [
     ]
   },
   {
-    "id": "layered-haircut-hair-color-ideas",
-    "slug": "layered-haircut-hair-color-ideas",
+    "id": "layered-haircut-hair-color",
+    "slug": "layered-haircut-hair-color",
     "title": "17+ Layered Haircut Hair Color Ideas for a Fresh Change",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -68132,8 +68132,8 @@ export const articles = [
     ]
   },
   {
-    "id": "stylish-layered-bob-fresh-look",
-    "slug": "stylish-layered-bob-fresh-look",
+    "id": "stylish-layered-bob",
+    "slug": "stylish-layered-bob",
     "title": "12+ Stylish Layered Bob Hairstyles for a Fresh Look",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -70644,8 +70644,8 @@ export const articles = [
     ]
   },
   {
-    "id": "elegant-hairstyles-women",
-    "slug": "elegant-hairstyles-women",
+    "id": "elegant-hairstyles",
+    "slug": "elegant-hairstyles",
     "title": "13+ Elegant Hairstyles for Women With a Classic Touch",
     "category": "Updo Hairstyles",
     "categorySlug": "updo-hairstyles",
