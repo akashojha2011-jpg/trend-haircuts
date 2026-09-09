@@ -47241,8 +47241,8 @@ export const articles = [
     ]
   },
   {
-    "id": "marley-twists-updo-hairstyles-plenty",
-    "slug": "marley-twists-updo-hairstyles-plenty",
+    "id": "marley-twists-updo-hairstyles",
+    "slug": "marley-twists-updo-hairstyles",
     "title": "16+ Marley Twists Updo Hairstyles With Plenty of Style",
     "category": "Updo Hairstyles",
     "categorySlug": "updo-hairstyles",
@@ -47496,8 +47496,8 @@ export const articles = [
     ]
   },
   {
-    "id": "chic-elegant-hairstyles-more-refined",
-    "slug": "chic-elegant-hairstyles-more-refined",
+    "id": "chic-elegant-updo-hairstyles",
+    "slug": "chic-elegant-updo-hairstyles",
     "title": "11+ Chic Elegant Hairstyles for a More Refined Look",
     "category": "Updo Hairstyles",
     "categorySlug": "updo-hairstyles",
@@ -47652,8 +47652,8 @@ export const articles = [
     ]
   },
   {
-    "id": "elegant-hairstyles-women-classic-touch",
-    "slug": "elegant-hairstyles-women-classic-touch",
+    "id": "elegant-updo-hairstyles-women",
+    "slug": "elegant-updo-hairstyles-women",
     "title": "13+ Elegant Hairstyles for Women With a Classic Touch",
     "category": "Updo Hairstyles",
     "categorySlug": "updo-hairstyles",
@@ -47922,8 +47922,8 @@ export const articles = [
     ]
   },
   {
-    "id": "elegant-homecoming-updos-memorable-night",
-    "slug": "elegant-homecoming-updos-memorable-night",
+    "id": "elegant-homecoming-updos",
+    "slug": "elegant-homecoming-updos",
     "title": "14+ Elegant Homecoming Updos for a Memorable Night",
     "category": "Updo Hairstyles",
     "categorySlug": "updo-hairstyles",
@@ -48438,8 +48438,8 @@ export const articles = [
     ]
   },
   {
-    "id": "honey-blonde-mature-women-warm",
-    "slug": "honey-blonde-mature-women-warm",
+    "id": "honey-blonde-mature-women",
+    "slug": "honey-blonde-mature-women",
     "title": "14+ Honey Blonde for Mature Women With a Warm Glow",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -48896,8 +48896,8 @@ export const articles = [
     ]
   },
   {
-    "id": "mature-women-copper-hair-color",
-    "slug": "mature-women-copper-hair-color",
+    "id": "copper-hair-color-mature-women",
+    "slug": "copper-hair-color-mature-women",
     "title": "16+ Mature Women Copper Hair Color Ideas to Explore",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -49162,8 +49162,8 @@ export const articles = [
     ]
   },
   {
-    "id": "natural-looking-balayage-older-women",
-    "slug": "natural-looking-balayage-older-women",
+    "id": "natural-balayage-older-women",
+    "slug": "natural-balayage-older-women",
     "title": "17+ Natural Looking Balayage for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -51583,8 +51583,8 @@ export const articles = [
     ]
   },
   {
-    "id": "amazing-textured-hairstyles-older-women",
-    "slug": "amazing-textured-hairstyles-older-women",
+    "id": "textured-hairstyles-older-women",
+    "slug": "textured-hairstyles-older-women",
     "title": "23+ Amazing Textured Hairstyles for Older Women to Love",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -51859,8 +51859,8 @@ export const articles = [
     ]
   },
   {
-    "id": "simple-hairstyles-layered-bob-haircuts",
-    "slug": "simple-hairstyles-layered-bob-haircuts",
+    "id": "simple-layered-bob-hairstyles",
+    "slug": "simple-layered-bob-hairstyles",
     "title": "13+ Simple Hairstyles for Layered Bob Haircuts to Love",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -52311,8 +52311,8 @@ export const articles = [
     ]
   },
   {
-    "id": "medium-length-layered-bob-hairstyles",
-    "slug": "medium-length-layered-bob-hairstyles",
+    "id": "medium-length-layered-bob",
+    "slug": "medium-length-layered-bob",
     "title": "24+ Medium Length Layered Bob Hairstyles to Try",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -52607,8 +52607,8 @@ export const articles = [
     ]
   },
   {
-    "id": "chic-layered-bob-hairstyles-women",
-    "slug": "chic-layered-bob-hairstyles-women",
+    "id": "chic-layered-bob-hairstyles",
+    "slug": "chic-layered-bob-hairstyles",
     "title": "25+ Chic Layered Bob Hairstyles for Women to Fall For",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -52903,8 +52903,8 @@ export const articles = [
     ]
   },
   {
-    "id": "short-layered-bob-haircuts-plenty",
-    "slug": "short-layered-bob-haircuts-plenty",
+    "id": "short-layered-bob-haircuts",
+    "slug": "short-layered-bob-haircuts",
     "title": "17+ Short Layered Bob Haircuts With Plenty of Style",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -53155,8 +53155,8 @@ export const articles = [
     ]
   },
   {
-    "id": "stylish-layered-bob-haircuts-fringe",
-    "slug": "stylish-layered-bob-haircuts-fringe",
+    "id": "layered-bob-haircuts-fringe",
+    "slug": "layered-bob-haircuts-fringe",
     "title": "22+ Stylish Layered Bob Haircuts With Fringe to Try",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -53421,8 +53421,8 @@ export const articles = [
     ]
   },
   {
-    "id": "beautiful-layered-bob-hairstyles-soft",
-    "slug": "beautiful-layered-bob-hairstyles-soft",
+    "id": "beautiful-layered-bob-hairstyles",
+    "slug": "beautiful-layered-bob-hairstyles",
     "title": "11+ Beautiful Layered Bob Hairstyles With Soft Movement",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -53587,8 +53587,8 @@ export const articles = [
     ]
   },
   {
-    "id": "chic-layered-bob-hairstyles-modern",
-    "slug": "chic-layered-bob-hairstyles-modern",
+    "id": "chic-layered-bob-modern",
+    "slug": "chic-layered-bob-modern",
     "title": "11+ Chic Layered Bob Hairstyles With a Modern Feel",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -53753,8 +53753,8 @@ export const articles = [
     ]
   },
   {
-    "id": "trendy-layered-bob-hairstyles-explore",
-    "slug": "trendy-layered-bob-hairstyles-explore",
+    "id": "trendy-layered-bob-hairstyles",
+    "slug": "trendy-layered-bob-hairstyles",
     "title": "26+ Trendy Layered Bob Hairstyles to Explore",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
@@ -54550,8 +54550,8 @@ export const articles = [
     ]
   },
   {
-    "id": "shoulder-length-curly-layers-haircuts",
-    "slug": "shoulder-length-curly-layers-haircuts",
+    "id": "shoulder-length-curly-layers",
+    "slug": "shoulder-length-curly-layers",
     "title": "15+ Shoulder Length Curly Layers Haircuts to Try",
     "category": "Layered Curly Hairstyles",
     "categorySlug": "layered-curly-hairstyles",
@@ -54790,8 +54790,8 @@ export const articles = [
     ]
   },
   {
-    "id": "sock-curls-layered-hair-explore",
-    "slug": "sock-curls-layered-hair-explore",
+    "id": "sock-curls-layered-hair",
+    "slug": "sock-curls-layered-hair",
     "title": "16+ Sock Curls for Layered Hair to Explore",
     "category": "Layered Curly Hairstyles",
     "categorySlug": "layered-curly-hairstyles",
@@ -55213,8 +55213,8 @@ export const articles = [
     ]
   },
   {
-    "id": "25-beautiful-layered-curly-haircuts",
-    "slug": "25-beautiful-layered-curly-haircuts",
+    "id": "layered-curly-haircuts-ideas",
+    "slug": "layered-curly-haircuts-ideas",
     "title": "25 Beautiful Layered Curly Haircuts to Love",
     "category": "Layered Curly Hairstyles",
     "categorySlug": "layered-curly-hairstyles",
@@ -55499,8 +55499,8 @@ export const articles = [
     ]
   },
   {
-    "id": "chic-layered-curly-haircuts-plenty",
-    "slug": "chic-layered-curly-haircuts-plenty",
+    "id": "chic-layered-curly-haircuts",
+    "slug": "chic-layered-curly-haircuts",
     "title": "19+ Chic Layered Curly Haircuts With Plenty of Movement",
     "category": "Layered Curly Hairstyles",
     "categorySlug": "layered-curly-hairstyles",
@@ -56032,8 +56032,8 @@ export const articles = [
     ]
   },
   {
-    "id": "curly-layers-medium-hair-women",
-    "slug": "curly-layers-medium-hair-women",
+    "id": "curly-layers-medium-hair",
+    "slug": "curly-layers-medium-hair",
     "title": "16+ Curly Layers for Medium Hair Women Will Love",
     "category": "Layered Curly Hairstyles",
     "categorySlug": "layered-curly-hairstyles",
@@ -56826,8 +56826,8 @@ export const articles = [
     ]
   },
   {
-    "id": "curly-layers-long-hair-women",
-    "slug": "curly-layers-long-hair-women",
+    "id": "curly-layers-long-hair",
+    "slug": "curly-layers-long-hair",
     "title": "14+ Curly Layers for Long Hair Women Will Love",
     "category": "Layered Curly Hairstyles",
     "categorySlug": "layered-curly-hairstyles",
@@ -57079,8 +57079,8 @@ export const articles = [
     ]
   },
   {
-    "id": "cute-layered-haircut-women",
-    "slug": "cute-layered-haircut-women",
+    "id": "cute-layered-haircut-ideas",
+    "slug": "cute-layered-haircut-ideas",
     "title": "13+ Cute Layered Haircut Ideas for Women to Try",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -57616,8 +57616,8 @@ export const articles = [
     ]
   },
   {
-    "id": "lavender-underlayer-on-blonde-hair",
-    "slug": "lavender-underlayer-on-blonde-hair",
+    "id": "lavender-underlayer-blonde-hair",
+    "slug": "lavender-underlayer-blonde-hair",
     "title": "15+ Lavender Underlayer on Blonde Hair for a Fun Twist",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -57867,8 +57867,8 @@ export const articles = [
     ]
   },
   {
-    "id": "layered-blowout-haircuts-bouncy",
-    "slug": "layered-blowout-haircuts-bouncy",
+    "id": "layered-blowout-haircuts",
+    "slug": "layered-blowout-haircuts",
     "title": "16+ Layered Blowout Haircuts for a Bouncy Look",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -58119,8 +58119,8 @@ export const articles = [
     ]
   },
   {
-    "id": "layered-haircuts-high-porosity-hair",
-    "slug": "layered-haircuts-high-porosity-hair",
+    "id": "layered-haircuts-high-porosity",
+    "slug": "layered-haircuts-high-porosity",
     "title": "17+ Layered Haircuts for High Porosity Hair to Consider",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -58390,8 +58390,8 @@ export const articles = [
     ]
   },
   {
-    "id": "layered-haircuts-low-porosity-hair",
-    "slug": "layered-haircuts-low-porosity-hair",
+    "id": "layered-haircuts-low-porosity",
+    "slug": "layered-haircuts-low-porosity",
     "title": "13+ Layered Haircuts for Low Porosity Hair to Try",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -58898,8 +58898,8 @@ export const articles = [
     ]
   },
   {
-    "id": "modern-layered-haircuts-change",
-    "slug": "modern-layered-haircuts-change",
+    "id": "modern-layered-haircuts",
+    "slug": "modern-layered-haircuts",
     "title": "15+ Modern Layered Haircuts for a Fresh Change",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -59652,8 +59652,8 @@ export const articles = [
     ]
   },
   {
-    "id": "10-stylish-wispy-layered-haircuts",
-    "slug": "10-stylish-wispy-layered-haircuts",
+    "id": "wispy-layered-haircuts",
+    "slug": "wispy-layered-haircuts",
     "title": "10 Stylish Wispy Layered Haircuts With Soft Movement",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -60061,8 +60061,8 @@ export const articles = [
     ]
   },
   {
-    "id": "80s-layered-blowout-hairstyles-major",
-    "slug": "80s-layered-blowout-hairstyles-major",
+    "id": "80s-layered-blowout-hairstyles",
+    "slug": "80s-layered-blowout-hairstyles",
     "title": "15+ 80s Layered Blowout Hairstyles With Major Volume",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -60313,8 +60313,8 @@ export const articles = [
     ]
   },
   {
-    "id": "korean-layered-haircuts-soft-airy",
-    "slug": "korean-layered-haircuts-soft-airy",
+    "id": "korean-layered-haircuts",
+    "slug": "korean-layered-haircuts",
     "title": "16+ Korean Layered Haircuts for a Soft, Airy Look",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -60571,8 +60571,8 @@ export const articles = [
     ]
   },
   {
-    "id": "layered-haircut-hair-color-change",
-    "slug": "layered-haircut-hair-color-change",
+    "id": "layered-haircut-hair-color-ideas",
+    "slug": "layered-haircut-hair-color-ideas",
     "title": "17+ Layered Haircut Hair Color Ideas for a Fresh Change",
     "category": "Layered Haircut Ideas",
     "categorySlug": "layered-haircuts",
@@ -60863,8 +60863,8 @@ export const articles = [
     ]
   },
   {
-    "id": "stylish-layered-bob-hairstyles-fresh",
-    "slug": "stylish-layered-bob-hairstyles-fresh",
+    "id": "stylish-layered-bob-fresh-look",
+    "slug": "stylish-layered-bob-fresh-look",
     "title": "12+ Stylish Layered Bob Hairstyles for a Fresh Look",
     "category": "Layered Bob Haircuts",
     "categorySlug": "layered-bob-haircuts",
