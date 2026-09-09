@@ -13,13 +13,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/privacy-policy</loc>
+    <loc>https://www.trendhaircuts.com/privacy</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/terms-of-service</loc>
+    <loc>https://www.trendhaircuts.com/terms</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -43,25 +43,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/haircuts-and-lengths</loc>
+    <loc>https://www.trendhaircuts.com/category/balayage-hair-color</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/hairstyles-and-trends</loc>
+    <loc>https://www.trendhaircuts.com/category/black-hair-color</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/hair-types-and-age</loc>
+    <loc>https://www.trendhaircuts.com/category/blonde-balayage-hair</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/hair-color-ideas</loc>
+    <loc>https://www.trendhaircuts.com/category/face-shape-glasses</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -73,19 +73,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/curly-hairstyles-haircuts</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.trendhaircuts.com/category/bob-lob-haircuts</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.trendhaircuts.com/category/bangs-fringe-hairstyles</loc>
+    <loc>https://www.trendhaircuts.com/category/curly-hairstyles</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -97,7 +85,73 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/face-shape-glasses-hairstyles</loc>
+    <loc>https://www.trendhaircuts.com/category/bob-lob-haircuts</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/bangs-fringe</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/older-women</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/fine-thin-hair</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/hair-color-ideas</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/bun-hairstyles</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/pixie-haircuts</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/hair-color-older-women</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/layered-bob-haircuts</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/layered-curly-hairstyles</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/layered-haircuts</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/category/updo-hairstyles</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

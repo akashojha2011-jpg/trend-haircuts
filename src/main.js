@@ -207,8 +207,8 @@ function renderApp() {
   } else if (route === 'article') {
     const cleanSlug = slug.toLowerCase().trim().replace(/^\/+/, '').replace(/^article\//, '').replace(/\/+$/, '');
     
-    // Explicit legacy URL redirects map to ensure zero 404s
-        const LEGACY_SLUG_MAP = {
+    // Explicit legacy URL redirects map to ensure seamless URL canonicalization
+    const LEGACY_SLUG_MAP = {
       'pumpkin-spice-balayage-ideas': 'pumpkin-spice-balayage',
       'soft-black-hair-color-ideas': 'soft-black-hair-color',
       'black-hair-color-ideas': 'black-hair-color',
@@ -259,7 +259,27 @@ function renderApp() {
       'cute-layered-haircut-ideas': 'cute-layered-haircut',
       'layered-haircut-hair-color-ideas': 'layered-haircut-hair-color',
       'stylish-layered-bob-fresh-look': 'stylish-layered-bob',
-      'elegant-hairstyles-women': 'elegant-hairstyles'
+      'elegant-hairstyles-women': 'elegant-hairstyles',
+
+      // Updo Hairstyles Legacy Long Links -> Clean Short Links
+      'updos-medium-length-hair-effortlessly': 'updos-medium-length-hair',
+      'loc-updo-hairstyles-much': 'loc-updo-hairstyles',
+      'mini-twist-updo-hairstyles-take': 'mini-twist-updo-hairstyles',
+      'stylish-updo-hairstyles-never-overdone': 'stylish-updo-hairstyles',
+      'anti-humidity-updo-hairstyles-actually': 'anti-humidity-updo-hairstyles',
+      'easy-vacation-updos-women-who': 'easy-vacation-updos',
+      'elegant-gray-chignon-hairstyles-timeless': 'elegant-gray-chignon-hairstyles',
+      'french-twist-updo-hairstyles-polished': 'french-twist-updo-hairstyles',
+      'marley-twists-updo-hairstyles-look': 'marley-twists-updo-hairstyles',
+      'chic-messy-bun-updos-that': 'chic-messy-bun-updos',
+      'casual-updo-hairstyles-you': 'casual-updo-hairstyles',
+      'chic-elegant-updo-hairstyles-to': 'chic-elegant-updo-hairstyles',
+      'black-updo-hairstyles-that': 'black-updo-hairstyles',
+      'braided-updo-hairstyles-for': 'braided-updo-hairstyles',
+      'coquette-updo-hairstyles-ideas': 'coquette-updo-hairstyles',
+      'half-updo-hairstyles-ideas': 'half-updo-hairstyles',
+      'low-updo-hairstyles-ideas': 'low-updo-hairstyles',
+      'messy-updo-hairstyles-ideas': 'messy-updo-hairstyles'
     };
 
     const resolvedSlug = LEGACY_SLUG_MAP[cleanSlug] || cleanSlug;
@@ -281,27 +301,12 @@ function renderApp() {
       );
     }
 
-    // Tier 3: Smart Keyword Fallback (prevents 404 Not Found for legacy/renamed URLs)
-    if (!targetArticle) {
-      const normClean = cleanSlug.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-      const words = normClean.split('-').filter(w => w.length > 2);
-      if (words.length > 0) {
-        let bestMatch = null;
-        let maxScore = 0;
-        for (const a of articles) {
-          const targetText = `${a.slug || ''} ${a.id || ''} ${a.title || ''} ${a.category || ''}`.toLowerCase();
-          let score = 0;
-          for (const w of words) {
-            if (targetText.includes(w)) score++;
-          }
-          if (score > maxScore) {
-            maxScore = score;
-            bestMatch = a;
-          }
-        }
-        if (bestMatch && maxScore >= 1) {
-          targetArticle = bestMatch;
-        }
+    // Force browser URL update to canonical clean short URL if accessed via legacy long link
+    if (targetArticle && cleanSlug !== targetArticle.slug) {
+      try {
+        window.history.replaceState({}, '', `/${targetArticle.slug}`);
+      } catch (e) {
+        // Fallback for strict environments
       }
     }
 
