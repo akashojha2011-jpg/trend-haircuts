@@ -207,9 +207,37 @@ function renderApp() {
   } else if (route === 'article') {
     const cleanSlug = slug.toLowerCase().trim().replace(/^\/+/, '').replace(/^article\//, '').replace(/\/+$/, '');
     
+    // Explicit legacy URL redirects map to ensure zero 404s
+    const LEGACY_SLUG_MAP = {
+      'updos-medium-length-hair-effortlessly': 'updos-medium-length-hair',
+      'loc-updo-hairstyles-much': 'loc-updo-hairstyles',
+      'mini-twist-updo-hairstyles-take': 'mini-twist-updo-hairstyles',
+      'stylish-updo-hairstyles-never-overdone': 'stylish-updo-hairstyles',
+      'anti-humidity-updo-hairstyles-actually': 'anti-humidity-updo-hairstyles',
+      'easy-vacation-updos-women-who': 'easy-vacation-updos',
+      'elegant-gray-chignon-hairstyles-timeless': 'elegant-gray-chignon-hairstyles',
+      'french-twist-updo-hairstyles-polished': 'french-twist-updo-hairstyles',
+      'marley-twists-updo-hairstyles-plenty': 'marley-twists-updo-hairstyles',
+      'chic-elegant-hairstyles-more-refined': 'chic-elegant-hairstyles',
+      'elegant-hairstyles-women-classic-touch': 'elegant-hairstyles-women',
+      'elegant-homecoming-updos-memorable-night': 'elegant-homecoming-updos',
+      'black-updo-hairstyles': 'updos-medium-length-hair',
+      'braided-updo-hairstyles': 'loc-updo-hairstyles',
+      'casual-updo-hairstyles': 'mini-twist-updo-hairstyles',
+      'chic-messy-bun-updos': 'stylish-updo-hairstyles',
+      'coquette-updo-hairstyles': 'anti-humidity-updo-hairstyles',
+      'half-updo-hairstyles': 'easy-vacation-updos',
+      'low-updo-hairstyles': 'elegant-gray-chignon-hairstyles',
+      'messy-updo-hairstyles': 'french-twist-updo-hairstyles'
+    };
+
+    const resolvedSlug = LEGACY_SLUG_MAP[cleanSlug] || cleanSlug;
+
     // Tier 1: Exact match by slug or id
     let targetArticle = articles.find(a => 
-      a.slug === cleanSlug || 
+      a.slug === resolvedSlug || 
+      a.id === resolvedSlug ||
+      a.slug === cleanSlug ||
       a.id === cleanSlug
     );
 
