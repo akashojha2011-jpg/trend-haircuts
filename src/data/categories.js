@@ -20,6 +20,8 @@ export const menuStructure = [
     subcategories: [
       { name: 'Bangs & Fringe Hairstyles', slug: 'bangs-fringe' },
       { name: 'Braided Hairstyles', slug: 'braided-hairstyles' },
+      { name: 'Updo Hairstyles', slug: 'updo-hairstyles' },
+      { name: 'Bun Hairstyles', slug: 'bun-hairstyles' },
       { name: 'Easy & Everyday Hairstyles', slug: 'easy-everyday-hairstyles' },
       { name: 'Special Occasion Hairstyles', slug: 'special-occasion-hairstyles' },
       { name: 'Trending & Modern Hairstyles', slug: 'trending-modern-hairstyles' },
@@ -58,6 +60,22 @@ export const menuStructure = [
 
 // Featured homepage hair categories
 export const categories = [
+  {
+    id: 'updo-hairstyles',
+    name: 'Updo Hairstyles',
+    slug: 'updo-hairstyles',
+    image: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80',
+    count: '170+ Ideas',
+    description: 'French twists, chignons, braided updos, and formal hair styling inspiration.'
+  },
+  {
+    id: 'bun-hairstyles',
+    name: 'Bun Hairstyles',
+    slug: 'bun-hairstyles',
+    image: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80',
+    count: '160+ Ideas',
+    description: 'Messy buns, sleek office buns, low hair buns, and everyday bun hairstyles.'
+  },
   {
     id: 'short-hairstyles',
     name: 'Short Hairstyles & Cuts',
@@ -135,6 +153,8 @@ export const colorCategories = [
 
 export const styleChips = [
   'All Styles',
+  'Updo Hairstyles',
+  'Bun Hairstyles',
   'Bob & Lob Cuts',
   'Curtain Bangs',
   'Braided Hairstyles',

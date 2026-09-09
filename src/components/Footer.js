@@ -32,10 +32,12 @@ export function renderFooter() {
           <div>
             <h4 class="footer-col-title">Hairstyles & Color</h4>
             <ul class="footer-links">
+              <li><a href="/category/updo-hairstyles" data-route="category" data-slug="updo-hairstyles">Updo Hairstyles</a></li>
+              <li><a href="/category/bun-hairstyles" data-route="category" data-slug="bun-hairstyles">Bun Hairstyles</a></li>
               <li><a href="/category/bangs-fringe" data-route="category" data-slug="bangs-fringe">Curtain Bangs & Fringe</a></li>
               <li><a href="/category/hair-color-ideas" data-route="category" data-slug="hair-color-ideas">Hair Color & Balayage</a></li>
               <li><a href="/category/curly-hairstyles" data-route="category" data-slug="curly-hairstyles">Curly & Wavy Hair</a></li>
-              <li><a href="/category/braided-hairstyles" data-route="category" data-slug="braided-hairstyles">Braids & Updos</a></li>
+              <li><a href="/category/braided-hairstyles" data-route="category" data-slug="braided-hairstyles">Braids & Braided Styles</a></li>
               <li><a href="/category/women-over-40" data-route="category" data-slug="women-over-40">Hairstyles Over 40 & 50</a></li>
               <li><a href="/category/easy-everyday-hairstyles" data-route="category" data-slug="easy-everyday-hairstyles">Easy Everyday Styles</a></li>
             </ul>
