@@ -343,9 +343,16 @@ document.addEventListener('click', (e) => {
   if (href.startsWith('#')) {
     e.preventDefault();
     const targetId = href.replace('#', '');
+    if (!targetId) return;
     const targetEl = document.getElementById(targetId);
     if (targetEl) {
-      targetEl.scrollIntoView({ behavior: 'smooth' });
+      const headerOffset = 90;
+      const elementPosition = targetEl.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
     }
     return;
   }

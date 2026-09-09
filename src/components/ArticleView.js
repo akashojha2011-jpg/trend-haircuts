@@ -14,7 +14,10 @@ export function renderArticleView(article) {
   }
 
   // Generate dynamic extra sections HTML
-  const extraSectionsHtml = article.extraSections ? article.extraSections.map(sec => {
+  const extraSectionsHtml = article.extraSections ? article.extraSections.map((sec, sIdx) => {
+    const secId = sec.id || `section-extra-${sIdx + 1}`;
+    sec.id = secId; // Guarantee sec.id is populated for TOC link
+
     if (sec.stats) {
       const statsGrid = sec.stats.map(st => `
         <div class="stat-card-box">
@@ -24,9 +27,9 @@ export function renderArticleView(article) {
       `).join('');
 
       return `
-        <div id="${sec.id}" class="editorial-feature-box">
+        <div id="${secId}" class="editorial-feature-box" style="scroll-margin-top: 100px;">
           <h3 class="font-serif editorial-feature-title">${sec.title}</h3>
-          <p class="editorial-feature-desc">${sec.content}</p>
+          <p class="editorial-feature-desc">${sec.content || ''}</p>
           <div class="stats-grid-wrap">
             ${statsGrid}
           </div>
@@ -36,7 +39,7 @@ export function renderArticleView(article) {
       const stepsList = sec.steps.map(st => `<li style="margin-bottom: 0.75rem;">${st}</li>`).join('');
 
       return `
-        <div id="${sec.id}" class="masterclass-box">
+        <div id="${secId}" class="masterclass-box" style="scroll-margin-top: 100px;">
           <span class="blog-category-badge">Editorial Masterclass</span>
           <h3 class="font-serif masterclass-title">${sec.title}</h3>
           <ol class="masterclass-steps-list">
@@ -44,8 +47,18 @@ export function renderArticleView(article) {
           </ol>
         </div>
       `;
+    } else {
+      const contentHtml = sec.paragraphs && Array.isArray(sec.paragraphs)
+        ? sec.paragraphs.map(p => `<p class="listicle-desc">${p}</p>`).join('')
+        : `<p class="listicle-desc">${sec.content || sec.description || ''}</p>`;
+
+      return `
+        <div id="${secId}" class="editorial-feature-box" style="scroll-margin-top: 100px;">
+          <h3 class="font-serif editorial-feature-title" style="margin-bottom: 1rem;">${sec.title}</h3>
+          ${contentHtml}
+        </div>
+      `;
     }
-    return '';
   }).join('') : '';
 
   // Generate dynamic FAQs HTML
@@ -165,7 +178,7 @@ export function renderArticleView(article) {
         <h1 class="article-title">${article.title || 'Hairstyle Guide'}</h1>
         
         <div class="article-meta">
-          <span class="meta-item">Updated ${article.date || '2026-09-09'}</span>
+          <span class="meta-item">Updated ${article.date || 'September 2026'}</span>
           <span class="meta-dot">•</span>
           <span class="meta-item">${article.readTime || '5 min read'}</span>
           <span class="meta-dot">•</span>
