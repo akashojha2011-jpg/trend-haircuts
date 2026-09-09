@@ -29894,5 +29894,2255 @@ export const articles = [
         "stylingTip": "Use a shine spray and weekly hydrating hair mask to preserve glossy black undertones."
       }
     ]
+  },
+  {
+    "id": "sandy-blonde-balayage",
+    "slug": "sandy-blonde-balayage",
+    "title": "16+ Summer Sandy Blonde Balayage You’ll Want to Copy",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc111_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": true,
+    "isTrending": false,
+    "intro": "Nothing elevates your warm-weather look quite like a stunning hair transformation. If you want a natural sun-kissed finish, exploring 20 summer sandy blonde balayage options offers the perfect inspiration. This gorgeous coloring technique blends soft sandy hues seamlessly into your natural base, creating a low-maintenance and beautiful style that shines brightly in the summer sun. Whether you have short bobs or long flowing waves, this versatile shade brings out the best in every texture and length. The subtle transition means fewer trips to the salon, letting you enjoy beach days without worrying about harsh root regrowth lines. Get ready to discover gorgeous ways to wear this effortlessly chic color for a bright, radiant vibe all season long.",
+    "introParagraphs": [
+      "Nothing elevates your warm-weather look quite like a stunning hair transformation. If you want a natural sun-kissed finish, exploring 20 summer sandy blonde balayage options offers the perfect inspiration. This gorgeous coloring technique blends soft sandy hues seamlessly into your natural base, creating a low-maintenance and beautiful style that shines brightly in the summer sun. Whether you have short bobs or long flowing waves, this versatile shade brings out the best in every texture and length. The subtle transition means fewer trips to the salon, letting you enjoy beach days without worrying about harsh root regrowth lines. Get ready to discover gorgeous ways to wear this effortlessly chic color for a bright, radiant vibe all season long."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc111-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc111-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Sandy Blonde Balayage On Brown Hair",
+        "image": "/images/doc111_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Have you ever wondered how to brighten your brunette mane without a complete overhaul? Sandy blonde balayage on brown hair creates a stunning soft contrast that looks naturally sun-lightened. The hand-painted sandy ribbons effortlessly melt into medium to dark brown bases. This provides a beautiful dimensional effect.",
+          "It is the ultimate choice for anyone wanting a gentle transition into lighter summer hair. The warm sandy tones beautifully complement natural brunette shades, adding noticeable depth and movement. You can wear this look straight to show off the seamless color melting, or add loose waves to highlight the multi-tonal dimension. It remains incredibly low-maintenance, allowing your natural roots to blend gracefully as your hair grows out during the summer months."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Short Bob With Sandy Blonde Balayage",
+        "image": "/images/doc111_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Imagine stepping out on a warm evening with a chic, breezy cut that turns heads. A short bob with sandy blonde balayage offers a crisp, refreshing look perfect for beating the summer heat. The sandy highlights are expertly painted toward the mid-lengths and ends, giving the classic bob a luminous, sun-drenched finish.",
+          "This combination works wonders by adding apparent thickness and vibrant texture to shorter strands. The lighter ends create an illusion of effortless volume, while the darker roots keep the overall style grounded and natural. Whether you prefer a sleek, blunt cut or a textured, wavy finish, this color technique elevates the traditional bob into a striking, modern statement that stays cool and looks incredibly stylish all summer long."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Long Sandy Blonde Balayage",
+        "image": "/images/doc111_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "There is something undeniably enchanting about flowing locks catching the golden hour light. Long sandy blonde balayage allows for a dramatic yet completely natural gradient that truly shines on extended lengths. The stylist applies the sandy blonde shade heavily toward the bottom third, leaving the top natural. This mimics the way the sun naturally lightens your ends over time.",
+          "The sweeping transition offers a gorgeous, lived-in vibe that requires very little upkeep. Long hair beautifully showcases the seamless blend of colors, especially when styled in soft curls or tousled waves. The movement reveals the hidden sandy tones, creating a mesmerizing, multi-dimensional effect. It is the perfect summer style for anyone wanting noticeable, radiant length without constant salon visits."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Sandy Blonde Balayage With Face Framing Highlights",
+        "image": "/images/doc111_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Want to instantly brighten your complexion without changing your entire head of hair? Sandy blonde balayage with face framing highlights is the ultimate trick for a youthful, radiant glow. This tailored technique concentrates the lightest sandy shades around the front hairline, softly illuminating your face.",
+          "The brighter pieces effortlessly blend into the rest of your hair, creating a seamless and flattering finish. It beautifully mimics that natural sunshine effect you get after a long summer outdoors. The framing pieces can be styled in sweeping curtain bangs or soft layers, instantly drawing attention to your eyes and cheekbones. This strategically placed color adds incredible brightness to your overall look while keeping the maintenance remarkably low for the busy summer season."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Beachy Wave Sandy Blonde Balayage",
+        "image": "/images/doc111_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Can you picture a more iconic summer duo than textured waves and sun-kissed color? Beachy wave sandy blonde balayage is the quintessential warm-weather aesthetic. This styling combination perfectly captures that effortless, just-off-the-sand vibe everyone craves.",
+          "The sandy blonde shade strategically painted on the mid-lengths and ends mimics how saltwater and sun naturally lighten hair. When paired with loose, undone waves, the varying tones create stunning depth and movement throughout the style. You can easily achieve this look with a simple sea salt spray or a large-barrel curling iron. The unfussy texture highlights the hand-painted color dimension beautifully, making it the ideal go-to style for sunny beach days, backyard barbecues, or relaxed weekend getaways all summer long."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Sandy Blonde Balayage On Dark Hair",
+        "image": "/images/doc111_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Transitioning from deep brunette to blonde can feel intimidating, but it does not have to be. Sandy blonde balayage on dark hair provides a striking yet manageable way to lighten up your look. The key is a seamless color melt that respects your dark base while introducing those coveted lighter tones.",
+          "Stylists use a gradual blending technique, ensuring the sandy hue does not appear brassy against the dark contrast. The result is a gorgeous, expensive-looking finish that adds brilliant shine and noticeable texture. This high-contrast style looks fantastic when styled with soft, bouncy curls, as the spirals showcase the distinct shift from dark to light. It is a bold yet natural-looking choice for the adventurous summer season."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Ash Sandy Blonde Balayage",
+        "image": "/images/doc111_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Are you looking for a cooler tone that avoids any unwanted brassiness? Ash sandy blonde balayage offers a beautifully muted, chic alternative to warmer golden shades. This cool-toned variation incorporates subtle smoky and beige undertones, resulting in a highly sophisticated and modern finish.",
+          "It is especially flattering for those with cooler skin tones, as it effortlessly complements natural undertones without clashing. The ashy hue provides a sleek, smooth appearance that looks incredibly polished and healthy. To maintain the icy vibrancy, simply use a purple shampoo once a week to neutralize any yellowing. This elegant, cool-toned style perfectly captures a refined summer aesthetic that feels incredibly fresh, contemporary, and wonderfully easy to manage throughout the hotter months."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Sandy Blonde Balayage With Root Shadow",
+        "image": "/images/doc111_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "What if you could stretch the time between your salon appointments even further? Sandy blonde balayage with root shadow is the secret to ultimate low-maintenance summer hair. A root shadow involves applying a slightly darker shade at the roots before blending into the sandy blonde lengths.",
+          "This creates a soft, diffused effect that beautifully mimics natural hair growth. The slightly darker top seamlessly transitions into the lighter ends, adding incredible depth and volume. This technique is a lifesaver during busy summer months when you want to enjoy vacation time instead of sitting in a salon chair. The shadowed root ensures a graceful, seamless grow-out phase, keeping your color looking intentionally blended and effortlessly chic no matter how late you are for a touch-up."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "Curly Hair Sandy Blonde Balayage",
+        "image": "/images/doc111_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Curly hair deserves a coloring technique that enhances its natural bounce and spring. Curly hair sandy blonde balayage is specifically tailored to highlight each individual ringlet perfectly. Instead of painting straight lines, stylists customize the application by following the natural curl pattern.",
+          "This ensures the sandy blonde ribbons wrap around each curl, creating stunning dimension and incredible movement. When the light catches the lighter strands, the curls look instantly more defined, bouncy, and voluminous. It is essential to keep curly hair deeply hydrated, especially during the dry summer heat. Regular deep conditioning masks will keep your newly colored curls looking springy, frizz-free, and beautifully vibrant, allowing your textured sandy blonde style to truly shine all season long."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Sandy Blonde Money Piece Balayage",
+        "image": "/images/doc111_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Craving a bold, noticeable change around your face without a full color service? Sandy blonde money piece balayage is the striking trend you need to try this summer. This look focuses on heavily lightening just the front sections of your hair, creating a gorgeous framing effect.",
+          "The thick, sandy blonde chunks instantly brighten your face and draw attention to your best features. Meanwhile, the rest of your hair remains a darker, natural shade, offering a stunning contrast that looks incredibly modern. This technique provides the perfect pop of brightness for those who wear their hair pulled back frequently. It makes a confident statement while keeping the majority of your hair untouched and perfectly healthy for the warm weather."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Medium Length Sandy Blonde Balayage",
+        "image": "/images/doc111_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Finding the perfect balance between short and long hair is easy with the right color. Medium length sandy blonde balayage brings an incredible versatility that fits perfectly into any summer lifestyle. Often called a lob or mid-length cut, this style provides enough length to pull into a casual ponytail while remaining light and cool around your neck.",
+          "The sandy blonde color painted throughout the mid-shafts and ends adds just the right amount of brightness and texture. This combination creates an effortless, lived-in look that works wonderfully with natural air-drying. The sandy tones catch the sunlight perfectly, making the haircut appear fuller and more dynamic without requiring endless styling hours during your busy summer mornings."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Golden Sandy Blonde Balayage",
+        "image": "/images/doc111_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Do you love the look of rich, warm tones that remind you of a beautiful sunset? Golden sandy blonde balayage brings a stunning warmth that looks absolutely radiant during the summer. This variation leans slightly more into honey and golden hues, mixing them with the classic sandy base.",
+          "The result is a deeply rich, lustrous color that makes your hair look incredibly healthy and glowing. It perfectly complements warmer skin tones, bringing out the natural golden flecks in your eyes and complexion. The golden reflections dance in the sunlight, adding noticeable shine and vitality to your style. It is the ultimate warm-weather shade for anyone wanting a luxurious, vibrant, and sun-drenched aesthetic all season long."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Sandy Blonde Balayage On Fine Hair",
+        "image": "/images/doc111_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Want to create the illusion of thicker, more voluminous hair without heavy products? Sandy blonde balayage on fine hair is an absolute game-changer for adding perceived density. The hand-painted highlights create natural-looking depth and contrast that makes each strand appear visibly fuller.",
+          "By keeping the roots slightly darker and gradually lightening to a sandy blonde, you instantly get a beautiful color gradient that adds visual weight to the ends. This prevents fine hair from looking flat or lifeless. Keep the styling simple with a soft bend at the ends to maximize the volumizing effect. This clever coloring trick gives you that highly coveted, bouncy, thick-looking hair that holds up beautifully against the summer humidity."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Peaky Sandy Blonde Balayage",
+        "image": "/images/doc111_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Looking for a highly textured, shattered color effect that breaks up a solid base? Peaky sandy blonde balayage focuses on creating scattered, chunky pieces of lightness throughout the hair. Unlike the traditional seamless melt, the peaky technique intentionally leaves darker pieces between the sandy blonde ribbons.",
+          "This creates a highly textured, striated look that offers incredible movement and a distinctly edgy vibe. It is a fantastic choice for anyone wanting a bold, modern twist on the classic balayage. The separated highlights mimic the natural variations of sun-bleached hair, but with a much stronger, fashion-forward contrast. This striking style looks amazing with choppy cuts and messy waves, giving you a cool, effortlessly undone look for summer concerts and festivals."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Sandy Blonde Balayage Lob",
+        "image": "/images/doc111_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Is there any haircut more universally flattering and summer-appropriate than the classic lob? A sandy blonde balayage lob combines the best of both worlds for an effortlessly chic warm-weather style. The long bob hits right around the collarbone, making it incredibly easy to manage while still offering styling versatility.",
+          "Adding the sandy blonde balayage instantly elevates the cut, giving the blunt or textured ends a beautiful, sun-kissed finish. The lighter color on the ends creates the illusion of movement, even if you simply wash and air dry your hair. This pairing looks exceptionally polished yet relaxed, perfectly capturing that highly sought-after summer aesthetic. It is a timeless, low-fuss combination that keeps you looking stylish from morning coffee to evening beach walks."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 16,
+        "title": "Sandy Blonde Balayage With Curtain Bangs",
+        "image": "/images/doc111_img_16.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Searching for a way to softly frame your face and add a touch of retro charm? Sandy blonde balayage with curtain bangs creates an incredibly flattering, face-framing combination. The curtain bangs seamlessly blend into the longer layers of the balayage, offering a soft, feathery transition around the cheekbones.",
+          "When the sandy blonde highlights hit these front pieces, they instantly brighten your entire facial appearance. The lighter pieces around the face create a beautiful focal point, drawing attention to your eyes. This style feels incredibly fresh, modern, and perfectly suited for the warmer months. The bangs are easily swept to the side if they get too warm, making this look as practical as it is gorgeous for everyday summer wear."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 17,
+        "title": "Natural Sandy Blonde Balayage",
+        "image": "/images/doc111_img_17.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Do you prefer a subtle enhancement that looks like you were simply born with gorgeous hair? Natural sandy blonde balayage focuses on an extremely delicate, fine-weave application that perfectly mimics natural sun exposure. The colorist uses very fine brush strokes to paint the sandy tones, ensuring there are no harsh lines or chunky contrasts.",
+          "The result is a beautifully understated color that blends flawlessly with your base shade. It is the ideal option for anyone wanting a low-commitment, highly natural look. You can easily pull your hair up into a messy bun or ponytail without worrying about visible root lines. This effortlessly authentic style looks incredibly healthy and remains beautifully low-maintenance throughout all your summer adventures."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
+  },
+  {
+    "id": "ash-blonde-balayage",
+    "slug": "ash-blonde-balayage",
+    "title": "14+ Chic Ash Blonde Balayage Worth Adding to Your Board",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc112_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": true,
+    "isTrending": false,
+    "intro": "Ash blonde balayage is having a moment—and it’s not going anywhere. Cool, creamy, or smoky, this color knows how to behave in any season. If your hair feels like it's been in witness protection lately, ash blonde might be the fresh start it needs. It’s subtle but still knows how to make an impression. The best part? It grows out gracefully—no awkward line of demarcation, no explaining to strangers why your hair looks like a DIY science experiment. Below are ash blonde balayage looks that bring the shine, the texture, and the good hair days. Scroll on for major inspiration—and maybe even a screenshot or two. 💁‍♀️",
+    "introParagraphs": [
+      "Ash blonde balayage is having a moment—and it’s not going anywhere. Cool, creamy, or smoky, this color knows how to behave in any season. If your hair feels like it's been in witness protection lately, ash blonde might be the fresh start it needs. It’s subtle but still knows how to make an impression. The best part? It grows out gracefully—no awkward line of demarcation, no explaining to strangers why your hair looks like a DIY science experiment. Below are ash blonde balayage looks that bring the shine, the texture, and the good hair days. Scroll on for major inspiration—and maybe even a screenshot or two. 💁‍♀️"
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc112-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc112-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Soft Ash Blend with Dark Roots",
+        "image": "/images/doc112_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft Ash Blend with Dark Roots delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Long Ash Blonde Melt with Subtle Waves",
+        "image": "/images/doc112_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Long Ash Blonde Melt with Subtle Waves delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Silver-Infused Ash Blonde Balayage",
+        "image": "/images/doc112_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Silver-Infused Ash Blonde Balayage delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Warm Ash Balayage with Honey Accents",
+        "image": "/images/doc112_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Warm Ash Balayage with Honey Accents delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Face-Framing Ash Blonde Balayage",
+        "image": "/images/doc112_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Face-Framing Ash Blonde Balayage delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Ash Beige Balayage with Lived-In Texture",
+        "image": "/images/doc112_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Ash Beige Balayage with Lived-In Texture delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Champagne Ash Balayage on Short Layers",
+        "image": "/images/doc112_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Champagne Ash Balayage on Short Layers delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Metallic Ash with Shadowed Base",
+        "image": "/images/doc112_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Metallic Ash with Shadowed Base delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "Platinum Ash Balayage with Dark Frame",
+        "image": "/images/doc112_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Platinum Ash Balayage with Dark Frame delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Dimensional Slate Ash Balayage",
+        "image": "/images/doc112_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Dimensional Slate Ash Balayage delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Cool Beige Ash with Seamless Layers",
+        "image": "/images/doc112_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Cool Beige Ash with Seamless Layers delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Muted Ash Taupe Balayage",
+        "image": "/images/doc112_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Muted Ash Taupe Balayage delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Icy Ash Blend with Voluminous Curls",
+        "image": "/images/doc112_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Icy Ash Blend with Voluminous Curls delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Smoky Ash Balayage with Light Strips",
+        "image": "/images/doc112_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Smoky Ash Balayage with Light Strips delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Neutral Ash Fade on Long Waves",
+        "image": "/images/doc112_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Neutral Ash Fade on Long Waves delivers sun-kissed brightness, natural dimension, and luminous hair reflection.",
+          "This dimensional blonde balayage technique ensures a soft, low-maintenance grow-out that flatters your features."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
+  },
+  {
+    "id": "creamy-blonde-highlights",
+    "slug": "creamy-blonde-highlights",
+    "title": "15+ Creamy Blonde with Face Framing Highlights You’ll Love",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc113_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": true,
+    "intro": "Creamy blonde with face framing highlights is the ultimate hair color choice for anyone seeking a luxurious and glow-enhancing transformation in 2026. This specific palette moves away from the stark, icy tones of previous years, embracing a warmer “cashmere” finish that feels both expensive and effortless. By combining a soft, buttery base with strategically placed lighter pieces around the eyes and jawline, this look instantly brightens the complexion. It serves as a masterclass in “quiet luxury” hair, offering a multidimensional effect that mimics the way natural light hits healthy strands. Whether you are a natural blonde looking to add depth or a brunette transitioning to lighter tones, this creamy blonde with face framing highlights provides a sophisticated, low-maintenance solution that remains timelessly chic.",
+    "introParagraphs": [
+      "Creamy blonde with face framing highlights is the ultimate hair color choice for anyone seeking a luxurious and glow-enhancing transformation in 2026. This specific palette moves away from the stark, icy tones of previous years, embracing a warmer “cashmere” finish that feels both expensive and effortless. By combining a soft, buttery base with strategically placed lighter pieces around the eyes and jawline, this look instantly brightens the complexion. It serves as a masterclass in “quiet luxury” hair, offering a multidimensional effect that mimics the way natural light hits healthy strands. Whether you are a natural blonde looking to add depth or a brunette transitioning to lighter tones, this creamy blonde with face framing highlights provides a sophisticated, low-maintenance solution that remains timelessly chic."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc113-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc113-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Creamy Blonde Balayage",
+        "image": "/images/doc113_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Creamy blonde balayage represents the pinnacle of modern, lived-in hair color that focuses on seamless transitions and healthy-looking shine. Unlike traditional foil highlights that start at the root, this hand-painted technique allows for a softer grow-out phase, making it perfect for busy individuals.",
+          "The “creamy” aspect is achieved by mixing beige, pearl, and soft gold tones to create a hue that looks like melted butter or heavy cream. When applied as a balayage, the color density increases toward the ends, providing a natural sun-kissed effect that adds significant movement to long layers. This technique is particularly effective for adding visual volume to fine hair while maintaining a sophisticated, high-end aesthetic that suits various skin undertones."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Blonde Money Piece",
+        "image": "/images/doc113_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "The blonde money piece remains a dominant trend because it offers an immediate “facial lift” through the power of strategic color placement. This style involves lightening the two front sections of hair more significantly than the rest of the head to frame the face in a bright, flattering halo.",
+          "In the context of a creamy blonde palette, the money piece is usually a shade or two lighter—think vanilla or pale biscuit—to provide contrast without appearing too aggressive. It works exceptionally well for those who want to experiment with blonde without committing to a full-head bleach. This localized brightening effect draws attention to the eyes and cheekbones, making it a favorite for those seeking a photogenic and high-impact hair change."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Honey Blonde Highlights",
+        "image": "/images/doc113_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Honey blonde highlights provide a rich, nectar-like warmth that perfectly complements a creamy blonde base for a dimensional and sun-drenched appearance. This look is ideal for those who find cool-toned blondes too draining for their skin tone, as the golden undertones in honey shades add a healthy radiance to the face.",
+          "By weaving these warmer ribbons throughout the hair, stylists can create a “lit from within” effect that looks particularly stunning under natural sunlight. These highlights are often applied using a mix of traditional foils and babylights to ensure the color looks integrated rather than striped. It is a classic choice that bridges the gap between light brown and true blonde, offering a versatile and durable color."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Vanilla Blonde Hair",
+        "image": "/images/doc113_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Vanilla blonde hair is characterized by its clean, pearlescent finish that sits comfortably between warm gold and cool ash. This specific shade is highly sought after for its “clean girl” aesthetic, offering a bright and crisp look that still retains a soft, creamy texture.",
+          "When paired with face framing highlights, vanilla blonde creates a sophisticated monochromatic effect that looks incredibly polished on straight or blowout-styled hair. It is essential to use high-quality toning glosses to maintain this specific shade, as it relies on a balance of pigments to stay luminous. This color choice is perfect for those who want a high-fashion, “old money” vibe that looks intentional and meticulously cared for during every season."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Buttercream Blonde Waves",
+        "image": "/images/doc113_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Buttercream blonde waves combine a decadent, warm hair color with textured styling to create a look that is both romantic and modern. The buttercream shade is slightly richer than vanilla, incorporating hints of pale yellow and soft beige to mimic the appearance of silk or velvet.",
+          "When this color is applied to wavy hair, the different tones catch the light at various angles, emphasizing the hair’s natural bounce and flow. Adding face framing highlights to this look ensures that the waves don’t overwhelm the facial features, keeping the focus on the eyes. This style is frequently seen on red carpets because it provides a soft, approachable glamour that feels expensive yet relaxed and touchable."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Champagne Blonde Balayage",
+        "image": "/images/doc113_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Champagne blonde balayage is a sophisticated take on the creamy trend that incorporates shimmering, cool-beige tones with a hint of rose or peach undertones. This color is designed to be highly reflective, giving the hair a sparkling quality similar to a glass of bubbly.",
+          "Because it is a neutral-leaning shade, it is incredibly versatile and can be customized to suit both cool and warm complexions. The face framing elements in a champagne look are often blended very finely to create a “scandi hairline” effect, where the hair looks naturally lighter right at the roots. This creates a soft, ethereal frame that enhances the skin’s natural glow while providing a modern, multi-tonal finish that grows out beautifully."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Golden Blonde Face Framing",
+        "image": "/images/doc113_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Golden blonde face framing is the go-to technique for adding instant warmth and a youthful energy to any base hair color. This style focuses on using rich, metallic gold tones specifically around the perimeter of the face to mimic the way the sun naturally bleaches hair during a summer holiday.",
+          "Unlike cooler highlights, these golden pieces add a “tan” effect to the skin, making it look more vibrant and rested. This look is particularly striking on medium to dark blonde bases, where the gold can pop without looking unnatural. It is a low-commitment way to brighten your overall appearance, as the face framing pieces can be easily touched up without needing a full-color service every time."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Ash Blonde Money Piece",
+        "image": "/images/doc113_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "An ash blonde money piece provides a cool-toned, smoky contrast that is perfect for those who prefer a more muted or “scandi-cool” aesthetic. While the overall look remains creamy, the front sections are toned with violet or blue bases to remove any hint of brassiness, resulting in a crisp, pale frame.",
+          "This high-contrast look is especially effective for those with blue or grey eyes, as the cool tones make the eye color appear more intense. When blended into a creamier blonde base, the ash money piece adds a modern, edgy twist to an otherwise classic color. It requires consistent use of purple shampoo to maintain its clarity, but the result is an ultra-modern and striking facial frame."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "Caramel Blonde Balayage",
+        "image": "/images/doc113_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Caramel blonde balayage is a deeper, more indulgent version of the creamy blonde trend that works beautifully for natural brunettes. This technique uses toffee and caramel shades to create a smooth transition from a dark root to lighter, creamy ends.",
+          "The face framing highlights in this style are usually kept in the warm caramel family to ensure a seamless blend with the natural hair color near the scalp. This creates a sun-kissed, dimensional look that adds depth and richness to the hair without the high maintenance of a full blonde transformation. It is an excellent choice for autumn and winter, providing a cozy and sophisticated palette that complements darker wardrobes and heavier textures."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Platinum Blonde Highlights",
+        "image": "/images/doc113_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Platinum blonde highlights offer the highest level of brightness and contrast within the creamy blonde spectrum, creating a bold and icy frame. While the base of the hair remains a soft, creamy blonde to maintain health and dimension, the platinum pieces are added sparingly to provide “pops” of extreme light.",
+          "This technique is often used to create a “ribbon” effect, where thin, bright strands weave through the darker cream tones to create a sense of movement. When placed around the face, these platinum highlights act as a spotlight, instantly drawing the eye and making a powerful style statement. It is a high-impact look that suits those who aren’t afraid to stand out and enjoy a high-fashion finish."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Beige Blonde Hair",
+        "image": "/images/doc113_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Beige blonde hair is the ultimate neutral, offering a sandy and sophisticated look that is neither too warm nor too cool. Often referred to as “nude hair,” this shade is designed to complement the wearer’s skin tone perfectly by mimicking natural hair pigments.",
+          "When enhanced with face framing highlights, beige blonde becomes more dimensional, preventing the color from looking flat or dull. This style is favored for its understated elegance and is often paired with blunt cuts or sleek bobs to emphasize the precision of the color work. It is the perfect “office-to-evening” hair color, providing a professional yet trendy appearance that looks consistently polished and well-maintained."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Sandy Blonde Balayage",
+        "image": "/images/doc113_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Sandy blonde balayage brings a beachy, effortless vibe to the creamy blonde trend by incorporating grainy, multidimensional tones of wheat and tan. This look is all about texture and “undone” beauty, making it the perfect match for salt-sprayed waves or messy buns.",
+          "The face framing highlights are typically blended using a babylight technique to ensure they look like they were created by the sun rather than a stylist. This style is incredibly forgiving as it grows out, as the sandy tones blend naturally with many light brown or dark blonde roots. It offers a relaxed, California-inspired aesthetic that feels youthful, energetic, and perfectly suited for a casual, outdoorsy lifestyle."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Mushroom Blonde Highlights",
+        "image": "/images/doc113_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Mushroom blonde highlights are a unique, earthy take on the blonde trend that incorporates cool brown and grey undertones for a “greige” finish. This color is perfect for those who want a creamy blonde look that feels more grounded and less “sunny.” The highlights are typically woven into a light brunette or dark blonde base, with the face framing pieces being just a few shades lighter to provide subtle definition.",
+          "This palette is incredibly flattering for those with cool skin undertones and provides a modern, sophisticated alternative to traditional golden highlights. It is a refined, moody blonde that looks exceptionally expensive and works well with minimalist fashion and neutral makeup looks."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Pearl Blonde Face Framing",
+        "image": "/images/doc113_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Pearl blonde face framing uses iridescent, high-shine tones to create a luminous and ethereal frame around the face. This specific shade of blonde has a slight pink or violet reflect, which helps to counteract sallow skin tones and add a healthy, pearly glow.",
+          "When applied as face framing highlights, the pearl tones catch the light beautifully, creating a “halo” effect that looks soft and romantic. This technique is often paired with a very light, creamy base to maintain a seamless and high-end appearance. It is a favorite for bridal hair or special occasions, as the reflective quality of the pearl pigment looks stunning in photographs and under event lighting."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Butter Blonde Balayage",
+        "image": "/images/doc113_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Butter blonde balayage is the warmest and most inviting of the creamy blonde variations, featuring rich, yellow-gold tones that feel sunny and bright. This look is all about “yellow done right,” focusing on a creamy, custard-like consistency rather than a brassy or orange finish.",
+          "The face framing highlights are usually applied quite thickly to create a bold, cheerful frame that brightens the entire face. This style works best on those with warm or olive skin tones, as the golden hues enhance the skin’s natural warmth. It is a classic “bombshell” blonde look that feels updated for 2026 through the use of soft, blended balayage transitions and healthy, glossy finishes."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 16,
+        "title": "Biscuit Blonde Highlights",
+        "image": "/images/doc113_img_16.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Biscuit blonde highlights offer a soft, muted warmth that resembles the color of a toasted wafer or light oak. This shade is less saturated than golden blonde, making it a great choice for those who want a natural and low-key creamy look.",
+          "The highlights are often applied in very fine “microlights” to create a blurred, airbrushed effect throughout the hair. When used for face framing, biscuit blonde provides a gentle lift that enhances the features without creating a harsh line of demarcation. It is a sophisticated and wearable color that bridges the gap between seasons, looking just as appropriate with a summer dress as it does with a cashmere sweater."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
+  },
+  {
+    "id": "gray-blending-balayage",
+    "slug": "gray-blending-balayage",
+    "title": "16+ Gray Blending Balayage for Blondes Worth Saving",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc114_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": true,
+    "intro": "Have you started noticing those first silvery strands peeking through your blonde and wondered what to do next? You are not alone. Gray blending balayage for blondes is one of the most searched hair color topics right now, and for good reason. Instead of fighting the natural gray transition, this technique works with it. It creates a soft, multi-tonal look that seamlessly weaves gray hairs into your blonde base using hand-painted highlights and lowlights. The result is a low-maintenance, effortlessly chic finish that grows out beautifully without harsh root lines. Whether you have just a few grays starting or a full head of silver coming in, gray blending balayage gives you a graceful, modern way to embrace the change while keeping your blonde looking fresh and dimensional.",
+    "introParagraphs": [
+      "Have you started noticing those first silvery strands peeking through your blonde and wondered what to do next? You are not alone. Gray blending balayage for blondes is one of the most searched hair color topics right now, and for good reason. Instead of fighting the natural gray transition, this technique works with it. It creates a soft, multi-tonal look that seamlessly weaves gray hairs into your blonde base using hand-painted highlights and lowlights. The result is a low-maintenance, effortlessly chic finish that grows out beautifully without harsh root lines. Whether you have just a few grays starting or a full head of silver coming in, gray blending balayage gives you a graceful, modern way to embrace the change while keeping your blonde looking fresh and dimensional."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc114-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc114-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Silver Ash Blonde Balayage",
+        "image": "/images/doc114_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Silver ash blonde balayage is one of the most popular ways to blend grays into blonde hair. This look uses cool-toned highlights painted through the mid-lengths and ends, creating a smooth silver-meets-blonde finish that feels incredibly polished. The ash tones neutralize any warmth that might make gray hairs look brassy, so the overall effect stays sleek and icy.",
+          "It works especially well on light blonde bases where the gray strands can naturally merge with the painted silver highlights. Stylists often use a violet-based toner at the end to lock in that cool, muted finish. The grow-out on this look is practically invisible because the silver tones echo what your natural grays are already doing."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Platinum Gray Root Shadow Balayage",
+        "image": "/images/doc114_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Platinum gray root shadow balayage blends grays by using a darker root area that fades into bright platinum ends. The root shadow is usually a smoky gray or cool ash tone that mirrors the look of natural gray coming in at the crown. From there, the color softly transitions into icy platinum through the lengths.",
+          "This technique is perfect for blondes who want to keep their ends bright while allowing the gray at the roots to feel intentional rather than outgrown. The shadow root creates a lived-in, low-maintenance vibe that stretches the time between salon visits. It also adds a lot of depth and dimension, making fine blonde hair appear thicker."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Mushroom Blonde Gray Blending Balayage",
+        "image": "/images/doc114_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Mushroom blonde has been a trending color for a few seasons now, and it doubles beautifully as a gray blending technique for blondes. The mix of ashy blonde, cool taupe, and soft gray tones painted in a balayage pattern creates an earthy, grounded look that flatters almost every skin tone.",
+          "What makes this approach so effective is how the gray strands naturally blend into the muted tones without any extra effort. The mushroom hue sits right between blonde and gray, acting as a bridge that makes the transition seamless. It is a fantastic option for women who want something subtle and sophisticated rather than bright or icy."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Icy Blonde and Silver Balayage Blend",
+        "image": "/images/doc114_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "If you love a bold, high-contrast blonde, icy blonde and silver balayage might be your perfect match. This look leans into brightness, using nearly white blonde highlights mixed with true silver tones hand-painted throughout the hair. The gray hairs essentially become part of the color story rather than something to hide.",
+          "The icy finish gives the hair a striking, editorial quality that looks incredible on both straight and wavy textures. It does require regular toning to keep brass at bay, but the payoff is a showstopping blonde that fully embraces silver strands. This is ideal for anyone who wants their gray transition to feel glamorous."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Champagne Blonde Gray Balayage",
+        "image": "/images/doc114_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Champagne blonde gray balayage brings a warm yet soft dimension to graying blonde hair. The golden-beige tones in champagne blonde work as a natural bridge between your existing blonde and any silver strands coming through. Stylists paint these warm highlights in a sweeping balayage pattern, letting them catch light in a way that makes the gray nearly invisible.",
+          "This is one of the more forgiving gray blending options because the warmth softens everything. It never looks harsh or stark, and it flatters warm and neutral skin tones beautifully. If you want a gray blending look that still feels sunny and approachable, champagne blonde delivers every time."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Honey Blonde and Silver Highlight Balayage",
+        "image": "/images/doc114_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Honey blonde and silver highlight balayage is a stunning contrast-driven approach to gray blending. The rich, warm honey tones are painted throughout the hair while strategic silver highlights are placed to echo the natural gray strands. The interplay between golden and cool tones creates incredible depth and movement.",
+          "This look works particularly well for blondes whose grays are concentrated at the temples or crown. The honey tones bring warmth and brightness while the silver pieces make the gray feel like a deliberate design choice rather than an accident. It is a slightly bolder take on gray blending, but one that photographs beautifully and looks amazing in natural light."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Salt and Pepper Blonde Balayage",
+        "image": "/images/doc114_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Salt and pepper blonde balayage takes its cue from the classic salt and pepper hair color but gives it a modern blonde twist. Instead of full gray coverage, the technique weaves silver and dark blonde lowlights through a light blonde base. The result is a textured, multi-tonal look where gray strands blend naturally into the overall color.",
+          "This is a great option for women who have a significant amount of gray but still want to hold onto their blonde identity. The salt and pepper effect adds a sophisticated edge that feels both timeless and current. It also requires very little upkeep since the grow-out looks entirely natural."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Smoky Quartz Blonde Balayage",
+        "image": "/images/doc114_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Smoky quartz blonde balayage is a moody, cool-toned gray blending option that feels luxurious and unique. The color combines smoky gray, pale ash, and hints of soft lavender that are hand-painted through blonde hair. It draws its inspiration from the gemstone it is named after, creating a shimmery, dimensional finish.",
+          "The gray strands blend effortlessly into these cool tones, making the transition feel organic. This look is especially flattering on cool or neutral skin undertones. It gives blonde hair a richer, more evolved quality without losing any brightness. If you want a gray blending balayage that feels a little unexpected and fashion-forward, smoky quartz is worth trying."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "Beige Blonde and Gray Balayage",
+        "image": "/images/doc114_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Beige blonde and gray balayage is the quiet hero of gray blending for blondes. The beige tone sits perfectly between warm and cool, making it one of the most versatile bases for blending silver strands. When a colorist paints beige blonde highlights in a balayage pattern over graying hair, the transition becomes nearly invisible.",
+          "The gray strands simply melt into the beige tones without creating contrast or brassiness. This is a fantastic everyday look for women who want something polished but not flashy. It pairs well with almost any haircut and works on all hair textures. Beige blonde is also incredibly low-maintenance, making it a practical choice for busy schedules."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Vanilla Blonde Silver Balayage",
+        "image": "/images/doc114_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Vanilla blonde silver balayage is a creamy, soft take on gray blending that feels fresh and youthful. The vanilla tones are pale and slightly warm, providing a gentle backdrop that lets silver strands blend in without standing out. A skilled colorist will paint the vanilla highlights from the mid-lengths to the ends, leaving the root area slightly darker so the gray growth looks seamless.",
+          "The overall effect is luminous and healthy, like sunlight catching on blonde hair with naturally occurring silver woven through. This look is wonderful for fine hair because the light-reflecting quality of vanilla blonde makes strands appear fuller. It is a graceful, flattering approach to going gray."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Cool Taupe Blonde Balayage",
+        "image": "/images/doc114_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Cool taupe blonde balayage is an understated, sophisticated option for blending gray into blonde hair. Taupe sits at the crossroads of gray, beige, and ash, making it an ideal tone for bridging the gap between your blonde base and your gray strands. When applied in a balayage pattern, the taupe highlights create a smooth, seamless gradient that hides the line between colored and natural hair.",
+          "This look has a very refined, almost European quality to it that feels effortlessly elegant. It is especially good for women who prefer cooler tones and want to avoid any warmth in their hair. Cool taupe blonde is subtle but makes a big impact."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Caramel Gray Root Smudge Balayage",
+        "image": "/images/doc114_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Caramel gray root smudge balayage combines the warmth of caramel with the coolness of gray for a beautifully balanced gray blending look. The root smudge technique involves blending a gray-toned caramel shade at the roots that transitions into lighter caramel and blonde highlights through the lengths.",
+          "The gray hairs at the root area blend into the smudged tone, while the lighter caramel highlights add movement and brightness. This look is ideal for blondes who still want warmth in their hair but need help managing grays at the crown. The caramel tones bring a richness that keeps the hair looking healthy and vibrant."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Wheat Blonde Silver Tips Balayage",
+        "image": "/images/doc114_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Wheat blonde silver tips balayage focuses the gray blending effect at the ends of the hair for a soft, ombré-inspired finish. The base is kept in a natural wheat blonde shade, while the tips are hand-painted with silver and pale ash tones. Gray strands throughout the hair blend into the wheat base naturally, and the silver tips create a cohesive, intentional gradient.",
+          "This look works especially well on longer blonde hair where the ombré effect can really shine. It gives the impression of a very deliberate, artful color choice rather than grays that simply appeared over time. The silver tips also add a beautiful reflective quality in sunlight."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Pearl Blonde Gray Blending Balayage",
+        "image": "/images/doc114_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Pearl blonde gray blending balayage creates a luminous, almost ethereal quality in blonde hair. The pearl tones are a delicate mix of white blonde, soft silver, and barely-there pink that mimic the iridescence of a real pearl. When painted over graying blonde hair, the result is a multi-dimensional finish that makes silver strands look like they were always meant to be there.",
+          "This is one of the most flattering gray blending options because the pearl tones complement nearly every skin tone and eye color. It gives the hair a healthy, glowing appearance that reads as youthful rather than aging. Pearl blonde is perfect for anyone who wants their gray blending to feel luxurious."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Dirty Blonde Gray Transition Balayage",
+        "image": "/images/doc114_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Dirty blonde gray transition balayage is perhaps the most natural-looking approach to blending grays into blonde hair. The dirty blonde base already carries a mix of light and darker tones, which provides the perfect canvas for gray strands to blend in. A colorist adds subtle balayage highlights in shades of ash blonde and light brown, weaving them through the hair to create movement.",
+          "The gray hairs become just another tone in the mix rather than an outlier. This look is ideal for women who are in the early stages of graying and want to manage the transition without a dramatic color change. It is casual, easy to maintain, and universally flattering."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 16,
+        "title": "Steel Gray Blonde Ombre Balayage",
+        "image": "/images/doc114_img_16.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Steel gray blonde ombre balayage creates a bold, striking contrast between a blonde base and steel gray ends. This look is for the woman who wants to fully lean into her silver transition while keeping her blonde identity. The ombre effect starts with lighter blonde at the roots and gradually shifts into a cool, steely gray at the tips.",
+          "The gray strands throughout the hair tie the two tones together beautifully. This look has a very modern, slightly edgy feel that stands out in a crowd. It works best on medium to long hair where the gradient has room to develop fully. Steel gray ombre makes a confident statement about embracing natural change."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 17,
+        "title": "Buttercream Blonde and Silver Balayage",
+        "image": "/images/doc114_img_17.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Buttercream blonde and silver balayage is a soft, warm-meets-cool look that balances golden tones with silver highlights. The buttercream base is a pale, creamy yellow blonde that feels sweet and inviting. Silver balayage highlights are woven through the mid-lengths and ends, creating a gentle interplay between warm and cool tones.",
+          "Gray strands blend naturally into both the buttercream base and the silver highlights, making the overall transition look seamless. This color is particularly beautiful on wavy or curly hair because the different tones show up as gorgeous ribbons of color throughout the texture. It is a happy, approachable take on gray blending that never looks dull or washed out."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
+  },
+  {
+    "id": "pearl-beige-blonde-balayage",
+    "slug": "pearl-beige-blonde-balayage",
+    "title": "17+ Pearl Beige Blonde Balayage That Looks So Luxe",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc115_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": false,
+    "intro": "Pearl beige blonde balayage has quickly become one of the most in-demand hair color trends, and it is easy to see why. This stunning shade sits right between cool ash and warm honey blonde. It delivers a soft, creamy finish that flatters nearly every skin tone. The hand-painted balayage technique makes the transition from root to tip look completely natural. There is no harsh line of demarcation, just a seamless flow of luminous color. Whether you are starting with dark brunette or already light blonde, pearl beige balayage adds depth and movement without looking overdone. It works beautifully on every hair length, from a short pixie to waist-length waves. If you want a color that feels expensive and effortlessly chic, pearl beige blonde balayage is the answer.",
+    "introParagraphs": [
+      "Pearl beige blonde balayage has quickly become one of the most in-demand hair color trends, and it is easy to see why. This stunning shade sits right between cool ash and warm honey blonde. It delivers a soft, creamy finish that flatters nearly every skin tone. The hand-painted balayage technique makes the transition from root to tip look completely natural. There is no harsh line of demarcation, just a seamless flow of luminous color. Whether you are starting with dark brunette or already light blonde, pearl beige balayage adds depth and movement without looking overdone. It works beautifully on every hair length, from a short pixie to waist-length waves. If you want a color that feels expensive and effortlessly chic, pearl beige blonde balayage is the answer."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc115-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc115-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Pearl Beige Blonde Balayage on Long Hair",
+        "image": "/images/doc115_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Long hair gives pearl beige blonde balayage the perfect canvas to truly shine. When the color is hand-painted from mid-lengths to the ends on long locks, it creates a gorgeous sun-kissed gradient that catches light from every angle. The soft beige tones blend seamlessly into the natural base, giving the hair a multi-dimensional quality that never looks flat.",
+          "Long hair also allows you to see the full transition of the balayage, from the deeper root area all the way down to the pearlescent blonde tips. This combination is ideal for anyone who wants a low-maintenance color that still looks polished and put together. You can wear it sleek and straight or let it air dry into natural waves for an easy, everyday look."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Pearl Beige Blonde Balayage on Short Hair",
+        "image": "/images/doc115_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Short hair and pearl beige blonde balayage make a surprisingly perfect pair. The hand-painted technique adds brightness and dimension to a cropped cut without the need for a full head of highlights. On a short bob or textured pixie, the beige blonde pieces are concentrated around the face and on the top layers, creating a brightening effect that is instantly flattering.",
+          "The pearl undertone keeps the blonde from looking brassy or yellow, giving it a clean, modern feel. Short-haired clients love this look because it grows out beautifully with very little upkeep. The contrast between the darker root and the lighter ends gives even the simplest haircut a fresh, updated appearance that works for any occasion."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Pearl Beige Blonde Balayage on Medium Length Hair",
+        "image": "/images/doc115_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Medium length hair is arguably the most versatile length for pearl beige blonde balayage. It is long enough to show off a smooth, blended transition, yet short enough to keep styling quick and manageable. The beige blonde pieces sweep through the mid-lengths and ends, creating a soft, lived-in feel that looks like you spent a summer at the beach.",
+          "A collarbone-grazing cut with pearl beige balayage frames the face beautifully and adds body to the hair. The cool pearl tones work especially well on medium hair because they reflect light in a way that makes the entire head of hair look thicker and healthier. It is a go-to choice for anyone wanting a polished look with minimal effort."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Dark Brown to Pearl Beige Blonde Balayage",
+        "image": "/images/doc115_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Going from dark brown to pearl beige blonde through balayage creates one of the most striking transformations in hair color. The deep, rich brunette base provides incredible contrast against the cool, creamy blonde ends. Your colorist will hand-paint the lightener in open-air strokes, concentrating the brightest pieces toward the bottom half of the hair.",
+          "This approach preserves the integrity of dark hair at the roots while delivering a dramatic, dimensional result. The pearl beige tone is essential here because it neutralizes any unwanted warmth that often appears when lifting dark hair. The final result is a bold yet sophisticated color that looks expensive and effortlessly cool, especially when styled in loose, flowing waves."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Pearl Beige Blonde Balayage with Shadow Root",
+        "image": "/images/doc115_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A shadow root paired with pearl beige blonde balayage is the ultimate low-maintenance dream. The technique involves applying a toner or glaze at the root area that is slightly darker than your natural base, creating a soft, smudged root effect. From there, the pearl beige blonde balayage begins a few inches down and fades beautifully into the ends.",
+          "This approach eliminates any harsh grow-out line, meaning you can go much longer between salon visits. The shadow root adds depth and richness to the overall color while keeping the beige blonde ends looking fresh and bright. It is a fantastic option for brunettes who want to go lighter without committing to constant root touch-ups."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Pearl Beige Blonde Balayage on Bob Haircut",
+        "image": "/images/doc115_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A bob haircut with pearl beige blonde balayage is a timeless combination that never goes out of style. The clean lines of a bob paired with the soft, hand-painted color create a look that is both structured and effortless. The beige blonde pieces are typically concentrated on the ends and around the face, giving the bob a bright, open feel.",
+          "Whether you choose a classic chin-length bob or a longer French bob, the pearl beige tones add a luxurious, high-end quality to the cut. This combination flatters all face shapes and can be customized to suit your natural hair color. It is chic, modern, and incredibly easy to style on a daily basis."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Pearl Beige Blonde Balayage with Face Framing Highlights",
+        "image": "/images/doc115_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Face framing highlights are the secret weapon of pearl beige blonde balayage. By concentrating the lightest, brightest beige blonde pieces around the hairline and front sections, your colorist can create a custom-contouring effect that brightens your complexion and draws attention to your best features. These fine, delicate ribbons of color blend naturally into the rest of the balayage for a cohesive look.",
+          "The pearl undertone ensures that the highlights look clean and icy rather than golden or brassy. Face framing balayage works on every hair length and texture, making it one of the most universally flattering techniques available. It is a subtle detail that makes a big impact on your overall appearance."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Pearl Beige Blonde Balayage on Curly Hair",
+        "image": "/images/doc115_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Curly hair and pearl beige blonde balayage are a match made in heaven. The natural texture of curly hair creates a built-in ribbon effect, so every twist and coil shows off a different shade of the beige blonde color. The balayage technique is applied in a way that follows the natural curl pattern, ensuring that the light hits each curl in the most flattering way possible.",
+          "Pearl beige tones are especially beautiful on curly hair because they add definition and dimension without weighing the curls down. The cool, creamy finish enhances the natural bounce and shine of the curls. This combination is perfect for anyone who wants to embrace their natural texture while adding a fresh, modern color."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "Ash Pearl Beige Blonde Balayage",
+        "image": "/images/doc115_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Ash pearl beige blonde balayage takes the classic beige blonde and gives it an extra dose of cool sophistication. The ash component introduces soft grey and violet undertones that mellow out any remaining warmth in the blonde, resulting in a sleek, icy finish. This variation is perfect for those with cool or neutral skin undertones who want a blonde that feels modern and fresh.",
+          "The balayage application keeps the roots natural and blends the ash beige tones seamlessly through the lengths and ends. Ash pearl beige is also one of the best options for anyone prone to brassiness, as the cool pigments help maintain the desired tone between salon visits. It is refined, elegant, and always on trend."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Pearl Beige Blonde Balayage on Brunette Base",
+        "image": "/images/doc115_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A brunette base with pearl beige blonde balayage is one of the most natural-looking color combinations you can choose. The darker base grounds the overall look, while the hand-painted beige blonde pieces add just the right amount of brightness and movement.",
+          "This approach works beautifully because the contrast between the two tones creates a multidimensional effect that looks like it could be your natural hair color. Your colorist can customize the ratio of brunette to blonde based on your preference, whether you want a subtle hint of light or a more dramatic transformation. The pearl beige tone ensures the blonde stays cool and clean, making this an incredibly wearable option for everyday life."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Pearl Beige Blonde Balayage with Money Piece",
+        "image": "/images/doc115_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A money piece takes pearl beige blonde balayage to the next level by adding bold, face-framing streaks at the front of the hair. These brighter-than-the-rest sections are painted directly onto the hairline, creating a striking contrast that instantly brightens your face. The rest of the hair features a softer, more subtle pearl beige balayage, so the money piece stands out as the focal point of the color.",
+          "This combination is perfect for anyone who wants a bold, statement-making look without committing to an all-over light blonde. The pearl beige tone keeps the money piece looking refined rather than harsh. It is a fun, eye-catching way to update your color while keeping the rest of the hair low-maintenance."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Pearl Beige Blonde Balayage on Wavy Hair",
+        "image": "/images/doc115_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Wavy hair texture enhances pearl beige blonde balayage in a way that no other texture can. The natural bends and waves in the hair create a beautiful interplay of light and shadow, allowing the beige blonde tones to shimmer and shift with every movement. When the hair is styled into relaxed, beachy waves, the balayage looks even more pronounced and dimensional.",
+          "The pearl undertone adds a soft, glowing quality that makes the waves look effortlessly styled. Wavy hair also helps blend the color transition, so the gradient from root to tip appears completely seamless. This combination is perfect for anyone who loves an undone, relaxed aesthetic with a touch of elegance."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Icy Pearl Beige Blonde Balayage",
+        "image": "/images/doc115_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Icy pearl beige blonde balayage pushes the cool tone even further for a bold, frosty finish. This variation amps up the pearl and ash pigments to create an almost silver-white blonde at the ends while keeping the roots soft and natural. The icy quality of the beige blonde gives the hair a striking, editorial look that feels fresh and high-fashion.",
+          "It works best on hair that has been pre-lightened to a pale canvas, allowing the toners to deposit their cool, pearlescent hues evenly. Icy pearl beige is a favorite among those who love a statement blonde that stands out from the crowd. It is bold, beautiful, and undeniably head-turning."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Pearl Beige Blonde Balayage on Straight Hair",
+        "image": "/images/doc115_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Straight hair shows off the precision of pearl beige blonde balayage in the most honest way. There are no curls or waves to hide behind, so every stroke of hand-painted color is on full display. On sleek, straight hair, the beige blonde pieces create clean, visible ribbons of light that travel through the lengths and ends.",
+          "The pearl undertone gives the blonde a crisp, polished appearance that looks professional and refined. This combination is perfect for anyone who prefers a smooth, glossy finish with their color. The balayage adds just enough dimension to keep straight hair from looking flat or one-dimensional, while the cool beige tones keep the overall look fresh and modern."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Warm Pearl Beige Blonde Balayage",
+        "image": "/images/doc115_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Warm pearl beige blonde balayage offers the best of both worlds by blending cool pearl tones with a touch of golden warmth. This variation is ideal for those who love the creamy, luxurious quality of beige blonde but want to maintain some softness and richness in their color.",
+          "The warmth comes through in subtle honey and vanilla notes that peek through the cool pearl base, creating a balanced, multi-tonal effect. It is an incredibly flattering option for warmer skin tones, as the hint of gold prevents the blonde from washing out the complexion. This balayage looks especially stunning when styled in loose, voluminous waves that let the different tones blend together beautifully."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 16,
+        "title": "Pearl Beige Blonde Balayage with Lowlights",
+        "image": "/images/doc115_img_16.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Adding lowlights to pearl beige blonde balayage creates a deeply dimensional color that looks rich and natural. Lowlights are darker pieces woven or painted into the hair to break up the lighter blonde sections, adding depth and contrast. When paired with pearl beige blonde balayage, lowlights in cool brunette or dark blonde tones create a beautiful sense of movement and texture throughout the hair.",
+          "The pearl beige blonde pops even more against the darker lowlights, making the overall color look more vibrant and three-dimensional. This technique is perfect for anyone who finds all-over blonde too flat or wants to add richness to their existing balayage. The result is a complex, salon-quality color."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
+  },
+  {
+    "id": "rooted-gray-blonde-balayage",
+    "slug": "rooted-gray-blonde-balayage",
+    "title": "18+ Rooted Gray Blonde Balayage You’ll Want to Try",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc116_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": false,
+    "intro": "Are you searching for a sophisticated hair color that combines a modern edge with low maintenance? The rooted gray blonde balayage has become a top trend for those wanting a seamless transition between their natural base and a cool, metallic finish. This technique utilizes a deeper root color to ground the look, allowing icy silver or ashy blonde tones to be hand-painted through the lengths for a dimensional effect. It is a perfect solution for individuals who are starting to embrace their natural gray hair or for anyone who loves the smoky, high-fashion aesthetic of ash-based blondes. By focusing on a shadow root, this style remains practical for busy schedules while offering a striking, polished appearance that suits various skin tones and hair textures.",
+    "introParagraphs": [
+      "Are you searching for a sophisticated hair color that combines a modern edge with low maintenance? The rooted gray blonde balayage has become a top trend for those wanting a seamless transition between their natural base and a cool, metallic finish. This technique utilizes a deeper root color to ground the look, allowing icy silver or ashy blonde tones to be hand-painted through the lengths for a dimensional effect. It is a perfect solution for individuals who are starting to embrace their natural gray hair or for anyone who loves the smoky, high-fashion aesthetic of ash-based blondes. By focusing on a shadow root, this style remains practical for busy schedules while offering a striking, polished appearance that suits various skin tones and hair textures."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc116-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc116-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Silver Gray Blonde Balayage Dark Roots",
+        "image": "/images/doc116_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Having a deep, natural base is the perfect starting point for a silver gray blonde balayage dark roots style. This look creates a high-contrast effect that feels both edgy and polished for any occasion. The dark roots allow your hair to grow out gracefully without a harsh line of demarcation, saving you time and money.",
+          "Professional stylists typically hand-paint the silver tones onto the mid-lengths and ends to ensure the blend looks soft and natural. This specific color palette works wonders on cool skin tones, bringing out a bright and youthful glow in the complexion. You can style this color with loose waves to show off the different ribbons of metallic gray and bright blonde throughout your hair."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Mushroom Blonde Gray Balayage Brown Hair",
+        "image": "/images/doc116_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A mushroom blonde gray balayage brown hair look is the ultimate choice for someone who prefers an earthy, muted tone. This color sits right in the middle of the spectrum, blending cool grays with taupe and ash-blonde highlights. It is particularly flattering for those with a natural brown base who want to experiment with gray without going fully silver.",
+          "The transition is subtle and sophisticated, giving the hair a dimensional appearance that looks different under various lighting conditions. This style requires minimal upkeep because the mushroom tones mimic the natural shadows found in brown hair. Using a sulfate-free shampoo is essential to keep these delicate, cool pigments from fading into unwanted warmth or brassiness over several weeks."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Icy Gray Blonde Balayage Black Hair",
+        "image": "/images/doc116_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "For a truly dramatic and high-fashion statement, the icy gray blonde balayage black hair combination is absolutely unbeatable. This style features a stark contrast between a pitch-black root and nearly white, icy blonde ends with gray undertones. Achieving this look often requires several sessions of lightening to ensure the hair remains healthy while reaching that bright, cool level.",
+          "The result is a stunning, icy finish that reflects light beautifully and makes a bold impact. It is a favorite among those who love a monochromatic wardrobe, as the cool tones complement blacks and grays perfectly. Maintaining this look involves regular purple shampoo treatments to neutralize any yellow tones that might emerge from the dark base over time."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Charcoal Rooted Silver Blonde Hair",
+        "image": "/images/doc116_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "The charcoal rooted silver blonde hair trend focuses on a smooth melt from a deep, smoky charcoal at the top to a bright silver. Unlike a traditional brown root, the charcoal base adds a mysterious, slate-like depth that feels incredibly modern and sleek.",
+          "This transition works exceptionally well for individuals who have naturally dark hair but want to lean into the “granny hair” trend with a more professional twist. The silver blonde ends provide a bright pop of color that frames the face and adds a touch of radiance to the skin. Styling this look with a straight iron can emphasize the precision of the color melt and the metallic sheen of the gray blonde tones."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Smoky Gray Blonde Balayage Wavy Hair",
+        "image": "/images/doc116_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A smoky gray blonde balayage wavy hair style is all about movement and depth. When you add waves to a gray-toned balayage, the different shades of pewter, ash, and blonde catch the light at different angles. This creates a shimmering effect that makes the hair appear thicker and more voluminous than it actually is.",
+          "The smoky undertones provide a soft, hazy finish that is less harsh than pure silver, making it a great entry point for gray hair colors. This look is incredibly versatile and can be dressed up for formal events or kept casual for everyday wear. Using a sea salt spray can help enhance the texture and show off the intricate hand-painted highlights throughout the layers."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Platinum Gray Blonde Balayage Shadow Root",
+        "image": "/images/doc116_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "The platinum gray blonde balayage shadow root is the perfect balance between bright blonde and edgy gray. By keeping a shadow root, you avoid the high-maintenance upkeep of traditional platinum blonde while still enjoying that bright, nearly white aesthetic.",
+          "The inclusion of gray lowlights throughout the platinum sections adds a modern dimension that keeps the color from looking flat or washed out. This technique is especially useful for those with fine hair, as the darker root and multi-tonal highlights create the illusion of density. It is important to use a deep conditioning mask weekly to keep the platinum ends hydrated and prevent breakage, ensuring the hair remains soft and manageable between salon visits."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Ash Gray Blonde Balayage Long Hair",
+        "image": "/images/doc116_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "If you have long tresses, an ash gray blonde balayage long hair look provides a large canvas for a stunning gradient. The length allows the stylist to create a very gradual transition from the rooted area down to the bright ashy tips. This results in a flowing, ethereal appearance that looks incredibly natural and lived-in.",
+          "Ash tones are excellent for neutralizing any redness in the skin, providing a calm and balanced overall look. Because long hair can be prone to dryness, it is vital to use heat protectant sprays whenever you are using curling or flat irons. This ensures that the cool ash pigments stay locked inside the hair shaft for a longer period of time."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Salt And Pepper Blonde Balayage Transition",
+        "image": "/images/doc116_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "The salt and pepper blonde balayage transition is a brilliant way to embrace aging gracefully while maintaining a stylish edge. This technique blends natural gray strands with bright blonde and charcoal highlights to create a cohesive, intentional look. It eliminates the need for full coverage dyes every few weeks, as the regrowth simply becomes part of the dimensional pattern.",
+          "This approach is empowering for many, as it turns a natural transition into a fashionable choice. The highlights are strategically placed to brighten the area around the eyes and cheekbones, providing a lifting effect to the face. Regular glossing treatments can help keep both the natural and dyed sections looking vibrant, shiny, and completely healthy."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "Steel Gray Blonde Balayage Straight Hair",
+        "image": "/images/doc116_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A steel gray blonde balayage straight hair style offers a sharp, contemporary look that is perfect for the professional world. When hair is worn straight, the quality of the color blend is on full display, requiring a masterfully executed balayage. The steel gray tones have a blue-ish undertone that looks incredibly chic against cool or neutral skin tones.",
+          "This style is very low-effort once the color is achieved, as a simple blow-dry can make the hair look polished and expensive. To maintain the glass-like shine typical of steel-toned hair, using a lightweight hair oil on the ends is highly recommended. This helps to smooth the cuticle and reflect light, emphasizing the metallic beauty of the blonde."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Light Gray Blonde Balayage Fine Hair",
+        "image": "/images/doc116_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Choosing a light gray blonde balayage fine hair technique can actually make your hair look much fuller than a solid color. The contrast between the darker roots and the light, airy gray highlights creates a three-dimensional effect that adds body to the strands.",
+          "By using lighter, cooler tones, the hair appears more voluminous and has a distinct texture that is often lacking in fine hair. This color choice is also very forgiving, as the light gray tones blend seamlessly with the scalp if the hair is thin. It is best to avoid heavy products that could weigh down fine hair, opting instead for volumizing mousses and light hairsprays to maintain the lift and show off the color."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Metallic Gray Blonde Balayage Short Hair",
+        "image": "/images/doc116_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "The metallic gray blonde balayage short hair look is a fantastic option for those who want a low-maintenance but high-impact style. On shorter cuts like a pixie or a bob, the balayage technique adds a burst of light and dimension that prevents the hair from looking one-dimensional.",
+          "The metallic tones of gray and blonde give short hair a futuristic and trendy vibe that stands out in a crowd. Because short hair is cut more frequently, the ends always stay fresh and the color looks vibrant. This style is incredibly easy to wake up and go, requiring just a bit of texturizing paste to define the layers and highlight the metallic shifts in the gray blonde palette."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Dirty Blonde Gray Balayage Medium Length",
+        "image": "/images/doc116_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A dirty blonde gray balayage medium length style is one of the most popular choices for a natural, lived-in look. This version uses a sandier, “dirty” blonde base which is then highlighted with cool gray and ash tones. It is a very soft and approachable way to wear gray, making it suitable for almost any setting.",
+          "The medium length provides enough room for a beautiful melt without being too difficult to manage at home. This color combination is perfect for someone who wants to transition from a traditional warm blonde to something cooler and more modern. It works well with both straight and wavy styles, making it a versatile choice for a busy lifestyle."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Pearl Gray Blonde Balayage Curly Hair",
+        "image": "/images/doc116_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Embracing your natural texture with a pearl gray blonde balayage curly hair style can result in a truly magical appearance. The curls allow the pearl and gray tones to intertwine, creating a multi-dimensional look that changes with every movement.",
+          "Pearl blonde has a slight iridescence that adds a healthy-looking glow to curly hair, which can sometimes appear dull if not properly hydrated. The rooted approach ensures that as your curls grow, the look stays consistent and doesn’t require constant attention. Using a curl-defining cream in combination with a silver-enhancing conditioner will keep your curls bouncy and the color looking fresh and vibrant for many months between your regular salon visits."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Dark Gray Ash Blonde Balayage Layers",
+        "image": "/images/doc116_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "The dark gray ash blonde balayage layers style is designed to accentuate the movement of a layered haircut. By placing darker gray tones in the lower layers and lighter ash blonde on the top sections, the haircut gains incredible depth. This technique highlights the individual layers, making the cut look more defined and structured.",
+          "It is an excellent choice for those with thick hair who want to remove some bulk while maintaining a stylish color. The ash blonde highlights act as a spotlight for the face, while the dark gray roots provide a solid foundation. This look is best styled with a round brush during blow-drying to flip the ends and show off the contrast."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Titanium Gray Blonde Balayage Thick Hair",
+        "image": "/images/doc116_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "For those with plenty of volume, a titanium gray blonde balayage thick hair look can be absolutely breathtaking. The titanium shade is a deeper, more saturated gray that can handle the density of thick hair without disappearing. When blended with bright blonde highlights, it creates a powerful and sophisticated aesthetic that feels very high-end.",
+          "This color combination is excellent for hiding any early signs of gray hair while making a deliberate style choice. Because thick hair can take longer to process, it is important to work with a stylist who understands how to maintain hair integrity. Using a high-quality leave-in conditioner will keep the thick strands smooth and help the metallic titanium tones truly shine."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 16,
+        "title": "Blue Gray Blonde Balayage Cool Tones",
+        "image": "/images/doc116_img_16.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A blue gray blonde balayage cool tones style is perfect for those who want a subtle hint of color within their neutral palette. The blue undertone in the gray adds an extra layer of coolness that is incredibly striking against very fair or deep skin tones. This look is often achieved with a toner that specifically targets yellow pigments, leaving behind a crisp, icy finish.",
+          "It feels very modern and artistic, yet remains professional enough for most workplace environments. To keep the blue-gray hue from fading, it is recommended to wash your hair with cool water and use products specifically designed for color-treated hair. This helps to seal the cuticle and lock in those unique cool pigments."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 17,
+        "title": "Dove Gray Blonde Balayage Shoulder Length",
+        "image": "/images/doc116_img_17.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "The dove gray blonde balayage shoulder length style is a soft and elegant option that flatters almost everyone. Dove gray is a lighter, more muted shade of gray that blends beautifully with champagne or ash blonde highlights. At shoulder length, the hair is easy to style while still providing enough length for a noticeable balayage gradient.",
+          "This look is perfect for those who want a subtle change that still feels fresh and updated. The rooted effect ensures that the color remains low-maintenance, which is ideal for someone with a busy schedule. You can style this with a slight bend in the middle of the hair to create a modern, effortless “cool girl” vibe."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 18,
+        "title": "Matte Gray Blonde Balayage Messy Bob",
+        "image": "/images/doc116_img_18.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "If you love a textured, edgy look, the matte gray blonde balayage messy bob is the way to go. This style avoids the high-shine metallic finish in favor of a flatter, matte gray that looks incredibly chic with a tousled bob. The rooted area provides a gritty, lived-in feel that complements the messy styling perfectly.",
+          "This is a great choice for those who don’t want their hair to look too “done” or polished. Using a dry shampoo or texturizing spray can help maintain the matte finish and add the necessary grip for styling. It is a bold, artistic choice that reflects a confident personality and a keen sense of current fashion and beauty trends."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
+  },
+  {
+    "id": "blonde-lob-balayage",
+    "slug": "blonde-lob-balayage",
+    "title": "14+ Blonde Lob Balayage Ideas You’ll Want to Recreate",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc117_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": false,
+    "intro": "Finding the perfect hair transformation can feel overwhelming with so many options available today. If you want a fresh look that combines effortless styling with stunning dimension, exploring 20 blonde lob balayage ideas is the ultimate way to get inspired. A lob, or long bob, offers incredible versatility for all face shapes and hair textures. When you pair this timeless cut with hand-painted blonde highlights, you get a beautifully natural, grown-out feel that requires less upkeep than traditional foil highlights. Whether you prefer warm honey tones, icy platinum shades, or soft sandy blends, there is a perfect combination waiting for you. Let us dive into these gorgeous transformations to help you find your next salon appointment inspiration. 20 Gorgeous Blonde Lob Balayage Ideas To Inspire Your Look - 20 Gorgeous Blonde Lob Balayage Ideas To Inspire Your Look",
+    "introParagraphs": [
+      "Finding the perfect hair transformation can feel overwhelming with so many options available today. If you want a fresh look that combines effortless styling with stunning dimension, exploring 20 blonde lob balayage ideas is the ultimate way to get inspired. A lob, or long bob, offers incredible versatility for all face shapes and hair textures. When you pair this timeless cut with hand-painted blonde highlights, you get a beautifully natural, grown-out feel that requires less upkeep than traditional foil highlights. Whether you prefer warm honey tones, icy platinum shades, or soft sandy blends, there is a perfect combination waiting for you. Let us dive into these gorgeous transformations to help you find your next salon appointment inspiration. 20 Gorgeous Blonde Lob Balayage Ideas To Inspire Your Look - 20 Gorgeous Blonde Lob Balayage Ideas To Inspire Your Look"
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc117-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc117-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Honey Blonde Balayage Lob",
+        "image": "/images/doc117_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Have you ever wondered how to achieve that sun-kissed glow all year round? A honey blonde balayage lob delivers exactly that warm and inviting aesthetic. This look blends rich, golden honey tones into a darker base, creating a beautiful melting effect that looks entirely natural.",
+          "The hand-painted highlights focus heavily on the mid-lengths and ends, giving the lob incredible movement and depth. Because the color is painted freehand, your stylist can customize the placement to perfectly frame your face. This shade pairs beautifully with loose, beachy waves that show off the multi-tonal dimension. It is a fantastic option if you want a low-maintenance style that still looks incredibly polished and vibrant every single day."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Ash Blonde Wavy Lob",
+        "image": "/images/doc117_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Step into the world of cool-toned elegance with this stunning hair transformation. An ash blonde wavy lob brings a modern, slightly edgy vibe to the classic collarbone cut. The ash tones eliminate any brassiness, leaving behind a smooth, smokey finish that looks incredibly chic.",
+          "Adding soft waves to this cut is essential because it enhances the subtle variations between the darker roots and the icy tips. The contrast between the textured waves and the cool color creates a look that is both effortless and sophisticated. This option works wonders if you have naturally straight or slightly wavy hair and want a style that turns heads without needing constant styling or heavy product use."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Platinum Blonde Layered Lob",
+        "image": "/images/doc117_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Ready to take your look to the brightest level possible? A platinum blonde layered lob is a striking choice that commands attention. Going platinum requires a significant lift, but the result is a breathtaking, icy white finish that sparkles in the light.",
+          "The layers are crucial here because they remove excess weight from the hair, allowing the platinum shades to bounce and move freely. This cutting technique also prevents the blindingly bright color from looking flat or one-dimensional. Keeping the root area slightly darker makes the grow-out phase much more manageable and adds necessary depth. You will love how the layers and bright color work together to create a dramatically bold yet wearable style."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Caramel Blonde Balayage Lob",
+        "image": "/images/doc117_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Indulge in the richness of a shade that mimics your favorite sweet treat. A caramel blonde balayage lob offers a delicious mix of warm and cool tones that look stunning on almost any skin tone. The caramel ribbons weave through the hair, providing a soft transition from a deeper root to a lighter, sweeter end.",
+          "This color technique gives the lob a thick, healthy appearance with incredible shine. Styling this cut with a large barrel curling iron really highlights the varying colors, allowing the caramel pieces to catch the light. It is an excellent option if you want a rich, dimensional look that feels cozy in the fall but transitions flawlessly into spring."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Sandy Blonde Textured Lob",
+        "image": "/images/doc117_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Picture yourself walking along the coast with the wind effortlessly styling your hair. A sandy blonde textured lob captures that exact relaxed, beachy energy. This look relies on a mix of beige and light brown tones that mimic the natural color of sand.",
+          "The texture is the real star of this style, achieved through choppy layers and a bit of sea salt spray. The balayage highlights are painted sporadically to replicate how the sun naturally lightens the hair over time. This creates a beautifully imperfect finish that does not require hours in front of the mirror. If you want a wash-and-go style that still looks intentional and highly stylish, this is the perfect match."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Icy Blonde Balayage Lob",
+        "image": "/images/doc117_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Cool down your look with a shade that feels fresh and incredibly modern. An icy blonde balayage lob takes cool tones to the next level by incorporating subtle blue and violet undertones into the blonde. This creates a frosted finish that looks striking against warmer skin tones and beautifully complements cooler complexions.",
+          "The balayage technique ensures the icy colors blend seamlessly into the natural base, avoiding any harsh lines as the hair grows out. Keeping the ends icicles while maintaining a neutral root gives the lob excellent dimension. Straightening this hair cut reveals the sleek, glossy nature of the cool pigment, while a quick blowout adds volume and a striking, frosty bounce."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Strawberry Blonde Lob",
+        "image": "/images/doc117_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Why choose between red and blonde when you can effortlessly have both? A strawberry blonde lob offers a romantic, soft blend of golden blonde and subtle copper tones. The balayage technique works beautifully here by painting the reddish-gold hues exactly where the sun would naturally hit the hair.",
+          "This creates a glowing, vibrant effect that warms up your entire complexion. The lob length is ideal for showing off the color transition from a slightly deeper root to the bright, warm ends. Adding soft curls or a simple twist gives this color the movement it needs to truly shine. This is a fantastic choice if you want a unique color that looks natural but turns heads everywhere."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Golden Blonde Blunt Lob",
+        "image": "/images/doc117_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Make a bold statement with a cut that emphasizes health and incredible shine. A golden blonde blunt lob features precise, clean ends that make the hair look exceptionally thick and lush. The balayage brightens the overall look by infusing warm, golden tones throughout the length, concentrating the lightest shades at the tips.",
+          "This solid, sharp line of the cut paired with the seamless color melt creates a very striking, high-impact appearance. Because the ends are all one length, the golden blonde reflects light uniformly, giving the hair a mirror-like gloss. It is a highly sophisticated option for anyone who loves a polished, structured haircut combined with the effortless grow-out of a painted highlight."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "Mushroom Blonde Balayage Lob",
+        "image": "/images/doc117_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Embrace the beauty of nature with a hue that is entirely earthy and grounded. A mushroom blonde balayage lob uses a mix of ashy beige, soft taupe, and muted brown tones to create a uniquely muted color. This earthy palette looks incredibly sophisticated and offers a refreshing break from warmer, brighter blondes.",
+          "The hand-painted color effortlessly mimics the organic color variations found in nature, resulting in a highly dimensional, complex finish. The lob cut keeps the style manageable and contemporary. Adding a slight bend to the ends using a flat iron gives the mushroom tones an edgy, modern twist. This is the ultimate shade for anyone wanting a subtle, incredibly chic transformation."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Bronde Balayage Lob",
+        "image": "/images/doc117_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Sit perfectly in the middle of the color spectrum with a versatile, stunning hybrid. A bronde balayage lob merges brown and blonde tones so flawlessly that you get the best of both worlds. This shade provides the depth and richness of brunette while offering the brightening effects of blonde.",
+          "The balayage focuses on painting fine, delicate blonde ribbons over a warm brown base, creating a seamless transition. This natural-looking blend is incredibly forgiving and requires very little maintenance, making it ideal for busy lifestyles. The lob length allows the color to sweep gracefully across the shoulders, showing off the contrasting tones. It is a universally flattering choice that adds warmth and brightness effortlessly."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Dark Rooted Blonde Lob",
+        "image": "/images/doc117_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Say goodbye to frequent touch-ups with a style that celebrates your natural base. A dark rooted blonde lob makes growing out your roots a feature rather than a flaw. The balayage begins slightly lower on the hair shaft, leaving a distinct shadow root that blends smoothly into the lighter blonde ends.",
+          "This technique gives the hair incredible volume and dimension while drastically reducing salon visits. The dark root adds an element of edge to the otherwise bright and breezy blonde lob. Styling with messy waves or a simple middle part emphasizes the color contrast beautifully. It is a remarkably practical yet strikingly beautiful option for anyone wanting a high-impact look with low commitment."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Face Framing Blonde Balayage Lob",
+        "image": "/images/doc117_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Draw all the attention to your best features with a strategically placed color technique. A face framing blonde balayage lob uses brighter, lighter pieces of blonde exclusively around the front of the face. This acts like a natural spotlight, illuminating your eyes and warming up your complexion instantly.",
+          "The rest of the hair maintains a darker, more subtle tone, creating a gorgeous contrast that pops. The lob cut ensures the bright face-framing pieces do not get lost in excess length, making the highlight effect much more prominent. Sweeping the front pieces back or wearing them loose both look amazing. This tailored approach gives a highly customized, incredibly flattering result for every single face shape."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Champagne Blonde Sleek Lob",
+        "image": "/images/doc117_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Raise a glass to a shade that sparkles with refined, luxurious elegance. A champagne blonde sleek lob combines subtle warm and cool tones to create a highly sophisticated, bubbly blonde. This shade has a slight metallic sheen to it, making the hair look incredibly healthy and expensive.",
+          "Pairing this elite color with a sleek, flat-ironed lob takes the glamour to the next level. The smooth styling allows the champagne tones to reflect the light flawlessly, showing off the seamless balayage blend from root to tip. Using a smoothing serum will enhance the glossy finish. This look is perfect for formal events or anytime you want to feel exceptionally polished and put together."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Beige Blonde Inverted Lob",
+        "image": "/images/doc117_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Discover the magic of a cut that builds volume at the back while remaining sleek in the front. A beige blonde inverted lob features shorter layers in the back that gradually lengthen toward the front. Adding a neutral beige blonde balayage to this shape emphasizes the stacked layers beautifully.",
+          "The lighter ends draw the eye downward, elongating the overall silhouette of the cut. Beige is a fantastic, neutral shade that avoids pulling too yellow or too ashy, offering a true, balanced blonde. Blow-drying the back with a round brush creates the perfect amount of bounce, while the front sweeps gracefully along the collarbone. It is a fantastic, lively style full of movement."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Ashy Blonde Choppy Lob",
+        "image": "/images/doc117_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Inject some serious attitude into your everyday style with a cut that refuses to be boring. An ashy blonde choppy lob relies on heavily textured ends and a cool-toned color palette for a distinctly edgy vibe. The choppiness removes bulk and creates a perfectly imperfect, piece-y look that falls effortlessly into place.",
+          "The ashy balayage adds a smokey, muted dimension that stops the blonde from looking too sweet or traditional. Instead, you get a modern, slightly grunge-inspired aesthetic that is incredibly cool. Using a texturizing spray on the ends will bring out the choppy layers and make the ashy tones pop. This is a phenomenal choice for anyone wanting a trendy, low-key style."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 16,
+        "title": "Vanilla Blonde Balayage Lob",
+        "image": "/images/doc117_img_16.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Sweeten up your look with a shade that is as delightful as it is beautiful. A vanilla blonde balayage lob offers a soft, pale yellow-blonde hue that looks incredibly creamy and rich. This shade sits right between platinum and golden, providing a gentle warmth that is very flattering on fair and medium skin tones.",
+          "The balayage smoothly transitions from a slightly deeper root into the creamy vanilla tips, giving the lob a sun-drenched, natural finish. Styling this hair with loose, romantic curls highlights the buttery texture and color depth. It is a wonderfully delicate and feminine option that feels light and airy, perfect for refreshing your overall look with a touch of sweetness."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 17,
+        "title": "Rose Gold Blonde Lob",
+        "image": "/images/doc117_img_17.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Step outside the traditional blonde box with a hue that adds a magical, metallic twist. A rose gold blonde lob infuses subtle pink and peachy tones into a light blonde base, resulting in a truly mesmerizing color. The balayage technique ensures the rosy hues blend naturally, preventing the color from looking overly artificial or costume-like.",
+          "The soft pink reflects beautifully against the blonde, giving the hair a stunning, glowing appearance. A lob is the perfect canvas for this color, as the shorter length keeps the pastel tones looking modern and chic rather than overly whimsical. This vibrant yet wearable shade is sure to make a stylish statement wherever you decide to go."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 18,
+        "title": "Butter Blonde Curly Lob",
+        "image": "/images/doc117_img_18.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Satiate your desire for a rich, glowing mane with a color that looks incredibly luxurious. A butter blonde curly lob features a smooth, rich yellow-blonde tone that gleams beautifully when it catches the light. Curly hair is the perfect match for balayage because the hand-painted highlights enhance each individual ringlet and curl.",
+          "The buttery color wraps around the curves of the hair, creating dynamic shadows and highlights that make the curls look incredibly bouncy and defined. The lob length keeps the curls structured and prevents them from expanding uncontrollably. Hydration is key for this style to keep the blonde looking vibrant and the curls perfectly frizz-free and bouncy."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
+  },
+  {
+    "id": "peach-blonde-balayage",
+    "slug": "peach-blonde-balayage",
+    "title": "15+ Peach Blonde Balayage That Deserves a Save",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc118_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": false,
+    "intro": "Soft peach blonde balayage feels like summer light captured in your hair. It blends warm peachy tones with soft blonde ribbons, so the result looks natural, dimensional, and very flattering on many skin tones. This color trend fits perfectly with the current love for lived-in color, low-maintenance roots, and hair that looks sun-kissed instead of obviously colored. You can go barely-there peach for a subtle glow or dial it up to a juicy pastel that really stands out. Because balayage is hand-painted, your colorist can customize placement for your haircut, face shape, and hair texture. The following looks focus on complete peach blonde balayage hairstyles you can actually ask for and maintain.",
+    "introParagraphs": [
+      "Soft peach blonde balayage feels like summer light captured in your hair. It blends warm peachy tones with soft blonde ribbons, so the result looks natural, dimensional, and very flattering on many skin tones. This color trend fits perfectly with the current love for lived-in color, low-maintenance roots, and hair that looks sun-kissed instead of obviously colored. You can go barely-there peach for a subtle glow or dial it up to a juicy pastel that really stands out. Because balayage is hand-painted, your colorist can customize placement for your haircut, face shape, and hair texture. The following looks focus on complete peach blonde balayage hairstyles you can actually ask for and maintain."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc118-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc118-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Classic Peach Blonde Balayage",
+        "image": "/images/doc118_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Classic peach blonde balayage is the most wearable version of this trend, and it suits many haircuts and face shapes. The base is usually a soft, neutral blonde that melts into peachy mid-lengths and lighter, almost champagne ends. This keeps the look bright around the face while letting the peachy tone add warmth and freshness through the lengths.",
+          "Ask your colorist for hand-painted pieces starting a few inches below the root, with slightly thicker ribbons around the face for a framing effect. Styling this look with loose, mid-size waves helps show off every shift in color and dimension. Use a sulfate-free shampoo to protect the peach pigment and add a weekly color-depositing mask to keep the tone from fading too fast."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Dimensional Peach Blonde Money Piece",
+        "image": "/images/doc118_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A dimensional peach blonde money piece focuses the boldest color right around your face for instant brightness. The majority of the hair stays a soft, creamy blonde with only subtle peach whispers through the mid-lengths. Around the hairline, your colorist can paint thicker, more saturated peach-blonde pieces that pop when you wear your hair down or in a ponytail.",
+          "This is a great choice if you want to try peach without committing to a full head of color. It also flatters layered haircuts and long bobs because it highlights the front shape. Style with a smooth blowout or loose bends so the money piece stays visible and glossy. Maintain with purple shampoo only on the blondest areas, and alternate with a nourishing, color-safe formula to avoid over-toning the peach."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Soft Peach Blonde Ombre Balayage",
+        "image": "/images/doc118_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft peach blonde ombre balayage gives you that dreamy fade from deeper roots to airy, pastel ends. The roots stay a natural dark blonde or light brown, then transition into peachy mid-lengths and pale blonde tips, so the grow-out looks intentional. This is ideal if you love low-maintenance color and do not want to visit the salon every few weeks.",
+          "Ask for a seamless blend with no harsh line between your natural base and the balayage, focusing the lightest shades on the bottom third of your hair. Soft waves or loose curls will help show the gradient and make the color change feel even smoother. At home, use a bond-repair treatment once a week to keep lightened ends strong, and avoid very hot water so the peach tone lasts longer."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Light Peach Blonde Balayage For Straight Hair",
+        "image": "/images/doc118_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Light peach blonde balayage looks incredibly sleek and modern on straight hair. Because straight strands reflect light easily, even a soft wash of peach shows up beautifully and makes your hair look glossy. Your colorist can keep the base a pale, neutral blonde and glaze a translucent peach tone through the mid-lengths and ends.",
+          "Hand-painted pieces placed slightly higher around the face will keep everything bright and fresh. Wearing your hair smooth and straight, either with a flat iron or a polished blowout, highlights every color ribbon and gives that glass-hair effect. Always apply a heat protectant before using hot tools so the lightened sections do not become dry or dull. Finish with a lightweight shine serum to keep the peach blonde looking healthy, not greasy or heavy."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Peach Blonde Balayage On Brown Hair",
+        "image": "/images/doc118_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage on brown hair offers striking contrast without feeling too loud. Instead of lifting all your hair to blonde, your colorist will keep a medium brown base and paint lighter sections that shift from warm blonde to soft peach toward the ends. This creates a multi-tonal effect that looks especially good on wavy or curly hair because every bend shows a different shade.",
+          "It is also a great choice if you do not want to change your natural color near the scalp. Ask for a diffused root shadow so the highlights and peach pieces blend smoothly into your brown base. To care for this look, choose shampoos and conditioners made for color-treated hair and add a nourishing hair oil to the ends, which helps prevent the peach from appearing dry or brassy."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Peach Blonde Balayage Lob Haircut",
+        "image": "/images/doc118_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "A peach blonde balayage lob is a fresh option if you love modern, shoulder-grazing cuts. The lob length allows your colorist to place peach and blonde ribbons in a way that supports the shape, usually brighter near the front and softer through the back. Slightly angled lobs pair especially well with balayage because the shortest front pieces can carry the lightest, most peachy tones for a face-brightening effect.",
+          "Styling with tousled waves or a bend at the mid-shaft keeps the look casual and chic, showing plenty of dimension. When you trim your lob every eight to ten weeks, ask your colorist to refresh the peach glaze on the ends at the same time. This keeps the color vibrant while maintaining healthy, blunt or softly textured ends."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Peach Blonde Balayage On Long Layers",
+        "image": "/images/doc118_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage on long layered hair creates a flowing, beachy look with tons of movement. The layers give your stylist natural “anchors” where they can place lighter blonde and peach pops, especially around the face and through the mid-lengths. When you curl or wave your hair, these pieces catch the light and make the peachy tone look dimensional instead of flat.",
+          "Ask your colorist to keep some deeper blonde or even a hint of your natural color underneath, so the overall effect stays soft. This look works beautifully for thicker hair because balayage prevents the color from looking too solid or heavy. Use a lightweight curl cream or foam when styling to enhance the layers without weighing them down, and finish with a flexible hold hairspray to keep everything touchable."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Rose Peach Blonde Balayage Blend",
+        "image": "/images/doc118_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Rose peach blonde balayage brings a romantic twist by mixing peach tones with hints of soft pink. The result is a delicate, almost blush-like color that still reads blonde overall. Your colorist may lift your hair to a pale blonde first, then tone with a mix of peach and rosy shades for a custom blend.",
+          "This looks amazing on medium to long hair with subtle layers, especially when styled into loose, airy waves. It is a standout choice if you like trendy shades but still want something wearable for everyday life. Because pink-based tones can fade faster, plan on using a color-depositing conditioner in a peach or rose shade once a week. Avoid clarifying shampoos unless your stylist recommends them, since they can strip the delicate rosy-peach glaze quickly."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "High Contrast Peach Blonde Balayage Melt",
+        "image": "/images/doc118_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "High contrast peach blonde balayage melt is for those who love bold, head-turning color. The roots stay deeper, often a cool or neutral dark blonde, while the mid-lengths and ends shift into vibrant peach and pale blonde. This creates a strong yet blended transition that feels modern and edgy.",
+          "Ask your colorist for extra brightness on the pieces framing your face and slightly thicker painted sections through the mid-lengths for more drama. Straight or softly waved styling will both show off the melt, but smooth finishes highlight the contrast the most. Because this look requires more lifting, make sure to invest in strengthening masks and avoid daily heat styling. Spacing out touch-ups and using gentle, color-safe products will help maintain both hair health and color intensity."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Subtle Peach Blonde Balayage Highlights",
+        "image": "/images/doc118_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Subtle peach blonde balayage highlights are great if you want a hint of peach without a full transformation. Your colorist will create fine, soft highlights that lean blonde with just a whisper of peach, especially through the mid-lengths and ends. This approach adds warmth and glow, making your hair look like it caught the sunset rather than a strong dye job.",
+          "It works well on natural blondes or light brunettes who want a seasonal update. Style with soft, natural waves or a simple blowout for a polished but low-key finish. To keep the color looking refined, alternate between a gentle purple shampoo and a regular color-safe shampoo, so the blonde stays bright while the peach warmth does not turn brassy or overly orange."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Peach Blonde Balayage On Curly Hair",
+        "image": "/images/doc118_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage looks stunning on curly hair because every curl can show a slightly different shade. The colorist can paint lighter, peachy pieces on the outer curls and around the face, while leaving some of the interior curls deeper for depth. This creates a soft halo of color that moves with your curl pattern.",
+          "The contrast between your natural root and the lighter ends adds visual interest without sacrificing curl health when done carefully. Ask for a curl-conscious lightening approach, with slower processing and lots of conditioning. At home, focus on moisture: use sulfate-free cleansers, rich conditioners, and leave-in creams so your curls stay defined and the peach tone remains glossy. Limit heat styling and let curls air-dry or diffuse on low heat to keep both color and shape intact."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Peach Blonde Balayage With Face Framing Layers",
+        "image": "/images/doc118_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage with face-framing layers puts all the brightness where it matters most. The haircut uses soft layers around the face to open up your features, while the colorist paints lighter blonde and peach pieces on those sections. This combination brings attention to your eyes and cheekbones and can even soften strong jawlines.",
+          "The rest of the hair can stay slightly darker or more blended, which also helps the maintenance feel easier. Styling the front pieces with a round brush or curling them away from the face boosts the framing effect. For care, use a lightweight leave-in conditioner on the layered sections to prevent dryness, since they are often the most exposed. A shine spray or serum focused on the front pieces keeps the peach blonde looking polished and camera-ready."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Creamy Peach Blonde Balayage",
+        "image": "/images/doc118_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Creamy peach blonde balayage is perfect if you like softer, more neutral tones that still feel warm. Instead of a bright or neon peach, your colorist will aim for a buttery blonde with a gentle peach undertone. The balayage placement keeps the roots more natural and gradually builds lightness and warmth through the lengths.",
+          "This shade flatters many skin tones, especially if you usually look good in gold jewelry and warm makeup. Ask for a glossy finish at the end of your appointment to enhance the creaminess and shine. To maintain this look, prioritize hydration with masks and conditioners that add moisture and smoothness. Skip harsh toners at home; instead, use mild, color-safe products that support the soft warmth rather than stripping it away."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Peach Blonde Balayage On Short Bob",
+        "image": "/images/doc118_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage on a short bob feels chic and playful at the same time. Because the hair is shorter, your colorist can focus on strategic placement that enhances the bob’s shape, often brighter through the front and ends, softer near the nape. The peachy tone brings life to a classic bob, making it feel more current and expressive.",
+          "This works beautifully with blunt bobs and softly textured versions. Style with a slight bend or tousle through the mid-lengths, leaving the ends mostly straight for a modern finish. Since short hair can be trimmed often, you can refresh your peach glaze regularly without long appointments. Use a lightweight heat protectant and avoid heavy oils near the roots, so your bob keeps its movement and body."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Peach Blonde Balayage With Beach Waves",
+        "image": "/images/doc118_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage with beach waves is the definition of relaxed, vacation-ready hair. The balayage technique creates natural-looking lightness, while the peach tones add a touch of fun and personality. Waves help reveal every highlight and lowlight, making the color appear more dimensional and soft.",
+          "Ask for balayage that starts a bit below the root, with lighter, peachier ends and a few brighter pieces near the face. For styling, use a sea-salt spray or texture mist on damp hair and scrunch, or wrap random sections around a curling iron and brush them out. Finish with a flexible hairspray to keep the waves without stiffness. Choose hydrating styling products so your hair does not feel dry, since lightened ends can be more fragile and prone to frizz."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 16,
+        "title": "Peach Blonde Balayage On Fine Hair",
+        "image": "/images/doc118_img_16.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage can actually make fine hair look fuller when applied thoughtfully. Instead of heavy, chunky pieces, your colorist will paint very soft, delicate ribbons that blend seamlessly into your base. The mix of lighter blonde and peach shades creates the illusion of depth and volume, especially when styled with gentle movement.",
+          "Avoid taking the color too bright near the roots, since that can make fine hair appear even thinner. A slightly deeper root shadow with lighter lengths works better. Style with volumizing mousse at the roots and a light texturizing spray through the ends to keep your hair lifted. Use strengthening treatments regularly so fine strands stay resilient, and avoid very heavy conditioners on the scalp area, which can weigh down your new, airy color."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 17,
+        "title": "Peach Blonde Balayage For Warm Skin Tones",
+        "image": "/images/doc118_img_17.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage is naturally flattering on warm skin tones, but placement and depth still matter. If your skin leans golden or olive, rich peach and soft golden blonde will complement your undertones beautifully. Ask your colorist for a warmer formula with minimal ash so the hair does not look dull against your skin.",
+          "Balayage that keeps some warmth near the face and brightest peach through the mid-lengths often looks best. You can also pair this color with warm-toned makeup, like coral blush and soft bronze eyeshadow, for a cohesive look. At home, pick hair products labeled for color-treated hair that enhance shine, since glossy, reflective hair always looks healthier. Avoid strong blue or green shampoos that can mute the warm peach and shift it toward an unflattering tone."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 18,
+        "title": "Peach Blonde Balayage For Cool Skin Tones",
+        "image": "/images/doc118_img_18.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Peach blonde balayage can still work beautifully on cool skin tones when the formula is adjusted. Instead of a very warm peach, your colorist might choose a softer, slightly pink-leaning peach and pair it with cooler blonde. Keeping the root area in a neutral or cool shade also helps the overall look harmonize with your complexion.",
+          "Ask for a balanced mix of warm and cool so the hair never appears too orange next to your skin. The result is a fresh, flattering color that brightens your face without clashing. Stick to gentle, sulfate-free shampoos that focus on moisture and shine. If needed, your stylist may recommend an occasional gentle purple shampoo to control brass without stripping all the warm character from your peach blonde balayage."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
+  },
+  {
+    "id": "blonde-highlights-brown-hair",
+    "slug": "blonde-highlights-brown-hair",
+    "title": "17+ Soft Blonde Highlights on Brown Hair You’ll Want to Copy",
+    "category": "Blonde Balayage Hair",
+    "categorySlug": "blonde-balayage-hair",
+    "heroImage": "/images/doc119_img_1.jpg",
+    "readTime": "7 min read",
+    "date": "September 8, 2026",
+    "isFeatured": false,
+    "isTrending": false,
+    "intro": "Soft blonde highlights on brown hair are one of the easiest ways to brighten your look without a dramatic, full-color change. This combo gives natural dimension, softness, and a “just came back from vacation” glow that fits the 2026 trend toward warmer, low-maintenance color with subtle contrast instead of harsh streaks. You can also personalize how soft or noticeable your blonde appears, from delicate babylights to creamy balayage ribbons that blend into your brunette base. Many colorists now focus on keeping brunette depth at the roots and melting into beige, honey, or “suede” blondes for a healthy, reflective finish that grows out beautifully. This makes soft blonde highlights a smart choice if you want a flattering update, less frequent salon visits, and hair that looks glossy and dimensional in every light.",
+    "introParagraphs": [
+      "Soft blonde highlights on brown hair are one of the easiest ways to brighten your look without a dramatic, full-color change. This combo gives natural dimension, softness, and a “just came back from vacation” glow that fits the 2026 trend toward warmer, low-maintenance color with subtle contrast instead of harsh streaks. You can also personalize how soft or noticeable your blonde appears, from delicate babylights to creamy balayage ribbons that blend into your brunette base. Many colorists now focus on keeping brunette depth at the roots and melting into beige, honey, or “suede” blondes for a healthy, reflective finish that grows out beautifully. This makes soft blonde highlights a smart choice if you want a flattering update, less frequent salon visits, and hair that looks glossy and dimensional in every light."
+    ],
+    "extraSections": [
+      {
+        "id": "section-doc119-guide",
+        "title": "Blonde Balayage Tone & Maintenance Guide",
+        "content": "Blonde balayage creates seamless light-reflecting ribbons of color that grow out gracefully without harsh root lines. Proper tone maintenance keeps blonde strands bright and healthy.",
+        "stats": [
+          {
+            "val": "100%",
+            "label": "Custom Hand-Painted Brightness"
+          },
+          {
+            "val": "3-4 Months",
+            "label": "Low-Maintenance Growth"
+          },
+          {
+            "val": "All Textures",
+            "label": "Straight, Wavy & Curly"
+          }
+        ]
+      },
+      {
+        "id": "section-doc119-masterclass",
+        "title": "Stylist Masterclass: Caring for Blonde Balayage Tones",
+        "steps": [
+          "Use Purple Toning Shampoo: Neutralizes warm or yellow brassiness to preserve cool blonde tones.",
+          "Apply Heat Protectant Spray: Safeguards pre-lightened ends from thermal damage and drying.",
+          "Schedule Gloss Toning Every 6 Weeks: Refreshes color vibrancy and Seals cuticle for maximum shine.",
+          "Deep Condition Weekly: Hydrates and strengthens lightened strands for soft, healthy texture."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How often should I touch up blonde balayage?",
+        "a": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months.",
+        "question": "How often should I touch up blonde balayage?",
+        "answer": "Because balayage grows out softly, touch-ups are usually needed only every 3 to 4 months."
+      },
+      {
+        "q": "How do I prevent blonde balayage from turning brassy?",
+        "a": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant.",
+        "question": "How do I prevent blonde balayage from turning brassy?",
+        "answer": "Use a purple shampoo bi-weekly, avoid hot water rinses, and apply UV heat protectant."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Soft Honey Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_1.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft honey blonde highlights on brown hair are perfect if you want a gentle, sun-kissed change that still feels naturally brunette. Honey tones sit in a warm, golden range, so they brighten the face and add a soft glow without looking too bright or icy.",
+          "Colorists often paint honey highlights a couple of levels lighter than your base and focus them through the mid-lengths and ends so the roots stay deeper and easy to maintain. This approach follows the 2026 trend of subtle dimension and warm shine instead of heavy, high-contrast streaks. Honey blonde works especially well on medium to dark brown hair and flatters warm or neutral skin tones, making it a go-to choice if you like soft makeup, cozy outfits, and a low-fuss routine that still looks polished every day."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 2,
+        "title": "Beige Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_2.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Beige blonde highlights on brown hair strike a balanced, soft look if you do not want clearly warm or cool tones. Beige lives in the neutral zone, blending a hint of warmth with soft ash, so your hair looks expensive and refined rather than brassy or too ashy.",
+          "Colorists usually place beige highlights in fine sections around the face and throughout the top layers to create a veil of lightness when your hair moves. This is ideal if you work in a professional setting or prefer minimal makeup because beige highlights look polished, glossy, and subtle in photos and real life. The neutral tone also pairs well with many skin undertones, so it is a safe option if you are not sure whether honey or ash suits you best but still want modern, soft blonde dimension over your brown base."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 3,
+        "title": "Soft Ash Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_3.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft ash blonde highlights on brown hair are a great match if you prefer cooler tones and want to cancel any unwanted warmth in your brunette. Rather than bright platinum, modern ash blonde is more muted and smoky, which keeps the overall look soft and wearable.",
+          "Colorists often weave ash highlights in fine sections (babylights) and melt them into the brown base using toners that add beige-ash or mushroom notes for a diffused finish. This technique looks especially chic on straight or softly waved hair because the cooler ribbons stand out gently without feeling stripy. Soft ash blonde works best if your skin has cool or neutral undertones and you like cooler makeup shades, silver jewelry, and understated outfits, giving your brown hair a fresh, modern update while still keeping it dimensional and soft."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 4,
+        "title": "Soft Balayage Blonde On Brown Hair",
+        "image": "/images/doc119_img_4.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft balayage blonde on brown hair is ideal if you want brightened ends and mid-lengths with a seamless, low-maintenance grow-out. With balayage, your colorist hand-paints blonde onto the surface of your hair in sweeping motions, concentrating the lightest tones through the bottom sections.",
+          "For a soft look, they will avoid heavy, straight lines and instead blur the transition between brown and blonde, so the effect is diffused and natural. Think of it as a gentle fade from brunette roots to soft blonde tips that mimics how hair lightens in the sun. This option is perfect if you do not want frequent salon appointments because the darker root area remains flattering as it grows; you can refresh the toner and gloss every few months to keep the blonde shiny and your overall look healthy."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 5,
+        "title": "Soft Blonde Babylights On Brown Hair",
+        "image": "/images/doc119_img_5.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft blonde babylights on brown hair are the choice when you want the most subtle, delicate effect possible. Babylights are ultra-fine, closely spaced highlights that mimic the look of a child’s naturally lightened hair, so they never appear chunky or stripy.",
+          "Over a brown base, soft blonde babylights add a halo of brightness around the face and a gentle shimmer through the top layers without obviously changing your overall color. Colorists usually pair babylights with a root smudge or gloss so there is zero harsh line as your hair grows out. This approach is perfect if you are new to color, work in a conservative environment, or simply love the look of “my hair but better” with extra shine, dimension, and movement that shows up beautifully in everyday lighting and photos."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 6,
+        "title": "Soft Face Framing Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_6.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft face framing blonde highlights on brown hair instantly brighten your complexion without needing a full head of color. This technique focuses lighter pieces around the front hairline, often called “money pieces,” but in a gentle version that blends softly into the rest of your brunette.",
+          "Your colorist might choose honey, beige, or creamy blonde depending on your undertone, then feather the color back a few inches so the brightness flows naturally into your mid-lengths. This draws attention to your eyes and cheekbones, similar to strategic makeup highlighting. It is a great option if you wear your hair down most days or pull it into loose updos, because the lighter pieces at the front still show, making your brown hair look fresh and radiant without committing to a big color overhaul or frequent touch-ups."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 7,
+        "title": "Soft Caramel Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_7.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft caramel blonde highlights on brown hair create a warm, cozy effect that is flattering on many skin tones. Caramel sits between golden blonde and light brown, so it reads as soft and dimensional rather than obviously blonde.",
+          "Colorists often blend caramel highlights into chocolate or espresso bases using balayage or foilage, concentrating the brightness through the mid-lengths and around the face. This gives hair a melted, “smoky caramel” look that is especially on-trend for 2026 as people lean into warm, rich hues. Caramel blonde is also forgiving as it grows out and tends to fade nicely, so it is a smart choice if you are worried about maintenance but still want your brown hair to look dimensional, glossy, and softly brightened all year long."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 8,
+        "title": "Soft Golden Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_8.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft golden blonde highlights on brown hair bring a cheerful, sunny feel that suits medium to deeper brunettes who like warmth. Golden blonde has more noticeable yellow-gold tones than honey, but when applied softly and toned properly, it looks radiant rather than brassy.",
+          "Your colorist may place golden highlights in slightly larger ribbons through the mid-lengths, then break them up with lowlights or smudged roots to keep the finish soft. This style looks beautiful on wavy or curled hair where the light catches each strand. Golden blonde works particularly well if you tan easily or have warm undertones and like bronzy makeup, giving your brown hair a vacation-ready glow that still feels cohesive, soft, and sophisticated instead of overly high-contrast or artificial."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 9,
+        "title": "Soft Creamy Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_9.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft creamy blonde highlights on brown hair are perfect if you want a slightly lighter, more “buttery” look that still feels blended. Creamy blonde mixes warm and neutral tones, so the color looks smooth and milky rather than stark or overly yellow.",
+          "Colorists often combine foils for brightness around the face with balayage through the lengths, then tone everything with a beige-cream gloss for a cohesive finish. The result is a brunette base with ribbons of soft blonde that look glossy and multidimensional from every angle. This option is ideal if you like light, neutral makeup and soft outfits and want your hair to feel bright but still healthy, with fewer touch-ups than an all-over blonde because your natural brown root stays in place and grows out gently."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 10,
+        "title": "Soft Dirty Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_10.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft dirty blonde highlights on brown hair give a relaxed, beachy effect for people who prefer muted tones over bright gold or ash. Dirty blonde blends beige, ash, and soft golden notes, so it looks slightly lived-in and natural.",
+          "On a brown base, these highlights create a bronde effect where it is hard to tell where brunette ends and blonde begins. Colorists usually place dirty blonde highlights unevenly and pair them with a root shadow so the grow-out feels effortless. This style works well if you like casual outfits, undone waves, and a low-maintenance look; it reads as subtle and cool, giving the impression of naturally lightened hair rather than something overly polished or high-contrast."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 11,
+        "title": "Soft Bronde Highlights On Brown Hair",
+        "image": "/images/doc119_img_11.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft bronde highlights on brown hair are the ultimate middle ground between blonde and brunette. “Bronde” literally blends brown and blonde, using tones only a few levels lighter than your base for a very natural, dimensional effect.",
+          "Colorists may use balayage, foils, or a combination, but the goal is a soft gradient without harsh lines or heavy contrast. The finished look often features slightly brighter pieces around the face and lighter ends, while the crown remains more brown for depth. Bronde is especially popular going into 2026 because it looks expensive, flatters many skin tones, and requires less maintenance than being fully blonde, making it perfect if you want a big visual payoff from your highlights while staying in a soft, wearable color family."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 12,
+        "title": "Soft Suede Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_12.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft suede blonde highlights on brown hair tap into one of the newest color trends for 2026. Suede blonde mixes smoky, muted beige with gentle warmth, so the blonde appears soft and velvety instead of bright or icy.",
+          "On a brown base, this creates a diffused, sophisticated contrast that looks especially chic on mid-length cuts with light layering. Colorists typically apply suede blonde using balayage or fine foils, then tone with neutral-beige formulas to avoid harsh yellow or gray tones. This look suits people who love neutral wardrobes and minimalist makeup, offering a modern twist on soft blonde highlights that still feel low-key, dimensional, and flattering in everyday lighting without demanding over-the-top maintenance."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 13,
+        "title": "Soft Espresso Brown With Blonde Highlights",
+        "image": "/images/doc119_img_13.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft espresso brown with blonde highlights is a great choice if you love deep, rich brunette but still want touches of light. The base color stays a glossy, almost inky espresso, while soft blonde ribbons—often caramel, honey, or beige—are woven through the mid-lengths and ends.",
+          "This creates a subtle contrast that adds depth and movement rather than a stark stripe effect. Colorists often keep the root area darker and concentrate lighter pieces where your hair naturally bends or curls, which enhances shine and volume. This combo feels luxurious and modern, lining up with the current trend toward rich brunettes with gentle dimension, and it is perfect if you want your hair to look dark overall but still catch the light beautifully in photos and real life."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 14,
+        "title": "Soft Mushroom Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_14.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft mushroom blonde highlights on brown hair lean into cool, earthy tones for a chic, understated result. Mushroom blonde mixes ash, beige, and taupe shades, so the blonde looks muted and sophisticated rather than bright.",
+          "When painted over a brown base, the effect is a soft, shadowy blend that works especially well for those with cooler or neutral undertones and modern, minimalist style. Colorists often use balayage and root smudging to keep everything seamless and low-maintenance. If you dislike warmth or brassiness but also do not want icy platinum, mushroom blonde is a great in-between option that adds soft blonde highlights and dimension while still reading as grounded, natural, and easy to grow out between salon visits."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 15,
+        "title": "Soft Champagne Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_15.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft champagne blonde highlights on brown hair offer a light, sparkling effect that still feels refined. Champagne blonde usually blends pale gold with a hint of beige or pearl, giving a soft, luminous sheen.",
+          "On a brown base, these highlights stand out more than honey or beige but remain gentler than bright, icy blonde. Colorists typically focus champagne tones around the face and upper layers, then keep the rest of the hair slightly deeper for a balanced look. This style is beautiful for special occasions and everyday wear because it reflects light so well, flattering fair to medium skin tones and making your brown hair look like it has a built-in soft-focus filter without sacrificing dimension or becoming too high-maintenance over time."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 16,
+        "title": "Soft Partial Blonde Highlights On Brown Hair",
+        "image": "/images/doc119_img_16.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft partial blonde highlights on brown hair are ideal if you want a gentle change with a smaller time and budget commitment. Instead of highlighting your entire head, your colorist focuses on the top layer and face-framing sections, leaving the underneath mostly untouched.",
+          "This still gives you visible brightness where it counts, especially when your hair is down, but uses fewer foils and less lightener. For a soft look, they will choose muted blonde tones like honey, beige, or creamy blonde and blend them with a root smudge or gloss. This option works well if your hair is already slightly lighter on the ends or if you are testing blonde highlights for the first time, delivering dimension and shine while keeping your natural brown heavily present and easy to maintain between appointments."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 17,
+        "title": "Soft Blonde Balayage On Curly Brown Hair",
+        "image": "/images/doc119_img_17.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft blonde balayage on curly brown hair celebrates your natural texture while adding gentle lightness. Instead of saturating every strand, your colorist strategically paints blonde on the outer curls and mid-lengths so the highlights pop when your curls spring up.",
+          "Soft tones like honey, golden beige, or suede blonde keep the color looking cohesive and dimensional rather than patchy. Leaving the roots and some interior curls darker helps maintain depth and reduces damage, which is crucial for curly hair health. This style aligns with the 2026 focus on working with natural texture and creating soft, glowing dimension, making your curls look fuller, shinier, and more defined while still feeling like your own hair, just enhanced with a bit of sunlit blonde."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      },
+      {
+        "number": 18,
+        "title": "Soft Blonde Highlights On Short Brown Hair",
+        "image": "/images/doc119_img_18.jpg",
+        "whyWeLoveIt": "Delivers sun-kissed brightness, seamless hand-painted dimension, and multi-tonal shine.",
+        "paragraphs": [
+          "Soft blonde highlights on short brown hair can completely transform your cut by showing off shape and texture. On pixies, bobs, or lobs, colorists often concentrate the lightest pieces on the top and around the face, leaving the sides and nape deeper.",
+          "This creates contrast that emphasizes layers and movement without overwhelming your natural brown. Tones like creamy blonde, beige, or golden blonde tend to look best because they add softness rather than harsh lines. If you style your short hair with waves, texture spray, or soft bends, the blonde pieces will catch the light, giving your cut extra dimension and making it feel modern and intentional while still being easy to style and refresh with occasional toning and trims."
+        ],
+        "stylingTip": "Use a purple toning shampoo bi-weekly and weekly hydrating conditioning mask to keep blonde tones bright."
+      }
+    ]
   }
 ];
