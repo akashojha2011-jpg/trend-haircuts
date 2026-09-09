@@ -207,87 +207,8 @@ function renderApp() {
   } else if (route === 'article') {
     const cleanSlug = slug.toLowerCase().trim().replace(/^\/+/, '').replace(/^article\//, '').replace(/\/+$/, '');
     
-    // Explicit legacy URL redirects map to ensure seamless URL canonicalization
-    const LEGACY_SLUG_MAP = {
-      'pumpkin-spice-balayage-ideas': 'pumpkin-spice-balayage',
-      'soft-black-hair-color-ideas': 'soft-black-hair-color',
-      'black-hair-color-ideas': 'black-hair-color',
-      'champagne-blonde-balayage-ideas': 'champagne-blonde-balayage',
-      'golden-bronde-balayage-hair-color-to-try': 'golden-bronde-balayage-hair-color',
-      'burgundy-wine-balayage-women-must-try': 'burgundy-wine-balayage-women-must',
-      'flattering-haircut-for-oblong-face-women': 'flattering-haircut-for-oblong-face',
-      'short-haircuts-for-round-faces-you-ll-love': 'short-haircuts-for-round-faces-you-ll',
-      'beautiful-bun-hairstyles-you-ll-love': 'beautiful-bun-hairstyles-you-ll',
-      'stylish-curly-hairstyles-for-women-over-60-to-try': 'stylish-curly-hairstyles-for-women-over-60',
-      'stunning-rope-braid-hairstyles-to-consider': 'stunning-rope-braid-hairstyles',
-      'beautiful-braided-hairstyles-women-love': 'beautiful-braided-hairstyles',
-      'chic-crown-braid-hairstyles-to-try': 'chic-crown-braid-hairstyles',
-      'short-layered-bob-hairstyles-older-women': 'short-layered-bob-hairstyles-older',
-      'bang-haircuts-older-women': 'bang-haircuts-older',
-      'ash-blonde-hair-color-ideas': 'ash-blonde-hair-color',
-      'fine-thin-hair-older-women': 'fine-thin-hair-older',
-      'bubble-ponytail-ideas': 'bubble-ponytail',
-      'curly-hairstyles-older-women': 'curly-hairstyles-older',
-      'black-hair-with-highlights-ideas': 'black-hair-with-highlights',
-      'cobalt-blue-balayage-ideas': 'cobalt-blue-balayage',
-      'natural-looking-highlights-ideas': 'natural-looking-highlights',
-      'opal-balayage-hair-ideas': 'opal-balayage-hair',
-      'blue-black-hair-ideas': 'blue-black-hair',
-      'natural-black-hair-ideas': 'natural-black-hair',
-      'brunette-color-refresh-ideas': 'brunette-color-refresh',
-      'dimensional-brunette-hair-ideas': 'dimensional-brunette-hair',
-      'warm-caramel-brown-hair-color': 'warm-caramel-brown-hair-color-2',
-      'chunky-copper-front-pieces-style': 'chunky-copper-front-pieces-2',
-      'copper-brown-hair-color-fall': 'copper-brown-hair-color',
-      'balayage-curly-hair-ideas': 'balayage-curly-hair',
-      'honey-blonde-babylights-mature-women': 'honey-blonde-babylights-mature',
-      'honey-blonde-mature-women': 'honey-blonde-mature',
-      'low-maintenance-blonde-mature-women': 'low-maintenance-blonde-mature',
-      'copper-hair-color-mature-women': 'copper-hair-color-mature',
-      'natural-balayage-older-women': 'natural-balayage-older',
-      'silver-feathered-haircuts-older-women': 'silver-feathered-haircuts-older',
-      'blonde-gray-blend-mature-women': 'blonde-gray-blend-mature',
-      'blonde-refresh-older-women': 'blonde-refresh-older',
-      'brunette-refresh-older-women': 'brunette-refresh-older',
-      'cool-espresso-brunette-mature-women': 'cool-espresso-brunette-mature',
-      'mushroom-brunette-highlights-older-women': 'mushroom-brunette-highlights-older',
-      'natural-brunette-refresh-mature-women': 'natural-brunette-refresh-mature',
-      'silver-balayage-mature-women': 'silver-balayage-mature',
-      'soft-brunette-balayage-older-women': 'soft-brunette-balayage-older',
-      'textured-hairstyles-older-women': 'textured-hairstyles-older',
-      'layered-curly-haircuts-ideas': 'layered-curly-haircuts',
-      'cute-layered-haircut-ideas': 'cute-layered-haircut',
-      'layered-haircut-hair-color-ideas': 'layered-haircut-hair-color',
-      'stylish-layered-bob-fresh-look': 'stylish-layered-bob',
-      'elegant-hairstyles-women': 'elegant-hairstyles',
-
-      // Updo Hairstyles Legacy Long Links -> Clean Short Links
-      'updos-medium-length-hair-effortlessly': 'updos-medium-length-hair',
-      'loc-updo-hairstyles-much': 'loc-updo-hairstyles',
-      'mini-twist-updo-hairstyles-take': 'mini-twist-updo-hairstyles',
-      'stylish-updo-hairstyles-never-overdone': 'stylish-updo-hairstyles',
-      'anti-humidity-updo-hairstyles-actually': 'anti-humidity-updo-hairstyles',
-      'easy-vacation-updos-women-who': 'easy-vacation-updos',
-      'elegant-gray-chignon-hairstyles-timeless': 'elegant-gray-chignon-hairstyles',
-      'french-twist-updo-hairstyles-polished': 'french-twist-updo-hairstyles',
-      'marley-twists-updo-hairstyles-look': 'marley-twists-updo-hairstyles',
-      'chic-messy-bun-updos-that': 'chic-messy-bun-updos',
-      'casual-updo-hairstyles-you': 'casual-updo-hairstyles',
-      'chic-elegant-updo-hairstyles-to': 'chic-elegant-updo-hairstyles',
-      'black-updo-hairstyles-that': 'black-updo-hairstyles',
-      'braided-updo-hairstyles-for': 'braided-updo-hairstyles',
-      'coquette-updo-hairstyles-ideas': 'coquette-updo-hairstyles',
-      'half-updo-hairstyles-ideas': 'half-updo-hairstyles',
-      'low-updo-hairstyles-ideas': 'low-updo-hairstyles',
-      'messy-updo-hairstyles-ideas': 'messy-updo-hairstyles'
-    };
-
-    const resolvedSlug = LEGACY_SLUG_MAP[cleanSlug] || cleanSlug;
-
     // Tier 1: Exact match by slug or id
     let targetArticle = articles.find(a => 
-      a.slug === resolvedSlug || 
-      a.id === resolvedSlug ||
       a.slug === cleanSlug ||
       a.id === cleanSlug
     );
@@ -299,15 +220,6 @@ function renderApp() {
         (a.slug && a.slug.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === normClean) ||
         (a.id && a.id.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === normClean)
       );
-    }
-
-    // Force browser URL update to canonical clean short URL if accessed via legacy long link
-    if (targetArticle && cleanSlug !== targetArticle.slug) {
-      try {
-        window.history.replaceState({}, '', `/${targetArticle.slug}`);
-      } catch (e) {
-        // Fallback for strict environments
-      }
     }
 
     if (!targetArticle) {
