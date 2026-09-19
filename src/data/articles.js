@@ -55454,8 +55454,8 @@ export const articles = [
     "categorySlug": "curly-hairstyles"
   },
   {
-    "id": "honey-blonde-babylights-mature",
-    "slug": "honey-blonde-babylights-mature",
+    "id": "honey-blonde-babylights-mature-women",
+    "slug": "honey-blonde-babylights-mature-women",
     "title": "13+ Honey Blonde Babylights for Mature Women to Brighten Up",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -55707,8 +55707,8 @@ export const articles = [
     ]
   },
   {
-    "id": "honey-blonde-mature",
-    "slug": "honey-blonde-mature",
+    "id": "honey-blonde-mature-women",
+    "slug": "honey-blonde-mature-women",
     "title": "14+ Honey Blonde for Mature Women With a Warm Glow",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -55926,8 +55926,8 @@ export const articles = [
     ]
   },
   {
-    "id": "low-maintenance-blonde-mature",
-    "slug": "low-maintenance-blonde-mature",
+    "id": "low-maintenance-blonde-mature-women",
+    "slug": "low-maintenance-blonde-mature-women",
     "title": "15+ Low Maintenance Blonde for Mature Women to Consider",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -56165,8 +56165,8 @@ export const articles = [
     ]
   },
   {
-    "id": "copper-hair-color-mature",
-    "slug": "copper-hair-color-mature",
+    "id": "copper-hair-color-mature-women",
+    "slug": "copper-hair-color-mature-women",
     "title": "16+ Mature Women Copper Hair Color Ideas to Explore",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -56431,8 +56431,8 @@ export const articles = [
     ]
   },
   {
-    "id": "natural-balayage-older",
-    "slug": "natural-balayage-older",
+    "id": "natural-balayage-older-women",
+    "slug": "natural-balayage-older-women",
     "title": "17+ Natural Looking Balayage for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -56671,8 +56671,8 @@ export const articles = [
     ]
   },
   {
-    "id": "silver-feathered-haircuts-older",
-    "slug": "silver-feathered-haircuts-older",
+    "id": "silver-feathered-haircuts-older-women",
+    "slug": "silver-feathered-haircuts-older-women",
     "title": "13+ Silver Feathered Haircuts for Older Women to Love",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -56911,8 +56911,8 @@ export const articles = [
     ]
   },
   {
-    "id": "blonde-gray-blend-mature",
-    "slug": "blonde-gray-blend-mature",
+    "id": "blonde-gray-blend-mature-women",
+    "slug": "blonde-gray-blend-mature-women",
     "title": "14+ Blonde Gray Blend for Mature Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -57169,8 +57169,8 @@ export const articles = [
     ]
   },
   {
-    "id": "blonde-refresh-older",
-    "slug": "blonde-refresh-older",
+    "id": "blonde-refresh-older-women",
+    "slug": "blonde-refresh-older-women",
     "title": "15+ Blonde Refresh for Older Women to Consider",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -57422,8 +57422,8 @@ export const articles = [
     ]
   },
   {
-    "id": "brunette-refresh-older",
-    "slug": "brunette-refresh-older",
+    "id": "brunette-refresh-older-women",
+    "slug": "brunette-refresh-older-women",
     "title": "16+ Brunette Refresh for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -57666,8 +57666,8 @@ export const articles = [
     ]
   },
   {
-    "id": "cool-espresso-brunette-mature",
-    "slug": "cool-espresso-brunette-mature",
+    "id": "cool-espresso-brunette-mature-women",
+    "slug": "cool-espresso-brunette-mature-women",
     "title": "17+ Cool Espresso Brunette for Mature Women to Love",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -57896,8 +57896,8 @@ export const articles = [
     ]
   },
   {
-    "id": "mushroom-brunette-highlights-older",
-    "slug": "mushroom-brunette-highlights-older",
+    "id": "mushroom-brunette-highlights-older-women",
+    "slug": "mushroom-brunette-highlights-older-women",
     "title": "13+ Mushroom Brunette Highlights for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -58148,8 +58148,8 @@ export const articles = [
     ]
   },
   {
-    "id": "natural-brunette-refresh-mature",
-    "slug": "natural-brunette-refresh-mature",
+    "id": "natural-brunette-refresh-mature-women",
+    "slug": "natural-brunette-refresh-mature-women",
     "title": "14+ Natural Brunette Refresh for Mature Women to Explore",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -58376,8 +58376,8 @@ export const articles = [
     ]
   },
   {
-    "id": "silver-balayage-mature",
-    "slug": "silver-balayage-mature",
+    "id": "silver-balayage-mature-women",
+    "slug": "silver-balayage-mature-women",
     "title": "15+ Silver Balayage for Mature Women to Consider",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -58613,8 +58613,8 @@ export const articles = [
     ]
   },
   {
-    "id": "soft-brunette-balayage-older",
-    "slug": "soft-brunette-balayage-older",
+    "id": "soft-brunette-balayage-older-women",
+    "slug": "soft-brunette-balayage-older-women",
     "title": "16+ Soft Brunette Balayage for Older Women to Try",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
@@ -58852,8 +58852,8 @@ export const articles = [
     ]
   },
   {
-    "id": "textured-hairstyles-older",
-    "slug": "textured-hairstyles-older",
+    "id": "textured-hairstyles-older-women",
+    "slug": "textured-hairstyles-older-women",
     "title": "23+ Amazing Textured Hairstyles for Older Women to Love",
     "category": "Hair Color for Older Women",
     "categorySlug": "hair-color-older-women",
