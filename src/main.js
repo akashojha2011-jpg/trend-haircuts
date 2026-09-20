@@ -106,6 +106,15 @@ function updateSeoMetadata(title, description, canonicalUrl, imageUrl = '') {
     }
     ogImg.setAttribute('content', imageUrl.startsWith('http') ? imageUrl : `${DOMAIN}${imageUrl}`);
   }
+
+  // 5. Google Analytics 4 (GA4) Page View Tracking for SPA Navigation
+  if (typeof window.gtag === 'function') {
+    window.gtag('config', 'G-FC6K6MM07G', {
+      page_title: title,
+      page_location: canonicalUrl,
+      page_path: window.location.pathname
+    });
+  }
 }
 
 // Main Router & Renderer
