@@ -1,5 +1,4945 @@
 export const articles = [
   {
+    "id": "blonde-ribbons-medium-layered-hair",
+    "slug": "blonde-ribbons-medium-layered-hair",
+    "title": "15+ Blonde Ribbons for Medium Layered Hair With a Soft Glow",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "October 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_1_img_13.jpg",
+    "intro": "Looking for a fresh way to style your locks? Exploring 20 blonde ribbons for medium layered hair offers endless inspiration for your next look. Medium layered hair is already incredibly versatile, adding beautiful movement and natural volume. When you weave indelicate blonde ribbons, you instantly elevate the entire aesthetic. These soft, blending accessories create a seamless, romantic finish that matches perfectly with lightened or highlighted strands. Whether you prefer casual daytime vibes or something elegant for an event, there is a ribbon style waiting for you. From subtle woven accents to bold, statement bows, the options are stunning. Discover how to transform your everyday layers into something truly special with these gorgeous styling ideas.",
+    "introParagraphs": [
+      "Looking for a fresh way to style your locks? Exploring 20 blonde ribbons for medium layered hair offers endless inspiration for your next look. Medium layered hair is already incredibly versatile, adding beautiful movement and natural volume. When you weave indelicate blonde ribbons, you instantly elevate the entire aesthetic. These soft, blending accessories create a seamless, romantic finish that matches perfectly with lightened or highlighted strands. Whether you prefer casual daytime vibes or something elegant for an event, there is a ribbon style waiting for you. From subtle woven accents to bold, statement bows, the options are stunning. Discover how to transform your everyday layers into something truly special with these gorgeous styling ideas.",
+      "Ever wondered how to add a soft touch to your daily look? The blonde ribbon half updo for medium layered hair is a perfect choice. This style pulls back the top sections of your layers, securing them loosely with a beautiful blonde ribbon. The ribbon blends seamlessly into light hair, creating an effortless and natural appearance. Leaving the rest of your layers down shows off their bounce and texture. It works wonderfully for casual outings or even a relaxed brunch. You can tie the ribbon into a cute bow or let the ends trail down into your flowing layers. This look keeps hair out of your face while still looking incredibly chic and romantic."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 15+ Blonde Ribbons for Medium Layered Hair With a Soft Glow",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Blonde Ribbon Fishtail Braid Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_13.jpg",
+        "description": "Want to try a braid that looks complex but is surprisingly easy? The blonde ribbon fishtail braid for medium layered hair is stunning. Add a blonde ribbon to one section before you start weaving the fishtail. As you braid, the ribbon will weave throughout, adding incredible texture and visual interest. The layered ends of your hair will fan out beautifully at the bottom of the braid, giving it a soft, full finish. Because the ribbon is blonde, it highlights the intricate pattern of the fishtail without looking overdone. It is a perfect style for weekend outings, adding a touch of casual elegance to your look.",
+        "paragraphs": [
+          "Want to try a braid that looks complex but is surprisingly easy?",
+          "The blonde ribbon fishtail braid for medium layered hair is stunning. Add a blonde ribbon to one section before you start weaving the fishtail. As you braid, the ribbon will weave throughout, adding incredible texture and visual interest. The layered ends of your hair will fan out beautifully at the bottom of the braid, giving it a soft, full finish. Because the ribbon is blonde, it highlights the intricate pattern of the fishtail without looking overdone. It is a perfect style for weekend outings, adding a touch of casual elegance to your look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon fishtail braid medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon fishtail braid medium layered hair."
+      },
+      {
+        "number": 2,
+        "title": "Medium Layered Hair Blonde Ribbon Crown",
+        "image": "/images/doc_b22_1_img_4.jpg",
+        "description": "Looking for a romantic style that stands out? Medium layered hair with a blonde ribbon crown is absolutely gorgeous. This look involves braiding two sections of your hair and crossing them over the top of your head like a crown. You weave a blonde ribbon into the braids, which blends beautifully into lighter hair. The layered pieces softly frame your face and escape the braid, giving a relaxed, bohemian feel. This crown style is wonderful for spring gatherings or garden parties. It keeps your hair secure while looking incredibly intricate and dreamy. The blonde ribbon ensures the accessory does not distract, but rather enhances your natural hair color perfectly.",
+        "paragraphs": [
+          "Looking for a romantic style that stands out?",
+          "Medium layered hair with a blonde ribbon crown is absolutely gorgeous. This look involves braiding two sections of your hair and crossing them over the top of your head like a crown. You weave a blonde ribbon into the braids, which blends beautifully into lighter hair. The layered pieces softly frame your face and escape the braid, giving a relaxed, bohemian feel. This crown style is wonderful for spring gatherings or garden parties. It keeps your hair secure while looking incredibly intricate and dreamy. The blonde ribbon ensures the accessory does not distract, but rather enhances your natural hair color perfectly."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered hair blonde ribbon crown.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered hair blonde ribbon crown."
+      },
+      {
+        "number": 3,
+        "title": "Blonde Ribbon Half Updo Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_1.jpg",
+        "description": "Ever wondered how to add a soft touch to your daily look? The blonde ribbon half updo for medium layered hair is a perfect choice. This style pulls back the top sections of your layers, securing them loosely with a beautiful blonde ribbon. The ribbon blends seamlessly into light hair, creating an effortless and natural appearance. Leaving the rest of your layers down shows off their bounce and texture. It works wonderfully for casual outings or even a relaxed brunch. You can tie the ribbon into a cute bow or let the ends trail down into your flowing layers. This look keeps hair out of your face while still looking incredibly chic and romantic.",
+        "paragraphs": [
+          "Ever wondered how to add a soft touch to your daily look?",
+          "The blonde ribbon half updo for medium layered hair is a perfect choice. This style pulls back the top sections of your layers, securing them loosely with a beautiful blonde ribbon. The ribbon blends seamlessly into light hair, creating an effortless and natural appearance. Leaving the rest of your layers down shows off their bounce and texture. It works wonderfully for casual outings or even a relaxed brunch. You can tie the ribbon into a cute bow or let the ends trail down into your flowing layers. This look keeps hair out of your face while still looking incredibly chic and romantic."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon half updo medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon half updo medium layered hair."
+      },
+      {
+        "number": 4,
+        "title": "Medium Layered Hair Blonde Ribbon Pigtails",
+        "image": "/images/doc_b22_1_img_8.jpg",
+        "description": "Want to embrace a fun, youthful vibe? Medium layered hair with blonde ribbon pigtails is a fantastic choice. Part your hair down the middle and secure it into two low pigtails. Wrap a blonde ribbon around each hair tie, letting the tails blend with your layered ends. The layers give the pigtails beautiful texture and extra bounce. Because the ribbon is blonde, it blends seamlessly and looks completely natural. This style is incredibly cute for casual hangouts, summer picnics, or just adding a bit of joy to your day. It is a playful twist on a nostalgic look that feels completely modern and incredibly charming.",
+        "paragraphs": [
+          "Want to embrace a fun, youthful vibe?",
+          "Medium layered hair with blonde ribbon pigtails is a fantastic choice. Part your hair down the middle and secure it into two low pigtails. Wrap a blonde ribbon around each hair tie, letting the tails blend with your layered ends. The layers give the pigtails beautiful texture and extra bounce. Because the ribbon is blonde, it blends seamlessly and looks completely natural. This style is incredibly cute for casual hangouts, summer picnics, or just adding a bit of joy to your day. It is a playful twist on a nostalgic look that feels completely modern and incredibly charming."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered hair blonde ribbon pigtails.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered hair blonde ribbon pigtails."
+      },
+      {
+        "number": 5,
+        "title": "Medium Layered Hair Blonde Ribbon Wrap Ponytail",
+        "image": "/images/doc_b22_1_img_16.jpg",
+        "description": "Want to elevate a basic ponytail to something red-carpet ready? Medium layered hair with a blonde ribbon wrap ponytail is incredibly sleek. Pull your hair back into a tight, smooth ponytail. Take a long blonde ribbon and wrap it tightly around the base of the ponytail, continuing down the length of the hair. Secure the ends discreetly. The ribbon creates a beautiful, structured column effect that highlights the movement of your layers. It is a striking, high-fashion look that is surprisingly easy to achieve. Wear this to a fancy dinner or a stylish event where you really want to make a polished, unforgettable impression.",
+        "paragraphs": [
+          "Want to elevate a basic ponytail to something red-carpet ready?",
+          "Medium layered hair with a blonde ribbon wrap ponytail is incredibly sleek. Pull your hair back into a tight, smooth ponytail. Take a long blonde ribbon and wrap it tightly around the base of the ponytail, continuing down the length of the hair. Secure the ends discreetly. The ribbon creates a beautiful, structured column effect that highlights the movement of your layers. It is a striking, high-fashion look that is surprisingly easy to achieve. Wear this to a fancy dinner or a stylish event where you really want to make a polished, unforgettable impression."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered hair blonde ribbon wrap ponytail.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered hair blonde ribbon wrap ponytail."
+      },
+      {
+        "number": 6,
+        "title": "Messy Bun With Blonde Ribbon Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_6.jpg",
+        "description": "Craving an effortless style with a touch of charm? A messy bun with a blonde ribbon on medium layered hair is the answer. Gather your layers into a loose, relaxed bun at the back of your head. Let a few face-framing layers fall free. Then, tie a blonde ribbon around the bun, letting the ends drape down. The ribbon blends right into the blonde tones of your hair, looking incredibly chic. The messy texture paired with the delicate ribbon creates a beautiful contrast. This look is ideal for lazy weekends or casual Friday nights out. It is stylish, comfortable, and requires minimal effort to look absolutely fantastic.",
+        "paragraphs": [
+          "Craving an effortless style with a touch of charm?",
+          "A messy bun with a blonde ribbon on medium layered hair is the answer. Gather your layers into a loose, relaxed bun at the back of your head. Let a few face-framing layers fall free. Then, tie a blonde ribbon around the bun, letting the ends drape down. The ribbon blends right into the blonde tones of your hair, looking incredibly chic. The messy texture paired with the delicate ribbon creates a beautiful contrast. This look is ideal for lazy weekends or casual Friday nights out. It is stylish, comfortable, and requires minimal effort to look absolutely fantastic."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for messy bun with blonde ribbon medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in messy bun with blonde ribbon medium layered hair."
+      },
+      {
+        "number": 7,
+        "title": "Medium Layered Hair With Blonde Ribbon Braid",
+        "image": "/images/doc_b22_1_img_2.jpg",
+        "description": "Want a style that feels whimsical yet totally wearable? Try medium layered hair with a blonde ribbon braid. Weaving a thin blonde ribbon directly into a loose braid adds stunning dimension and interest. As the braid follows the natural curve of your layers, the ribbon peeks through, creating a beautiful woven effect. This technique works exceptionally well with textured layers, giving the braid a thicker, more dynamic look. It is an amazing option for outdoor events or a fun day out. The blonde ribbon ties off the end seamlessly, making the whole style look cohesive. You will love how this simple addition transforms a basic braid into something truly special and eye-catching.",
+        "paragraphs": [
+          "Want a style that feels whimsical yet totally wearable?",
+          "Try medium layered hair with a blonde ribbon braid. Weaving a thin blonde ribbon directly into a loose braid adds stunning dimension and interest. As the braid follows the natural curve of your layers, the ribbon peeks through, creating a beautiful woven effect. This technique works exceptionally well with textured layers, giving the braid a thicker, more dynamic look. It is an amazing option for outdoor events or a fun day out. The blonde ribbon ties off the end seamlessly, making the whole style look cohesive. You will love how this simple addition transforms a basic braid into something truly special and eye-catching."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered hair with blonde ribbon braid.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered hair with blonde ribbon braid."
+      },
+      {
+        "number": 8,
+        "title": "Blonde Ribbon Twisted Updo Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_15.jpg",
+        "description": "Need an elegant style without the complexity of formal braids? The blonde ribbon twisted updo for medium layered hair is a fantastic option. Simply twist sections of your hair and pin them at the back of your head. Weave a blonde ribbon through the twists, letting it peek out randomly. The ribbon adds a beautiful flash of light that blends perfectly with your base color. The layered pieces easily tuck into the twists, creating a lovely, textured shape. This updo is perfect for weddings, proms, or elegant evenings. It looks intricate and time-consuming, but it is actually quite simple and effortlessly beautiful to create.",
+        "paragraphs": [
+          "Need an elegant style without the complexity of formal braids?",
+          "The blonde ribbon twisted updo for medium layered hair is a fantastic option. Simply twist sections of your hair and pin them at the back of your head. Weave a blonde ribbon through the twists, letting it peek out randomly. The ribbon adds a beautiful flash of light that blends perfectly with your base color. The layered pieces easily tuck into the twists, creating a lovely, textured shape. This updo is perfect for weddings, proms, or elegant evenings. It looks intricate and time-consuming, but it is actually quite simple and effortlessly beautiful to create."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon twisted updo medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon twisted updo medium layered hair."
+      },
+      {
+        "number": 9,
+        "title": "Blonde Ribbon Milkmaid Braids Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_17.jpg",
+        "description": "Searching for a cute and practical updo?Blonde ribbon milkmaid braidson medium layered hair are absolutely charming. Create two loose braids and cross them over the top of your head, pinning them securely. Weave a blonde ribbon through each braid before crossing them. The ribbon blends seamlessly into the braids, making them look thicker and more vibrant. The layered pieces will naturally escape a bit, giving the style a relaxed, romantic feel. This is a wonderful look for outdoor festivals, walking tours, or warm weather days. It keeps your hair completely up and out of your neck while looking completely adorable.",
+        "paragraphs": [
+          "Searching for a cute and practical updo?Blonde ribbon milkmaid braidson medium layered hair are absolutely charming.",
+          "Create two loose braids and cross them over the top of your head, pinning them securely. Weave a blonde ribbon through each braid before crossing them. The ribbon blends seamlessly into the braids, making them look thicker and more vibrant. The layered pieces will naturally escape a bit, giving the style a relaxed, romantic feel. This is a wonderful look for outdoor festivals, walking tours, or warm weather days. It keeps your hair completely up and out of your neck while looking completely adorable."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon milkmaid braids medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon milkmaid braids medium layered hair."
+      },
+      {
+        "number": 10,
+        "title": "Blonde Ribbon Bow Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_5.jpg",
+        "description": "How do you make a simple style look instantly adorable? Try ablonde ribbon bowon medium layered hair. This look takes the classic half-up style and elevates it with a perfectly tied bow at the back of your head. Using a blonde ribbon makes the bow look like a natural extension of your hair. The medium layers surrounding the bow provide lovely texture and movement. It is a sweet, playful look that works for any casual occasion. You can wear your layers in soft waves or straight strands to change the vibe. This styling choice proves that sometimes the simplest accessories create the most charming and memorable hair moments.",
+        "paragraphs": [
+          "How do you make a simple style look instantly adorable?",
+          "Try ablonde ribbon bowon medium layered hair. This look takes the classic half-up style and elevates it with a perfectly tied bow at the back of your head. Using a blonde ribbon makes the bow look like a natural extension of your hair. The medium layers surrounding the bow provide lovely texture and movement. It is a sweet, playful look that works for any casual occasion. You can wear your layers in soft waves or straight strands to change the vibe. This styling choice proves that sometimes the simplest accessories create the most charming and memorable hair moments."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon bow medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon bow medium layered hair."
+      },
+      {
+        "number": 11,
+        "title": "Bubble Braid With Blonde Ribbon Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_14.jpg",
+        "description": "Looking for a trendy, red-carpet-worthy style? The bubble braid with a blonde ribbon on medium layered hair is very popular right now. Create a ponytail and use small elastics to section it into bubbles. Then, take a blonde ribbon and weave it through each bubble, tying it along the way. The ribbon adds a delicate touch to the fun, voluminous bubbles. Your medium layers give the bubbles great texture and thickness. This style is surprisingly secure and stays looking fresh all day long. It is an amazing choice for special occasions, parties, or anytime you want to feel a little extra glamorous and stylish.",
+        "paragraphs": [
+          "Looking for a trendy, red-carpet-worthy style?",
+          "The bubble braid with a blonde ribbon on medium layered hair is very popular right now. Create a ponytail and use small elastics to section it into bubbles. Then, take a blonde ribbon and weave it through each bubble, tying it along the way. The ribbon adds a delicate touch to the fun, voluminous bubbles. Your medium layers give the bubbles great texture and thickness. This style is surprisingly secure and stays looking fresh all day long. It is an amazing choice for special occasions, parties, or anytime you want to feel a little extra glamorous and stylish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for bubble braid with blonde ribbon medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in bubble braid with blonde ribbon medium layered hair."
+      },
+      {
+        "number": 12,
+        "title": "Half Down Curls With Blonde Ribbon Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_18.jpg",
+        "description": "How do you highlight gorgeous layers and curls? Half down curls with a blonde ribbon on medium layered hair are the perfect match. Curl your layers into soft, bouncy rings, leaving the bottom half completely down. Pin the top half back and tie a blonde ribbon around the secured section. The ribbon acts as a beautiful, blending accent that does not distract from your stunning curls. The medium layers will cascade beautifully, showing off the dimension of the cut. This look is incredibly romantic and timeless, perfect for holiday parties or special celebrations. You will look effortlessly radiant with this classic, feminine styling choice.",
+        "paragraphs": [
+          "How do you highlight gorgeous layers and curls?",
+          "Half down curls with a blonde ribbon on medium layered hair are the perfect match. Curl your layers into soft, bouncy rings, leaving the bottom half completely down. Pin the top half back and tie a blonde ribbon around the secured section. The ribbon acts as a beautiful, blending accent that does not distract from your stunning curls. The medium layers will cascade beautifully, showing off the dimension of the cut. This look is incredibly romantic and timeless, perfect for holiday parties or special celebrations. You will look effortlessly radiant with this classic, feminine styling choice."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for half down curls with blonde ribbon medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in half down curls with blonde ribbon medium layered hair."
+      },
+      {
+        "number": 13,
+        "title": "Medium Layered Hair With Blonde Ribbon Headband",
+        "image": "/images/doc_b22_1_img_12.jpg",
+        "description": "Tired of hair falling in your eyes? Medium layered hair with a blonde ribbon headband is a practical and pretty solution. Simply tie a blonde ribbon around your head, placing it like a headband over your pushed-back layers. The ribbon blends right into your blonde hair, creating a seamless, built-in accessory look. Your medium layers will fall beautifully over the ribbon, showing off their natural volume and cut. This is a great way to keep your hair out of your face while studying or running errands. It is comfortable, lightweight, and adds a touch of sweetness to your everyday hair routine.",
+        "paragraphs": [
+          "Tired of hair falling in your eyes?",
+          "Medium layered hair with a blonde ribbon headband is a practical and pretty solution. Simply tie a blonde ribbon around your head, placing it like a headband over your pushed-back layers. The ribbon blends right into your blonde hair, creating a seamless, built-in accessory look. Your medium layers will fall beautifully over the ribbon, showing off their natural volume and cut. This is a great way to keep your hair out of your face while studying or running errands. It is comfortable, lightweight, and adds a touch of sweetness to your everyday hair routine."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered hair with blonde ribbon headband.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered hair with blonde ribbon headband."
+      },
+      {
+        "number": 14,
+        "title": "Space Buns With Blonde Ribbon Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_10.jpg",
+        "description": "Feeling adventurous with your hairstyle?Space buns with a blonde ribbonon medium layered hair are incredibly fun. Divide your hair into two high buns, leaving your face-framing layers loose. Weave a blonde ribbon through the buns or tie it around their bases. The ribbon seamlessly blends into your hair, making the buns look like they are wrapped in your own strands. The medium layers add a lovely softness around your face and neck. This look is amazing for music festivals, costume parties, or just a bold everyday statement. It is energetic, unique, and guaranteed to make you stand out in the best way.",
+        "paragraphs": [
+          "Feeling adventurous with your hairstyle?Space buns with a blonde ribbonon medium layered hair are incredibly fun.",
+          "Divide your hair into two high buns, leaving your face-framing layers loose. Weave a blonde ribbon through the buns or tie it around their bases. The ribbon seamlessly blends into your hair, making the buns look like they are wrapped in your own strands. The medium layers add a lovely softness around your face and neck. This look is amazing for music festivals, costume parties, or just a bold everyday statement. It is energetic, unique, and guaranteed to make you stand out in the best way."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for space buns with blonde ribbon medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in space buns with blonde ribbon medium layered hair."
+      },
+      {
+        "number": 15,
+        "title": "Blonde Ribbon Low Chignon Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_11.jpg",
+        "description": "Looking for a sleek and graceful option? The blonde ribbon low chignon for medium layered hair is simply beautiful. Smooth down your layers and gather them at the nape of your neck into a neat chignon. Thread a blonde ribbon through the style, tying it into a delicate bow. The ribbon matches your hair color, adding a subtle, luxurious detail without overwhelming the look. The layered pieces can be smoothed down with gel for a clean finish, or left slightly wispy for romance. This style is perfect for professional settings or elegant evening affairs. It is a sophisticated take on a classic, timeless updo.",
+        "paragraphs": [
+          "Looking for a sleek and graceful option?",
+          "The blonde ribbon low chignon for medium layered hair is simply beautiful. Smooth down your layers and gather them at the nape of your neck into a neat chignon. Thread a blonde ribbon through the style, tying it into a delicate bow. The ribbon matches your hair color, adding a subtle, luxurious detail without overwhelming the look. The layered pieces can be smoothed down with gel for a clean finish, or left slightly wispy for romance. This style is perfect for professional settings or elegant evening affairs. It is a sophisticated take on a classic, timeless updo."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon low chignon medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon low chignon medium layered hair."
+      },
+      {
+        "number": 16,
+        "title": "Blonde Ribbon Top Knot Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_9.jpg",
+        "description": "Need a polished look that stays out of your way? The blonde ribbon top knot for medium layered hair is both practical and stylish. Sweep your textured layers up into a high, sleek top knot. Then, wrap a blonde ribbon around the base of the knot for a chic finishing touch. The ribbon adds a touch of femininity to a sporty, structured style. The shorter layers can be pinned up smoothly, or you can leave a few out for a softer look. This is perfect for busy workdays,gym sessions, or coffee runs. The blonde ribbon keeps the look coordinated and effortlessly elegant without any fuss.",
+        "paragraphs": [
+          "Need a polished look that stays out of your way?",
+          "The blonde ribbon top knot for medium layered hair is both practical and stylish. Sweep your textured layers up into a high, sleek top knot. Then, wrap a blonde ribbon around the base of the knot for a chic finishing touch. The ribbon adds a touch of femininity to a sporty, structured style. The shorter layers can be pinned up smoothly, or you can leave a few out for a softer look. This is perfect for busy workdays,gym sessions, or coffee runs. The blonde ribbon keeps the look coordinated and effortlessly elegant without any fuss."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon top knot medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon top knot medium layered hair."
+      },
+      {
+        "number": 17,
+        "title": "Blonde Ribbon French Twist Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_7.jpg",
+        "description": "Searching for elegant evening inspiration? The blonde ribbon French twist on medium layered hair delivers pure sophistication. This timeless updo gets a modern update by incorporating a blonde ribbon woven through the twist. The ribbon acts as a beautiful accent that catches the light without clashing with your hair color. Medium layers add necessary volume at the crown and soften the overall silhouette of the twist. It is a stunning choice for formal events, weddings, or upscale dinners. The subtle addition of the ribbon makes this classic style feel fresh and unique. You will definitely turn heads with this refined and graceful hair creation.",
+        "paragraphs": [
+          "Searching for elegant evening inspiration?",
+          "The blonde ribbon French twist on medium layered hair delivers pure sophistication. This timeless updo gets a modern update by incorporating a blonde ribbon woven through the twist. The ribbon acts as a beautiful accent that catches the light without clashing with your hair color. Medium layers add necessary volume at the crown and soften the overall silhouette of the twist. It is a stunning choice for formal events, weddings, or upscale dinners. The subtle addition of the ribbon makes this classic style feel fresh and unique. You will definitely turn heads with this refined and graceful hair creation."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon french twist medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon french twist medium layered hair."
+      },
+      {
+        "number": 18,
+        "title": "Blonde Ribbon Ponytail Medium Layered Hair",
+        "image": "/images/doc_b22_1_img_3.jpg",
+        "description": "Need a quick upgrade to your everyday ponytail? The blonde ribbon ponytail for medium layered hair is effortlessly chic. Simply gather your textured layers into a mid-height ponytail and wrap a blonde ribbon around the hair tie. Let the ribbon ends flow freely with your layered ends. This creates a cohesive, blended look that mimics your hair color while adding delicate detail. The layers in the ponytail give it fabulous volume and bounce, while the ribbon adds a touch of elegance. It is perfect for running errands or meeting friends for coffee. This style proves you do not need complicated techniques to achieve a polished, stylish appearance.",
+        "paragraphs": [
+          "Need a quick upgrade to your everyday ponytail?",
+          "The blonde ribbon ponytail for medium layered hair is effortlessly chic. Simply gather your textured layers into a mid-height ponytail and wrap a blonde ribbon around the hair tie. Let the ribbon ends flow freely with your layered ends. This creates a cohesive, blended look that mimics your hair color while adding delicate detail. The layers in the ponytail give it fabulous volume and bounce, while the ribbon adds a touch of elegance. It is perfect for running errands or meeting friends for coffee. This style proves you do not need complicated techniques to achieve a polished, stylish appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blonde ribbon ponytail medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blonde ribbon ponytail medium layered hair."
+      }
+    ]
+  },
+  {
+    "id": "collarbone-lob-layers",
+    "slug": "collarbone-lob-layers",
+    "title": "16+ Collarbone Lob with Layers for Easy Shape",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "October 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_2_img_15.jpg",
+    "intro": "Soft, shoulder-skimming hair that moves when you walk is exactly what makes a collarbonelob with layersso popular right now. This cut sits around the collarbone and uses tailored layering to bring swing, shape, and easy volume without feeling heavy or dated. It works on straight, wavy, and even fine hair, making it a go-to option if you want a cut that looks polished but not overly “done.” The collarbone length is long enough to pull into a ponytail yet short enough to keep ends looking thick and healthy. Stylists love this length because it flatters almost every face shape and can be customized with soft layering, shag-inspired texture, or a sleek finish depending on your hair type and lifestyle. With the right version, you can boost fullness, add movement, and get a modern shape that grows out gracefully between salon visits.",
+    "introParagraphs": [
+      "Soft, shoulder-skimming hair that moves when you walk is exactly what makes a collarbonelob with layersso popular right now. This cut sits around the collarbone and uses tailored layering to bring swing, shape, and easy volume without feeling heavy or dated. It works on straight, wavy, and even fine hair, making it a go-to option if you want a cut that looks polished but not overly “done.” The collarbone length is long enough to pull into a ponytail yet short enough to keep ends looking thick and healthy. Stylists love this length because it flatters almost every face shape and can be customized with soft layering, shag-inspired texture, or a sleek finish depending on your hair type and lifestyle. With the right version, you can boost fullness, add movement, and get a modern shape that grows out gracefully between salon visits.",
+      "A classic collarbone lob with soft layers is a great place to start if you want a balanced, everyday cut that still feels fresh. The hair typically hits right at the collarbone, with long, subtle layers that sit mostly through the mid-lengths and ends, which keeps the perimeter looking full while adding movement. This version works well on straight or slightly wavy hair, and it flatters most face shapes because the length gently skims the jaw and neck rather than cutting them off sharply. Ask your stylist for long layers and minimal texturizing so the hair doesn’t thin out at the ends, especially if your strands are fine. At home, a round brush or a large curling iron is enough to bend the ends inward or outward, and a light texturizing spray can enhance the airy finish without weighing everything down."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 16+ Collarbone Lob with Layers for Easy Shape",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Collarbone Lob With Choppy Layers",
+        "image": "/images/doc_b22_2_img_15.jpg",
+        "description": "A collarbone lob with choppy layers leans into a more playful, edgy vibe while staying completely wearable. The length stays around the collarbone, but the layers are cut shorter and more defined, often with visible texture at the ends. This approach removes bulk, adds movement, and creates lots of piecey separation, making it a great option if your hair normally feels lifeless. It works especially well on medium-density hair and can also give thick hair more lightness when strategically debulked. To style, work a texturizing spray or lightweight wax through dry hair, scrunching and twisting small sections to encourage that choppy, lived-in look. You can also add a few loose, irregular waves with a curling wand to emphasize the different lengths and show off the layered collarbone lob shape.",
+        "paragraphs": [
+          "A collarbone lob with choppy layers leans into a more playful, edgy vibe while staying completely wearable.",
+          "The length stays around the collarbone, but the layers are cut shorter and more defined, often with visible texture at the ends. This approach removes bulk, adds movement, and creates lots of piecey separation, making it a great option if your hair normally feels lifeless. It works especially well on medium-density hair and can also give thick hair more lightness when strategically debulked. To style, work a texturizing spray or lightweight wax through dry hair, scrunching and twisting small sections to encourage that choppy, lived-in look. You can also add a few loose, irregular waves with a curling wand to emphasize the different lengths and show off the layered collarbone lob shape."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with choppy layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with choppy layers."
+      },
+      {
+        "number": 2,
+        "title": "Collarbone Lob With Curtain Bangs And Layers",
+        "image": "/images/doc_b22_2_img_6.jpg",
+        "description": "A collarbonelob with curtain bangsand layers blends a trendy fringe with a universally flattering length. In this version, the hair falls to the collarbone while curtain bangs split down the middle or slightly off-center, draping around the cheekbones and blending into the layered sides. The layered lob body provides movement and keeps the look from feeling heavy, while the fringe softens the forehead and frames the eyes beautifully. This combination works especially well on oval, heart, and longer face shapes since curtain bangs visually shorten the face and add balance. For styling, blow-dry the bangs with a small round brush, turning them away from the face, then use a larger brush or curling iron to add loose bends through the rest of the hair. A light texturizing spray or dry shampoo at the roots helps maintain lift and keeps the fringe from separating throughout the day.",
+        "paragraphs": [
+          "A collarbonelob with curtain bangsand layers blends a trendy fringe with a universally flattering length.",
+          "In this version, the hair falls to the collarbone while curtain bangs split down the middle or slightly off-center, draping around the cheekbones and blending into the layered sides. The layered lob body provides movement and keeps the look from feeling heavy, while the fringe softens the forehead and frames the eyes beautifully. This combination works especially well on oval, heart, and longer face shapes since curtain bangs visually shorten the face and add balance. For styling, blow-dry the bangs with a small round brush, turning them away from the face, then use a larger brush or curling iron to add loose bends through the rest of the hair. A light texturizing spray or dry shampoo at the roots helps maintain lift and keeps the fringe from separating throughout the day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with curtain bangs and layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with curtain bangs and layers."
+      },
+      {
+        "number": 3,
+        "title": "Collarbone Lob With Layers For Thin Hair",
+        "image": "/images/doc_b22_2_img_16.jpg",
+        "description": "A collarbone lob with layers can be especially helpful for thin hair when it is cut thoughtfully. The trick is to keep the length at or slightly above the collarbone so the ends look fuller and to use only light layering to avoid removing too much bulk. Stylists often favor long layers and a slightly rounded shape at the bottom, which gives the illusion of thicker edges. Some may also add subtle face framing just around the front to keep the shape from feeling too heavy or flat near the cheeks. For styling, volumizing foam at the roots and a blowout with a round brush will help lift thin strands, and a dry texture spray adds airy fullness. Avoid heavy oils and thick creams, which can weigh down the hair and hide the movement in those carefully placed layers.",
+        "paragraphs": [
+          "A collarbone lob with layers can be especially helpful for thin hair when it is cut thoughtfully.",
+          "The trick is to keep the length at or slightly above the collarbone so the ends look fuller and to use only light layering to avoid removing too much bulk. Stylists often favor long layers and a slightly rounded shape at the bottom, which gives the illusion of thicker edges. Some may also add subtle face framing just around the front to keep the shape from feeling too heavy or flat near the cheeks. For styling, volumizing foam at the roots and a blowout with a round brush will help lift thin strands, and a dry texture spray adds airy fullness. Avoid heavy oils and thick creams, which can weigh down the hair and hide the movement in those carefully placed layers."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with layers for thin hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with layers for thin hair."
+      },
+      {
+        "number": 4,
+        "title": "Collarbone Lob With Inverted Layers",
+        "image": "/images/doc_b22_2_img_14.jpg",
+        "description": "A collarbone lob withinverted layersfeatures a slightly shorter back and longer front, combined with layering to enhance the angle. The hemline typically rises gently toward the nape while the front sections skim the collarbone or fall just below, which visually elongates the neck and draws attention toward the face. Layers are used to lighten the back and build volume around the crown, preventing the cut from looking too heavy at the bottom. This shape works well on straight or wavy hair and flatters many face shapes, especially round or square faces needing more structure. For styling, blow-dry with a round brush to encourage lift at the roots, or add subtle waves to emphasize the angle between front and back. Use a light shine spray to highlight the inverted line and keep the cut looking polished from every angle.",
+        "paragraphs": [
+          "A collarbone lob withinverted layersfeatures a slightly shorter back and longer front, combined with layering to enhance the angle.",
+          "The hemline typically rises gently toward the nape while the front sections skim the collarbone or fall just below, which visually elongates the neck and draws attention toward the face. Layers are used to lighten the back and build volume around the crown, preventing the cut from looking too heavy at the bottom. This shape works well on straight or wavy hair and flatters many face shapes, especially round or square faces needing more structure. For styling, blow-dry with a round brush to encourage lift at the roots, or add subtle waves to emphasize the angle between front and back. Use a light shine spray to highlight the inverted line and keep the cut looking polished from every angle."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with inverted layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with inverted layers."
+      },
+      {
+        "number": 5,
+        "title": "Collarbone Lob With Long Layers",
+        "image": "/images/doc_b22_2_img_5.jpg",
+        "description": "A collarbone lob with long layers is ideal when you want movement but prefer the look of a fuller, less choppy cut. The length sits at the collarbone while the layers are cut very long and blended, so the haircut looks almost one-length at first glance yet sways easily when you move. This shape works across many hair types, including thicker strands that need slight debulking and fine hair that can’t handle too many short layers. Keeping the layering long prevents the ends from looking wispy and makes the style grow out smoothly, which is helpful if you don’t visit the salon often. To style, use a smoothing cream for blow-drying if you want a sleek finish or a light mousse plus a curling wand for soft waves. Either approach will highlight the layering and give your hair a soft, flowing look that still feels low maintenance.",
+        "paragraphs": [
+          "A collarbone lob with long layers is ideal when you want movement but prefer the look of a fuller, less choppy cut.",
+          "The length sits at the collarbone while the layers are cut very long and blended, so the haircut looks almost one-length at first glance yet sways easily when you move. This shape works across many hair types, including thicker strands that need slight debulking and fine hair that can’t handle too many short layers. Keeping the layering long prevents the ends from looking wispy and makes the style grow out smoothly, which is helpful if you don’t visit the salon often. To style, use a smoothing cream for blow-drying if you want a sleek finish or a light mousse plus a curling wand for soft waves. Either approach will highlight the layering and give your hair a soft, flowing look that still feels low maintenance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with long layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with long layers."
+      },
+      {
+        "number": 6,
+        "title": "Wavy Collarbone Lob With Layers",
+        "image": "/images/doc_b22_2_img_7.jpg",
+        "description": "A wavy collarbone lob with layers is a go-to if your hair naturally forms bends or loose waves. This haircut sits around the collarbone and uses layering to work with your texture instead of against it, so the waves fall in a flattering pattern and do not bunch up at the ends. The layers are typically medium to long, which keeps the shape flowing while still reducing bulk in thicker sections. For naturally wavy hair, ask your stylist to cut with your texture in mind, sometimes even cutting on dry hair to see exactly how the waves spring up. To style, apply a curl cream or wave foam on damp hair, scrunch upward, and either air-dry or diffuse on low heat for defined waves. Once dry, a mist of sea salt spray and a gentle shake at the roots will add extra body and dimension without making the hair feel crunchy.",
+        "paragraphs": [
+          "A wavy collarbone lob with layers is a go-to if your hair naturally forms bends or loose waves.",
+          "This haircut sits around the collarbone and uses layering to work with your texture instead of against it, so the waves fall in a flattering pattern and do not bunch up at the ends. The layers are typically medium to long, which keeps the shape flowing while still reducing bulk in thicker sections. For naturally wavy hair, ask your stylist to cut with your texture in mind, sometimes even cutting on dry hair to see exactly how the waves spring up. To style, apply a curl cream or wave foam on damp hair, scrunch upward, and either air-dry or diffuse on low heat for defined waves. Once dry, a mist of sea salt spray and a gentle shake at the roots will add extra body and dimension without making the hair feel crunchy."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wavy collarbone lob with layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wavy collarbone lob with layers."
+      },
+      {
+        "number": 7,
+        "title": "Shaggy Collarbone Lob With Layers",
+        "image": "/images/doc_b22_2_img_3.jpg",
+        "description": "A shaggy collarbone lob with layers combines the cool, rock-inspired feel of a shag with the wearable length of a lob. The hair still grazes the collarbone, but the layering is more pronounced, with choppy pieces and often a longer fringe or curtain bangs to frame the face. This bouncy layering adds lots of movement and lifts weight off the ends, which makes it a great pick for medium-density hair that feels too heavy when worn one length. The cut tends toflatter oval, heart, and round facesbecause the layers create gentle angles and vertical lines that visually slim the cheeks. For styling, wave-enhancing products and a diffuser or air-drying routine help the shaggy layers come to life, and a small amount of pomade on the ends defines the texture. The result is a collarbone lob that looks carefree but still polished enough for everyday wear or professional settings.",
+        "paragraphs": [
+          "A shaggy collarbone lob with layers combines the cool, rock-inspired feel of a shag with the wearable length of a lob.",
+          "The hair still grazes the collarbone, but the layering is more pronounced, with choppy pieces and often a longer fringe or curtain bangs to frame the face. This bouncy layering adds lots of movement and lifts weight off the ends, which makes it a great pick for medium-density hair that feels too heavy when worn one length. The cut tends toflatter oval, heart, and round facesbecause the layers create gentle angles and vertical lines that visually slim the cheeks. For styling, wave-enhancing products and a diffuser or air-drying routine help the shaggy layers come to life, and a small amount of pomade on the ends defines the texture. The result is a collarbone lob that looks carefree but still polished enough for everyday wear or professional settings."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shaggy collarbone lob with layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shaggy collarbone lob with layers."
+      },
+      {
+        "number": 8,
+        "title": "Classic Collarbone Lob With Soft Layers",
+        "image": "/images/doc_b22_2_img_1.jpg",
+        "description": "A classic collarbone lob with soft layers is a great place to start if you want a balanced, everyday cut that still feels fresh. The hair typically hits right at the collarbone, with long, subtle layers that sit mostly through the mid-lengths and ends, which keeps the perimeter looking full while adding movement. This version works well on straight or slightly wavy hair, and it flatters most face shapes because the length gently skims the jaw and neck rather than cutting them off sharply. Ask your stylist for long layers and minimal texturizing so the hair doesn’t thin out at the ends, especially if your strands are fine. At home, a round brush or a large curling iron is enough to bend the ends inward or outward, and a light texturizing spray can enhance the airy finish without weighing everything down.",
+        "paragraphs": [
+          "A classic collarbone lob with soft layers is a great place to start if you want a balanced, everyday cut that still feels fresh.",
+          "The hair typically hits right at the collarbone, with long, subtle layers that sit mostly through the mid-lengths and ends, which keeps the perimeter looking full while adding movement. This version works well on straight or slightly wavy hair, and it flatters most face shapes because the length gently skims the jaw and neck rather than cutting them off sharply. Ask your stylist for long layers and minimal texturizing so the hair doesn’t thin out at the ends, especially if your strands are fine. At home, a round brush or a large curling iron is enough to bend the ends inward or outward, and a light texturizing spray can enhance the airy finish without weighing everything down."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for classic collarbone lob with soft layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in classic collarbone lob with soft layers."
+      },
+      {
+        "number": 9,
+        "title": "Collarbone Lob With Layers And Balayage",
+        "image": "/images/doc_b22_2_img_12.jpg",
+        "description": "A collarbone lob with layers and balayage is a great option when you want your cut and color to work together to create dimension. The lob sits around the collarbone as usual, but the layered sections are enhanced with hand-painted highlights that follow the natural fall of your hair. This placement adds brightness around the face and depth through the mid-lengths and ends, which can make fine or medium hair look fuller. Balayage also grows out softly, so your collarbone lob still looks polished even as your roots appear. To keep the color vibrant, use sulfate-free shampoo, condition regularly, and consider a weekly hydrating mask to counteract lightening damage. Styling with loose waves or soft bends will show off the highs and lows in the color and make the layered sections pop more than when worn completely straight.",
+        "paragraphs": [
+          "A collarbone lob with layers and balayage is a great option when you want your cut and color to work together to create dimension.",
+          "The lob sits around the collarbone as usual, but the layered sections are enhanced with hand-painted highlights that follow the natural fall of your hair. This placement adds brightness around the face and depth through the mid-lengths and ends, which can make fine or medium hair look fuller. Balayage also grows out softly, so your collarbone lob still looks polished even as your roots appear. To keep the color vibrant, use sulfate-free shampoo, condition regularly, and consider a weekly hydrating mask to counteract lightening damage. Styling with loose waves or soft bends will show off the highs and lows in the color and make the layered sections pop more than when worn completely straight."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with layers and balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with layers and balayage."
+      },
+      {
+        "number": 10,
+        "title": "Textured Collarbone Lob With Layers",
+        "image": "/images/doc_b22_2_img_2.jpg",
+        "description": "A textured collarbone lob with layers is perfect if you like your hair to look a bit undone but still intentional. In this version, the lob still sits near the collarbone, yet the ends are lightly shattered and theinternal layersare cut to create lived-in texture. Stylists may use point-cutting and slide-cutting techniques to remove bulk in specific areas while maintaining enough weight to keep the shape flattering and soft. This layered lob works especially well on straight to wavy hair, where a little product can exaggerate the natural bend and create dimension. To style, apply a lightweight mousse or sea salt spray on damp hair, rough-dry with your fingers, then use a curling iron to add a few loose waves through the mid-lengths. Breaking up those curls with your hands and finishing with a texturizing spray gives you that tousled, piecey finish that feels effortless and modern.",
+        "paragraphs": [
+          "A textured collarbone lob with layers is perfect if you like your hair to look a bit undone but still intentional.",
+          "In this version, the lob still sits near the collarbone, yet the ends are lightly shattered and theinternal layersare cut to create lived-in texture. Stylists may use point-cutting and slide-cutting techniques to remove bulk in specific areas while maintaining enough weight to keep the shape flattering and soft. This layered lob works especially well on straight to wavy hair, where a little product can exaggerate the natural bend and create dimension. To style, apply a lightweight mousse or sea salt spray on damp hair, rough-dry with your fingers, then use a curling iron to add a few loose waves through the mid-lengths. Breaking up those curls with your hands and finishing with a texturizing spray gives you that tousled, piecey finish that feels effortless and modern."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured collarbone lob with layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured collarbone lob with layers."
+      },
+      {
+        "number": 11,
+        "title": "Collarbone Lob With Side Part And Layers",
+        "image": "/images/doc_b22_2_img_9.jpg",
+        "description": "A collarbone lob with a side part and layers brings instant softness and asymmetry to your look. The hair sits at the collarbone, but shifting the part to one side creates natural volume on top and lets the layered sections fall diagonally across the forehead or cheek. This is especially flattering on round or square faces because the side part and layered lengths visually cut across the widest points, creating subtle angles. The layers should be soft and blended so they move easily when you tuck one side behind your ear or sweep the front back. For styling, blow-dry with a round brush directing the hair away from the parting, then add a few loose waves or keep it straight depending on your preference. A light-hold hairspray will maintain the side part and keep your layers in place while still allowing touchable movement.",
+        "paragraphs": [
+          "A collarbone lob with a side part and layers brings instant softness and asymmetry to your look.",
+          "The hair sits at the collarbone, but shifting the part to one side creates natural volume on top and lets the layered sections fall diagonally across the forehead or cheek. This is especially flattering on round or square faces because the side part and layered lengths visually cut across the widest points, creating subtle angles. The layers should be soft and blended so they move easily when you tuck one side behind your ear or sweep the front back. For styling, blow-dry with a round brush directing the hair away from the parting, then add a few loose waves or keep it straight depending on your preference. A light-hold hairspray will maintain the side part and keep your layers in place while still allowing touchable movement."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with side part and layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with side part and layers."
+      },
+      {
+        "number": 12,
+        "title": "Collarbone Lob With Layers For Round Face",
+        "image": "/images/doc_b22_2_img_11.jpg",
+        "description": "A collarbone lob with layers can be very flattering if you have a round face and want a bit more definition. Keeping the length at the collarbone helps visually lengthen the face, while layers that start below the cheekbones avoid adding extra width at the fullest part of your face. Stylists often incorporate subtle face framing that begins around the jawline and extends into the lob’s layered body, drawing the eye downward. Soft waves or bends through the mid-lengths can also create vertical movement that balances roundness, especially when paired with a side part. For styling, use a curling iron to create loose waves that start below the cheek, then brush them out slightly for a relaxed look. A light mist of texturizing spray will keep the hair from clumping together and maintain that soft, slimming effect all day.",
+        "paragraphs": [
+          "A collarbone lob with layers can be very flattering if you have a round face and want a bit more definition.",
+          "Keeping the length at the collarbone helps visually lengthen the face, while layers that start below the cheekbones avoid adding extra width at the fullest part of your face. Stylists often incorporate subtle face framing that begins around the jawline and extends into the lob’s layered body, drawing the eye downward. Soft waves or bends through the mid-lengths can also create vertical movement that balances roundness, especially when paired with a side part. For styling, use a curling iron to create loose waves that start below the cheek, then brush them out slightly for a relaxed look. A light mist of texturizing spray will keep the hair from clumping together and maintain that soft, slimming effect all day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with layers for round face.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with layers for round face."
+      },
+      {
+        "number": 13,
+        "title": "Collarbone Lob With Layers And Blunt Ends",
+        "image": "/images/doc_b22_2_img_13.jpg",
+        "description": "A collarbone lob with layers and blunt ends gives you the best of both worlds: crisp lines and subtle movement. In this cut, the perimeter is cut straight across at the collarbone to create a sharp, thick-looking edge, while internal layers are added to keep the hair from feeling too heavy. This combination makes the hair appear fuller at the bottom, which is especially helpful for fine or medium-density hair that can look thin when heavily layered. At the same time, theinternal layers allow for natural swingand prevent the style from feeling boxy. For styling, you can wear it sleek with a flat iron for a strong, modern look or add soft, mid-length waves for a slightly more relaxed feel. A light smoothing serum and a flexible hairspray keep the ends looking sharp while maintaining movement in the rest of the hair.",
+        "paragraphs": [
+          "A collarbone lob with layers and blunt ends gives you the best of both worlds: crisp lines and subtle movement.",
+          "In this cut, the perimeter is cut straight across at the collarbone to create a sharp, thick-looking edge, while internal layers are added to keep the hair from feeling too heavy. This combination makes the hair appear fuller at the bottom, which is especially helpful for fine or medium-density hair that can look thin when heavily layered. At the same time, theinternal layers allow for natural swingand prevent the style from feeling boxy. For styling, you can wear it sleek with a flat iron for a strong, modern look or add soft, mid-length waves for a slightly more relaxed feel. A light smoothing serum and a flexible hairspray keep the ends looking sharp while maintaining movement in the rest of the hair."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with layers and blunt ends.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with layers and blunt ends."
+      },
+      {
+        "number": 14,
+        "title": "Sleek Straight Collarbone Lob With Layers",
+        "image": "/images/doc_b22_2_img_8.jpg",
+        "description": "A sleek straight collarbone lob with layers delivers a sharp, polished look that still has movement and bounce. The hair hits at the collarbone with long, minimal layers that are mostly invisible but prevent the cut from sitting too heavy or flat. This version works particularly well on naturally straight or slightly wavy hair that you like to smooth out with a blow-dryer or flat iron. Keeping the perimeter slightly blunt gives a clean line that looks chic, while the internal layers help the ends tuck under or flip out without much effort. Always use a heat protectant before styling, and finish with a lightweight serum focused on the mid-lengths and ends to avoid greasing up the roots. This combination gives you glassy shine while still letting the layered collarbone lob move naturally when you turn your head.",
+        "paragraphs": [
+          "A sleek straight collarbone lob with layers delivers a sharp, polished look that still has movement and bounce.",
+          "The hair hits at the collarbone with long, minimal layers that are mostly invisible but prevent the cut from sitting too heavy or flat. This version works particularly well on naturally straight or slightly wavy hair that you like to smooth out with a blow-dryer or flat iron. Keeping the perimeter slightly blunt gives a clean line that looks chic, while the internal layers help the ends tuck under or flip out without much effort. Always use a heat protectant before styling, and finish with a lightweight serum focused on the mid-lengths and ends to avoid greasing up the roots. This combination gives you glassy shine while still letting the layered collarbone lob move naturally when you turn your head."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for sleek straight collarbone lob with layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in sleek straight collarbone lob with layers."
+      },
+      {
+        "number": 15,
+        "title": "Collarbone Lob With Subtle Layers For Thick Hair",
+        "image": "/images/doc_b22_2_img_10.jpg",
+        "description": "A collarbone lob with subtle layers is a smart choice when you havethick hair that can feel bulkyat longer lengths. Here, the overall shape hits at the collarbone, but the layering is gentle and concentrated on the lower half of the hair to remove weight while preserving a strong outline. This prevents the ends from ballooning out and keeps the cut looking sleek yet still full. Your stylist might also lightly texturize the interior to help the hair sit closer to the head, which makes it easier to style and more comfortable in warm weather. At home, use a smoothing cream and a large round brush to blow-dry the hair in sections, directing it downward for a controlled finish. A light anti-frizz spray or serum will tame flyaways while still letting the subtle layering appear whenever you move your head.",
+        "paragraphs": [
+          "A collarbone lob with subtle layers is a smart choice when you havethick hair that can feel bulkyat longer lengths.",
+          "Here, the overall shape hits at the collarbone, but the layering is gentle and concentrated on the lower half of the hair to remove weight while preserving a strong outline. This prevents the ends from ballooning out and keeps the cut looking sleek yet still full. Your stylist might also lightly texturize the interior to help the hair sit closer to the head, which makes it easier to style and more comfortable in warm weather. At home, use a smoothing cream and a large round brush to blow-dry the hair in sections, directing it downward for a controlled finish. A light anti-frizz spray or serum will tame flyaways while still letting the subtle layering appear whenever you move your head."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with subtle layers for thick hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with subtle layers for thick hair."
+      },
+      {
+        "number": 16,
+        "title": "Collarbone Lob With Face Framing Layers",
+        "image": "/images/doc_b22_2_img_4.jpg",
+        "description": "A collarbone lob withface framing layersfocuses the movement right around your features for a very flattering effect. The main body of the hair stays at collarbone length, while soft, graduated layers are cut starting around the cheekbones or jawline, depending on your face shape and how much framing you want. These layers can slim fuller cheeks, soften strong jawlines, or highlight the eyes and cheekbones by drawing attention upward. On straight or wavy hair, this look is especially versatile because you can wear it smooth during the week and lightly curled on the weekend for more bounce. Styling usually involves blowing the front sections away from the face with a round brush, then adding a few loose waves around the cheek and jaw area to show off that framing. A light shine spray or serum keeps everything looking sleek without losing the movement in those layers.",
+        "paragraphs": [
+          "A collarbone lob withface framing layersfocuses the movement right around your features for a very flattering effect.",
+          "The main body of the hair stays at collarbone length, while soft, graduated layers are cut starting around the cheekbones or jawline, depending on your face shape and how much framing you want. These layers can slim fuller cheeks, soften strong jawlines, or highlight the eyes and cheekbones by drawing attention upward. On straight or wavy hair, this look is especially versatile because you can wear it smooth during the week and lightly curled on the weekend for more bounce. Styling usually involves blowing the front sections away from the face with a round brush, then adding a few loose waves around the cheek and jaw area to show off that framing. A light shine spray or serum keeps everything looking sleek without losing the movement in those layers."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for collarbone lob with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in collarbone lob with face framing layers."
+      }
+    ]
+  },
+  {
+    "id": "medium-layered-haircut-teenage-girls",
+    "slug": "medium-layered-haircut-teenage-girls",
+    "title": "17+ Medium Haircut for Teenage Girls with Layers and Movement",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "October 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_3_img_14.jpg",
+    "intro": "Finding the perfect balance betweenstyle and school-appropriate practicalitycan be a challenge for many young women today. As trends shift toward effortless texture, a medium haircut for teenage girls with layers has become the ultimate solution for versatility and modern flair. This length sits comfortably around the shoulders or collarbone, providing enough room for ponytails while offering a chic, loose look for social events. By adding strategic layers, stylists can remove weight from thick hair or add much-needed volume to finer strands. Whether you are aiming for a bold 1990s throwback or a soft, face-framing finish, these layered cuts allow teenagers to express their unique personalities through their hair.",
+    "introParagraphs": [
+      "Finding the perfect balance betweenstyle and school-appropriate practicalitycan be a challenge for many young women today. As trends shift toward effortless texture, a medium haircut for teenage girls with layers has become the ultimate solution for versatility and modern flair. This length sits comfortably around the shoulders or collarbone, providing enough room for ponytails while offering a chic, loose look for social events. By adding strategic layers, stylists can remove weight from thick hair or add much-needed volume to finer strands. Whether you are aiming for a bold 1990s throwback or a soft, face-framing finish, these layered cuts allow teenagers to express their unique personalities through their hair.",
+      "Amedium wolf cutis a high-energy fusion of the classic shag and a modern mullet that has taken social media by storm. This specific medium haircut for teenage girls with layers features heavy volume at the crown and wispy, tapered ends that hit right around the shoulders. It is an excellent choice for teens who want an edgy, rebellious vibe without losing too much length. The cut relies on multiple choppy layers to create a wild, untamed texture that looks best when air-dried with a bit of sea salt spray. It works beautifully on most hair types but is particularly effective for adding life and movement to naturally straight or slightly wavy hair."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 17+ Medium Haircut for Teenage Girls with Layers and Movement",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Blunt Cut With Light Layers",
+        "image": "/images/doc_b22_3_img_14.jpg",
+        "description": "A blunt cut with light layers offers the best of both worlds: a sharp, clean perimeter and the movement of a layered style. This medium haircut for teenage girls with layers keeps the very bottom edge of the hair straight and thick, while a few strategic layers are added to the top sections. This prevents the hair from looking too “helmet-like” and allows for a bit of texture when styling. It is a very trendy, modern look that appeals to teens who like a minimalist or “clean girl” aesthetic. Because the base is blunt, the hair often looks healthier and thicker, which is a major plus for girls dealing with heat damage.",
+        "paragraphs": [
+          "A blunt cut with light layers offers the best of both worlds: a sharp, clean perimeter and the movement of a layered style.",
+          "This medium haircut for teenage girls with layers keeps the very bottom edge of the hair straight and thick, while a few strategic layers are added to the top sections. This prevents the hair from looking too “helmet-like” and allows for a bit of texture when styling. It is a very trendy, modern look that appeals to teens who like a minimalist or “clean girl” aesthetic. Because the base is blunt, the hair often looks healthier and thicker, which is a major plus for girls dealing with heat damage."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blunt cut with light layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blunt cut with light layers."
+      },
+      {
+        "number": 2,
+        "title": "Medium Length Razored Layers",
+        "image": "/images/doc_b22_3_img_16.jpg",
+        "description": "Medium length razored layers are created using a straight-edge razor instead of traditional scissors, resulting in incredibly sharp and wispy ends. This medium haircut for teenage girls with layers is perfect for achieving a modern, edgy look that feels very lightweight. The razor technique allows the stylist to taper the ends of the hair much more than scissors, which creates a seamless blend between different lengths. It is a fantastic option for girls with very thick hair who want to feel a significant reduction in weight. The finished result is a “shattered” look that has a lot of movement and a very trendy, fashion-forward vibe.",
+        "paragraphs": [
+          "Medium length razored layers are created using a straight-edge razor instead of traditional scissors, resulting in incredibly sharp and wispy ends.",
+          "This medium haircut for teenage girls with layers is perfect for achieving a modern, edgy look that feels very lightweight. The razor technique allows the stylist to taper the ends of the hair much more than scissors, which creates a seamless blend between different lengths. It is a fantastic option for girls with very thick hair who want to feel a significant reduction in weight. The finished result is a “shattered” look that has a lot of movement and a very trendy, fashion-forward vibe."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length razored layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length razored layers."
+      },
+      {
+        "number": 3,
+        "title": "Ghost Layers Medium Hair",
+        "image": "/images/doc_b22_3_img_9.jpg",
+        "description": "Ghost layers medium hair is a “secret” layering technique where the layers are cut underneath the top section of the hair. This medium haircut for teenage girls with layers provides the movement and volume of a layered cut without the visible “steps” or choppy look of traditional layering. It is the perfect solution for teens who love the look of a blunt, one-length cut but struggle with hair that feels too heavy or flat. By removing weight from the interior, the hair gains a hidden bounce and a much lighter feel. This technique works wonders on straight hair, giving it a subtle, expensive-looking swing that looks completely natural and effortless.",
+        "paragraphs": [
+          "Ghost layers medium hair is a “secret” layering technique where the layers are cut underneath the top section of the hair.",
+          "This medium haircut for teenage girls with layers provides the movement and volume of a layered cut without the visible “steps” or choppy look of traditional layering. It is the perfect solution for teens who love the look of a blunt, one-length cut but struggle with hair that feels too heavy or flat. By removing weight from the interior, the hair gains a hidden bounce and a much lighter feel. This technique works wonders on straight hair, giving it a subtle, expensive-looking swing that looks completely natural and effortless."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for ghost layers medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in ghost layers medium hair."
+      },
+      {
+        "number": 4,
+        "title": "Internal Layers Medium Hair",
+        "image": "/images/doc_b22_3_img_12.jpg",
+        "description": "Internal layers medium hair focuses on creating structure and support from within the haircut rather than on the surface. This medium haircut for teenage girls with layers is designed to prevent the “triangle” shape that often occurs when thick hair is cut to shoulder length. By thinning out the middle sections of the hair, the stylist allows the hair to lay closer to the head while still maintaining plenty of body. It is an invisible way to manage high-density hair, making it much more comfortable for daily wear. This cut is ideal for the active teenager who spends a lot of time in sports and needs hair that is easy to tie up.",
+        "paragraphs": [
+          "Internal layers medium hair focuses on creating structure and support from within the haircut rather than on the surface.",
+          "This medium haircut for teenage girls with layers is designed to prevent the “triangle” shape that often occurs when thick hair is cut to shoulder length. By thinning out the middle sections of the hair, the stylist allows the hair to lay closer to the head while still maintaining plenty of body. It is an invisible way to manage high-density hair, making it much more comfortable for daily wear. This cut is ideal for the active teenager who spends a lot of time in sports and needs hair that is easy to tie up."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for internal layers medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in internal layers medium hair."
+      },
+      {
+        "number": 5,
+        "title": "Rounded Layered Haircut",
+        "image": "/images/doc_b22_3_img_13.jpg",
+        "description": "A rounded layered haircut is designed to create a soft, circular silhouette that frames the face with a series of curved sections. This medium haircut for teenage girls with layers is particularly flattering for those with angular face shapes, such as square or diamond, as the rounded ends soften the jawline. The layers are cut in a way that encourages the hair to curl inward toward the face, providing a classic and tidy appearance. It is a very popular choice for middle school and high school girls who want a look that is both cute and sophisticated. Keeping the ends hydrated with a light hair oil is key to maintaining the smooth, rounded finish.",
+        "paragraphs": [
+          "A rounded layered haircut is designed to create a soft, circular silhouette that frames the face with a series of curved sections.",
+          "This medium haircut for teenage girls with layers is particularly flattering for those with angular face shapes, such as square or diamond, as the rounded ends soften the jawline. The layers are cut in a way that encourages the hair to curl inward toward the face, providing a classic and tidy appearance. It is a very popular choice for middle school and high school girls who want a look that is both cute and sophisticated. Keeping the ends hydrated with a light hair oil is key to maintaining the smooth, rounded finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for rounded layered haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in rounded layered haircut."
+      },
+      {
+        "number": 6,
+        "title": "Feathered Layers Medium Length",
+        "image": "/images/doc_b22_3_img_19.jpg",
+        "description": "Feathered layers medium length hair is a classic technique where the hair is layered in a way that resembles the overlapping feathers of a bird. This medium haircut for teenage girls with layers is focused on the very ends of the hair, creating a soft and light texture that flows beautifully. It is a very versatile style that can be worn by girls with any hair type, from pin-straight to tight waves. The feathering technique removes the “clunkiness” from the ends, allowing the hair to move more freely. It is a gentle, pretty look that is easy to maintain and grows out gracefully, making it a practical choice for busy teens.",
+        "paragraphs": [
+          "Feathered layers medium length hair is a classic technique where the hair is layered in a way that resembles the overlapping feathers of a bird.",
+          "This medium haircut for teenage girls with layers is focused on the very ends of the hair, creating a soft and light texture that flows beautifully. It is a very versatile style that can be worn by girls with any hair type, from pin-straight to tight waves. The feathering technique removes the “clunkiness” from the ends, allowing the hair to move more freely. It is a gentle, pretty look that is easy to maintain and grows out gracefully, making it a practical choice for busy teens."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for feathered layers medium length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in feathered layers medium length."
+      },
+      {
+        "number": 7,
+        "title": "Shoulder Length Face Framing Layers",
+        "image": "/images/doc_b22_3_img_5.jpg",
+        "description": "Shoulder length face framing layers are designed specifically to accentuate the eyes and jawline by using graduated lengths at the front. Unlike all-over layering, this medium haircut for teenage girls with layers keeps the back relatively uniform while focusing the detail around the face. The shortest layer usually starts at the chin, cascading down to meet the shoulder-length perimeter. This is a brilliant choice for girls with round or heart-shaped faces, as the diagonal lines of the layers help to elongate the appearance of the face. It is an easy-to-style cut that looks stunning whether it is worn perfectly straight or with a gentle, rounded-in blow-dry.",
+        "paragraphs": [
+          "Shoulder length face framing layers are designed specifically to accentuate the eyes and jawline by using graduated lengths at the front.",
+          "Unlike all-over layering, this medium haircut for teenage girls with layers keeps the back relatively uniform while focusing the detail around the face. The shortest layer usually starts at the chin, cascading down to meet the shoulder-length perimeter. This is a brilliant choice for girls with round or heart-shaped faces, as the diagonal lines of the layers help to elongate the appearance of the face. It is an easy-to-style cut that looks stunning whether it is worn perfectly straight or with a gentle, rounded-in blow-dry."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length face framing layers."
+      },
+      {
+        "number": 8,
+        "title": "Flipped Out Layered Hair",
+        "image": "/images/doc_b22_3_img_18.jpg",
+        "description": "Flipped out layered hair is a nostalgic 1960s-inspired look that has made a major comeback in recent years. This medium haircut for teenage girls with layers involves cutting the ends in a way that encourages them to kick outward rather than inward. It is a playful and high-energy style that looks particularly great on shoulder-length hair. To achieve the signature “flip,” a round brush or a flat iron is used to curve the ends away from the face. This cut is a favorite forspecial occasions like homecomingor parties because it adds an instant touch of glamour and personality to an otherwise simple medium-length base.",
+        "paragraphs": [
+          "Flipped out layered hair is a nostalgic 1960s-inspired look that has made a major comeback in recent years.",
+          "This medium haircut for teenage girls with layers involves cutting the ends in a way that encourages them to kick outward rather than inward. It is a playful and high-energy style that looks particularly great on shoulder-length hair. To achieve the signature “flip,” a round brush or a flat iron is used to curve the ends away from the face. This cut is a favorite forspecial occasions like homecomingor parties because it adds an instant touch of glamour and personality to an otherwise simple medium-length base."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for flipped out layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in flipped out layered hair."
+      },
+      {
+        "number": 9,
+        "title": "Medium Wolf Cut",
+        "image": "/images/doc_b22_3_img_1.jpg",
+        "description": "Amedium wolf cutis a high-energy fusion of the classic shag and a modern mullet that has taken social media by storm. This specific medium haircut for teenage girls with layers features heavy volume at the crown and wispy, tapered ends that hit right around the shoulders. It is an excellent choice for teens who want an edgy, rebellious vibe without losing too much length. The cut relies on multiple choppy layers to create a wild, untamed texture that looks best when air-dried with a bit of sea salt spray. It works beautifully on most hair types but is particularly effective for adding life and movement to naturally straight or slightly wavy hair.",
+        "paragraphs": [
+          "Amedium wolf cutis a high-energy fusion of the classic shag and a modern mullet that has taken social media by storm.",
+          "This specific medium haircut for teenage girls with layers features heavy volume at the crown and wispy, tapered ends that hit right around the shoulders. It is an excellent choice for teens who want an edgy, rebellious vibe without losing too much length. The cut relies on multiple choppy layers to create a wild, untamed texture that looks best when air-dried with a bit of sea salt spray. It works beautifully on most hair types but is particularly effective for adding life and movement to naturally straight or slightly wavy hair."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium wolf cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium wolf cut."
+      },
+      {
+        "number": 10,
+        "title": "Medium Layered Hair With Highlights",
+        "image": "/images/doc_b22_3_img_10.jpg",
+        "description": "Adding a medium layered hair with highlights combination is a great way to make the texture of a new cut truly pop. This medium haircut for teenage girls with layers uses color to define the different levels of the hair, making the layers more visible and three-dimensional. Whether you choose sun-kissed balayage or bold, face-framing “money piece” highlights, the color helps to draw attention to the movement within the style. This is an excellent way for teenagers to experiment with hair color without a full-head commitment. The layers ensure that the color blends naturally, avoiding any harsh lines as the hair grows out over several months between salon visits.",
+        "paragraphs": [
+          "Adding a medium layered hair with highlights combination is a great way to make the texture of a new cut truly pop.",
+          "This medium haircut for teenage girls with layers uses color to define the different levels of the hair, making the layers more visible and three-dimensional. Whether you choose sun-kissed balayage or bold, face-framing “money piece” highlights, the color helps to draw attention to the movement within the style. This is an excellent way for teenagers to experiment with hair color without a full-head commitment. The layers ensure that the color blends naturally, avoiding any harsh lines as the hair grows out over several months between salon visits."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered hair with highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered hair with highlights."
+      },
+      {
+        "number": 11,
+        "title": "Curly Medium Layered Hair",
+        "image": "/images/doc_b22_3_img_17.jpg",
+        "description": "Managing natural curls is much easier with a curly medium layered hair approach, as layers help to distribute the volume evenly around the head. This medium haircut for teenage girls with layers is essential for avoiding the bottom-heavy look that often plagues curly-haired individuals. By cutting layers at different heights, the curls can “stack” on top of each other, creating a beautiful, bouncy shape that defines every ringlet. This style also makes it easier to apply curl-defining products, as you can reach the inner sections of the hair more effectively. It is a confident and joyful look that celebrates natural texture while keeping it manageable for school.",
+        "paragraphs": [
+          "Managing natural curls is much easier with a curly medium layered hair approach, as layers help to distribute the volume evenly around the head.",
+          "This medium haircut for teenage girls with layers is essential for avoiding the bottom-heavy look that often plagues curly-haired individuals. By cutting layers at different heights, the curls can “stack” on top of each other, creating a beautiful, bouncy shape that defines every ringlet. This style also makes it easier to apply curl-defining products, as you can reach the inner sections of the hair more effectively. It is a confident and joyful look that celebrates natural texture while keeping it manageable for school."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for curly medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in curly medium layered hair."
+      },
+      {
+        "number": 12,
+        "title": "Choppy Layers Medium Length",
+        "image": "/images/doc_b22_3_img_6.jpg",
+        "description": "If you are looking for a bit of grit and texture, choppy layers medium length hair provides a modern, textured finish that is full of personality. This medium haircut for teenage girls with layers involves cutting sections of varying lengths to create a jagged, uneven perimeter that looks intentionally undone. It is a great way to add “cool girl” energy to a standard shoulder-length cut. This style is particularly effective for fine hair because the different lengths create the illusion of thickness and density. To style it, a small amount of texturizing paste can be worked through the ends to define the individual layers and give it a piecey, modern appearance.",
+        "paragraphs": [
+          "If you are looking for a bit of grit and texture, choppy layers medium length hair provides a modern, textured finish that is full of personality.",
+          "This medium haircut for teenage girls with layers involves cutting sections of varying lengths to create a jagged, uneven perimeter that looks intentionally undone. It is a great way to add “cool girl” energy to a standard shoulder-length cut. This style is particularly effective for fine hair because the different lengths create the illusion of thickness and density. To style it, a small amount of texturizing paste can be worked through the ends to define the individual layers and give it a piecey, modern appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for choppy layers medium length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in choppy layers medium length."
+      },
+      {
+        "number": 13,
+        "title": "Curtain Bangs Medium Layers",
+        "image": "/images/doc_b22_3_img_4.jpg",
+        "description": "Choosing curtain bangs medium layers is a timeless way to update a look without a drastic transformation. This style focuses on long, sweeping bangs that part down the middle, blending seamlessly into shoulder-length layers that hug the cheekbones and jawline. This medium haircut for teenage girls with layers is universally flattering because the bangs can be customized to highlight specific facial features. The layers throughout the rest of the hair add a subtle flow and prevent the cut from looking too heavy or blocky. It is a polished and clean style that works well for school photos, formal dances, or just a casual day out with friends.",
+        "paragraphs": [
+          "Choosing curtain bangs medium layers is a timeless way to update a look without a drastic transformation.",
+          "This style focuses on long, sweeping bangs that part down the middle, blending seamlessly into shoulder-length layers that hug the cheekbones and jawline. This medium haircut for teenage girls with layers is universally flattering because the bangs can be customized to highlight specific facial features. The layers throughout the rest of the hair add a subtle flow and prevent the cut from looking too heavy or blocky. It is a polished and clean style that works well for school photos, formal dances, or just a casual day out with friends."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for curtain bangs medium layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in curtain bangs medium layers."
+      },
+      {
+        "number": 14,
+        "title": "Butterfly Haircut Medium",
+        "image": "/images/doc_b22_3_img_2.jpg",
+        "description": "Thebutterfly haircut mediumis a sophisticated take on layered hair that mimics the airy, fluttering wings of a butterfly. This style uses shorter layers around the chin to frame the face while maintaining longer, feathered layers throughout the back to preserve the overall length. It is one of the most popular versions of a medium haircut for teenage girls with layers because it offers a “fake short hair” look when the back is pinned up. The layers are typically cut to flip outward, providing incredible bounce and a glamorous, voluminous finish. It is a fantastic option for girls with thicker hair who want to reduce bulk while keeping a soft, feminine silhouette.",
+        "paragraphs": [
+          "Thebutterfly haircut mediumis a sophisticated take on layered hair that mimics the airy, fluttering wings of a butterfly.",
+          "This style uses shorter layers around the chin to frame the face while maintaining longer, feathered layers throughout the back to preserve the overall length. It is one of the most popular versions of a medium haircut for teenage girls with layers because it offers a “fake short hair” look when the back is pinned up. The layers are typically cut to flip outward, providing incredible bounce and a glamorous, voluminous finish. It is a fantastic option for girls with thicker hair who want to reduce bulk while keeping a soft, feminine silhouette."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for butterfly haircut medium.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in butterfly haircut medium."
+      },
+      {
+        "number": 15,
+        "title": "Messy Layered Shoulder Length",
+        "image": "/images/doc_b22_3_img_15.jpg",
+        "description": "The messy layered shoulder length look is the ultimate cool and casual choice for a relaxed lifestyle. This medium haircut for teenage girls with layers thrives on imperfection, using uneven layers to create a voluminous, tousled effect. It is a very forgiving cut that doesn’t require a perfect blow-dry to look good; in fact, it often looks better the second day after washing. This style is great for teenagers who like to experiment with different textures, from scrunched beach waves to messy buns with loose tendrils. A bit of dry shampoo at the roots can help maintain the height and “messy” grit that makes this style so appealing.",
+        "paragraphs": [
+          "The messy layered shoulder length look is the ultimate cool and casual choice for a relaxed lifestyle.",
+          "This medium haircut for teenage girls with layers thrives on imperfection, using uneven layers to create a voluminous, tousled effect. It is a very forgiving cut that doesn’t require a perfect blow-dry to look good; in fact, it often looks better the second day after washing. This style is great for teenagers who like to experiment with different textures, from scrunched beach waves to messy buns with loose tendrils. A bit of dry shampoo at the roots can help maintain the height and “messy” grit that makes this style so appealing."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for messy layered shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in messy layered shoulder length."
+      },
+      {
+        "number": 16,
+        "title": "Layered Lob With Side Bangs",
+        "image": "/images/doc_b22_3_img_8.jpg",
+        "description": "A layered lob with side bangs is a classic, chic variation of the long bob that never goes out of style. This medium haircut for teenage girls with layers hits just above the collarbone and incorporates soft internal layers to provide a rounded, voluminous shape. The addition of side-swept bangs adds a youthful touch and can help cover a larger forehead or balance out a long face shape. This cut is highly versatile and can be dressed up with a curling iron for a romantic look or sleeked down with a flat iron for a professional, clean-cut vibe. It is a reliable go-to for girls who want a trendy yet manageable hairstyle.",
+        "paragraphs": [
+          "A layered lob with side bangs is a classic, chic variation of the long bob that never goes out of style.",
+          "This medium haircut for teenage girls with layers hits just above the collarbone and incorporates soft internal layers to provide a rounded, voluminous shape. The addition of side-swept bangs adds a youthful touch and can help cover a larger forehead or balance out a long face shape. This cut is highly versatile and can be dressed up with a curling iron for a romantic look or sleeked down with a flat iron for a professional, clean-cut vibe. It is a reliable go-to for girls who want a trendy yet manageable hairstyle."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered lob with side bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered lob with side bangs."
+      },
+      {
+        "number": 17,
+        "title": "Medium Shag Haircut",
+        "image": "/images/doc_b22_3_img_3.jpg",
+        "description": "A medium shag haircut is the quintessential low-maintenance choice for busy students who want a “woke up like this” aesthetic. This style is characterized by its messy, lived-in feel and a heavy dose of razor-cut layers that start from the mid-shaft down to the ends. When considering a medium haircut for teenage girls with layers, the shag stands out because it pairs perfectly with curtain bangs or a full fringe. The choppy ends create a lot of movement, making it ideal for those with natural waves or curls. It requires very little heat styling, as the natural texture is the star of the show, allowing for a quick morning routine.",
+        "paragraphs": [
+          "A medium shag haircut is the quintessential low-maintenance choice for busy students who want a “woke up like this” aesthetic.",
+          "This style is characterized by its messy, lived-in feel and a heavy dose of razor-cut layers that start from the mid-shaft down to the ends. When considering a medium haircut for teenage girls with layers, the shag stands out because it pairs perfectly with curtain bangs or a full fringe. The choppy ends create a lot of movement, making it ideal for those with natural waves or curls. It requires very little heat styling, as the natural texture is the star of the show, allowing for a quick morning routine."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium shag haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium shag haircut."
+      },
+      {
+        "number": 18,
+        "title": "Wispy Layers Medium Length",
+        "image": "/images/doc_b22_3_img_11.jpg",
+        "description": "Wispy layers medium length hair is all about softness and delicacy, making it a dream for girls with fine or thin textures. This medium haircut for teenage girls with layers uses very fine, feathered sections to create a cloud-like volume that doesn’t look heavy. The ends are usually thinned out with thinning shears or a razor to ensure they lay flat and move with the slightest breeze. It is a very romantic and “aesthetic” look that fits perfectly with current fashion trends. Styling is simple; a quick blast with a hair dryer and a round brush is often enough to give these layers the lift they need to frame the face beautifully.",
+        "paragraphs": [
+          "Wispy layers medium length hair is all about softness and delicacy, making it a dream for girls with fine or thin textures.",
+          "This medium haircut for teenage girls with layers uses very fine, feathered sections to create a cloud-like volume that doesn’t look heavy. The ends are usually thinned out with thinning shears or a razor to ensure they lay flat and move with the slightest breeze. It is a very romantic and “aesthetic” look that fits perfectly with current fashion trends. Styling is simple; a quick blast with a hair dryer and a round brush is often enough to give these layers the lift they need to frame the face beautifully."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wispy layers medium length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wispy layers medium length."
+      },
+      {
+        "number": 19,
+        "title": "Medium Length V Cut Layers",
+        "image": "/images/doc_b22_3_img_7.jpg",
+        "description": "The medium length V cut layers style is named after the distinct “V” shape that the hair forms when viewed from the back. This medium haircut for teenage girls with layers features shorter pieces at the front that gradually get longer toward the center of the back. It is a classic technique that adds a lot of visual interest and prevents the hair from looking like a single, heavy mass. For teens with very thick or long hair that they want to trim to a manageable medium length, the V-cut is a savior. It removes significant weight from the bottom, allowing for more natural bounce and making the hair much easier to wash and dry.",
+        "paragraphs": [
+          "The medium length V cut layers style is named after the distinct “V” shape that the hair forms when viewed from the back.",
+          "This medium haircut for teenage girls with layers features shorter pieces at the front that gradually get longer toward the center of the back. It is a classic technique that adds a lot of visual interest and prevents the hair from looking like a single, heavy mass. For teens with very thick or long hair that they want to trim to a manageable medium length, the V-cut is a savior. It removes significant weight from the bottom, allowing for more natural bounce and making the hair much easier to wash and dry."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length v cut layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length v cut layers."
+      }
+    ]
+  },
+  {
+    "id": "medium-length-layered-hairstyles-women",
+    "slug": "medium-length-layered-hairstyles-women",
+    "title": "18+ Medium Length Layered Hairstyles for a Fresh Change",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "October 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_4_img_14.jpg",
+    "intro": "Medium length layered hair is that sweet spot between short and long hair where you get movement, volume, and versatility without spending hours styling every morning. It flatters most face shapes, works with straight, wavy, or curly textures, and can be customized with bangs, shaping, and color to match your personal vibe. From lived‑in shags to polished long bobs, layers help remove bulk from thick hair and add fullness to fine strands, so your hair looks intentional instead of in‑between. In this guide, you’ll find wearable, modern and low‑maintenance medium length layered hairstyles that reflect current 2026 trends like textured lobs, feathered cuts, and face-framing layers. Each look focuses on the full haircut, not just one detail, so you can screenshot your favorites and bring clear inspiration to your stylist.",
+    "introParagraphs": [
+      "Medium length layered hair is that sweet spot between short and long hair where you get movement, volume, and versatility without spending hours styling every morning. It flatters most face shapes, works with straight, wavy, or curly textures, and can be customized with bangs, shaping, and color to match your personal vibe. From lived‑in shags to polished long bobs, layers help remove bulk from thick hair and add fullness to fine strands, so your hair looks intentional instead of in‑between. In this guide, you’ll find wearable, modern and low‑maintenance medium length layered hairstyles that reflect current 2026 trends like textured lobs, feathered cuts, and face-framing layers. Each look focuses on the full haircut, not just one detail, so you can screenshot your favorites and bring clear inspiration to your stylist.",
+      "A classic shoulder length layered haircut is the easiest way to refresh mid-length hair without making a drastic change. The hair typically sits right at or just below the shoulders, with soft, blended layers through the mid-lengths and ends to create movement instead of a blunt, heavy line. These layers can be customized to your hair type: longer, fewerlayers to reduce bulkin thick hair, or more, lighter layers to lift and volumize fine hair. Styling stays simple; you can air-dry with a lightweight mousse for natural texture or smooth with a round brush for a polished finish that still feels relaxed. Ask your stylist for minimal face framing if you want a subtle contour effect around your cheekbones and jaw."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 18+ Medium Length Layered Hairstyles for a Fresh Change",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Medium Length Layered Haircut With Choppy Layers",
+        "image": "/images/doc_b22_4_img_14.jpg",
+        "description": "A medium length layered haircut with choppy layers delivers more edge and texture than a softly blended cut. The overall length sits around the shoulders, but the layers are cut in moredefined, piecey sectionsrather than seamless gradients. This creates visible separation and movement, giving the hair a slightly tousled, modern feel even when it is styled straight. Choppy layers are great for people who want to add personality to their haircut and don’t mind a bit of texture or styling product. A light texturizing spray or matte paste worked through the mid-lengths and ends will emphasize each piece, making the haircut look intentionally undone and giving your everyday look a trend‑forward, editorial vibe.",
+        "paragraphs": [
+          "A medium length layered haircut with choppy layers delivers more edge and texture than a softly blended cut.",
+          "The overall length sits around the shoulders, but the layers are cut in moredefined, piecey sectionsrather than seamless gradients. This creates visible separation and movement, giving the hair a slightly tousled, modern feel even when it is styled straight. Choppy layers are great for people who want to add personality to their haircut and don’t mind a bit of texture or styling product. A light texturizing spray or matte paste worked through the mid-lengths and ends will emphasize each piece, making the haircut look intentionally undone and giving your everyday look a trend‑forward, editorial vibe."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered haircut with choppy layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered haircut with choppy layers."
+      },
+      {
+        "number": 2,
+        "title": "Shoulder Length Layered Haircut With Waves",
+        "image": "/images/doc_b22_4_img_16.jpg",
+        "description": "A shoulder length layered haircut with waves gives that effortless, beachy appearance that still looks put together. The cut typically hits at the shoulders with layers placed to remove weight and allow waves to bend and move freely without clumping. This layered structure helps create a soft, rounded shape that looks great from every angle. It is especially flattering with subtle highlights or balayage, because the waves and layers together show off the color dimension. You can achieve the look by wrapping sections around a curling iron away from the face, then gently brushing through the curls and finishing with a texturizing spray to keep the waves relaxed, touchable, and full of body.",
+        "paragraphs": [
+          "A shoulder length layered haircut with waves gives that effortless, beachy appearance that still looks put together.",
+          "The cut typically hits at the shoulders with layers placed to remove weight and allow waves to bend and move freely without clumping. This layered structure helps create a soft, rounded shape that looks great from every angle. It is especially flattering with subtle highlights or balayage, because the waves and layers together show off the color dimension. You can achieve the look by wrapping sections around a curling iron away from the face, then gently brushing through the curls and finishing with a texturizing spray to keep the waves relaxed, touchable, and full of body."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered haircut with waves.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered haircut with waves."
+      },
+      {
+        "number": 3,
+        "title": "Shoulder Length Layered Haircut With Middle Part",
+        "image": "/images/doc_b22_4_img_18.jpg",
+        "description": "A shoulder length layered haircut with a middle part has a simple, modern feel that frames the face evenly on both sides. The hair is usually cut to sit at the shoulders, with layers added to prevent the center part from making the style look flat or limp. These layers help the hair curve slightly around the face and fall naturally along the cheekbones and jawline. A middle part works especially well for oval and longer face shapes, but it can also be softened for round faces by keeping the shortest layers below the cheeks. To style, create the part on damp hair, blow‑dry with a round brush for a smooth finish, then tuck small sections behind the ears or add subtle waves to highlight the symmetrical layered shape.",
+        "paragraphs": [
+          "A shoulder length layered haircut with a middle part has a simple, modern feel that frames the face evenly on both sides.",
+          "The hair is usually cut to sit at the shoulders, with layers added to prevent the center part from making the style look flat or limp. These layers help the hair curve slightly around the face and fall naturally along the cheekbones and jawline. A middle part works especially well for oval and longer face shapes, but it can also be softened for round faces by keeping the shortest layers below the cheeks. To style, create the part on damp hair, blow‑dry with a round brush for a smooth finish, then tuck small sections behind the ears or add subtle waves to highlight the symmetrical layered shape."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered haircut with middle part.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered haircut with middle part."
+      },
+      {
+        "number": 4,
+        "title": "Medium Length Layered Haircut For Fine Hair",
+        "image": "/images/doc_b22_4_img_10.jpg",
+        "description": "A medium length layered haircut for fine hair is carefully designed to add volume, not take it away. The key is to keep the perimeter strong at the shoulders or collarbone, while adding soft, light layers that start lower on the head so the ends do not look stringy. Short, aggressive layers can make fine hair look thinner, so stylists usually opt for longer layers and minimal texturizing on the ends. This creates the illusion of fullness and allows for easy styling tricks like blow‑drying with a round brush for lift at the roots. A side part can help make the hair appear thicker on one side, while styling products like volumizing mousse or lightweight root spray further enhance the layered shape without weighing it down.",
+        "paragraphs": [
+          "A medium length layered haircut for fine hair is carefully designed to add volume, not take it away.",
+          "The key is to keep the perimeter strong at the shoulders or collarbone, while adding soft, light layers that start lower on the head so the ends do not look stringy. Short, aggressive layers can make fine hair look thinner, so stylists usually opt for longer layers and minimal texturizing on the ends. This creates the illusion of fullness and allows for easy styling tricks like blow‑drying with a round brush for lift at the roots. A side part can help make the hair appear thicker on one side, while styling products like volumizing mousse or lightweight root spray further enhance the layered shape without weighing it down."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered haircut for fine hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered haircut for fine hair."
+      },
+      {
+        "number": 5,
+        "title": "Medium Length Layered Lob Haircut",
+        "image": "/images/doc_b22_4_img_4.jpg",
+        "description": "The medium length layered lob haircut is a polished take on layered hair that still feels trendy and modern. The lob, or long bob, usually falls between the collarbone and the tops of the shoulders, with subtle layers added through the bottom half to create movement without losing the sleek outline. Layers can be angled slightly longer in the front to elongate the face and give that chic, face-framing effect. This cut works beautifully on straight and slightly wavy hair because it can be worn smooth for a glossy, office‑ready look or styled with loose waves for a more casual weekend feel. Ask forsoft, internal layersrather than heavy choppy pieces if you want the lob to remain wearable for everyday life and easy to grow out.",
+        "paragraphs": [
+          "The medium length layered lob haircut is a polished take on layered hair that still feels trendy and modern.",
+          "The lob, or long bob, usually falls between the collarbone and the tops of the shoulders, with subtle layers added through the bottom half to create movement without losing the sleek outline. Layers can be angled slightly longer in the front to elongate the face and give that chic, face-framing effect. This cut works beautifully on straight and slightly wavy hair because it can be worn smooth for a glossy, office‑ready look or styled with loose waves for a more casual weekend feel. Ask forsoft, internal layersrather than heavy choppy pieces if you want the lob to remain wearable for everyday life and easy to grow out."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered lob haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered lob haircut."
+      },
+      {
+        "number": 6,
+        "title": "Medium Length Feathered Layers",
+        "image": "/images/doc_b22_4_img_6.jpg",
+        "description": "Medium length feathered layers give hair a soft, airy look that feels timeless and feminine. The cut typically falls around the shoulders, with layers that are gently tapered and “feathered” away from the face, so the ends look light instead of blunt or heavy. This technique works well on straight to slightly wavy hair, allowing each layer to fall like a soft fan around the head. It’s especially flattering if you prefer a smoother finish rather than chunky, textured pieces, because feathering keeps the shape fluid and flowing. Styling can be as simple as blow‑drying with a round brush, turning the ends slightly outward to showcase the feathered effect and adding a lightweight serum for shine without weighing the layers down.",
+        "paragraphs": [
+          "Medium length feathered layers give hair a soft, airy look that feels timeless and feminine.",
+          "The cut typically falls around the shoulders, with layers that are gently tapered and “feathered” away from the face, so the ends look light instead of blunt or heavy. This technique works well on straight to slightly wavy hair, allowing each layer to fall like a soft fan around the head. It’s especially flattering if you prefer a smoother finish rather than chunky, textured pieces, because feathering keeps the shape fluid and flowing. Styling can be as simple as blow‑drying with a round brush, turning the ends slightly outward to showcase the feathered effect and adding a lightweight serum for shine without weighing the layers down."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length feathered layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length feathered layers."
+      },
+      {
+        "number": 7,
+        "title": "Shoulder Length Layered Haircut",
+        "image": "/images/doc_b22_4_img_1.jpg",
+        "description": "A classic shoulder length layered haircut is the easiest way to refresh mid-length hair without making a drastic change. The hair typically sits right at or just below the shoulders, with soft, blended layers through the mid-lengths and ends to create movement instead of a blunt, heavy line. These layers can be customized to your hair type: longer, fewerlayers to reduce bulkin thick hair, or more, lighter layers to lift and volumize fine hair. Styling stays simple; you can air-dry with a lightweight mousse for natural texture or smooth with a round brush for a polished finish that still feels relaxed. Ask your stylist for minimal face framing if you want a subtle contour effect around your cheekbones and jaw.",
+        "paragraphs": [
+          "A classic shoulder length layered haircut is the easiest way to refresh mid-length hair without making a drastic change.",
+          "The hair typically sits right at or just below the shoulders, with soft, blended layers through the mid-lengths and ends to create movement instead of a blunt, heavy line. These layers can be customized to your hair type: longer, fewerlayers to reduce bulkin thick hair, or more, lighter layers to lift and volumize fine hair. Styling stays simple; you can air-dry with a lightweight mousse for natural texture or smooth with a round brush for a polished finish that still feels relaxed. Ask your stylist for minimal face framing if you want a subtle contour effect around your cheekbones and jaw."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered haircut."
+      },
+      {
+        "number": 8,
+        "title": "Medium Length Layered Haircut With Fringe",
+        "image": "/images/doc_b22_4_img_15.jpg",
+        "description": "A medium length layered haircut with fringe changes your whole look by adding a strong focal point at the front. The shoulder‑skimming layers keep the bulk of the hair light and airy, while the fringe sits across the forehead and can be cut blunt, wispy, or slightly curved depending on your preference. This combination adds texture and interest, especially for straight or slightly wavy hair that might otherwise feel plain. A softer, piecey fringe tends to be more forgiving and easier to style daily, while blunt bangs deliver a bolder statement. Be prepared for slightly more maintenance around the front, including regular trims and quick morning styling with a small round brush, but the layered lengths will remain simple and versatile.",
+        "paragraphs": [
+          "A medium length layered haircut with fringe changes your whole look by adding a strong focal point at the front.",
+          "The shoulder‑skimming layers keep the bulk of the hair light and airy, while the fringe sits across the forehead and can be cut blunt, wispy, or slightly curved depending on your preference. This combination adds texture and interest, especially for straight or slightly wavy hair that might otherwise feel plain. A softer, piecey fringe tends to be more forgiving and easier to style daily, while blunt bangs deliver a bolder statement. Be prepared for slightly more maintenance around the front, including regular trims and quick morning styling with a small round brush, but the layered lengths will remain simple and versatile."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered haircut with fringe.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered haircut with fringe."
+      },
+      {
+        "number": 9,
+        "title": "Medium Layered Hair With Curtain Bangs",
+        "image": "/images/doc_b22_4_img_2.jpg",
+        "description": "Medium layered hair with curtain bangs gives you an instantly softer, more romantic look without committing to blunt fringe. The overall cut hits around the shoulders, with layers that start below the cheekbones to keep the length while adding swing and movement. Curtain bangs are parted down the middle or slightly off-center and gradually lengthen toward the sides, blending seamlessly into the rest of the haircut. This shape flatters many face types because it frames the eyes and softens features rather than shrinking the forehead. Styling can be as easy as blow-drying the bangs with a round brush to create a gentle bend, then using a large-barrel iron or brush to add loose waves through the layered lengths for a modern, effortless finish.",
+        "paragraphs": [
+          "Medium layered hair with curtain bangs gives you an instantly softer, more romantic look without committing to blunt fringe.",
+          "The overall cut hits around the shoulders, with layers that start below the cheekbones to keep the length while adding swing and movement. Curtain bangs are parted down the middle or slightly off-center and gradually lengthen toward the sides, blending seamlessly into the rest of the haircut. This shape flatters many face types because it frames the eyes and softens features rather than shrinking the forehead. Styling can be as easy as blow-drying the bangs with a round brush to create a gentle bend, then using a large-barrel iron or brush to add loose waves through the layered lengths for a modern, effortless finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered hair with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered hair with curtain bangs."
+      },
+      {
+        "number": 10,
+        "title": "Medium Length Layered Haircut For Straight Hair",
+        "image": "/images/doc_b22_4_img_17.jpg",
+        "description": "A medium length layered haircut for straight hair prevents your strands from falling flat and lifeless. The hair usually sits around the shoulders with carefully placed layers that add motion without making the ends wispy. Longer layers are ideal for straight textures because they create a soft shape while keeping enough weight so the hair still looks smooth. The result is a clean, polished silhouette that moves with you instead of hanging like a single block. Blow‑drying with a round brush or paddle brush can enhance shine, while a light texturizing spray at the mid-lengths will give just enough separation to show off the layers and keep the style from looking too severe or stiff.",
+        "paragraphs": [
+          "A medium length layered haircut for straight hair prevents your strands from falling flat and lifeless.",
+          "The hair usually sits around the shoulders with carefully placed layers that add motion without making the ends wispy. Longer layers are ideal for straight textures because they create a soft shape while keeping enough weight so the hair still looks smooth. The result is a clean, polished silhouette that moves with you instead of hanging like a single block. Blow‑drying with a round brush or paddle brush can enhance shine, while a light texturizing spray at the mid-lengths will give just enough separation to show off the layers and keep the style from looking too severe or stiff."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered haircut for straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered haircut for straight hair."
+      },
+      {
+        "number": 11,
+        "title": "Medium Length Layered Haircut With Long Layers",
+        "image": "/images/doc_b22_4_img_13.jpg",
+        "description": "A medium length layered haircut with long layers is perfect if you want movement but still love the feeling of thicker ends. The cut usually hits around the shoulders, with layers that start several inches below the crown and gradually blend toward the ends. Because the layers are long, they don’t remove too much bulk from the bottom, which keeps the hair looking full and healthy. This shape is especially flattering on straight and wavy hair where you want soft flow without obvious choppiness. It is also a great transitional cut if you are growing your hair longer, since long layers can easily be reshaped at future appointments while maintaining a cohesive, polished silhouette that behaves nicely day to day.",
+        "paragraphs": [
+          "A medium length layered haircut with long layers is perfect if you want movement but still love the feeling of thicker ends.",
+          "The cut usually hits around the shoulders, with layers that start several inches below the crown and gradually blend toward the ends. Because the layers are long, they don’t remove too much bulk from the bottom, which keeps the hair looking full and healthy. This shape is especially flattering on straight and wavy hair where you want soft flow without obvious choppiness. It is also a great transitional cut if you are growing your hair longer, since long layers can easily be reshaped at future appointments while maintaining a cohesive, polished silhouette that behaves nicely day to day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered haircut with long layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered haircut with long layers."
+      },
+      {
+        "number": 12,
+        "title": "Shoulder Length Layered Bob Haircut",
+        "image": "/images/doc_b22_4_img_11.jpg",
+        "description": "A shoulder length layered bob haircut pairs the structure of a bob with the movement of layers. The cut typically grazes the shoulders or just above them, with layers added through the mid-lengths and ends so the bob doesn’t feel too solid or blocky. Often the front is left slightly longer to frame the face, while the back can be a touch shorter for a subtle, flattering angle. This bob works well on straight or gently wavy hair and can easily transition from professional to casual depending on how you style it. Use a smoothing cream and round brush for a sleek, volumized finish, or add loose, beachy waves with a curling iron to emphasize the layered texture and keep the bob looking fresh and modern.",
+        "paragraphs": [
+          "A shoulder length layered bob haircut pairs the structure of a bob with the movement of layers.",
+          "The cut typically grazes the shoulders or just above them, with layers added through the mid-lengths and ends so the bob doesn’t feel too solid or blocky. Often the front is left slightly longer to frame the face, while the back can be a touch shorter for a subtle, flattering angle. This bob works well on straight or gently wavy hair and can easily transition from professional to casual depending on how you style it. Use a smoothing cream and round brush for a sleek, volumized finish, or add loose, beachy waves with a curling iron to emphasize the layered texture and keep the bob looking fresh and modern."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered bob haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered bob haircut."
+      },
+      {
+        "number": 13,
+        "title": "Medium Length Layered Hair With Side Bangs",
+        "image": "/images/doc_b22_4_img_5.jpg",
+        "description": "Medium length layered hair with side bangs is a flattering option if you want movement and softness around the face without a full fringe. The layered cut usually rests at the shoulders, while the side bangs are cut to sweep diagonally across the forehead and blend into the top layers. This creates a gentle angle that can visually slim round faces or balance stronger jawlines by drawing attention to the eyes. The interior layers remove bulk and add body, so the hair doesn’t just hang flat, especially helpful for medium to thick textures. Style by blow‑drying the side bang with a small round brush in the opposite direction of the part, then flipping it back into place to get anatural swoopthat sits perfectly with the layered lengths.",
+        "paragraphs": [
+          "Medium length layered hair with side bangs is a flattering option if you want movement and softness around the face without a full fringe.",
+          "The layered cut usually rests at the shoulders, while the side bangs are cut to sweep diagonally across the forehead and blend into the top layers. This creates a gentle angle that can visually slim round faces or balance stronger jawlines by drawing attention to the eyes. The interior layers remove bulk and add body, so the hair doesn’t just hang flat, especially helpful for medium to thick textures. Style by blow‑drying the side bang with a small round brush in the opposite direction of the part, then flipping it back into place to get anatural swoopthat sits perfectly with the layered lengths."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered hair with side bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered hair with side bangs."
+      },
+      {
+        "number": 14,
+        "title": "Medium Layered Shag Haircut",
+        "image": "/images/doc_b22_4_img_3.jpg",
+        "description": "A medium layered shag haircut is perfect if you love a messy, undone vibe with tons of texture. This cut usually sits between the collarbone and shoulders and features choppy, varied layers throughout the crown and mid-lengths, which give the hair a lived‑in, rocker feel. The ends are oftenpoint‑cut or razoredto keep them light and wispy instead of blunt. Shags suit wavy and curly hair especially well because the layers encourage natural movement and prevent the shape from looking triangle‑like or bulky at the bottom. Styling is low‑maintenance: apply a texturizing spray or curl cream to damp hair, scrunch, then let it air-dry or diffuse to bring out the layers and piecey definition that makes this haircut so appealing.",
+        "paragraphs": [
+          "A medium layered shag haircut is perfect if you love a messy, undone vibe with tons of texture.",
+          "This cut usually sits between the collarbone and shoulders and features choppy, varied layers throughout the crown and mid-lengths, which give the hair a lived‑in, rocker feel. The ends are oftenpoint‑cut or razoredto keep them light and wispy instead of blunt. Shags suit wavy and curly hair especially well because the layers encourage natural movement and prevent the shape from looking triangle‑like or bulky at the bottom. Styling is low‑maintenance: apply a texturizing spray or curl cream to damp hair, scrunch, then let it air-dry or diffuse to bring out the layers and piecey definition that makes this haircut so appealing."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered shag haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered shag haircut."
+      },
+      {
+        "number": 15,
+        "title": "Medium Length Layered Curly Haircut",
+        "image": "/images/doc_b22_4_img_12.jpg",
+        "description": "A medium length layered curly haircut focuses on enhancing natural curls instead of fighting them. The hair usually sits around the shoulders when dry, with layers carefully cut to distribute volume evenly and prevent a pyramid shape. Curls need weight removed in the right places, so layers are often longer on top and slightly shorter through the mid-lengths to encourage bounce. This allows each curl pattern to stand out and keeps the overall silhouette round and full rather than flat at the crown. Many stylists cut curly hair either dry or in its natural texture to see how the layers will actually fall, helping create a flattering shape that’s easy to style with curl cream, gel, or a diffuser for defined, frizz-minimized curls.",
+        "paragraphs": [
+          "A medium length layered curly haircut focuses on enhancing natural curls instead of fighting them.",
+          "The hair usually sits around the shoulders when dry, with layers carefully cut to distribute volume evenly and prevent a pyramid shape. Curls need weight removed in the right places, so layers are often longer on top and slightly shorter through the mid-lengths to encourage bounce. This allows each curl pattern to stand out and keeps the overall silhouette round and full rather than flat at the crown. Many stylists cut curly hair either dry or in its natural texture to see how the layers will actually fall, helping create a flattering shape that’s easy to style with curl cream, gel, or a diffuser for defined, frizz-minimized curls."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered curly haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered curly haircut."
+      },
+      {
+        "number": 16,
+        "title": "Medium Length Layered Haircut For Thick Hair",
+        "image": "/images/doc_b22_4_img_9.jpg",
+        "description": "A medium length layered haircut for thick hair is all about removing bulk while keeping fullness and shape. The hair typically rests at or slightly below the shoulders, with strategic layering that starts lower on the head so you don’t lose too much density at the top. These layers can be graduated or long, helping the hair sit closer to the body rather than puffing out into a heavy triangle. Stylists may also use thinning shears or slide cutting to debulk the interior without showing obvious chunkiness on the surface. This makes the hair much easier to blow-dry and style, reduces drying time, and gives thick strands more movement and swing while still looking full and healthy instead of weighed down.",
+        "paragraphs": [
+          "A medium length layered haircut for thick hair is all about removing bulk while keeping fullness and shape.",
+          "The hair typically rests at or slightly below the shoulders, with strategic layering that starts lower on the head so you don’t lose too much density at the top. These layers can be graduated or long, helping the hair sit closer to the body rather than puffing out into a heavy triangle. Stylists may also use thinning shears or slide cutting to debulk the interior without showing obvious chunkiness on the surface. This makes the hair much easier to blow-dry and style, reduces drying time, and gives thick strands more movement and swing while still looking full and healthy instead of weighed down."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length layered haircut for thick hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length layered haircut for thick hair."
+      },
+      {
+        "number": 17,
+        "title": "Wavy Medium Length Layered Haircut",
+        "image": "/images/doc_b22_4_img_8.jpg",
+        "description": "A wavy medium length layered haircut is ideal if your hair naturally bends or you love creating soft waves with heat tools. The cut usually sits between the collarbone and shoulders, with layers placed to remove weight from the bottom and encourage a rounded, bouncy shape instead of a flat one. Layers around the mid‑shaft help waves form more easily and prevent them from clumping together into one heavy section. This haircut looks especially good with a center or soft off‑center part because it lets the waves fall evenly on both sides. To style, apply a curl‑enhancing cream or light mousse to damp hair, twist sections away from the face, then either diffuse or air-dry for touchable waves that highlight every layered curve.",
+        "paragraphs": [
+          "A wavy medium length layered haircut is ideal if your hair naturally bends or you love creating soft waves with heat tools.",
+          "The cut usually sits between the collarbone and shoulders, with layers placed to remove weight from the bottom and encourage a rounded, bouncy shape instead of a flat one. Layers around the mid‑shaft help waves form more easily and prevent them from clumping together into one heavy section. This haircut looks especially good with a center or soft off‑center part because it lets the waves fall evenly on both sides. To style, apply a curl‑enhancing cream or light mousse to damp hair, twist sections away from the face, then either diffuse or air-dry for touchable waves that highlight every layered curve."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wavy medium length layered haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wavy medium length layered haircut."
+      },
+      {
+        "number": 18,
+        "title": "Medium Layered Haircut With Face Framing Layers",
+        "image": "/images/doc_b22_4_img_7.jpg",
+        "description": "Amedium layered haircutwith face framing layers puts the focus on contouring your features while keeping the rest of the hair light and bouncy. The overall length stays at the shoulders or just below, but layers are specifically cut around the front to start near the chin or cheekbones and then blend into the rest of the hair. This soft curve accentuates your jawline and can visually slim or elongate the face depending on where the shortest pieces hit. The back layers are usually more subtle, keeping density while still adding movement and lift. This kind of cut pairs beautifully with balayage or subtle highlights because the face-framing layers show off color transitions and dimension, especially when styled with a slight bend or loose waves away from the face.",
+        "paragraphs": [
+          "Amedium layered haircutwith face framing layers puts the focus on contouring your features while keeping the rest of the hair light and bouncy.",
+          "The overall length stays at the shoulders or just below, but layers are specifically cut around the front to start near the chin or cheekbones and then blend into the rest of the hair. This soft curve accentuates your jawline and can visually slim or elongate the face depending on where the shortest pieces hit. The back layers are usually more subtle, keeping density while still adding movement and lift. This kind of cut pairs beautifully with balayage or subtle highlights because the face-framing layers show off color transitions and dimension, especially when styled with a slight bend or loose waves away from the face."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with face framing layers."
+      }
+    ]
+  },
+  {
+    "id": "piecey-layers-medium-hair",
+    "slug": "piecey-layers-medium-hair",
+    "title": "15+ Piecey Layers for Medium Hair With an Airy Feel",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "October 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_5_img_14.jpg",
+    "intro": "Medium-length hair gives you the best of both worlds. It is long enough to style in different ways but short enough to stay manageable. That is exactly whypiecey layers for medium hairhave become one of the most searched and requested looks right now. This haircut adds movement, lightness, and natural texture without removing too much length. It works well on straight, wavy, or slightly curly hair, making it a versatile choice for many people. If your hair feels flat or heavy, piecey layers can instantly refresh your look. They create soft separation and definition that looks modern, not overly styled. Below, you will find carefully selected variations that match current trends and real styling needs.",
+    "introParagraphs": [
+      "Medium-length hair gives you the best of both worlds. It is long enough to style in different ways but short enough to stay manageable. That is exactly whypiecey layers for medium hairhave become one of the most searched and requested looks right now. This haircut adds movement, lightness, and natural texture without removing too much length. It works well on straight, wavy, or slightly curly hair, making it a versatile choice for many people. If your hair feels flat or heavy, piecey layers can instantly refresh your look. They create soft separation and definition that looks modern, not overly styled. Below, you will find carefully selected variations that match current trends and real styling needs.",
+      "If your hair is naturally straight, it can sometimes fall flat without much shape. Piecey layers bring life back into straight medium hair by adding subtle separation and movement. The layers are cut lightly so the ends do not look blunt or heavy. Instead, they appear soft and slightly textured. This style works best when paired with a center or soft side part, allowing the layers to frame the face naturally. A light styling cream or texturizing spray helps define the pieces without weighing the hair down. This look is ideal for everyday wear because it feels polished but still relaxed. It is also easy to maintain between salon visits."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 15+ Piecey Layers for Medium Hair With an Airy Feel",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Piecey Layers For Thick Medium Hair",
+        "image": "/images/doc_b22_5_img_14.jpg",
+        "description": "Thick hair can feel heavy, but piecey layers help remove excess weight and create a more manageable shape. The layers break up the density and allow the hair to move freely. This makes styling easier and more comfortable. The piecey effect ensures the haircut does not look too bulky or uniform. It also adds definition, making the hair appear more structured. This style works well for everyday wear and special occasions. Using a smoothing cream can help control frizz while maintaining the natural movement created by the layers.",
+        "paragraphs": [
+          "Thick hair can feel heavy, but piecey layers help remove excess weight and create a more manageable shape.",
+          "The layers break up the density and allow the hair to move freely. This makes styling easier and more comfortable. The piecey effect ensures the haircut does not look too bulky or uniform. It also adds definition, making the hair appear more structured. This style works well for everyday wear and special occasions. Using a smoothing cream can help control frizz while maintaining the natural movement created by the layers."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers for thick medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers for thick medium hair."
+      },
+      {
+        "number": 2,
+        "title": "Piecey Layers For Medium Straight Hair",
+        "image": "/images/doc_b22_5_img_1.jpg",
+        "description": "If your hair is naturally straight, it can sometimes fall flat without much shape. Piecey layers bring life back into straight medium hair by adding subtle separation and movement. The layers are cut lightly so the ends do not look blunt or heavy. Instead, they appear soft and slightly textured. This style works best when paired with a center or soft side part, allowing the layers to frame the face naturally. A light styling cream or texturizing spray helps define the pieces without weighing the hair down. This look is ideal for everyday wear because it feels polished but still relaxed. It is also easy to maintain between salon visits.",
+        "paragraphs": [
+          "If your hair is naturally straight, it can sometimes fall flat without much shape.",
+          "Piecey layers bring life back into straight medium hair by adding subtle separation and movement. The layers are cut lightly so the ends do not look blunt or heavy. Instead, they appear soft and slightly textured. This style works best when paired with a center or soft side part, allowing the layers to frame the face naturally. A light styling cream or texturizing spray helps define the pieces without weighing the hair down. This look is ideal for everyday wear because it feels polished but still relaxed. It is also easy to maintain between salon visits."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers for medium straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers for medium straight hair."
+      },
+      {
+        "number": 3,
+        "title": "Textured Lob With Piecey Layers",
+        "image": "/images/doc_b22_5_img_8.jpg",
+        "description": "The long bob, or lob, becomes more modern and stylish with piecey layers. Instead of a blunt cut, the ends are softened and textured, giving the hair a lighter feel. This haircut sits around the shoulders and works well for many hair types. The piecey layers add movement and prevent the lob from looking too structured. It is a great option if you want something trendy but still easy to manage. Styling can be as simple as adding loose waves or keeping it straight with a slight bend at the ends. The result looks clean yet effortlessly stylish.",
+        "paragraphs": [
+          "The long bob, or lob, becomes more modern and stylish with piecey layers.",
+          "Instead of a blunt cut, the ends are softened and textured, giving the hair a lighter feel. This haircut sits around the shoulders and works well for many hair types. The piecey layers add movement and prevent the lob from looking too structured. It is a great option if you want something trendy but still easy to manage. Styling can be as simple as adding loose waves or keeping it straight with a slight bend at the ends. The result looks clean yet effortlessly stylish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured lob with piecey layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured lob with piecey layers."
+      },
+      {
+        "number": 4,
+        "title": "Wavy Medium Hair With Piecey Layers",
+        "image": "/images/doc_b22_5_img_3.jpg",
+        "description": "Natural waves look even better when paired with piecey layers. The layers help distribute volume evenly, preventing the hair from becoming bulky or uneven. Instead of one solid shape, your hair gains movement and bounce. Piecey layers enhance each wave, making them more defined and textured. This look is perfect for those who prefer a low-maintenance style because it works with your natural texture. A sea salt spray or curl-enhancing cream can boost the effect without much effort. Air drying often works well for this haircut. The overall result feels relaxed, fresh, and easy to manage daily.",
+        "paragraphs": [
+          "Natural waves look even better when paired with piecey layers.",
+          "The layers help distribute volume evenly, preventing the hair from becoming bulky or uneven. Instead of one solid shape, your hair gains movement and bounce. Piecey layers enhance each wave, making them more defined and textured. This look is perfect for those who prefer a low-maintenance style because it works with your natural texture. A sea salt spray or curl-enhancing cream can boost the effect without much effort. Air drying often works well for this haircut. The overall result feels relaxed, fresh, and easy to manage daily."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wavy medium hair with piecey layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wavy medium hair with piecey layers."
+      },
+      {
+        "number": 5,
+        "title": "Piecey Layers With Subtle Waves Medium Hair",
+        "image": "/images/doc_b22_5_img_10.jpg",
+        "description": "Adding subtle waves to medium hair with piecey layers creates a soft and natural appearance. The waves enhance the layered structure and make the hair look fuller and more dynamic. This style works well for both casual and polished settings. The key is to keep the waves loose and relaxed rather than tight. Piecey layers ensure that each wave looks defined and not too uniform. A curling wand or flat iron can help achieve this look quickly. Finish with a light hold spray to maintain movement without making the hair stiff or heavy.",
+        "paragraphs": [
+          "Adding subtle waves to medium hair with piecey layers creates a soft and natural appearance.",
+          "The waves enhance the layered structure and make the hair look fuller and more dynamic. This style works well for both casual and polished settings. The key is to keep the waves loose and relaxed rather than tight. Piecey layers ensure that each wave looks defined and not too uniform. A curling wand or flat iron can help achieve this look quickly. Finish with a light hold spray to maintain movement without making the hair stiff or heavy."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers with subtle waves medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers with subtle waves medium hair."
+      },
+      {
+        "number": 6,
+        "title": "Medium Shag Haircut With Piecey Layers",
+        "image": "/images/doc_b22_5_img_4.jpg",
+        "description": "The modern shag haircut is making a strong comeback, and piecey layers are a key part of it. This style features choppy layers throughout the hair, creating volume and texture from top to bottom. Unlike older shag styles, today’s version feels softer and more wearable. The layers are strategically placed to avoid looking too messy while still keeping that effortless vibe. It works well for medium hair because it balances fullness and movement. This haircut suits many face shapes and adds personality without being too bold. Styling with a texturizing spray helps highlight the piecey effect.",
+        "paragraphs": [
+          "The modern shag haircut is making a strong comeback, and piecey layers are a key part of it.",
+          "This style features choppy layers throughout the hair, creating volume and texture from top to bottom. Unlike older shag styles, today’s version feels softer and more wearable. The layers are strategically placed to avoid looking too messy while still keeping that effortless vibe. It works well for medium hair because it balances fullness and movement. This haircut suits many face shapes and adds personality without being too bold. Styling with a texturizing spray helps highlight the piecey effect."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium shag haircut with piecey layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium shag haircut with piecey layers."
+      },
+      {
+        "number": 7,
+        "title": "Piecey Layers With Blowout Medium Hair",
+        "image": "/images/doc_b22_5_img_16.jpg",
+        "description": "A blowout can enhance the beauty of piecey layers by adding volume and smoothness. This styling method lifts the roots and defines the layers, creating a polished finish. The piecey ends remain visible, adding texture and movement. This look is perfect for professional settings or special events. It combines structure with softness, making it both elegant and modern. Using a round brush while blow drying helps shape the layers effectively. A finishing spray keeps the style in place without reducing its natural movement.",
+        "paragraphs": [
+          "A blowout can enhance the beauty of piecey layers by adding volume and smoothness.",
+          "This styling method lifts the roots and defines the layers, creating a polished finish. The piecey ends remain visible, adding texture and movement. This look is perfect for professional settings or special events. It combines structure with softness, making it both elegant and modern. Using a round brush while blow drying helps shape the layers effectively. A finishing spray keeps the style in place without reducing its natural movement."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers with blowout medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers with blowout medium hair."
+      },
+      {
+        "number": 8,
+        "title": "Medium Hair With Tousled Piecey Layers",
+        "image": "/images/doc_b22_5_img_17.jpg",
+        "description": "Tousled styling brings out the relaxed side of piecey layers. This look feels effortless and slightly undone, making it perfect for everyday wear. The layers create natural movement, while the tousled finish adds texture and volume. It works well for medium hair because the length supports the overall shape. A texturizing spray or light mousse can enhance the effect. Scrunching the hair slightly helps create a more natural finish. This style is ideal for those who prefer low-maintenance hair that still looks stylish and put together.",
+        "paragraphs": [
+          "Tousled styling brings out the relaxed side of piecey layers.",
+          "This look feels effortless and slightly undone, making it perfect for everyday wear. The layers create natural movement, while the tousled finish adds texture and volume. It works well for medium hair because the length supports the overall shape. A texturizing spray or light mousse can enhance the effect. Scrunching the hair slightly helps create a more natural finish. This style is ideal for those who prefer low-maintenance hair that still looks stylish and put together."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium hair with tousled piecey layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium hair with tousled piecey layers."
+      },
+      {
+        "number": 9,
+        "title": "Piecey Layers With Curtain Bangs Medium Hair",
+        "image": "/images/doc_b22_5_img_2.jpg",
+        "description": "Curtain bangs instantly elevatemedium hair with piecey layers. They blend smoothly into the layered structure and help frame the face in a flattering way. This combination creates a soft, airy look that feels modern and approachable. The bangs part naturally in the middle and flow into the rest of the hair, making styling easier. Piecey layers prevent the haircut from looking too heavy around the face. This style works especially well for people who want to soften strong facial features. Blow-drying with a round brush enhances the shape, while a light styling product keeps everything separated and defined without stiffness.",
+        "paragraphs": [
+          "Curtain bangs instantly elevatemedium hair with piecey layers.",
+          "They blend smoothly into the layered structure and help frame the face in a flattering way. This combination creates a soft, airy look that feels modern and approachable. The bangs part naturally in the middle and flow into the rest of the hair, making styling easier. Piecey layers prevent the haircut from looking too heavy around the face. This style works especially well for people who want to soften strong facial features. Blow-drying with a round brush enhances the shape, while a light styling product keeps everything separated and defined without stiffness."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers with curtain bangs medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers with curtain bangs medium hair."
+      },
+      {
+        "number": 10,
+        "title": "Shoulder Length Hair With Soft Piecey Layers",
+        "image": "/images/doc_b22_5_img_5.jpg",
+        "description": "Sometimes less is more, especially if you prefer a clean and simple haircut. Soft piecey layers on shoulder-length hair create gentle movement without dramatic changes. The layers are subtle and blend seamlessly into the length, making the style look natural and easy. This option is great for those trying layers for the first time. It keeps the overall shape intact while adding a bit of texture. The ends look lighter and more flexible, which helps with styling. You can wear it straight,slightly curled, or tied back while still seeing the benefits of the layered structure.",
+        "paragraphs": [
+          "Sometimes less is more, especially if you prefer a clean and simple haircut.",
+          "Soft piecey layers on shoulder-length hair create gentle movement without dramatic changes. The layers are subtle and blend seamlessly into the length, making the style look natural and easy. This option is great for those trying layers for the first time. It keeps the overall shape intact while adding a bit of texture. The ends look lighter and more flexible, which helps with styling. You can wear it straight,slightly curled, or tied back while still seeing the benefits of the layered structure."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length hair with soft piecey layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length hair with soft piecey layers."
+      },
+      {
+        "number": 11,
+        "title": "Medium Hair With Choppy Piecey Layers",
+        "image": "/images/doc_b22_5_img_9.jpg",
+        "description": "Choppy layers take the piecey look to the next level by adding more noticeable separation. This style creates a bold, textured finish that stands out without being too dramatic. It works best for medium hair because the length helps balance the choppiness. The layers are cut at different lengths to create depth and movement. This haircut suits people who want a slightly edgy but still wearable style. A texturizing spray or lightweight wax can help define the layers and keep them in place. It is a great choice for adding personality to your everyday look.",
+        "paragraphs": [
+          "Choppy layers take the piecey look to the next level by adding more noticeable separation.",
+          "This style creates a bold, textured finish that stands out without being too dramatic. It works best for medium hair because the length helps balance the choppiness. The layers are cut at different lengths to create depth and movement. This haircut suits people who want a slightly edgy but still wearable style. A texturizing spray or lightweight wax can help define the layers and keep them in place. It is a great choice for adding personality to your everyday look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium hair with choppy piecey layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium hair with choppy piecey layers."
+      },
+      {
+        "number": 12,
+        "title": "Piecey Layers With Side Part Medium Hair",
+        "image": "/images/doc_b22_5_img_7.jpg",
+        "description": "Switching to a side part can completely change how your haircut looks. When combined with piecey layers, it creates volume and movement on one side while keeping the other side sleek. This adds visual interest and makes the hairstyle feel more dynamic. The layers help prevent the hair from falling flat, especially near the roots. This style is perfect if you want a subtle change without cutting too much length. It also works well for both formal and everyday looks. A volumizing mousse can enhance the lift at the roots for a fuller appearance.",
+        "paragraphs": [
+          "Switching to a side part can completely change how your haircut looks.",
+          "When combined with piecey layers, it creates volume and movement on one side while keeping the other side sleek. This adds visual interest and makes the hairstyle feel more dynamic. The layers help prevent the hair from falling flat, especially near the roots. This style is perfect if you want a subtle change without cutting too much length. It also works well for both formal and everyday looks. A volumizing mousse can enhance the lift at the roots for a fuller appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers with side part medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers with side part medium hair."
+      },
+      {
+        "number": 13,
+        "title": "Piecey Layers For Fine Medium Hair",
+        "image": "/images/doc_b22_5_img_15.jpg",
+        "description": "Fine hair often lacks volume, but piecey layers can create the illusion of fullness. The layers add dimension and prevent the hair from looking flat. The key is to keep the layers light and strategically placed. This ensures the hair maintains its density while still gaining movement. Piecey ends make the hair look thicker and more textured. A volumizing spray can enhance the effect and add lift at the roots. This style is perfect for those who want a fuller look without heavy styling or complicated routines.",
+        "paragraphs": [
+          "Fine hair often lacks volume, but piecey layers can create the illusion of fullness.",
+          "The layers add dimension and prevent the hair from looking flat. The key is to keep the layers light and strategically placed. This ensures the hair maintains its density while still gaining movement. Piecey ends make the hair look thicker and more textured. A volumizing spray can enhance the effect and add lift at the roots. This style is perfect for those who want a fuller look without heavy styling or complicated routines."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers for fine medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers for fine medium hair."
+      },
+      {
+        "number": 14,
+        "title": "Medium Layered Hair With Face Framing Pieces",
+        "image": "/images/doc_b22_5_img_6.jpg",
+        "description": "Face framing layers combined with piecey ends create a balanced and flattering haircut. These layers start around the cheekbones or jawline and blend into the rest of the hair. They highlight your facial features without overwhelming them. The piecey texture adds dimension and prevents the haircut from looking too uniform. This style works especially well for people who want to add shape without losing length. It also looks great in both casual and professional settings. A round brush blowout can enhance the framing effect, while light styling products maintain separation and softness throughout the day.",
+        "paragraphs": [
+          "Face framing layers combined with piecey ends create a balanced and flattering haircut.",
+          "These layers start around the cheekbones or jawline and blend into the rest of the hair. They highlight your facial features without overwhelming them. The piecey texture adds dimension and prevents the haircut from looking too uniform. This style works especially well for people who want to add shape without losing length. It also looks great in both casual and professional settings. A round brush blowout can enhance the framing effect, while light styling products maintain separation and softness throughout the day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered hair with face framing pieces.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered hair with face framing pieces."
+      },
+      {
+        "number": 15,
+        "title": "Medium Hair With Feathered Piecey Layers",
+        "image": "/images/doc_b22_5_img_11.jpg",
+        "description": "Feathered layers bring a light, airy feel to medium hair. When combined with a piecey texture, they create a soft and flowing look that moves easily. The layers are slightly tapered at the ends, giving the hair a feathered effect. This style works well for those who want volume without heaviness. It frames the face gently and adds dimension throughout the length. Blow drying with a round brush can enhance the feathered shape. The result is a polished yet natural hairstyle that feels comfortable and easy to maintain daily.",
+        "paragraphs": [
+          "Feathered layers bring a light, airy feel to medium hair.",
+          "When combined with a piecey texture, they create a soft and flowing look that moves easily. The layers are slightly tapered at the ends, giving the hair a feathered effect. This style works well for those who want volume without heaviness. It frames the face gently and adds dimension throughout the length. Blow drying with a round brush can enhance the feathered shape. The result is a polished yet natural hairstyle that feels comfortable and easy to maintain daily."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium hair with feathered piecey layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium hair with feathered piecey layers."
+      },
+      {
+        "number": 16,
+        "title": "Medium Hair With Razor Cut Piecey Layers",
+        "image": "/images/doc_b22_5_img_13.jpg",
+        "description": "Razor cutting is a technique that enhances the piecey effect by creating softer and more textured ends. This method removes bulk and adds natural movement to medium hair. The result is a slightly undone look that feels modern and relaxed.Razor cut layerswork well for people who want a lightweight haircut. It also helps reduce thickness in heavier hair types. Styling is simple, as the haircut naturally falls into place. A bit of styling cream can enhance the texture without making the hair look greasy or heavy.",
+        "paragraphs": [
+          "Razor cutting is a technique that enhances the piecey effect by creating softer and more textured ends.",
+          "This method removes bulk and adds natural movement to medium hair. The result is a slightly undone look that feels modern and relaxed.Razor cut layerswork well for people who want a lightweight haircut. It also helps reduce thickness in heavier hair types. Styling is simple, as the haircut naturally falls into place. A bit of styling cream can enhance the texture without making the hair look greasy or heavy."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium hair with razor cut piecey layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium hair with razor cut piecey layers."
+      },
+      {
+        "number": 17,
+        "title": "Piecey Layers With Middle Part Medium Hair",
+        "image": "/images/doc_b22_5_img_12.jpg",
+        "description": "A middle part paired with piecey layers creates a balanced and symmetrical look. This style highlights facial features evenly and works well for many face shapes. The layers add movement and prevent the hair from appearing flat on either side. It is a simple yet effective way to update your hairstyle without making major changes. This look is especially popular because it feels modern and clean. You can style it straight or add slight waves for extra texture. A lightweight serum helps keep the hair smooth while maintaining the piecey effect.",
+        "paragraphs": [
+          "A middle part paired with piecey layers creates a balanced and symmetrical look.",
+          "This style highlights facial features evenly and works well for many face shapes. The layers add movement and prevent the hair from appearing flat on either side. It is a simple yet effective way to update your hairstyle without making major changes. This look is especially popular because it feels modern and clean. You can style it straight or add slight waves for extra texture. A lightweight serum helps keep the hair smooth while maintaining the piecey effect."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers with middle part medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers with middle part medium hair."
+      }
+    ]
+  },
+  {
+    "id": "polished-medium-layered-haircut",
+    "slug": "polished-medium-layered-haircut",
+    "title": "16+ Polished Medium Layered Haircut With a Sleek Finish",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "September 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_6_img_4.jpg",
+    "intro": "Medium layered haircuts are having a big moment right now, and it is easy to see why. They hit that sweet spot between short and long, so you keep movement without giving up too much length. These haircuts also look polished enough for work yet relaxed enough for weekends. Current trends focus on soft layering, healthy shine, and shapes that flatter different face structures and hair textures. Many medium cuts also pair well with modern coloring like soft balayage or subtle highlights to add dimension. With the right shape, a layered mid-length cut can boost volume on fine hair, remove bulk on thick hair, and make curls or waves easier to style. Below are 20 polished medium layered haircut looks to inspire your next salon visit.",
+    "introParagraphs": [
+      "Medium layered haircuts are having a big moment right now, and it is easy to see why. They hit that sweet spot between short and long, so you keep movement without giving up too much length. These haircuts also look polished enough for work yet relaxed enough for weekends. Current trends focus on soft layering, healthy shine, and shapes that flatter different face structures and hair textures. Many medium cuts also pair well with modern coloring like soft balayage or subtle highlights to add dimension. With the right shape, a layered mid-length cut can boost volume on fine hair, remove bulk on thick hair, and make curls or waves easier to style. Below are 20 polished medium layered haircut looks to inspire your next salon visit.",
+      "Picture soft layers that skim your cheekbones and jawline while the rest of your hair falls around the shoulders in a smooth, polished shape. This is the classic medium layered haircut with face framing, and it works especially well if you want a cut that flatters almost every face shape. The front pieces are slightly shorter and blend into longer layers through the sides and back, so you get movement without choppy ends. Ask your stylist for layers that start around the chin if you want to slim a round face or lift your features. This look can be worn straight and sleek for a refined feel or lightly waved for a softer finish. A round brush blowout or a large-barrel curling iron is usually enough to style it at home."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 16+ Polished Medium Layered Haircut With a Sleek Finish",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Medium Layered Haircut With Curtain Bangs",
+        "image": "/images/doc_b22_6_img_4.jpg",
+        "description": "If you like a lived-in yet polished look, pairing medium layers with curtain bangs is a flattering choice. Curtain bangs are parted down the middle or softly off-center and angle away from the face, blending into the rest of your layers. On a medium layered cut, they frame the eyes and cheekbones, making the whole hairstyle feel intentional and styled even when you put in minimal effort. This look works especially well with a slight wave or bend through the mid-lengths, which you can get with a curling iron or heatless methods. It suits most face shapes, but it is especially kind to round or long faces because the bangs visually balance the forehead and jaw. Use a lightweight blow-dry cream on the fringe and a round brush to keep it smooth but not stiff.",
+        "paragraphs": [
+          "If you like a lived-in yet polished look, pairing medium layers with curtain bangs is a flattering choice.",
+          "Curtain bangs are parted down the middle or softly off-center and angle away from the face, blending into the rest of your layers. On a medium layered cut, they frame the eyes and cheekbones, making the whole hairstyle feel intentional and styled even when you put in minimal effort. This look works especially well with a slight wave or bend through the mid-lengths, which you can get with a curling iron or heatless methods. It suits most face shapes, but it is especially kind to round or long faces because the bangs visually balance the forehead and jaw. Use a lightweight blow-dry cream on the fringe and a round brush to keep it smooth but not stiff."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with curtain bangs."
+      },
+      {
+        "number": 2,
+        "title": "Medium Layered Haircut With Blunt Ends",
+        "image": "/images/doc_b22_6_img_15.jpg",
+        "description": "A medium layered haircut with blunt ends combines structure with subtle movement. In this style, the perimeter of the hair is cut straight across for a solid, strong line, while soft layers are added inside the shape to prevent it from feeling too heavy. This look is great if you like your hair to appear thick at the bottom but still want a bit of flow and bounce. It works particularly well on straight or slightly wavy hair and gives a sleek, contemporary vibe that pairs nicely with minimalist fashion. You can wear it poker-straight for a sharp finish or add very soft waves to break up the line slightly. To style, use a smoothing cream and a flat iron or blow-dry with a paddle brush. A gloss spray or serum will help the blunt edge look shiny and intentional rather than bulky.",
+        "paragraphs": [
+          "A medium layered haircut with blunt ends combines structure with subtle movement.",
+          "In this style, the perimeter of the hair is cut straight across for a solid, strong line, while soft layers are added inside the shape to prevent it from feeling too heavy. This look is great if you like your hair to appear thick at the bottom but still want a bit of flow and bounce. It works particularly well on straight or slightly wavy hair and gives a sleek, contemporary vibe that pairs nicely with minimalist fashion. You can wear it poker-straight for a sharp finish or add very soft waves to break up the line slightly. To style, use a smoothing cream and a flat iron or blow-dry with a paddle brush. A gloss spray or serum will help the blunt edge look shiny and intentional rather than bulky."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with blunt ends.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with blunt ends."
+      },
+      {
+        "number": 3,
+        "title": "Medium Shag Haircut With Polished Layers",
+        "image": "/images/doc_b22_6_img_11.jpg",
+        "description": "A shag does not have to look messy; a medium shag with polished layers balances texture with refinement. In this version, the layers are clearly defined but carefully blended, with more volume at the crown and lighter, piecey ends. The overall length usually hovers around the shoulders, so it still feels wearable for everyday life. This cut is great if you want more edge than a classic layered cut but still need it to look put-together for work or events. It works well with natural waves or curls, but you can also create soft bends with a curling iron to bring out the layers. A light mousse or texture cream at the roots adds lift, while a glossing serum on the ends keeps them from appearing dry. Trim regularly to maintain the shape and prevent the layers from looking ragged.",
+        "paragraphs": [
+          "A shag does not have to look messy; a medium shag with polished layers balances texture with refinement.",
+          "In this version, the layers are clearly defined but carefully blended, with more volume at the crown and lighter, piecey ends. The overall length usually hovers around the shoulders, so it still feels wearable for everyday life. This cut is great if you want more edge than a classic layered cut but still need it to look put-together for work or events. It works well with natural waves or curls, but you can also create soft bends with a curling iron to bring out the layers. A light mousse or texture cream at the roots adds lift, while a glossing serum on the ends keeps them from appearing dry. Trim regularly to maintain the shape and prevent the layers from looking ragged."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium shag haircut with polished layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium shag haircut with polished layers."
+      },
+      {
+        "number": 4,
+        "title": "Medium Length Butterfly Layered Haircut",
+        "image": "/images/doc_b22_6_img_5.jpg",
+        "description": "Thebutterfly layered haircut, which uses two main tiers of layers, translates beautifully to medium length hair for a polished yet bouncy look. The top layers are shorter and create lift around the crown, while the bottom layers keep enough length to brush the shoulders. This shape looks especially glamorous when styled with a big, ’90s-inspired blowout because the layers flip away from the face and show off their movement. Butterfly layers are great if you want volume without sacrificing too much length, or if you have medium to thick hair that feels a bit flat at the roots. Ask your stylist to keep the shortest layers around your cheekbones or chin for a softer, wearable version. A large round brush, volumizing mousse, and a shine spray will help keep this cut looking polished rather than messy.",
+        "paragraphs": [
+          "Thebutterfly layered haircut, which uses two main tiers of layers, translates beautifully to medium length hair for a polished yet bouncy look.",
+          "The top layers are shorter and create lift around the crown, while the bottom layers keep enough length to brush the shoulders. This shape looks especially glamorous when styled with a big, ’90s-inspired blowout because the layers flip away from the face and show off their movement. Butterfly layers are great if you want volume without sacrificing too much length, or if you have medium to thick hair that feels a bit flat at the roots. Ask your stylist to keep the shortest layers around your cheekbones or chin for a softer, wearable version. A large round brush, volumizing mousse, and a shine spray will help keep this cut looking polished rather than messy."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length butterfly layered haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length butterfly layered haircut."
+      },
+      {
+        "number": 5,
+        "title": "Medium Layered Haircut With Wispy Ends",
+        "image": "/images/doc_b22_6_img_6.jpg",
+        "description": "For a softer, feathered finish, a medium layered haircut with wispy ends offers polish without harsh lines. The layers throughout the mid-lengths are blended, but the ends are lightly texturized so they look airy and delicate. This type of finish is ideal if you havestraight or slightly wavy hairand want it to appear lighter and more fluid. It is also a way to modernize an older medium cut by removing blunt, heavy edges. When styled straight, the wispy ends give a subtle, flattering taper around the shoulders; when waved, they keep the overall shape from feeling bulky. To maintain health, use a nourishing conditioner and heat protectant, since finer, texturized ends can show damage faster. Ask your stylist not to over-thin the ends so you do not lose too much density.",
+        "paragraphs": [
+          "For a softer, feathered finish, a medium layered haircut with wispy ends offers polish without harsh lines.",
+          "The layers throughout the mid-lengths are blended, but the ends are lightly texturized so they look airy and delicate. This type of finish is ideal if you havestraight or slightly wavy hairand want it to appear lighter and more fluid. It is also a way to modernize an older medium cut by removing blunt, heavy edges. When styled straight, the wispy ends give a subtle, flattering taper around the shoulders; when waved, they keep the overall shape from feeling bulky. To maintain health, use a nourishing conditioner and heat protectant, since finer, texturized ends can show damage faster. Ask your stylist not to over-thin the ends so you do not lose too much density."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with wispy ends.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with wispy ends."
+      },
+      {
+        "number": 6,
+        "title": "Straight Sleek Medium Layered Haircut",
+        "image": "/images/doc_b22_6_img_7.jpg",
+        "description": "There is something timeless about a straight, sleek medium layered cut that falls between the collarbones and shoulders. The layers in this look are usually long and minimal, designed to give gentle movement while keeping the outline smooth. This cut is perfect if you love a refined, glossy finish that pairs well with office outfits and dressy events. It works best on straight or slightly wavy hair, but a flat iron and smoothing products can help any texture achieve the look. To keep things polished, ask your stylist forinvisible or internal layersthat do not create obvious steps, especially if your hair is fine. Regular trims and a shine-enhancing serum are key so the layers continue to fall neatly and the ends look sharp, not frayed. A center or soft side part both complement this clean shape.",
+        "paragraphs": [
+          "There is something timeless about a straight, sleek medium layered cut that falls between the collarbones and shoulders.",
+          "The layers in this look are usually long and minimal, designed to give gentle movement while keeping the outline smooth. This cut is perfect if you love a refined, glossy finish that pairs well with office outfits and dressy events. It works best on straight or slightly wavy hair, but a flat iron and smoothing products can help any texture achieve the look. To keep things polished, ask your stylist forinvisible or internal layersthat do not create obvious steps, especially if your hair is fine. Regular trims and a shine-enhancing serum are key so the layers continue to fall neatly and the ends look sharp, not frayed. A center or soft side part both complement this clean shape."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for straight sleek medium layered haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in straight sleek medium layered haircut."
+      },
+      {
+        "number": 7,
+        "title": "Medium Layered Haircut With Soft Waves",
+        "image": "/images/doc_b22_6_img_8.jpg",
+        "description": "Medium layers really come alive when you add soft waves through the lengths. In this look, the haircut usually sits at or just below the shoulders, with layers starting below the cheekbones so the shape stays polished and not too shaggy. Soft waves emphasize the different lengths and create a natural, effortless movement that works for workdays and weekends alike. You can get the effect with a curling iron, wand, or even braiding damp hair and letting it dry. This cut flatters many hair types: it adds body to fine hair, gives shape to straight hair, and enhances natural wavy texture. For a shiny finish, apply a lightweight mousse or wave spray before styling, then smooth the top with a serum so the overall result feels polished, not frizzy.",
+        "paragraphs": [
+          "Medium layers really come alive when you add soft waves through the lengths.",
+          "In this look, the haircut usually sits at or just below the shoulders, with layers starting below the cheekbones so the shape stays polished and not too shaggy. Soft waves emphasize the different lengths and create a natural, effortless movement that works for workdays and weekends alike. You can get the effect with a curling iron, wand, or even braiding damp hair and letting it dry. This cut flatters many hair types: it adds body to fine hair, gives shape to straight hair, and enhances natural wavy texture. For a shiny finish, apply a lightweight mousse or wave spray before styling, then smooth the top with a serum so the overall result feels polished, not frizzy."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with soft waves.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with soft waves."
+      },
+      {
+        "number": 8,
+        "title": "Medium Layered Haircut With Blowout Finish",
+        "image": "/images/doc_b22_6_img_13.jpg",
+        "description": "If you love that salon-fresh look, a medium layered haircut designed for a blowout finish will be your go-to. The layers are cut to sit perfectly when styled with a round brush, creating lifted roots, smooth mid-lengths, and softly curved ends. This type of cut looks especially polished for work, events, or any time you want a more glamorous everyday style. It works best on straight to wavy hair and on medium to thick density that can hold volume. To style at home, use a volumizing mousse at the roots and a smoothing cream on the lengths, then section your hair and blow-dry with a large round brush. Finish with a light-hold hairspray to keep the shape without making hair stiff or crunchy. Regular trims keep the layers aligned so the blowout always falls correctly.",
+        "paragraphs": [
+          "If you love that salon-fresh look, a medium layered haircut designed for a blowout finish will be your go-to.",
+          "The layers are cut to sit perfectly when styled with a round brush, creating lifted roots, smooth mid-lengths, and softly curved ends. This type of cut looks especially polished for work, events, or any time you want a more glamorous everyday style. It works best on straight to wavy hair and on medium to thick density that can hold volume. To style at home, use a volumizing mousse at the roots and a smoothing cream on the lengths, then section your hair and blow-dry with a large round brush. Finish with a light-hold hairspray to keep the shape without making hair stiff or crunchy. Regular trims keep the layers aligned so the blowout always falls correctly."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with blowout finish.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with blowout finish."
+      },
+      {
+        "number": 9,
+        "title": "Medium Layered Haircut With Soft Curls",
+        "image": "/images/doc_b22_6_img_14.jpg",
+        "description": "Soft curls on a medium layered cut instantly look romantic and polished. The haircut usually keeps the length around the shoulders while adding layers that help curls stack neatly and avoid a triangle shape. This is especially useful if you have naturally curly or wavy hair and want it to look controlled but still full of life. You can enhance natural curls with curl cream and diffusing, or create them with a curling iron if your hair is straight. The layers allow each curl to sit on top of the next, creating a rounded, flattering silhouette that works well with many face shapes. To keep the look shiny and frizz-free, use a hydrating conditioner, a curl-friendly styling product, and a light oil on the ends. Regular trims help prevent split ends, which can make curls appear dull and uneven.",
+        "paragraphs": [
+          "Soft curls on a medium layered cut instantly look romantic and polished.",
+          "The haircut usually keeps the length around the shoulders while adding layers that help curls stack neatly and avoid a triangle shape. This is especially useful if you have naturally curly or wavy hair and want it to look controlled but still full of life. You can enhance natural curls with curl cream and diffusing, or create them with a curling iron if your hair is straight. The layers allow each curl to sit on top of the next, creating a rounded, flattering silhouette that works well with many face shapes. To keep the look shiny and frizz-free, use a hydrating conditioner, a curl-friendly styling product, and a light oil on the ends. Regular trims help prevent split ends, which can make curls appear dull and uneven."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with soft curls.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with soft curls."
+      },
+      {
+        "number": 10,
+        "title": "Medium Layered Haircut With Long Side Bangs",
+        "image": "/images/doc_b22_6_img_10.jpg",
+        "description": "Long side bangs paired with a medium layered cut give a soft, face-hugging shape that looks polished but not severe. The bangs usually start around the cheekbone or a little longer and sweep diagonally across the forehead before blending into the side layers. This creates a flattering angle that can slim a round face,soften a square jaw, or draw attention to the eyes. The rest of the haircut has gentle layers to prevent a heavy, helmet-like shape. Styling is straightforward: blow-dry the bangs with a round brush to guide them in the right direction, then smooth or wave the rest of the hair. This look can be worn on straight, wavy, or slightly curly hair, but using a light styling cream on the fringe helps keep it neat and polished throughout the day.",
+        "paragraphs": [
+          "Long side bangs paired with a medium layered cut give a soft, face-hugging shape that looks polished but not severe.",
+          "The bangs usually start around the cheekbone or a little longer and sweep diagonally across the forehead before blending into the side layers. This creates a flattering angle that can slim a round face,soften a square jaw, or draw attention to the eyes. The rest of the haircut has gentle layers to prevent a heavy, helmet-like shape. Styling is straightforward: blow-dry the bangs with a round brush to guide them in the right direction, then smooth or wave the rest of the hair. This look can be worn on straight, wavy, or slightly curly hair, but using a light styling cream on the fringe helps keep it neat and polished throughout the day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with long side bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with long side bangs."
+      },
+      {
+        "number": 11,
+        "title": "Medium Layered Haircut For Fine Hair",
+        "image": "/images/doc_b22_6_img_17.jpg",
+        "description": "For fine hair, the right medium layered cut can make your strands look fuller and more polished instead of limp. The trick is asking for soft, strategic layers that add volume and movement without removing too much density from the ends. Layers might start below the cheekbones or around the collarbones so the top appears thicker. A blunt or slightly rounded perimeter helps the bottom look solid instead of stringy, while layers inside the shape create lift. This haircut pairs well with a side part or gentle waves, which both make hair look more voluminous. Styling products matter here: use a volumizing mousse or root spray, then blow-dry with a round brush to build body. Avoid heavy oils or creams that can weigh hair down and undo the benefits of your layers.",
+        "paragraphs": [
+          "For fine hair, the right medium layered cut can make your strands look fuller and more polished instead of limp.",
+          "The trick is asking for soft, strategic layers that add volume and movement without removing too much density from the ends. Layers might start below the cheekbones or around the collarbones so the top appears thicker. A blunt or slightly rounded perimeter helps the bottom look solid instead of stringy, while layers inside the shape create lift. This haircut pairs well with a side part or gentle waves, which both make hair look more voluminous. Styling products matter here: use a volumizing mousse or root spray, then blow-dry with a round brush to build body. Avoid heavy oils or creams that can weigh hair down and undo the benefits of your layers."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut for fine hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut for fine hair."
+      },
+      {
+        "number": 12,
+        "title": "Medium Layered Haircut With V Cut Back",
+        "image": "/images/doc_b22_6_img_12.jpg",
+        "description": "A medium layered haircut with a V cut back creates a subtle, cascading effect when you see the hair from behind. The longest point forms a soft V shape at the center, while shorter layers along the sides taper toward the front. This design adds visual interest and helps longish medium hair look more dynamic, especially if you wear it down often. It works beautifully on straight and wavy textures, as the V showcases the layers and any color dimension you might have, like balayage or highlights. From the front, the cut can be paired with face-framing pieces or kept more uniform depending on your preference. Styling is simple: blow-dry with a round brush for a smooth finish or use a curling iron for soft waves, then apply a shine spray so the V shape reflects the light nicely.",
+        "paragraphs": [
+          "A medium layered haircut with a V cut back creates a subtle, cascading effect when you see the hair from behind.",
+          "The longest point forms a soft V shape at the center, while shorter layers along the sides taper toward the front. This design adds visual interest and helps longish medium hair look more dynamic, especially if you wear it down often. It works beautifully on straight and wavy textures, as the V showcases the layers and any color dimension you might have, like balayage or highlights. From the front, the cut can be paired with face-framing pieces or kept more uniform depending on your preference. Styling is simple: blow-dry with a round brush for a smooth finish or use a curling iron for soft waves, then apply a shine spray so the V shape reflects the light nicely."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with v cut back.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with v cut back."
+      },
+      {
+        "number": 13,
+        "title": "Medium Layered Haircut With Caramel Balayage",
+        "image": "/images/doc_b22_6_img_16.jpg",
+        "description": "Adding caramel balayage to a medium layered haircut creates a polished, dimensional look that works across seasons. The balayage technique places lighter caramel tones strategically through the mid-lengths and ends, which layers then showcase beautifully. This combination adds depth and movement, making hair appear fuller and more textured without needing heavy styling. It suits many base shades, from dark brown to light brown and dark blonde. Ask your colorist for soft, blended highlights that start a bit below the root, so regrowth is subtle and the look stays low-maintenance. Styling the cut with loose waves or a bouncy blowout really shows off the color blend and layered shape. Use color-safe shampoo, conditioner, and a weekly mask to keep the caramel tones rich and prevent dryness on the highlighted pieces.",
+        "paragraphs": [
+          "Adding caramel balayage to a medium layered haircut creates a polished, dimensional look that works across seasons.",
+          "The balayage technique places lighter caramel tones strategically through the mid-lengths and ends, which layers then showcase beautifully. This combination adds depth and movement, making hair appear fuller and more textured without needing heavy styling. It suits many base shades, from dark brown to light brown and dark blonde. Ask your colorist for soft, blended highlights that start a bit below the root, so regrowth is subtle and the look stays low-maintenance. Styling the cut with loose waves or a bouncy blowout really shows off the color blend and layered shape. Use color-safe shampoo, conditioner, and a weekly mask to keep the caramel tones rich and prevent dryness on the highlighted pieces."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with caramel balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with caramel balayage."
+      },
+      {
+        "number": 14,
+        "title": "Polished Medium Layered Bob Haircut",
+        "image": "/images/doc_b22_6_img_3.jpg",
+        "description": "A polished medium layered bob is perfect if you like structure but still want softness and swing. This version usually hits at or slightly below the shoulders, withsubtle internal layersthat prevent the bob from looking boxy. The outline stays clean, often slightly curved under, while the layers add volume and help the hair tuck neatly into collars or blazers. This makes it a great option for professional settings where you still want a modern cut. It can be worn straight for a glassy finish or styled with large waves for more body. If you have fine hair, ask for long, minimal layers that keep fullness at the bottom; for thick hair, slightly longer layers help remove weight. A smoothing serum or lightweight cream will keep the bob looking sleek and polished throughout the day.",
+        "paragraphs": [
+          "A polished medium layered bob is perfect if you like structure but still want softness and swing.",
+          "This version usually hits at or slightly below the shoulders, withsubtle internal layersthat prevent the bob from looking boxy. The outline stays clean, often slightly curved under, while the layers add volume and help the hair tuck neatly into collars or blazers. This makes it a great option for professional settings where you still want a modern cut. It can be worn straight for a glassy finish or styled with large waves for more body. If you have fine hair, ask for long, minimal layers that keep fullness at the bottom; for thick hair, slightly longer layers help remove weight. A smoothing serum or lightweight cream will keep the bob looking sleek and polished throughout the day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for polished medium layered bob haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in polished medium layered bob haircut."
+      },
+      {
+        "number": 15,
+        "title": "Shoulder Length Layered Haircut With Side Part",
+        "image": "/images/doc_b22_6_img_2.jpg",
+        "description": "For a polished everyday look, a shoulder length layered cut with a side part gives instant sophistication without feeling too stiff. The side part shifts more hair to one side, creating soft volume over the forehead and balancing wider cheeks or a strong jaw. Layers are cut throughout the mid-lengths and ends to keep the shape light and airy, which is especially helpful if you have medium to thick hair that tends to look heavy. This cut looks great when blow-dried smooth with a bit of bend at the ends, but it also sits nicely when air-dried with a styling cream for a natural finish. Regular trims every six to eight weeks help keep the layers crisp and prevent the ends from looking thin. It is an easy step up from a basic one-length lob when you want more movement.",
+        "paragraphs": [
+          "For a polished everyday look, a shoulder length layered cut with a side part gives instant sophistication without feeling too stiff.",
+          "The side part shifts more hair to one side, creating soft volume over the forehead and balancing wider cheeks or a strong jaw. Layers are cut throughout the mid-lengths and ends to keep the shape light and airy, which is especially helpful if you have medium to thick hair that tends to look heavy. This cut looks great when blow-dried smooth with a bit of bend at the ends, but it also sits nicely when air-dried with a styling cream for a natural finish. Regular trims every six to eight weeks help keep the layers crisp and prevent the ends from looking thin. It is an easy step up from a basic one-length lob when you want more movement."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered haircut with side part.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered haircut with side part."
+      },
+      {
+        "number": 16,
+        "title": "Medium Layered Haircut With Face Framing",
+        "image": "/images/doc_b22_6_img_1.jpg",
+        "description": "Picture soft layers that skim your cheekbones and jawline while the rest of your hair falls around the shoulders in a smooth, polished shape. This is the classic medium layered haircut with face framing, and it works especially well if you want a cut that flatters almost every face shape. The front pieces are slightly shorter and blend into longer layers through the sides and back, so you get movement without choppy ends. Ask your stylist for layers that start around the chin if you want to slim a round face or lift your features. This look can be worn straight and sleek for a refined feel or lightly waved for a softer finish. A round brush blowout or a large-barrel curling iron is usually enough to style it at home.",
+        "paragraphs": [
+          "Picture soft layers that skim your cheekbones and jawline while the rest of your hair falls around the shoulders in a smooth, polished shape.",
+          "This is the classic medium layered haircut with face framing, and it works especially well if you want a cut that flatters almost every face shape. The front pieces are slightly shorter and blend into longer layers through the sides and back, so you get movement without choppy ends. Ask your stylist for layers that start around the chin if you want to slim a round face or lift your features. This look can be worn straight and sleek for a refined feel or lightly waved for a softer finish. A round brush blowout or a large-barrel curling iron is usually enough to style it at home."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with face framing.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with face framing."
+      },
+      {
+        "number": 17,
+        "title": "Medium Layered Lob Haircut With Texture",
+        "image": "/images/doc_b22_6_img_9.jpg",
+        "description": "A textured lob that sits around the shoulders becomes more polished when the layers are thoughtfully placed and the ends are clean. This haircut keeps the overall lob shape but introduces soft layering to prevent heaviness and add movement. The texture is usually created with point cutting or slide cutting at the ends rather than heavy thinning, so the hair still looks full. Wear it with loose, undone waves for a modern, cool look or blow-dry it smooth with just a hint of bend at the ends for more refinement. This style works well for straight, wavy, and even slightly curly hair, as the layers help everything fall into an easy shape. Use a texturizing spray on mid-lengths and a smoothing cream near the roots to keep the overall effect balanced and polished.",
+        "paragraphs": [
+          "A textured lob that sits around the shoulders becomes more polished when the layers are thoughtfully placed and the ends are clean.",
+          "This haircut keeps the overall lob shape but introduces soft layering to prevent heaviness and add movement. The texture is usually created with point cutting or slide cutting at the ends rather than heavy thinning, so the hair still looks full. Wear it with loose, undone waves for a modern, cool look or blow-dry it smooth with just a hint of bend at the ends for more refinement. This style works well for straight, wavy, and even slightly curly hair, as the layers help everything fall into an easy shape. Use a texturizing spray on mid-lengths and a smoothing cream near the roots to keep the overall effect balanced and polished."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered lob haircut with texture.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered lob haircut with texture."
+      }
+    ]
+  },
+  {
+    "id": "airy-butterfly-layers-medium-hair",
+    "slug": "airy-butterfly-layers-medium-hair",
+    "title": "17+ Airy Butterfly Layers for Medium Hair That Frame the Face",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "September 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_7_img_2.jpg",
+    "intro": "Medium hair often feels stuck in a transition phase where it is too long for a bob but lacks the dramatic flair of waist-length locks. The airy butterfly layers for medium hair solve this dilemma by injecting movement and weightless volume into your strands. This specific cutting technique uses shorter, face-framing layers on top that mimic the delicate shape of a butterfly’s wings, while longer layers underneath maintain your overall length. It is the perfect choice for anyone wanting a salon-quality blowout look every day without the heavy maintenance of extremely long hair. By strategically removing bulk, your hair gains a bouncy, ethereal quality that looks just as good air-dried as it does professionally styled.",
+    "introParagraphs": [
+      "Medium hair often feels stuck in a transition phase where it is too long for a bob but lacks the dramatic flair of waist-length locks. The airy butterfly layers for medium hair solve this dilemma by injecting movement and weightless volume into your strands. This specific cutting technique uses shorter, face-framing layers on top that mimic the delicate shape of a butterfly’s wings, while longer layers underneath maintain your overall length. It is the perfect choice for anyone wanting a salon-quality blowout look every day without the heavy maintenance of extremely long hair. By strategically removing bulk, your hair gains a bouncy, ethereal quality that looks just as good air-dried as it does professionally styled.",
+      "Choosing medium butterfly cut with curtain bangs is the most popular way to embrace this trend because of how it frames the face. The curtain bangs blend seamlessly into the shortest layers of the butterfly cut, creating a soft, cascading effect that highlights your cheekbones. This combination is ideal for medium length hair as it prevents the style from looking too bottom-heavy or flat at the roots. When you style this look with a round brush, the bangs flip outward to meet the layers, giving you thaticonic 90s supermodel volume. It is a versatile choice that suits oval, heart, and square face shapes by softening the jawline and adding a youthful, lifting energy to your overall appearance."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 17+ Airy Butterfly Layers for Medium Hair That Frame the Face",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Airy Butterfly Layers For Fine Hair",
+        "image": "/images/doc_b22_7_img_2.jpg",
+        "description": "Many people think layers thin out the hair, but airy butterfly layers for fine hair actually do the opposite by building internal structure. For medium lengths, these layers are cut specifically to create the illusion of thickness without stripping away too much density from the ends. The “airy” part of the technique involves point-cutting the tips to keep them light and wispy, which allows the hair to bounce more freely. By adding shorter layers around the crown, you get an instant lift that prevents fine hair from laying flat against the scalp. This style works best when paired with a volumizing mousse, ensuring the butterfly “wings” stay perched and full of life throughout the day.",
+        "paragraphs": [
+          "Many people think layers thin out the hair, but airy butterfly layers for fine hair actually do the opposite by building internal structure.",
+          "For medium lengths, these layers are cut specifically to create the illusion of thickness without stripping away too much density from the ends. The “airy” part of the technique involves point-cutting the tips to keep them light and wispy, which allows the hair to bounce more freely. By adding shorter layers around the crown, you get an instant lift that prevents fine hair from laying flat against the scalp. This style works best when paired with a volumizing mousse, ensuring the butterfly “wings” stay perched and full of life throughout the day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for airy butterfly layers for fine hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in airy butterfly layers for fine hair."
+      },
+      {
+        "number": 2,
+        "title": "Layered Butterfly Bob For Medium Length",
+        "image": "/images/doc_b22_7_img_9.jpg",
+        "description": "The layered butterfly bob for medium length is a slightly shorter, punchier version of the trend that sits right at or just below the shoulders. This variation is all about maximum bounce and “swing” because the shorter length allows the layers to be even more reactive. It is essentially a long bob (lob) infused with the dramatic layering of a butterfly cut, providing the best of both worlds. This style is excellent for someone who wants the volume of a short cut but enough length to still pull their hair into a ponytail. It looks incredibly modern and fresh, offering a sharp silhouette that frames the jawline beautifully while maintaining a playful, airy texture throughout the ends.",
+        "paragraphs": [
+          "The layered butterfly bob for medium length is a slightly shorter, punchier version of the trend that sits right at or just below the shoulders.",
+          "This variation is all about maximum bounce and “swing” because the shorter length allows the layers to be even more reactive. It is essentially a long bob (lob) infused with the dramatic layering of a butterfly cut, providing the best of both worlds. This style is excellent for someone who wants the volume of a short cut but enough length to still pull their hair into a ponytail. It looks incredibly modern and fresh, offering a sharp silhouette that frames the jawline beautifully while maintaining a playful, airy texture throughout the ends."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered butterfly bob for medium length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered butterfly bob for medium length."
+      },
+      {
+        "number": 3,
+        "title": "Medium Butterfly Cut With Curtain Bangs",
+        "image": "/images/doc_b22_7_img_1.jpg",
+        "description": "Choosing medium butterfly cut with curtain bangs is the most popular way to embrace this trend because of how it frames the face. The curtain bangs blend seamlessly into the shortest layers of the butterfly cut, creating a soft, cascading effect that highlights your cheekbones. This combination is ideal for medium length hair as it prevents the style from looking too bottom-heavy or flat at the roots. When you style this look with a round brush, the bangs flip outward to meet the layers, giving you thaticonic 90s supermodel volume. It is a versatile choice that suits oval, heart, and square face shapes by softening the jawline and adding a youthful, lifting energy to your overall appearance.",
+        "paragraphs": [
+          "Choosing medium butterfly cut with curtain bangs is the most popular way to embrace this trend because of how it frames the face.",
+          "The curtain bangs blend seamlessly into the shortest layers of the butterfly cut, creating a soft, cascading effect that highlights your cheekbones. This combination is ideal for medium length hair as it prevents the style from looking too bottom-heavy or flat at the roots. When you style this look with a round brush, the bangs flip outward to meet the layers, giving you thaticonic 90s supermodel volume. It is a versatile choice that suits oval, heart, and square face shapes by softening the jawline and adding a youthful, lifting energy to your overall appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium butterfly cut with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium butterfly cut with curtain bangs."
+      },
+      {
+        "number": 4,
+        "title": "Face Framing Butterfly Layers Without Bangs",
+        "image": "/images/doc_b22_7_img_10.jpg",
+        "description": "If you prefer to keep your forehead clear, face framing butterfly layers without bangs offer the same volume and shape with a more open look. In this medium-length variation, the shortest layers start around the chin or jawline, tapering down to the shoulders. This creates a beautiful “C-shape” around the face that draws the eye upward and highlights your facial structure. It is a great option for those with rounder face shapes, as the lack of bangs helps to elongate the face while the layers provide the necessary width and volume. This style is incredibly low-maintenance and looks fantastic when tucked behind one ear for a sleek, asymmetrical, and effortless everyday appearance.",
+        "paragraphs": [
+          "If you prefer to keep your forehead clear, face framing butterfly layers without bangs offer the same volume and shape with a more open look.",
+          "In this medium-length variation, the shortest layers start around the chin or jawline, tapering down to the shoulders. This creates a beautiful “C-shape” around the face that draws the eye upward and highlights your facial structure. It is a great option for those with rounder face shapes, as the lack of bangs helps to elongate the face while the layers provide the necessary width and volume. This style is incredibly low-maintenance and looks fantastic when tucked behind one ear for a sleek, asymmetrical, and effortless everyday appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face framing butterfly layers without bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face framing butterfly layers without bangs."
+      },
+      {
+        "number": 5,
+        "title": "Straight Hair Butterfly Layers With Flicked Ends",
+        "image": "/images/doc_b22_7_img_7.jpg",
+        "description": "Achieving a polished look is easy with straight hairbutterfly layers with flicked ends, which provide much-needed shape to flat strands. On medium-length straight hair, the layers are cut precisely so they naturally curve inward or outward depending on your preference. This prevents straight hair from looking limp or dull by adding a structured, architectural element to the style. The “flicked” ends are usually achieved by blow-drying with a medium round brush or using a flat iron to turn the tips away from the face. This creates a rhythmic, repetitive pattern of movement that looks incredibly chic and intentional, giving straight hair a bouncy, salon-fresh personality that lasts between washes.",
+        "paragraphs": [
+          "Achieving a polished look is easy with straight hairbutterfly layers with flicked ends, which provide much-needed shape to flat strands.",
+          "On medium-length straight hair, the layers are cut precisely so they naturally curve inward or outward depending on your preference. This prevents straight hair from looking limp or dull by adding a structured, architectural element to the style. The “flicked” ends are usually achieved by blow-drying with a medium round brush or using a flat iron to turn the tips away from the face. This creates a rhythmic, repetitive pattern of movement that looks incredibly chic and intentional, giving straight hair a bouncy, salon-fresh personality that lasts between washes."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for straight hair butterfly layers with flicked ends.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in straight hair butterfly layers with flicked ends."
+      },
+      {
+        "number": 6,
+        "title": "Butterfly Haircut For Naturally Wavy Hair",
+        "image": "/images/doc_b22_7_img_6.jpg",
+        "description": "Embracing your natural texture is simple with a butterfly haircut for naturally wavy hair because the layers are designed to encourage curl. Medium length hair often struggles with waves being weighed down, but the airy layers of this cut remove the “drag” and let your natural pattern spring up. The shorter sections around the face and crown prevent the “pyramid head” look that many wavy-haired people fear. Instead, you get a soft, romantic silhouette that looks beautiful with minimal effort. Simply scrunching in a bit of sea salt spray or light curl cream allows the layers to air-dry into a dreamy, tousled style that perfectly embodies the effortless butterfly aesthetic.",
+        "paragraphs": [
+          "Embracing your natural texture is simple with a butterfly haircut for naturally wavy hair because the layers are designed to encourage curl.",
+          "Medium length hair often struggles with waves being weighed down, but the airy layers of this cut remove the “drag” and let your natural pattern spring up. The shorter sections around the face and crown prevent the “pyramid head” look that many wavy-haired people fear. Instead, you get a soft, romantic silhouette that looks beautiful with minimal effort. Simply scrunching in a bit of sea salt spray or light curl cream allows the layers to air-dry into a dreamy, tousled style that perfectly embodies the effortless butterfly aesthetic."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for butterfly haircut for naturally wavy hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in butterfly haircut for naturally wavy hair."
+      },
+      {
+        "number": 7,
+        "title": "Shoulder Length Butterfly Cut With Highlights",
+        "image": "/images/doc_b22_7_img_5.jpg",
+        "description": "Enhancing your shoulder length butterfly cut with highlights is a fantastic way to make every individual layer pop and stand out visually. When you add dimensional color likebalayage or babylightsto these airy layers, the light catches the different lengths, emphasizing the “wing” effect of the cut. For medium hair, this creates a sense of depth that makes the hair look much fuller than it actually is. The highlights are usually placed around the face-framing pieces to brighten your complexion and draw attention to the intricate transition between the short and long layers. This color-and-cut combo is perfect for someone looking for a total transformation that remains sophisticated and very easy to grow out.",
+        "paragraphs": [
+          "Enhancing your shoulder length butterfly cut with highlights is a fantastic way to make every individual layer pop and stand out visually.",
+          "When you add dimensional color likebalayage or babylightsto these airy layers, the light catches the different lengths, emphasizing the “wing” effect of the cut. For medium hair, this creates a sense of depth that makes the hair look much fuller than it actually is. The highlights are usually placed around the face-framing pieces to brighten your complexion and draw attention to the intricate transition between the short and long layers. This color-and-cut combo is perfect for someone looking for a total transformation that remains sophisticated and very easy to grow out."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length butterfly cut with highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length butterfly cut with highlights."
+      },
+      {
+        "number": 8,
+        "title": "Butterfly Haircut With Ashy Tones",
+        "image": "/images/doc_b22_7_img_14.jpg",
+        "description": "Combining a butterfly haircut with ashy tones creates a cool, modern aesthetic that feels very current for 2026. Ashy blonde,mushroom brown, or cool-toned silver hair looks incredible with airy layers because the cool tones reflect light in a way that emphasizes the hair’s texture. On medium hair, these cool colors prevent the voluminous layers from looking too “pageant” or dated, giving them a more editorial and high-fashion edge. The layers help to distribute the ashy color throughout the hair, preventing it from looking flat or muddy. This is a great choice for those with cool skin undertones who want a voluminous, trendy haircut that feels sophisticated and expensive.",
+        "paragraphs": [
+          "Combining a butterfly haircut with ashy tones creates a cool, modern aesthetic that feels very current for 2026.",
+          "Ashy blonde,mushroom brown, or cool-toned silver hair looks incredible with airy layers because the cool tones reflect light in a way that emphasizes the hair’s texture. On medium hair, these cool colors prevent the voluminous layers from looking too “pageant” or dated, giving them a more editorial and high-fashion edge. The layers help to distribute the ashy color throughout the hair, preventing it from looking flat or muddy. This is a great choice for those with cool skin undertones who want a voluminous, trendy haircut that feels sophisticated and expensive."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for butterfly haircut with ashy tones.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in butterfly haircut with ashy tones."
+      },
+      {
+        "number": 9,
+        "title": "Messy Butterfly Layers For Casual Styling",
+        "image": "/images/doc_b22_7_img_13.jpg",
+        "description": "For those who live a busy lifestyle, messy butterfly layers for casual styling provide a “woke up like this” look that still feels intentional. This medium-length style relies on the cut’s internal structure to provide shape, so you don’t have to spend hours with hot tools. The airy layers are cut to fall naturally into a tousled pattern that looks great with a bit of dry shampoo or texture paste. This version of the butterfly cut is perfect for students or professionals who want a trendy look that only takes five minutes to style in the morning. It embraces imperfections and flyaways, turning them into a feature of the voluminous and airy aesthetic.",
+        "paragraphs": [
+          "For those who live a busy lifestyle, messy butterfly layers for casual styling provide a “woke up like this” look that still feels intentional.",
+          "This medium-length style relies on the cut’s internal structure to provide shape, so you don’t have to spend hours with hot tools. The airy layers are cut to fall naturally into a tousled pattern that looks great with a bit of dry shampoo or texture paste. This version of the butterfly cut is perfect for students or professionals who want a trendy look that only takes five minutes to style in the morning. It embraces imperfections and flyaways, turning them into a feature of the voluminous and airy aesthetic."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for messy butterfly layers for casual styling.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in messy butterfly layers for casual styling."
+      },
+      {
+        "number": 10,
+        "title": "Voluminous Butterfly Layers For Thick Hair",
+        "image": "/images/doc_b22_7_img_4.jpg",
+        "description": "Managing dense strands becomes much easier with voluminous butterfly layers for thick hair because the technique removes significant internal weight. For medium hair that often feels heavy or “triangle-shaped,” these layers create a more balanced and tapered silhouette. The stylist focuses on thinning out the mid-lengths while keeping the layers bouncy and defined, which prevents the hair from looking blocky. This cut allows thick-haired individuals to enjoy a lot of movement without the frizz that often comes with traditional thinning shears. It results in a glamorous, high-volume look that feels significantly lighter on the head and neck, making it a functional yet stunning choice for daily wear and professional settings.",
+        "paragraphs": [
+          "Managing dense strands becomes much easier with voluminous butterfly layers for thick hair because the technique removes significant internal weight.",
+          "For medium hair that often feels heavy or “triangle-shaped,” these layers create a more balanced and tapered silhouette. The stylist focuses on thinning out the mid-lengths while keeping the layers bouncy and defined, which prevents the hair from looking blocky. This cut allows thick-haired individuals to enjoy a lot of movement without the frizz that often comes with traditional thinning shears. It results in a glamorous, high-volume look that feels significantly lighter on the head and neck, making it a functional yet stunning choice for daily wear and professional settings."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for voluminous butterfly layers for thick hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in voluminous butterfly layers for thick hair."
+      },
+      {
+        "number": 11,
+        "title": "Butterfly Cut With Tapered Ends",
+        "image": "/images/doc_b22_7_img_12.jpg",
+        "description": "Choosing a butterfly cut with tapered ends is a great way to ensure your medium hair looks slim and sophisticated rather than bulky. Tapering involves thinning the very tips of the layers so they come to a soft point, which helps them blend into one another seamlessly. This technique is especially useful for those with medium to thick hair who want the butterfly look without it appearing too wide at the bottom. The tapered ends give the haircut a more modern, “waterfall” effect where the hair seems to flow effortlessly from one layer to the next. It creates a very clean silhouette that looks professional yet trendy, making it a versatile choice for any lifestyle or age group.",
+        "paragraphs": [
+          "Choosing a butterfly cut with tapered ends is a great way to ensure your medium hair looks slim and sophisticated rather than bulky.",
+          "Tapering involves thinning the very tips of the layers so they come to a soft point, which helps them blend into one another seamlessly. This technique is especially useful for those with medium to thick hair who want the butterfly look without it appearing too wide at the bottom. The tapered ends give the haircut a more modern, “waterfall” effect where the hair seems to flow effortlessly from one layer to the next. It creates a very clean silhouette that looks professional yet trendy, making it a versatile choice for any lifestyle or age group."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for butterfly cut with tapered ends.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in butterfly cut with tapered ends."
+      },
+      {
+        "number": 12,
+        "title": "Butterfly Layers With Wispy Bangs",
+        "image": "/images/doc_b22_7_img_8.jpg",
+        "description": "For a softer and more ethereal vibe, butterfly layers with wispy bangs provide a delicate frame that focuses entirely on the eyes. Unlike heavy curtain bangs, wispy bangs are thin and see-through, blending perfectly with the “airy” theme of the butterfly haircut. On medium hair, this combination creates a very balanced look that doesn’t overwhelm smaller facial features. The layers start high enough to connect with the bangs, ensuring there is a continuous flow of hair from the forehead down to the shoulders. This style is particularly flattering for those who want a change but aren’t ready for a high-maintenance fringe, as wispy bangs are easy to pin back or style to the side.",
+        "paragraphs": [
+          "For a softer and more ethereal vibe, butterfly layers with wispy bangs provide a delicate frame that focuses entirely on the eyes.",
+          "Unlike heavy curtain bangs, wispy bangs are thin and see-through, blending perfectly with the “airy” theme of the butterfly haircut. On medium hair, this combination creates a very balanced look that doesn’t overwhelm smaller facial features. The layers start high enough to connect with the bangs, ensuring there is a continuous flow of hair from the forehead down to the shoulders. This style is particularly flattering for those who want a change but aren’t ready for a high-maintenance fringe, as wispy bangs are easy to pin back or style to the side."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for butterfly layers with wispy bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in butterfly layers with wispy bangs."
+      },
+      {
+        "number": 13,
+        "title": "Shaggy Butterfly Layers For Medium Hair",
+        "image": "/images/doc_b22_7_img_3.jpg",
+        "description": "If you prefer a more lived-in and edgy aesthetic, shaggy butterfly layers for medium hair offer the perfect blend of two iconic styles. This version incorporates the choppy, textured ends of a traditional shag with the voluminous, face-framing silhouette of a butterfly cut. It is an excellent option for those with natural waves or a bit of frizz, as the intentional messiness makes styling incredibly easy. The layers are often carved out with a razor to give them a piecey, deconstructed finish that looks effortlessly cool. This haircut thrives on texture spray, allowing the medium length to look thick and wild while remaining light enough to have significant movement and swing.",
+        "paragraphs": [
+          "If you prefer a more lived-in and edgy aesthetic, shaggy butterfly layers for medium hair offer the perfect blend of two iconic styles.",
+          "This version incorporates the choppy, textured ends of a traditional shag with the voluminous, face-framing silhouette of a butterfly cut. It is an excellent option for those with natural waves or a bit of frizz, as the intentional messiness makes styling incredibly easy. The layers are often carved out with a razor to give them a piecey, deconstructed finish that looks effortlessly cool. This haircut thrives on texture spray, allowing the medium length to look thick and wild while remaining light enough to have significant movement and swing."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shaggy butterfly layers for medium hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shaggy butterfly layers for medium hair."
+      },
+      {
+        "number": 14,
+        "title": "Retro Inspired Butterfly Blowout",
+        "image": "/images/doc_b22_7_img_11.jpg",
+        "description": "The retro inspired butterfly blowout is the ultimate styling goal for this haircut, channeling the glamorous volume of the 1970s and 90s. With medium hair, this look is achievable usinglarge velcro rollersor a round brush to set the layers in a bouncy, lifted position. The airy nature of the butterfly cut means the hair isn’t too heavy to hold the curl, allowing the volume to stay at the roots for hours. This style is perfect for special occasions or whenever you want to feel a bit more “done” and polished. The key is to use a heat protectant and a medium-hold hairspray to ensure those iconic “butterfly wings” stay flipped out and voluminous all day long.",
+        "paragraphs": [
+          "The retro inspired butterfly blowout is the ultimate styling goal for this haircut, channeling the glamorous volume of the 1970s and 90s.",
+          "With medium hair, this look is achievable usinglarge velcro rollersor a round brush to set the layers in a bouncy, lifted position. The airy nature of the butterfly cut means the hair isn’t too heavy to hold the curl, allowing the volume to stay at the roots for hours. This style is perfect for special occasions or whenever you want to feel a bit more “done” and polished. The key is to use a heat protectant and a medium-hold hairspray to ensure those iconic “butterfly wings” stay flipped out and voluminous all day long."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for retro inspired butterfly blowout.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in retro inspired butterfly blowout."
+      }
+    ]
+  },
+  {
+    "id": "glossy-layered-shoulder-length-haircut",
+    "slug": "glossy-layered-shoulder-length-haircut",
+    "title": "18+ Glossy Layered Shoulder Length Haircut With Extra Shine",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "September 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_8_img_9.jpg",
+    "intro": "Looking for a fresh way toupgrade your hairthis season? A gorgeous glossy layered shoulder length haircut might be exactly what you need. This versatile cut sits right at the shoulders, offering the perfect balance between short and long hair. The layers add beautiful movement and volume, while the glossy finish brings a healthy, vibrant shine that catches the light effortlessly. Whether your hair is naturally straight, wavy, or thick, this length works wonderfully for almost everyone. You can style it sleek and smooth for a polished look, or add soft waves for a more relaxed vibe. In this guide, we will explore twenty stunning variations of this trendy haircut. Get ready to find your next salon inspiration and discover how to make your hair look absolutely radiant.",
+    "introParagraphs": [
+      "Looking for a fresh way toupgrade your hairthis season? A gorgeous glossy layered shoulder length haircut might be exactly what you need. This versatile cut sits right at the shoulders, offering the perfect balance between short and long hair. The layers add beautiful movement and volume, while the glossy finish brings a healthy, vibrant shine that catches the light effortlessly. Whether your hair is naturally straight, wavy, or thick, this length works wonderfully for almost everyone. You can style it sleek and smooth for a polished look, or add soft waves for a more relaxed vibe. In this guide, we will explore twenty stunning variations of this trendy haircut. Get ready to find your next salon inspiration and discover how to make your hair look absolutely radiant.",
+      "Have you ever wondered why the lob remains such a timeless choice? The glossy layered lob haircut is incredibly flattering and easy to manage. Sitting right at the collarbone, this cut features soft layers that naturally boost volume without making your hair feel heavy. The glossy finish makes the color look rich and multidimensional, reflecting light beautifully whether you are in natural sunlight or indoor lighting. It works perfectly for fine or medium hair types because the layers create the illusion of thicker, fuller strands. You can easily wear it straight for a sleek office look or addloose waves for weekend brunch. A lightweight shine serum is all you need to maintain that glass-like finish. This haircut truly offers effortless sophistication for anyone wanting a stylish upgrade."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 18+ Glossy Layered Shoulder Length Haircut With Extra Shine",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Layered Shoulder Length Hair With Curtain Bangs",
+        "image": "/images/doc_b22_8_img_9.jpg",
+        "description": "Looking for a softer way to change your look? Layered shoulder length hair with curtain bangs offers a universally flattering and incredibly stylish option. Curtain bangs are cut shorter in the middle and gradually get longer on the sides, effortlessly blending into the rest of the layered cut. This framing effect softens any face shape and draws attention to the eyes. The shoulder length layers provide the perfect amount of body to support the bangs without overwhelming them. To keep it looking glossy, focus your smoothing efforts on the bangs and the front layers using a small round brush. The rest of the hair can be left wavy or straight. This combination is fresh, modern, and radiates a healthy, luminous shine.",
+        "paragraphs": [
+          "Looking for a softer way to change your look?",
+          "Layered shoulder length hair with curtain bangs offers a universally flattering and incredibly stylish option. Curtain bangs are cut shorter in the middle and gradually get longer on the sides, effortlessly blending into the rest of the layered cut. This framing effect softens any face shape and draws attention to the eyes. The shoulder length layers provide the perfect amount of body to support the bangs without overwhelming them. To keep it looking glossy, focus your smoothing efforts on the bangs and the front layers using a small round brush. The rest of the hair can be left wavy or straight. This combination is fresh, modern, and radiates a healthy, luminous shine."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length hair with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length hair with curtain bangs."
+      },
+      {
+        "number": 2,
+        "title": "Textured Layered Shoulder Length Cut",
+        "image": "/images/doc_b22_8_img_15.jpg",
+        "description": "Adding a little roughness creates a lot of character. A textured layered shoulder length cut focuses on creating dimension and movement through point cutting and texturizing shears. This method gives the hair a lived-in, piece-y look that feels incredibly modern and relaxed. Unlike sleek, blunt cuts, this style thrives on imperfection and natural movement. However, pairing this heavily textured cut with a glossy finish creates a breathtaking contrast. The rough, separated layers provide the shape, while the shine gives it a premium, salon-fresh quality. To style, use a flat iron to create loose, uneven bends throughout the hair, and finish with a shine spray. It is the perfect balance of edgy texture and luxurious shine for everyday wear.",
+        "paragraphs": [
+          "Adding a little roughness creates a lot of character.",
+          "A textured layered shoulder length cut focuses on creating dimension and movement through point cutting and texturizing shears. This method gives the hair a lived-in, piece-y look that feels incredibly modern and relaxed. Unlike sleek, blunt cuts, this style thrives on imperfection and natural movement. However, pairing this heavily textured cut with a glossy finish creates a breathtaking contrast. The rough, separated layers provide the shape, while the shine gives it a premium, salon-fresh quality. To style, use a flat iron to create loose, uneven bends throughout the hair, and finish with a shine spray. It is the perfect balance of edgy texture and luxurious shine for everyday wear."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured layered shoulder length cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured layered shoulder length cut."
+      },
+      {
+        "number": 3,
+        "title": "Glossy Layered Lob With Wispy Bangs",
+        "image": "/images/doc_b22_8_img_17.jpg",
+        "description": "Soft, airy bangs can entirely transform a standard haircut. A glossy layered lob with wispy bangs creates an ethereal, gentle aesthetic that is incredibly flattering. Unlike heavy fringe, wispy bangs are cut thin and light, allowing a peek of the forehead to show through. They blend seamlessly into the face-framing layers of the lob, softening the overall silhouette. Because the bangs are so delicate, keeping the rest of the hair ultra-glossy anchors the look and makes it appear polished rather than messy. Style the bangs with a tiny round brush, rolling them under just slightly, and flat iron the rest for maximum shine. This style is romantic, sophisticated, and gives a beautiful, soft focus to your facial features.",
+        "paragraphs": [
+          "Soft, airy bangs can entirely transform a standard haircut.",
+          "A glossy layered lob with wispy bangs creates an ethereal, gentle aesthetic that is incredibly flattering. Unlike heavy fringe, wispy bangs are cut thin and light, allowing a peek of the forehead to show through. They blend seamlessly into the face-framing layers of the lob, softening the overall silhouette. Because the bangs are so delicate, keeping the rest of the hair ultra-glossy anchors the look and makes it appear polished rather than messy. Style the bangs with a tiny round brush, rolling them under just slightly, and flat iron the rest for maximum shine. This style is romantic, sophisticated, and gives a beautiful, soft focus to your facial features."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for glossy layered lob with wispy bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in glossy layered lob with wispy bangs."
+      },
+      {
+        "number": 4,
+        "title": "Layered Shoulder Length Hair With Side Part",
+        "image": "/images/doc_b22_8_img_16.jpg",
+        "description": "Instantly elevate your volume with a simple flip of the hair. Layered shoulder length hair with side part creates deep asymmetry that results in incredible, natural lift at the roots. The heavier side showcases the layers cascading beautifully over one eye, offering a mysterious and glamorous vibe. The lighter side tucks behind the ear, highlighting your neck and jawline. The layers are cut to fall perfectly into this asymmetrical shape, ensuring the hair moves fluidly. Adding a high-gloss finish makes the deeper side look incredibly thick and shiny, amplifying the dramatic effect of the part. Use a volumizing powder at the roots to keep that lift going all day. It is a classic, red-carpet-ready style that always looks expensive.",
+        "paragraphs": [
+          "Instantly elevate your volume with a simple flip of the hair.",
+          "Layered shoulder length hair with side part creates deep asymmetry that results in incredible, natural lift at the roots. The heavier side showcases the layers cascading beautifully over one eye, offering a mysterious and glamorous vibe. The lighter side tucks behind the ear, highlighting your neck and jawline. The layers are cut to fall perfectly into this asymmetrical shape, ensuring the hair moves fluidly. Adding a high-gloss finish makes the deeper side look incredibly thick and shiny, amplifying the dramatic effect of the part. Use a volumizing powder at the roots to keep that lift going all day. It is a classic, red-carpet-ready style that always looks expensive."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length hair with side part.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length hair with side part."
+      },
+      {
+        "number": 5,
+        "title": "Shoulder Length Layered Blowout",
+        "image": "/images/doc_b22_8_img_2.jpg",
+        "description": "Nothing quite compares to the bouncy confidence of a fresh salon visit. The shoulder length layered blowout gives you thatvoluminous, runway-ready feelingevery single day. This look relies on long, sweeping layers that blend seamlessly together, creating a soft cascade of movement. When paired with a high-shine gloss treatment, the hair looks incredibly healthy and luxurious. The secret to achieving this exact shape at home is using a round brush while blow-drying, lifting the roots and rolling the ends under slightly. This technique amplifies the natural body of your layers. Finish with a blast of cool air to seal the hair cuticle and lock in that glossy texture. It is the ultimate everyday glamorous look that never goes out of style and always turns heads.",
+        "paragraphs": [
+          "Nothing quite compares to the bouncy confidence of a fresh salon visit.",
+          "The shoulder length layered blowout gives you thatvoluminous, runway-ready feelingevery single day. This look relies on long, sweeping layers that blend seamlessly together, creating a soft cascade of movement. When paired with a high-shine gloss treatment, the hair looks incredibly healthy and luxurious. The secret to achieving this exact shape at home is using a round brush while blow-drying, lifting the roots and rolling the ends under slightly. This technique amplifies the natural body of your layers. Finish with a blast of cool air to seal the hair cuticle and lock in that glossy texture. It is the ultimate everyday glamorous look that never goes out of style and always turns heads."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered blowout.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered blowout."
+      },
+      {
+        "number": 6,
+        "title": "Layered Shoulder Length Hair With Side Bangs",
+        "image": "/images/doc_b22_8_img_4.jpg",
+        "description": "Framing your face beautifully, side bangs add a soft touch to any cut. Layered shoulder length hair with side bangs creates a romantic and highly wearable style. The bangs sweep gracefully across the forehead, blending into the front layers of the haircut. This seamless transition adds incredible movement and directs attention right to your eyes and cheekbones. The rest of the hair features gentle layering that maintains thickness at the bottom while offering bounce. To keep the entire look glossy and fresh, apply a heat protectant before styling and use a boar bristle brush to distribute natural oils from root to tip. The side part naturally boosts volume at the crown, making this a fantastic option for anyone seeking a youthful, face-framing, and radiant hairstyle.",
+        "paragraphs": [
+          "Framing your face beautifully, side bangs add a soft touch to any cut.",
+          "Layered shoulder length hair with side bangs creates a romantic and highly wearable style. The bangs sweep gracefully across the forehead, blending into the front layers of the haircut. This seamless transition adds incredible movement and directs attention right to your eyes and cheekbones. The rest of the hair features gentle layering that maintains thickness at the bottom while offering bounce. To keep the entire look glossy and fresh, apply a heat protectant before styling and use a boar bristle brush to distribute natural oils from root to tip. The side part naturally boosts volume at the crown, making this a fantastic option for anyone seeking a youthful, face-framing, and radiant hairstyle."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length hair with side bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length hair with side bangs."
+      },
+      {
+        "number": 7,
+        "title": "Glossy Layered Lob Haircut",
+        "image": "/images/doc_b22_8_img_1.jpg",
+        "description": "Have you ever wondered why the lob remains such a timeless choice? The glossy layered lob haircut is incredibly flattering and easy to manage. Sitting right at the collarbone, this cut features soft layers that naturally boost volume without making your hair feel heavy. The glossy finish makes the color look rich and multidimensional, reflecting light beautifully whether you are in natural sunlight or indoor lighting. It works perfectly for fine or medium hair types because the layers create the illusion of thicker, fuller strands. You can easily wear it straight for a sleek office look or addloose waves for weekend brunch. A lightweight shine serum is all you need to maintain that glass-like finish. This haircut truly offers effortless sophistication for anyone wanting a stylish upgrade.",
+        "paragraphs": [
+          "Have you ever wondered why the lob remains such a timeless choice?",
+          "The glossy layered lob haircut is incredibly flattering and easy to manage. Sitting right at the collarbone, this cut features soft layers that naturally boost volume without making your hair feel heavy. The glossy finish makes the color look rich and multidimensional, reflecting light beautifully whether you are in natural sunlight or indoor lighting. It works perfectly for fine or medium hair types because the layers create the illusion of thicker, fuller strands. You can easily wear it straight for a sleek office look or addloose waves for weekend brunch. A lightweight shine serum is all you need to maintain that glass-like finish. This haircut truly offers effortless sophistication for anyone wanting a stylish upgrade."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for glossy layered lob haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in glossy layered lob haircut."
+      },
+      {
+        "number": 8,
+        "title": "Rounded Layered Shoulder Length Haircut",
+        "image": "/images/doc_b22_8_img_18.jpg",
+        "description": "Craving a vintage, salon-fresh shape? The rounded layered shoulder length haircut is designed to curve perfectly inward, creating a soft, bowl-like silhouette that hugs the head. The layers are graduated specifically to build weight at the bottom while maintaining a smooth, rounded canopy on top. This technique eliminates any awkward sticking-out pieces and ensures the hair falls in a perfect C-shape. When polished to a high gloss, this rounded shape looks incredibly luxurious and expensive, mimicking the flawless finish of a professional blowout. Use a large round brush while blow-drying, rolling the ends firmly under. This creates a cohesive, uniform curl pattern that bounces beautifully. It is a highly elegant, timeless haircut that always looks perfectly styled and put together.",
+        "paragraphs": [
+          "Craving a vintage, salon-fresh shape?",
+          "The rounded layered shoulder length haircut is designed to curve perfectly inward, creating a soft, bowl-like silhouette that hugs the head. The layers are graduated specifically to build weight at the bottom while maintaining a smooth, rounded canopy on top. This technique eliminates any awkward sticking-out pieces and ensures the hair falls in a perfect C-shape. When polished to a high gloss, this rounded shape looks incredibly luxurious and expensive, mimicking the flawless finish of a professional blowout. Use a large round brush while blow-drying, rolling the ends firmly under. This creates a cohesive, uniform curl pattern that bounces beautifully. It is a highly elegant, timeless haircut that always looks perfectly styled and put together."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for rounded layered shoulder length haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in rounded layered shoulder length haircut."
+      },
+      {
+        "number": 9,
+        "title": "Short Layered Shoulder Length Haircut",
+        "image": "/images/doc_b22_8_img_14.jpg",
+        "description": "Ready to lighten up your look? A short layered shoulder length haircut sits slightly above the shoulders, featuring layers that start higher up around the chin. This placement creates maximum volume at the sides of the face, giving the hair a bouncy, rounded shape. Because the layers are shorter and more prominent, the hair has a natural swing that is impossible to ignore. Adding a high-gloss finish makes this cut look incredibly healthy and vibrant, as the light hits the curved layers perfectly. It is a remarkably youthful and energetic style that requires very little styling effort. Simply blow-dry with a round brush, and you are out the door. It is perfect for active lifestyles needing a polished, high-shine appearance quickly.",
+        "paragraphs": [
+          "Ready to lighten up your look?",
+          "A short layered shoulder length haircut sits slightly above the shoulders, featuring layers that start higher up around the chin. This placement creates maximum volume at the sides of the face, giving the hair a bouncy, rounded shape. Because the layers are shorter and more prominent, the hair has a natural swing that is impossible to ignore. Adding a high-gloss finish makes this cut look incredibly healthy and vibrant, as the light hits the curved layers perfectly. It is a remarkably youthful and energetic style that requires very little styling effort. Simply blow-dry with a round brush, and you are out the door. It is perfect for active lifestyles needing a polished, high-shine appearance quickly."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for short layered shoulder length haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in short layered shoulder length haircut."
+      },
+      {
+        "number": 10,
+        "title": "Voluminous Layered Shoulder Length Hair",
+        "image": "/images/doc_b22_8_img_5.jpg",
+        "description": "Want hair that looks larger than life? Voluminous layered shoulder length hair is all about dramatic body and shine. This specific cutting technique incorporates shorter layers at the crown and around the face, which instantly lifts the hair at the roots. The remaining length is lightly textured to remove bulk without sacrificing the overall thickness. The result is a full, bouncy shape that looks incredibly healthy when polished to a high gloss. To maintain this volume, avoid heavy creams that weigh the hair down. Instead, use a lightweight volumizing mousse on damp hair before blow-drying with a round brush. The high-shine finish ensures the massive volume looks intentional and luxurious rather than frizzy or unmanageable. It is a stunning statement look.",
+        "paragraphs": [
+          "Want hair that looks larger than life?",
+          "Voluminous layered shoulder length hair is all about dramatic body and shine. This specific cutting technique incorporates shorter layers at the crown and around the face, which instantly lifts the hair at the roots. The remaining length is lightly textured to remove bulk without sacrificing the overall thickness. The result is a full, bouncy shape that looks incredibly healthy when polished to a high gloss. To maintain this volume, avoid heavy creams that weigh the hair down. Instead, use a lightweight volumizing mousse on damp hair before blow-drying with a round brush. The high-shine finish ensures the massive volume looks intentional and luxurious rather than frizzy or unmanageable. It is a stunning statement look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for voluminous layered shoulder length hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in voluminous layered shoulder length hair."
+      },
+      {
+        "number": 11,
+        "title": "Feathered Layered Shoulder Length Cut",
+        "image": "/images/doc_b22_8_img_7.jpg",
+        "description": "Channeling a retro vibe with a modern shine, this cut remains endlessly appealing. Thefeathered layered shoulder length cutuses a specific layering technique where the ends are cut with a slight curve, much like a bird’s feather. This method creates incredible lightness and airy movement throughout the hair. It prevents the style from looking blocky or heavy, allowing the hair to swing naturally as you move. When polished to a high gloss, the feathered ends catch the light individually, giving the hair a shimmering, dynamic quality. Use a large barrel curling iron to bend the layers back away from your face for that authentic feathered look. This style is joyful, bouncy, and perfect for anyone wanting a lively, radiant appearance.",
+        "paragraphs": [
+          "Channeling a retro vibe with a modern shine, this cut remains endlessly appealing.",
+          "Thefeathered layered shoulder length cutuses a specific layering technique where the ends are cut with a slight curve, much like a bird’s feather. This method creates incredible lightness and airy movement throughout the hair. It prevents the style from looking blocky or heavy, allowing the hair to swing naturally as you move. When polished to a high gloss, the feathered ends catch the light individually, giving the hair a shimmering, dynamic quality. Use a large barrel curling iron to bend the layers back away from your face for that authentic feathered look. This style is joyful, bouncy, and perfect for anyone wanting a lively, radiant appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for feathered layered shoulder length cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in feathered layered shoulder length cut."
+      },
+      {
+        "number": 12,
+        "title": "Wavy Layered Shoulder Length Hair",
+        "image": "/images/doc_b22_8_img_11.jpg",
+        "description": "Effortless beach vibes meet high-wattage shine in this stunning style. Wavy layered shoulder length hair is the ultimate lazy-girl hairstyle that still looks incredibly put together. The layers are cut to enhance the natural S-wave pattern of your hair, removing bulk so the waves can form perfectly without getting weighed down. When you add a glossy finish, the waves catch the light from every angle, creating a beautiful, multi-dimensional effect. To achieve this look, apply a sea salt spray or light mousse to damp hair and scrunch while air drying or using a diffuser. Once dry, smooth a tiny drop of hair oil over the surface to tame flyaways and boost shine. It is relaxed, romantic, and eternally stylish.",
+        "paragraphs": [
+          "Effortless beach vibes meet high-wattage shine in this stunning style.",
+          "Wavy layered shoulder length hair is the ultimate lazy-girl hairstyle that still looks incredibly put together. The layers are cut to enhance the natural S-wave pattern of your hair, removing bulk so the waves can form perfectly without getting weighed down. When you add a glossy finish, the waves catch the light from every angle, creating a beautiful, multi-dimensional effect. To achieve this look, apply a sea salt spray or light mousse to damp hair and scrunch while air drying or using a diffuser. Once dry, smooth a tiny drop of hair oil over the surface to tame flyaways and boost shine. It is relaxed, romantic, and eternally stylish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wavy layered shoulder length hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wavy layered shoulder length hair."
+      },
+      {
+        "number": 13,
+        "title": "Choppy Layered Shoulder Length Hair",
+        "image": "/images/doc_b22_8_img_8.jpg",
+        "description": "Who says glossy hair has to be perfectly neat? Choppy layered shoulder length hair proves that texture and shine can coexist beautifully. This haircut features heavily textured, uneven layers that give the hair an edgy, piece-y look. The deliberate disconnection adds instant cool factor and relaxed attitude. Despite the rugged texture, applying a high-gloss serum or shine spray elevates the entire look, making it look intentionally styled rather than messy. The contrast between the choppy cut and the sleek finish creates a highly modern, editorial aesthetic. To style, simply spray a texturizing spray at the roots and use your fingers to rough dry. It is the ideal low-maintenance cut for anyone wanting an effortlessly cool vibe with plenty of attitude.",
+        "paragraphs": [
+          "Who says glossy hair has to be perfectly neat?",
+          "Choppy layered shoulder length hair proves that texture and shine can coexist beautifully. This haircut features heavily textured, uneven layers that give the hair an edgy, piece-y look. The deliberate disconnection adds instant cool factor and relaxed attitude. Despite the rugged texture, applying a high-gloss serum or shine spray elevates the entire look, making it look intentionally styled rather than messy. The contrast between the choppy cut and the sleek finish creates a highly modern, editorial aesthetic. To style, simply spray a texturizing spray at the roots and use your fingers to rough dry. It is the ideal low-maintenance cut for anyone wanting an effortlessly cool vibe with plenty of attitude."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for choppy layered shoulder length hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in choppy layered shoulder length hair."
+      },
+      {
+        "number": 14,
+        "title": "Glossy Razored Layered Lob",
+        "image": "/images/doc_b22_8_img_12.jpg",
+        "description": "For an ultra-smooth finish with a sharp edge, look no further. The glossy razored layered lob uses a razor tool instead of traditional scissors to cut the hair. This technique creates incredibly soft, feathery ends that taper beautifully, giving the haircut a light and airy feel. The razor alsoremoves bulk from thick hair, making it much easier to style. Because the ends are so finely textured, they lay perfectly flat against each other, which maximizes the glossy, light-reflecting quality of the hair. Blow-dry this cut smooth with a paddle brush to emphasize the sleek, seamless layers. It is a fantastic option for anyone wanting a refined, lightweight look with an incredibly sharp, high-shine finish that stands out.",
+        "paragraphs": [
+          "For an ultra-smooth finish with a sharp edge, look no further.",
+          "The glossy razored layered lob uses a razor tool instead of traditional scissors to cut the hair. This technique creates incredibly soft, feathery ends that taper beautifully, giving the haircut a light and airy feel. The razor alsoremoves bulk from thick hair, making it much easier to style. Because the ends are so finely textured, they lay perfectly flat against each other, which maximizes the glossy, light-reflecting quality of the hair. Blow-dry this cut smooth with a paddle brush to emphasize the sleek, seamless layers. It is a fantastic option for anyone wanting a refined, lightweight look with an incredibly sharp, high-shine finish that stands out."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for glossy razored layered lob.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in glossy razored layered lob."
+      },
+      {
+        "number": 15,
+        "title": "Glossy Layered Lob With Face Framing",
+        "image": "/images/doc_b22_8_img_6.jpg",
+        "description": "Sometimes the smallest details make the biggest impact. A glossy layered lob with face framing relies on carefully placed front layers that beautifully contour your jawline and cheekbones. These front pieces are cut slightly shorter than the back, allowing them to curve inward gently and highlight your facial features. The back of the hair maintains a blunt, solid line to preserve thickness and structural integrity. This contrast between the soft front and strong back creates a highly flattering silhouette. A flat iron can be used to flick the front layers under just slightly, maximizing that face-framing effect. Apply a glossing spray at the end to make the rich color and precise layers pop. It is a modern, highly customized approach to the classic lob.",
+        "paragraphs": [
+          "Sometimes the smallest details make the biggest impact.",
+          "A glossy layered lob with face framing relies on carefully placed front layers that beautifully contour your jawline and cheekbones. These front pieces are cut slightly shorter than the back, allowing them to curve inward gently and highlight your facial features. The back of the hair maintains a blunt, solid line to preserve thickness and structural integrity. This contrast between the soft front and strong back creates a highly flattering silhouette. A flat iron can be used to flick the front layers under just slightly, maximizing that face-framing effect. Apply a glossing spray at the end to make the rich color and precise layers pop. It is a modern, highly customized approach to the classic lob."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for glossy layered lob with face framing.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in glossy layered lob with face framing."
+      },
+      {
+        "number": 16,
+        "title": "Sleek Layered Collarbone Cut",
+        "image": "/images/doc_b22_8_img_3.jpg",
+        "description": "Smooth and sophisticated, this style is a modern minimalist dream. The sleek layered collarbone cut focuses on clean lines and ultra-smooth texture. The layers here are kept subtle and long, primarily used to remove excess weight so the hair falls perfectly flat and smooth against the shoulders. This precision cutting technique prevents the ends from looking bulky, ensuring a flawless drape. To get that striking glossy effect, a flat iron is your best friend. Run it down small sections of hair, finishing with a drop of argan oil on the mids and ends. This cut is particularly striking for those with naturally straight hair who want a polished, professional appearance. It exudes quiet confidence and remains effortlessly chic for any occasion or setting.",
+        "paragraphs": [
+          "Smooth and sophisticated, this style is a modern minimalist dream.",
+          "The sleek layered collarbone cut focuses on clean lines and ultra-smooth texture. The layers here are kept subtle and long, primarily used to remove excess weight so the hair falls perfectly flat and smooth against the shoulders. This precision cutting technique prevents the ends from looking bulky, ensuring a flawless drape. To get that striking glossy effect, a flat iron is your best friend. Run it down small sections of hair, finishing with a drop of argan oil on the mids and ends. This cut is particularly striking for those with naturally straight hair who want a polished, professional appearance. It exudes quiet confidence and remains effortlessly chic for any occasion or setting."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for sleek layered collarbone cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in sleek layered collarbone cut."
+      },
+      {
+        "number": 17,
+        "title": "Straight Layered Shoulder Length Haircut",
+        "image": "/images/doc_b22_8_img_10.jpg",
+        "description": "Crisp and clean, straight hair never fails to look incredibly polished. A straight layered shoulder length haircut is all about precision and shine. The layers in this cut are designed specifically for naturally straight hair, removing just enough weight to prevent a triangular shape at the bottom. This allows the hair to fall smoothly and maintain a sleek silhouette. The glossy finish is absolutely crucial here, as straight hair reflects light the best, making your color look deep and vibrant. Use a high-quality flat iron to ensure every strand lies perfectly flat, and follow up with a shine-enhancing mist. This haircut is highly professional, easy to maintain, and offers a timeless elegance that works beautifully for any occasion or daily wear.",
+        "paragraphs": [
+          "Crisp and clean, straight hair never fails to look incredibly polished.",
+          "A straight layered shoulder length haircut is all about precision and shine. The layers in this cut are designed specifically for naturally straight hair, removing just enough weight to prevent a triangular shape at the bottom. This allows the hair to fall smoothly and maintain a sleek silhouette. The glossy finish is absolutely crucial here, as straight hair reflects light the best, making your color look deep and vibrant. Use a high-quality flat iron to ensure every strand lies perfectly flat, and follow up with a shine-enhancing mist. This haircut is highly professional, easy to maintain, and offers a timeless elegance that works beautifully for any occasion or daily wear."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for straight layered shoulder length haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in straight layered shoulder length haircut."
+      },
+      {
+        "number": 18,
+        "title": "Layered Shoulder Length Hair With Middle Part",
+        "image": "/images/doc_b22_8_img_13.jpg",
+        "description": "Symmetrical and striking, the middle part brings a sense of balance. Layered shoulder length hair with middle part offers a chic, contemporary aesthetic that flatters oval and round face shapes especially well. The layers are cut symmetrically on both sides, framing the face evenly and creating a beautiful curtain of hair. The middle part allows the hair to sweep outward naturally, showcasing the layers and their bouncy movement. To elevate this look, a glossy finish is absolutely essential, as it draws attention to the precise symmetry and clean lines of the cut. Use a flat iron to ensure the hair around the face curves outward smoothly. This style is sleek, fashionable, and perfect for a modern, confident woman.",
+        "paragraphs": [
+          "Symmetrical and striking, the middle part brings a sense of balance.",
+          "Layered shoulder length hair with middle part offers a chic, contemporary aesthetic that flatters oval and round face shapes especially well. The layers are cut symmetrically on both sides, framing the face evenly and creating a beautiful curtain of hair. The middle part allows the hair to sweep outward naturally, showcasing the layers and their bouncy movement. To elevate this look, a glossy finish is absolutely essential, as it draws attention to the precise symmetry and clean lines of the cut. Use a flat iron to ensure the hair around the face curves outward smoothly. This style is sleek, fashionable, and perfect for a modern, confident woman."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length hair with middle part.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length hair with middle part."
+      }
+    ]
+  },
+  {
+    "id": "polished-layers-shoulder-length-hair",
+    "slug": "polished-layers-shoulder-length-hair",
+    "title": "15+ Polished Layers for Shoulder Length Hair With a Refined Feel",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "September 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_9_img_8.jpg",
+    "intro": "Finding the perfect balance between sophistication and effortless movement is easy when you explore these 20 polished layers for shoulder length hair. This sweet spot of a length offers incredible versatility, allowing you to enjoy the elegance of long hair with the bouncy refresh of a shorter cut. Polished layers specifically bring a smooth, refined finish that elevates your entire look without sacrificing natural volume. Whether you want face-framing softness or a sleek blunt appearance with hidden texture, there is a tailored option waiting for you. You can finally say goodbye to flat, lifeless ends and hello to dynamic, salon-fresh dimension. Get ready to discover stunning ways to upgrade your routine and embrace a flawless, bouncy mane that turns heads everywhere you go.",
+    "introParagraphs": [
+      "Finding the perfect balance between sophistication and effortless movement is easy when you explore these 20 polished layers for shoulder length hair. This sweet spot of a length offers incredible versatility, allowing you to enjoy the elegance of long hair with the bouncy refresh of a shorter cut. Polished layers specifically bring a smooth, refined finish that elevates your entire look without sacrificing natural volume. Whether you want face-framing softness or a sleek blunt appearance with hidden texture, there is a tailored option waiting for you. You can finally say goodbye to flat, lifeless ends and hello to dynamic, salon-fresh dimension. Get ready to discover stunning ways to upgrade your routine and embrace a flawless, bouncy mane that turns heads everywhere you go.",
+      "Have you ever wanted a haircut that simply looks expensive? The polished shoulder length lob delivers that luxurious feel every single time. This look relies on long, sweeping layers that start just below the chin. They gently cascade down to the shoulders, creating a beautiful visual flow. The secret to keeping it polished lies in the minimal, precise layering technique. Your stylist removes just enough weight to allow the ends to curl under gracefully. This results in a sleek silhouette that shines brilliantly under any light. It is the ultimate choice for anyone seeking a low-maintenance yet highly refined appearance. You can wear it straight for a boardroom-ready finish or add a large-barrel curl for evening elegance."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 15+ Polished Layers for Shoulder Length Hair With a Refined Feel",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Layered Shoulder Length With Side Bangs",
+        "image": "/images/doc_b22_9_img_8.jpg",
+        "description": "Nothing upgrades a haircut quite like a sweeping fringe. The layered shoulder length with side bangs creates a beautifully balanced, face-framing effect. The side bangs blend seamlessly into the polished layers throughout the cut. This connection ensures a smooth transition from the front of your face to the back of your head. The layers themselves are kept sleek and well-defined, avoiding any choppy or overly textured appearances. When you blow-dry your hair, the bangs sweep gracefully to one side. They open up your face and draw attention to your eyes. This combination is a classic choice that always looks put-together, professional, and effortlessly stylish for any occasion you attend.",
+        "paragraphs": [
+          "Nothing upgrades a haircut quite like a sweeping fringe.",
+          "The layered shoulder length with side bangs creates a beautifully balanced, face-framing effect. The side bangs blend seamlessly into the polished layers throughout the cut. This connection ensures a smooth transition from the front of your face to the back of your head. The layers themselves are kept sleek and well-defined, avoiding any choppy or overly textured appearances. When you blow-dry your hair, the bangs sweep gracefully to one side. They open up your face and draw attention to your eyes. This combination is a classic choice that always looks put-together, professional, and effortlessly stylish for any occasion you attend."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length with side bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length with side bangs."
+      },
+      {
+        "number": 2,
+        "title": "Polished Shoulder Length Lob",
+        "image": "/images/doc_b22_9_img_1.jpg",
+        "description": "Have you ever wanted a haircut that simply looks expensive? The polished shoulder length lob delivers that luxurious feel every single time. This look relies on long, sweeping layers that start just below the chin. They gently cascade down to the shoulders, creating a beautiful visual flow. The secret to keeping it polished lies in the minimal, precise layering technique. Your stylist removes just enough weight to allow the ends to curl under gracefully. This results in a sleek silhouette that shines brilliantly under any light. It is the ultimate choice for anyone seeking a low-maintenance yet highly refined appearance. You can wear it straight for a boardroom-ready finish or add a large-barrel curl for evening elegance.",
+        "paragraphs": [
+          "Have you ever wanted a haircut that simply looks expensive?",
+          "The polished shoulder length lob delivers that luxurious feel every single time. This look relies on long, sweeping layers that start just below the chin. They gently cascade down to the shoulders, creating a beautiful visual flow. The secret to keeping it polished lies in the minimal, precise layering technique. Your stylist removes just enough weight to allow the ends to curl under gracefully. This results in a sleek silhouette that shines brilliantly under any light. It is the ultimate choice for anyone seeking a low-maintenance yet highly refined appearance. You can wear it straight for a boardroom-ready finish or add a large-barrel curl for evening elegance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for polished shoulder length lob.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in polished shoulder length lob."
+      },
+      {
+        "number": 3,
+        "title": "Face Framing Layers Shoulder Length",
+        "image": "/images/doc_b22_9_img_3.jpg",
+        "description": "What if your haircut could highlight your best features effortlessly? Face framing layers shoulder length do precisely that by drawing all the attention right to your eyes and cheekbones. The longest layers blend seamlessly into the overall length. Meanwhile, the shorter pieces around the face start at the cheekbone or jawline. This creates a gorgeous halo effect that softens any facial structure. The rest of the hair remains mostly one length, ensuring the overall look stays sleek and polished. You get the best of both worlds with subtle movement in the front and solid density in the back. It is a highly flattering choice that requires very little daily styling effort.",
+        "paragraphs": [
+          "What if your haircut could highlight your best features effortlessly?",
+          "Face framing layers shoulder length do precisely that by drawing all the attention right to your eyes and cheekbones. The longest layers blend seamlessly into the overall length. Meanwhile, the shorter pieces around the face start at the cheekbone or jawline. This creates a gorgeous halo effect that softens any facial structure. The rest of the hair remains mostly one length, ensuring the overall look stays sleek and polished. You get the best of both worlds with subtle movement in the front and solid density in the back. It is a highly flattering choice that requires very little daily styling effort."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face framing layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face framing layers shoulder length."
+      },
+      {
+        "number": 4,
+        "title": "Shoulder Length Layers With Curtain Bangs",
+        "image": "/images/doc_b22_9_img_9.jpg",
+        "description": "Are you looking for a soft, approachable style that flatters every face shape? Shoulder length layers with curtain bangs is the ultimate crowd-pleaser. Curtain bangs arch beautifully across the forehead, parting in the middle like a pair of drapes. They gradually merge into the longer polished layers of your shoulder length cut. This creates a seamless, cohesive look that requires very little styling effort. The layers add necessary volume at the sides and back, while the bangs keep the front feeling light and airy. A quick blow-dry with a round brush gives you that perfect, swooping bounce. It is highly romantic, endlessly versatile, and guarantees a good hair day every day.",
+        "paragraphs": [
+          "Are you looking for a soft, approachable style that flatters every face shape?",
+          "Shoulder length layers with curtain bangs is the ultimate crowd-pleaser. Curtain bangs arch beautifully across the forehead, parting in the middle like a pair of drapes. They gradually merge into the longer polished layers of your shoulder length cut. This creates a seamless, cohesive look that requires very little styling effort. The layers add necessary volume at the sides and back, while the bangs keep the front feeling light and airy. A quick blow-dry with a round brush gives you that perfect, swooping bounce. It is highly romantic, endlessly versatile, and guarantees a good hair day every day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layers with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layers with curtain bangs."
+      },
+      {
+        "number": 5,
+        "title": "Shoulder Length Layered Flip",
+        "image": "/images/doc_b22_9_img_5.jpg",
+        "description": "Picture the timeless glamour of the seventies brought into today’s modern world. The shoulder length layered flip brings that retro charm back with a polished twist. Layers are cut to encourage the hair to naturally curve away from the face. The back sections flip outward beautifully, creating a lively and bouncy silhouette. This style works wonders for fine or medium hair because it creates the illusion of incredible density. Using a round brush while blow-drying easily achieves that perfect upward flick at the ends. The polished layering ensures the flip looks intentional and smooth, never frizzy or out of place. It is a joyful, energetic haircut that instantly lifts your mood and your hair.",
+        "paragraphs": [
+          "Picture the timeless glamour of the seventies brought into today’s modern world.",
+          "The shoulder length layered flip brings that retro charm back with a polished twist. Layers are cut to encourage the hair to naturally curve away from the face. The back sections flip outward beautifully, creating a lively and bouncy silhouette. This style works wonders for fine or medium hair because it creates the illusion of incredible density. Using a round brush while blow-drying easily achieves that perfect upward flick at the ends. The polished layering ensures the flip looks intentional and smooth, never frizzy or out of place. It is a joyful, energetic haircut that instantly lifts your mood and your hair."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered flip.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered flip."
+      },
+      {
+        "number": 6,
+        "title": "Rounded Layers Shoulder Length",
+        "image": "/images/doc_b22_9_img_11.jpg",
+        "description": "Have you been searching for a haircut that offers a soft, continuous silhouette? Rounded layers shoulder length create a beautiful dome shape that hugs the head perfectly. The layers are carefully graduated to build volume at the sides and crown. They seamlessly taper down to the nape of the neck. This careful shaping eliminates any harsh corners or flat spots. The result is a highly polished, apple-shaped cut that bounces beautifully when you walk. A round brush blowout easily maintains this soft, circular form. It is an incredibly flattering style that adds width to narrow faces and looks impeccably groomed from every single angle you view it.",
+        "paragraphs": [
+          "Have you been searching for a haircut that offers a soft, continuous silhouette?",
+          "Rounded layers shoulder length create a beautiful dome shape that hugs the head perfectly. The layers are carefully graduated to build volume at the sides and crown. They seamlessly taper down to the nape of the neck. This careful shaping eliminates any harsh corners or flat spots. The result is a highly polished, apple-shaped cut that bounces beautifully when you walk. A round brush blowout easily maintains this soft, circular form. It is an incredibly flattering style that adds width to narrow faces and looks impeccably groomed from every single angle you view it."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for rounded layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in rounded layers shoulder length."
+      },
+      {
+        "number": 7,
+        "title": "Blunt Cut With Subtle Layers Shoulder Length",
+        "image": "/images/doc_b22_9_img_6.jpg",
+        "description": "Do you love the thickness of a blunt cut but still want some movement? The blunt cut with subtle layers shoulder length solves this common styling dilemma. The perimeter of your hair is cut straight across. This creates the illusion of maximum density and instantly makes your ends look incredibly healthy. Hidden underneath the solid edge, your stylist adds extremely subtle layers. These internal layers remove just enough bulk to let the hair swing naturally. You maintain the crisp, clean line at the bottom while enjoying bounce throughout the style. It is a fantastic solution for anyone who wants their hair to look thick and polished without feeling heavy or solid.",
+        "paragraphs": [
+          "Do you love the thickness of a blunt cut but still want some movement?",
+          "The blunt cut with subtle layers shoulder length solves this common styling dilemma. The perimeter of your hair is cut straight across. This creates the illusion of maximum density and instantly makes your ends look incredibly healthy. Hidden underneath the solid edge, your stylist adds extremely subtle layers. These internal layers remove just enough bulk to let the hair swing naturally. You maintain the crisp, clean line at the bottom while enjoying bounce throughout the style. It is a fantastic solution for anyone who wants their hair to look thick and polished without feeling heavy or solid."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blunt cut with subtle layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blunt cut with subtle layers shoulder length."
+      },
+      {
+        "number": 8,
+        "title": "Polished Shag Shoulder Length",
+        "image": "/images/doc_b22_9_img_4.jpg",
+        "description": "Can a retro-inspired cut feel completely modern and sleek? The polished shag shoulder length proves it is entirely possible. This cut features heavier layering around the crown and mid-shaft, giving you that iconic shag volume. However, the ends are kept smooth and defined rather than choppy or wispy. This crucial adjustment transforms a potentially messy look into a refined, wearable masterpiece. The layers encourage natural wave patterns to form beautifully without frizz. You can simply apply a smoothing cream and let your hair air dry for an effortlessly chic result. It celebrates texture while maintaining a glossy, healthy finish that looks incredibly sophisticated for everyday wear.",
+        "paragraphs": [
+          "Can a retro-inspired cut feel completely modern and sleek?",
+          "The polished shag shoulder length proves it is entirely possible. This cut features heavier layering around the crown and mid-shaft, giving you that iconic shag volume. However, the ends are kept smooth and defined rather than choppy or wispy. This crucial adjustment transforms a potentially messy look into a refined, wearable masterpiece. The layers encourage natural wave patterns to form beautifully without frizz. You can simply apply a smoothing cream and let your hair air dry for an effortlessly chic result. It celebrates texture while maintaining a glossy, healthy finish that looks incredibly sophisticated for everyday wear."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for polished shag shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in polished shag shoulder length."
+      },
+      {
+        "number": 9,
+        "title": "Layered Shoulder Length Bob",
+        "image": "/images/doc_b22_9_img_2.jpg",
+        "description": "Imagine stepping out of the salon with a bounce that lasts all day. The layered shoulder length bob provides exactly that energetic lift. Unlike a standard blunt bob, this variation incorporates soft layers throughout the back and sides. These layers stack subtly to build serious volume at the crown. They also prevent the dreaded triangle effect that often happens with thicker hair types. The edges are kept neat, maintaining that signature bob structure while adding dynamic movement. A flat iron can easily tuck the ends inward for a classic, rounded finish. It feels fresh, playful, and incredibly put-together. This is a fantastic option if you want a structured shape that still knows how to have fun.",
+        "paragraphs": [
+          "Imagine stepping out of the salon with a bounce that lasts all day.",
+          "The layered shoulder length bob provides exactly that energetic lift. Unlike a standard blunt bob, this variation incorporates soft layers throughout the back and sides. These layers stack subtly to build serious volume at the crown. They also prevent the dreaded triangle effect that often happens with thicker hair types. The edges are kept neat, maintaining that signature bob structure while adding dynamic movement. A flat iron can easily tuck the ends inward for a classic, rounded finish. It feels fresh, playful, and incredibly put-together. This is a fantastic option if you want a structured shape that still knows how to have fun."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length bob.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length bob."
+      },
+      {
+        "number": 10,
+        "title": "Polished Layered Shoulder Length Waves",
+        "image": "/images/doc_b22_9_img_10.jpg",
+        "description": "There is something undeniably captivating about perfectly sculpted waves. Polished layered shoulder length waves take your natural texture and elevate it to red-carpet status. The layers are specifically cut to enhance the natural curve of your waves. This prevents them from clumping together or falling flat halfway through the day. Each wave appears defined, shiny, and completely frizz-free. When you run your fingers through your hair, the layers allow the waves to separate gracefully. Using a large-barrel curling iron to touch up the mid-lengths will boost that polished finish. It is the ideal haircut for anyone wanting glamorous, bouncy waves that look professionally styled every single morning.",
+        "paragraphs": [
+          "There is something undeniably captivating about perfectly sculpted waves.",
+          "Polished layered shoulder length waves take your natural texture and elevate it to red-carpet status. The layers are specifically cut to enhance the natural curve of your waves. This prevents them from clumping together or falling flat halfway through the day. Each wave appears defined, shiny, and completely frizz-free. When you run your fingers through your hair, the layers allow the waves to separate gracefully. Using a large-barrel curling iron to touch up the mid-lengths will boost that polished finish. It is the ideal haircut for anyone wanting glamorous, bouncy waves that look professionally styled every single morning."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for polished layered shoulder length waves.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in polished layered shoulder length waves."
+      },
+      {
+        "number": 11,
+        "title": "V-Cut Layers Shoulder Length",
+        "image": "/images/doc_b22_9_img_7.jpg",
+        "description": "How can you keep your length while adding beautiful dimension? The V-cut layers shoulder length offers a stunning visual solution. The back of your hair is shaped into a gentle V-point. Layers taper smoothly from the front to that distinct focal point in the back. This technique preserves your overall length while creating gorgeous, cascading movement. It looks especially striking when you pull your hair forward over your shoulders. The polished finish is achieved by ensuring the layer transitions are seamless and smooth. This cut works brilliantly for thick hair because it removes unnecessary weight from the sides while highlighting the beautiful architecture of the neckline. It is simply elegant.",
+        "paragraphs": [
+          "How can you keep your length while adding beautiful dimension?",
+          "The V-cut layers shoulder length offers a stunning visual solution. The back of your hair is shaped into a gentle V-point. Layers taper smoothly from the front to that distinct focal point in the back. This technique preserves your overall length while creating gorgeous, cascading movement. It looks especially striking when you pull your hair forward over your shoulders. The polished finish is achieved by ensuring the layer transitions are seamless and smooth. This cut works brilliantly for thick hair because it removes unnecessary weight from the sides while highlighting the beautiful architecture of the neckline. It is simply elegant."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for v-cut layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in v-cut layers shoulder length."
+      }
+    ]
+  },
+  {
+    "id": "shoulder-length-face-framing-layers",
+    "slug": "shoulder-length-face-framing-layers",
+    "title": "16+ Shoulder Length Hair with Face Framing Layers for a Softer Shape",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "September 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_10_img_7.jpg",
+    "intro": "Soft, shoulder-length hair with face framing layers is one of the easiest ways to refresh your look without committing to a drastic chop or heavy maintenance. These cuts sit around the shoulders, remove weight with layers, and use shorter pieces around the face to highlight your cheekbones and jawline. The result is movement, volume, and a flattering frame that works for many face shapes and hair types, from fine and straight to thick and wavy. Because the length is so versatile, you can air-dry, curl, or flat iron and still keep the face-framing pieces visible. Many salons now offer modern versions inspired by shags, lobs, and“quiet luxury” layersthat feel current but still practical for everyday life. If you want a low‑stress haircut that grows out gracefully and suits work, weekends, and events, shoulder length hair with face framing layers is a strong choice.",
+    "introParagraphs": [
+      "Soft, shoulder-length hair with face framing layers is one of the easiest ways to refresh your look without committing to a drastic chop or heavy maintenance. These cuts sit around the shoulders, remove weight with layers, and use shorter pieces around the face to highlight your cheekbones and jawline. The result is movement, volume, and a flattering frame that works for many face shapes and hair types, from fine and straight to thick and wavy. Because the length is so versatile, you can air-dry, curl, or flat iron and still keep the face-framing pieces visible. Many salons now offer modern versions inspired by shags, lobs, and“quiet luxury” layersthat feel current but still practical for everyday life. If you want a low‑stress haircut that grows out gracefully and suits work, weekends, and events, shoulder length hair with face framing layers is a strong choice.",
+      "Imagine your hair brushing your shoulders with soft pieces that gently curve around your cheekbones and jaw. This shoulder length cut with soft face framing layers is a classic because it flatters almost every face and suits most hair types. The layers through the length take out weight so the hair does not sit like a block, while the shorter front sections draw attention upward toward your eyes. Ask your stylist to keep the back slightly fuller and use long, subtle layers that begin below the cheekbones if you prefer a softer look or have finer hair. This type of cut is also easy to style: blow dry with a round brush, or let it air-dry and just bend the front pieces away from your face with a curling iron for a quick, polished finish."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 16+ Shoulder Length Hair with Face Framing Layers for a Softer Shape",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Shoulder Length Hair With Wispy Face Framing Layers",
+        "image": "/images/doc_b22_10_img_7.jpg",
+        "description": "If you want something very soft and low-commitment, shoulder length hair with wispy face framing layers might be your best match. Wispy layers are lightly cut and not too thick, so they barely skim the face and give delicate movement instead of dramatic chunks. This style works nicely on fine or straight hair because it adds interest without making the ends look thin, especially when the rest of the shoulder length cut has subtle layering. Ask your stylist for soft, point-cut face-framing pieces that start around the lips or below and taper into the rest of the hair, keeping the overall shape easy and airy. Styling can be as basic as blow-drying with a paddle brush for a smooth finish, or adding a few loose bends at the front to show off the wispy texture.",
+        "paragraphs": [
+          "If you want something very soft and low-commitment, shoulder length hair with wispy face framing layers might be your best match.",
+          "Wispy layers are lightly cut and not too thick, so they barely skim the face and give delicate movement instead of dramatic chunks. This style works nicely on fine or straight hair because it adds interest without making the ends look thin, especially when the rest of the shoulder length cut has subtle layering. Ask your stylist for soft, point-cut face-framing pieces that start around the lips or below and taper into the rest of the hair, keeping the overall shape easy and airy. Styling can be as basic as blow-drying with a paddle brush for a smooth finish, or adding a few loose bends at the front to show off the wispy texture."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length hair with wispy face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length hair with wispy face framing layers."
+      },
+      {
+        "number": 2,
+        "title": "Shoulder Length Choppy Layers With Face Framing",
+        "image": "/images/doc_b22_10_img_12.jpg",
+        "description": "If you love texture and movement,shoulder length choppy layerswith face framing give hair that piecey, modern feel. This cut uses more defined, staggered layers rather than soft, barely-there ones, so you can see distinct pieces around the face and through the lengths. The face-framing sections are usually shorter and more pronounced, which makes the entire style feel edgy but still wearable at a medium length. It works especially well on medium to thick hair because the choppy layers remove bulk and create a lot of body and shape. Ask your stylist for shoulder length hair with visible, textured layers and bold face-framing pieces that can be styled forward or pushed back, depending on your mood. Use a texturizing spray or matte cream to define the pieces, scrunch lightly, and let some layers fall across your forehead or cheekbones for a cool, undone look.",
+        "paragraphs": [
+          "If you love texture and movement,shoulder length choppy layerswith face framing give hair that piecey, modern feel.",
+          "This cut uses more defined, staggered layers rather than soft, barely-there ones, so you can see distinct pieces around the face and through the lengths. The face-framing sections are usually shorter and more pronounced, which makes the entire style feel edgy but still wearable at a medium length. It works especially well on medium to thick hair because the choppy layers remove bulk and create a lot of body and shape. Ask your stylist for shoulder length hair with visible, textured layers and bold face-framing pieces that can be styled forward or pushed back, depending on your mood. Use a texturizing spray or matte cream to define the pieces, scrunch lightly, and let some layers fall across your forehead or cheekbones for a cool, undone look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length choppy layers with face framing.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length choppy layers with face framing."
+      },
+      {
+        "number": 3,
+        "title": "Shoulder Length Hair With Side Part And Face Framing Layers",
+        "image": "/images/doc_b22_10_img_6.jpg",
+        "description": "A simple shift in part can completely change how your layers look, and shoulder length hair with a side part and face framing layers proves it. With a deep or soft side part, the shorter face-framing sections sweep across the forehead and then drop into longer pieces at the cheekbones and jaw, giving a flattering diagonal line. This is a great option if you prefer more coverage on your forehead or want to highlight one side of your face. Ask your stylist for layered shoulder length hair that is cut to be flexible but styled with a side part, making sure the shorter front sections on the heavier side blend into the rest of the cut. At home, blow-dry in the opposite direction first for lift at the roots, then flip your hair over to your chosen side and smooth the face-framing pieces for a soft yet polished result.",
+        "paragraphs": [
+          "A simple shift in part can completely change how your layers look, and shoulder length hair with a side part and face framing layers proves it.",
+          "With a deep or soft side part, the shorter face-framing sections sweep across the forehead and then drop into longer pieces at the cheekbones and jaw, giving a flattering diagonal line. This is a great option if you prefer more coverage on your forehead or want to highlight one side of your face. Ask your stylist for layered shoulder length hair that is cut to be flexible but styled with a side part, making sure the shorter front sections on the heavier side blend into the rest of the cut. At home, blow-dry in the opposite direction first for lift at the roots, then flip your hair over to your chosen side and smooth the face-framing pieces for a soft yet polished result."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length hair with side part and face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length hair with side part and face framing layers."
+      },
+      {
+        "number": 4,
+        "title": "Shoulder Length Long Bob With Face Framing Layers",
+        "image": "/images/doc_b22_10_img_3.jpg",
+        "description": "A shoulder length long bob with face framing layers offers that clean, modern shape of a lob but feels softer and more wearable. The ends usually hit right at the shoulders or slightly above, with the front pieces cut into gentle layers that contour the cheekbones and jaw. This cut can be worn blunt for a sharper outline or slightly textured at the ends for a relaxed finish, and the face-framing pieces stop it from looking too severe. It is ideal for fine to medium hair because the lob length gives a thicker appearance while layers around the face keep it light. Ask your stylist for a long bob with minimal layering through the back,soft internal layers, and distinct but blended face-framing pieces that start around the lips or chin.",
+        "paragraphs": [
+          "A shoulder length long bob with face framing layers offers that clean, modern shape of a lob but feels softer and more wearable.",
+          "The ends usually hit right at the shoulders or slightly above, with the front pieces cut into gentle layers that contour the cheekbones and jaw. This cut can be worn blunt for a sharper outline or slightly textured at the ends for a relaxed finish, and the face-framing pieces stop it from looking too severe. It is ideal for fine to medium hair because the lob length gives a thicker appearance while layers around the face keep it light. Ask your stylist for a long bob with minimal layering through the back,soft internal layers, and distinct but blended face-framing pieces that start around the lips or chin."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length long bob with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length long bob with face framing layers."
+      },
+      {
+        "number": 5,
+        "title": "Shoulder Length Hair With Face Framing Layers And Highlights",
+        "image": "/images/doc_b22_10_img_11.jpg",
+        "description": "Shoulder length hair with face framing layers and highlights adds both shape and brightness around your features. Lightened pieces around the front, sometimes called a money piece, work with the layered cut to make your cheekbones pop and your eyes stand out. The shoulder length base with soft layers keeps everything looking blended and modern instead of stripy. Ask your stylist for a midlength layered cut with face-framing strands and subtle balayage or foils that are slightly lighter around the front than the rest of your hair. This combination is easy to style: blow-dry smooth or add loose waves, and the highlighted layers will automatically catch the light and give dimension even on low-effort days.",
+        "paragraphs": [
+          "Shoulder length hair with face framing layers and highlights adds both shape and brightness around your features.",
+          "Lightened pieces around the front, sometimes called a money piece, work with the layered cut to make your cheekbones pop and your eyes stand out. The shoulder length base with soft layers keeps everything looking blended and modern instead of stripy. Ask your stylist for a midlength layered cut with face-framing strands and subtle balayage or foils that are slightly lighter around the front than the rest of your hair. This combination is easy to style: blow-dry smooth or add loose waves, and the highlighted layers will automatically catch the light and give dimension even on low-effort days."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length hair with face framing layers and highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length hair with face framing layers and highlights."
+      },
+      {
+        "number": 6,
+        "title": "Shoulder Length Shag Haircut With Face Framing Layers",
+        "image": "/images/doc_b22_10_img_4.jpg",
+        "description": "For a more relaxed, lived-in look, a shoulder length shag haircut with face framing layers is trending everywhere right now. This cut uses lots of choppy layers throughout the crown and length, combined with shorter, shaggy pieces around the face that open up your features and emphasize your cheekbones. It works especially well on hair that has a natural bend or wave because the layers encourage texture and built-in volume without heavy styling. Ask for razored or point-cut layers that start around the cheeks and continue through the ends, keeping the perimeter around shoulder length so the shape does not get too extreme. Use a lightweight mousse or texture spray, scrunch while drying, and let those face-framing pieces fall naturally for that effortless, slightly undone finish that still looks intentional and current.",
+        "paragraphs": [
+          "For a more relaxed, lived-in look, a shoulder length shag haircut with face framing layers is trending everywhere right now.",
+          "This cut uses lots of choppy layers throughout the crown and length, combined with shorter, shaggy pieces around the face that open up your features and emphasize your cheekbones. It works especially well on hair that has a natural bend or wave because the layers encourage texture and built-in volume without heavy styling. Ask for razored or point-cut layers that start around the cheeks and continue through the ends, keeping the perimeter around shoulder length so the shape does not get too extreme. Use a lightweight mousse or texture spray, scrunch while drying, and let those face-framing pieces fall naturally for that effortless, slightly undone finish that still looks intentional and current."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length shag haircut with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length shag haircut with face framing layers."
+      },
+      {
+        "number": 7,
+        "title": "Shoulder Length Layered Lob With Face Framing",
+        "image": "/images/doc_b22_10_img_9.jpg",
+        "description": "A shoulder length layered lob with face framing is perfect if you want something sleek yet not too sharp. The lob shape gives a more structured outline compared to a shag, but layering throughout the mid-lengths and ends stops it from feeling heavy and adds swish. Face-framing sections that start around the cheekbones or jaw keep the cut flattering and break up the bluntness near the front. This suits straight to wavy textures and can be worn smooth for work or tousled for off-duty days. Ask your stylist for a lob that sits at the shoulders, soft internal layers, and front pieces that are slightly shorter and angled toward the face rather than all one length. Finish with a smoothing cream and flat iron for a sleek look, or a texture spray and loose curls for more movement through the layers.",
+        "paragraphs": [
+          "A shoulder length layered lob with face framing is perfect if you want something sleek yet not too sharp.",
+          "The lob shape gives a more structured outline compared to a shag, but layering throughout the mid-lengths and ends stops it from feeling heavy and adds swish. Face-framing sections that start around the cheekbones or jaw keep the cut flattering and break up the bluntness near the front. This suits straight to wavy textures and can be worn smooth for work or tousled for off-duty days. Ask your stylist for a lob that sits at the shoulders, soft internal layers, and front pieces that are slightly shorter and angled toward the face rather than all one length. Finish with a smoothing cream and flat iron for a sleek look, or a texture spray and loose curls for more movement through the layers."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered lob with face framing.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered lob with face framing."
+      },
+      {
+        "number": 8,
+        "title": "Shoulder Length Hair With Face Framing Layers And Balayage",
+        "image": "/images/doc_b22_10_img_14.jpg",
+        "description": "Shoulder length hair with face framing layers and balayage combines flattering shape with modern color. Balayage is a hand-painted highlighting technique that creates a soft gradient from darker roots to lighter ends, and pairing it with layered, face-framing pieces makes the brightness fall right where it counts. The layers allow those lighter sections to stand out and move, giving your hair dimension and a sun-touched effect without harsh lines. Ask your stylist for a layered, shoulder length cut with shorter strands around the face, then balayage that focuses lightness on the mid-lengths and ends, especially near the front. Style with loose beachy waves or a simple bend through the lengths so the color and layers catch the light and show off the blend, making even simple everyday hair look more elevated.",
+        "paragraphs": [
+          "Shoulder length hair with face framing layers and balayage combines flattering shape with modern color.",
+          "Balayage is a hand-painted highlighting technique that creates a soft gradient from darker roots to lighter ends, and pairing it with layered, face-framing pieces makes the brightness fall right where it counts. The layers allow those lighter sections to stand out and move, giving your hair dimension and a sun-touched effect without harsh lines. Ask your stylist for a layered, shoulder length cut with shorter strands around the face, then balayage that focuses lightness on the mid-lengths and ends, especially near the front. Style with loose beachy waves or a simple bend through the lengths so the color and layers catch the light and show off the blend, making even simple everyday hair look more elevated."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length hair with face framing layers and balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length hair with face framing layers and balayage."
+      },
+      {
+        "number": 9,
+        "title": "Shoulder Length Cut With Soft Face Framing Layers",
+        "image": "/images/doc_b22_10_img_1.jpg",
+        "description": "Imagine your hair brushing your shoulders with soft pieces that gently curve around your cheekbones and jaw. This shoulder length cut with soft face framing layers is a classic because it flatters almost every face and suits most hair types. The layers through the length take out weight so the hair does not sit like a block, while the shorter front sections draw attention upward toward your eyes. Ask your stylist to keep the back slightly fuller and use long, subtle layers that begin below the cheekbones if you prefer a softer look or have finer hair. This type of cut is also easy to style: blow dry with a round brush, or let it air-dry and just bend the front pieces away from your face with a curling iron for a quick, polished finish.",
+        "paragraphs": [
+          "Imagine your hair brushing your shoulders with soft pieces that gently curve around your cheekbones and jaw.",
+          "This shoulder length cut with soft face framing layers is a classic because it flatters almost every face and suits most hair types. The layers through the length take out weight so the hair does not sit like a block, while the shorter front sections draw attention upward toward your eyes. Ask your stylist to keep the back slightly fuller and use long, subtle layers that begin below the cheekbones if you prefer a softer look or have finer hair. This type of cut is also easy to style: blow dry with a round brush, or let it air-dry and just bend the front pieces away from your face with a curling iron for a quick, polished finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length cut with soft face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length cut with soft face framing layers."
+      },
+      {
+        "number": 10,
+        "title": "Shoulder Length Hair With Layered Curtain Fringe",
+        "image": "/images/doc_b22_10_img_8.jpg",
+        "description": "Shoulder length hair with a layered curtain fringe suits anyone who loves a bit of drama at the front but still wants something that grows out gracefully. The fringe is cut in the classic curtain shape, shorter in the center and longer toward the temples, then softly layered so it blends into the rest of your shoulder length cut. This creates a soft V around your face and works well to balance larger foreheads or longer face shapes. Ask for a midlength cut that hits the shoulders, with lots of blending between the fringe and side layers so there are no harsh lines or gaps. To style, rough-dry your hair, then use a round brush on the curtain fringe, flipping the shorter center back and the longer sides outward for that soft, retro-inspired frame that still feels modern.",
+        "paragraphs": [
+          "Shoulder length hair with a layered curtain fringe suits anyone who loves a bit of drama at the front but still wants something that grows out gracefully.",
+          "The fringe is cut in the classic curtain shape, shorter in the center and longer toward the temples, then softly layered so it blends into the rest of your shoulder length cut. This creates a soft V around your face and works well to balance larger foreheads or longer face shapes. Ask for a midlength cut that hits the shoulders, with lots of blending between the fringe and side layers so there are no harsh lines or gaps. To style, rough-dry your hair, then use a round brush on the curtain fringe, flipping the shorter center back and the longer sides outward for that soft, retro-inspired frame that still feels modern."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length hair with layered curtain fringe.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length hair with layered curtain fringe."
+      },
+      {
+        "number": 11,
+        "title": "Shoulder Length Straight Hair With Face Framing Layers",
+        "image": "/images/doc_b22_10_img_13.jpg",
+        "description": "Shoulder length straight hair with face framing layers proves that you do not need waves for a flattering, dynamic cut. On straight textures, the face-framing pieces stand out clearly, creating a soft curtain that skims the cheeks and jaw while the rest of the hair falls in a clean line to the shoulders. Subtle layers through the ends keep the cut from looking too blocky and help the hair move instead of sitting stiffly. Ask your stylist for soft layering at the bottom and tailored face-framing sections that are slightly shorter than the rest of your length, with no harsh steps or thinning that could make ends look stringy. Styling is simple: blow-dry with a paddle brush, then lightly bevel the front pieces inward or outward with a flat iron to emphasize the framing effect around your face.",
+        "paragraphs": [
+          "Shoulder length straight hair with face framing layers proves that you do not need waves for a flattering, dynamic cut.",
+          "On straight textures, the face-framing pieces stand out clearly, creating a soft curtain that skims the cheeks and jaw while the rest of the hair falls in a clean line to the shoulders. Subtle layers through the ends keep the cut from looking too blocky and help the hair move instead of sitting stiffly. Ask your stylist for soft layering at the bottom and tailored face-framing sections that are slightly shorter than the rest of your length, with no harsh steps or thinning that could make ends look stringy. Styling is simple: blow-dry with a paddle brush, then lightly bevel the front pieces inward or outward with a flat iron to emphasize the framing effect around your face."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length straight hair with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length straight hair with face framing layers."
+      },
+      {
+        "number": 12,
+        "title": "Shoulder Length Hair With Chin Length Face Framing Layers",
+        "image": "/images/doc_b22_10_img_5.jpg",
+        "description": "If you want your cut to gently slim or soften your face, shoulder length hair with chin length face framing layers can be very flattering. These layers are cut to hit right at or just below the chin, creating a curved line that visually shapes the jaw and draws attention to your lips and neck. The rest of the hair remains around shoulder length with softer, longer layers so the style still feels full and flowing. This option is especially helpful for round or square face shapes because the angled layers can elongate and soften strong lines. Ask your stylist for face-framing that begins around the chin, with long, blended layers in the back for movement but no harsh, heavy steps. Style by directing those chin-length pieces slightly away from your face using a round brush or curling iron for a polished, face-opening effect.",
+        "paragraphs": [
+          "If you want your cut to gently slim or soften your face, shoulder length hair with chin length face framing layers can be very flattering.",
+          "These layers are cut to hit right at or just below the chin, creating a curved line that visually shapes the jaw and draws attention to your lips and neck. The rest of the hair remains around shoulder length with softer, longer layers so the style still feels full and flowing. This option is especially helpful for round or square face shapes because the angled layers can elongate and soften strong lines. Ask your stylist for face-framing that begins around the chin, with long, blended layers in the back for movement but no harsh, heavy steps. Style by directing those chin-length pieces slightly away from your face using a round brush or curling iron for a polished, face-opening effect."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length hair with chin length face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length hair with chin length face framing layers."
+      },
+      {
+        "number": 13,
+        "title": "Shoulder Length Wavy Hair With Face Framing Layers",
+        "image": "/images/doc_b22_10_img_10.jpg",
+        "description": "Natural wave pairs beautifully with shoulder length wavy hair with face framing layers. The layers remove weight in the right places so your waves can spring up instead of being dragged down, while the shorter front pieces open up your features and stop the hair from swallowing your face. This cut is especially nice on medium density hair that tends to puff or frizz, because the layering can be customized to control bulk and enhance your wave pattern. Ask your stylist for layers that follow your natural curl or wave, with face-framing pieces that start around the cheeks and taper down to the shoulders. At home, apply a curl cream or lightweight mousse, scrunch while your hair dries, and twist a few of the front layers away from your face to highlight the framing effect.",
+        "paragraphs": [
+          "Natural wave pairs beautifully with shoulder length wavy hair with face framing layers.",
+          "The layers remove weight in the right places so your waves can spring up instead of being dragged down, while the shorter front pieces open up your features and stop the hair from swallowing your face. This cut is especially nice on medium density hair that tends to puff or frizz, because the layering can be customized to control bulk and enhance your wave pattern. Ask your stylist for layers that follow your natural curl or wave, with face-framing pieces that start around the cheeks and taper down to the shoulders. At home, apply a curl cream or lightweight mousse, scrunch while your hair dries, and twist a few of the front layers away from your face to highlight the framing effect."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length wavy hair with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length wavy hair with face framing layers."
+      },
+      {
+        "number": 14,
+        "title": "Shoulder Length Hair With Curtain Bangs And Face Framing Layers",
+        "image": "/images/doc_b22_10_img_2.jpg",
+        "description": "If you like a bit of fringe without committing to short bangs, shoulder length hair with curtain bangs and face framing layers is a great middle ground. The curtain bangs are parted down the center or slightly off-center and sweep out to blend into longer face-framing pieces, creating that soft, draped effect around your features. This works especially well on medium textures and helps balance wider foreheads or longer faces by adding interest through the midface. Ask your stylist for chin-length curtain bangs that connect seamlessly with layered pieces around the jawline, with the rest of your hair sitting at or just below the shoulders. Styling can be as simple as blow-drying the fringe with a round brush and letting the rest air-dry, or adding loose, big-barrel waves for more movement and volume on days you want extra polish.",
+        "paragraphs": [
+          "If you like a bit of fringe without committing to short bangs, shoulder length hair with curtain bangs and face framing layers is a great middle ground.",
+          "The curtain bangs are parted down the center or slightly off-center and sweep out to blend into longer face-framing pieces, creating that soft, draped effect around your features. This works especially well on medium textures and helps balance wider foreheads or longer faces by adding interest through the midface. Ask your stylist for chin-length curtain bangs that connect seamlessly with layered pieces around the jawline, with the rest of your hair sitting at or just below the shoulders. Styling can be as simple as blow-drying the fringe with a round brush and letting the rest air-dry, or adding loose, big-barrel waves for more movement and volume on days you want extra polish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length hair with curtain bangs and face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length hair with curtain bangs and face framing layers."
+      }
+    ]
+  },
+  {
+    "id": "shoulder-length-layered-haircuts-women",
+    "slug": "shoulder-length-layered-haircuts-women",
+    "title": "17+ Shoulder Length Layered Haircuts That Grow Out Beautifully",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "August 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_11_img_3.jpg",
+    "intro": "Finding the perfect balance between short and long hair can feel like a challenge, but shoulder length layered haircuts offer the ultimate solution for every woman. This versatile length sits right at the collarbone, providing enough room for styling while remaining easy to manage for your busy daily routine. When you incorporate layers, you instantly unlock a world of texture, volume, and movement that flat hair simply cannot achieve. Layers help to remove weight from thick hair and add much-needed body to fine strands, making it a universally flattering choice for all ages. Whether you prefer a sleek professional look or a messy beach vibe, these layered styles adapt perfectly to your unique personality and hair goals while keeping your hair healthy.",
+    "introParagraphs": [
+      "Finding the perfect balance between short and long hair can feel like a challenge, but shoulder length layered haircuts offer the ultimate solution for every woman. This versatile length sits right at the collarbone, providing enough room for styling while remaining easy to manage for your busy daily routine. When you incorporate layers, you instantly unlock a world of texture, volume, and movement that flat hair simply cannot achieve. Layers help to remove weight from thick hair and add much-needed body to fine strands, making it a universally flattering choice for all ages. Whether you prefer a sleek professional look or a messy beach vibe, these layered styles adapt perfectly to your unique personality and hair goals while keeping your hair healthy.",
+      "Have you ever wondered how a simple change could completely transform your facial features and enhance your natural beauty? Face framing layers shoulder length are specifically designed to highlight your cheekbones and jawline by creating soft, intentional angles around your face. This technique works beautifully for various face shapes, as the shortest pieces can be tailored to start exactly where you want to draw the most attention. By breaking up the solid line of a standard cut, these layers add a sense of softness and femininity to your overall appearance. They are especially effective for those who want a change without losing their overall length or committing to a full transformation. These layers look stunning when styled with a round brush."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 17+ Shoulder Length Layered Haircuts That Grow Out Beautifully",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Shaggy Shoulder Length Layered Hair",
+        "image": "/images/doc_b22_11_img_3.jpg",
+        "description": "Imagine waking up with hair that looks effortlessly cool and perfectly undone without needing hours of styling time at your vanity. Shaggy shoulder length layered hair brings back the iconic rock-and-roll energy of the seventies while remaining modern, fresh, and highly wearable for today. This cut utilizes heavy texture and various lengths throughout the head to create a messy, lived-in feel that celebrates natural movement. It is the ideal choice for anyone who loves using sea salt sprays or texturizing mousses to enhance their natural wave pattern. The shaggy approach removes bulk from the bottom while adding incredible height at the crown, giving you a silhouette that is both edgy and sophisticated for any occasion.",
+        "paragraphs": [
+          "Imagine waking up with hair that looks effortlessly cool and perfectly undone without needing hours of styling time at your vanity.",
+          "Shaggy shoulder length layered hair brings back the iconic rock-and-roll energy of the seventies while remaining modern, fresh, and highly wearable for today. This cut utilizes heavy texture and various lengths throughout the head to create a messy, lived-in feel that celebrates natural movement. It is the ideal choice for anyone who loves using sea salt sprays or texturizing mousses to enhance their natural wave pattern. The shaggy approach removes bulk from the bottom while adding incredible height at the crown, giving you a silhouette that is both edgy and sophisticated for any occasion."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shaggy shoulder length layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shaggy shoulder length layered hair."
+      },
+      {
+        "number": 2,
+        "title": "Wavy Layered Shoulder Length Hair",
+        "image": "/images/doc_b22_11_img_7.jpg",
+        "description": "Does your hair have a natural bend or wave that you have been struggling to define and showcase in the best way? Wavy layered shoulder length hair is specifically cut to encourage your natural texture to pop and take center stage. By adding strategic layers throughout the mid-lengths and ends, the weight is lifted off your waves, allowing them to spring up and form beautiful shapes. This cut prevents the dreaded “triangle” shape that often happens when wavy hair is cut to a single length. It provides a balanced, harmonious look that feels full and healthy. You can simply apply a bit of curl cream and air dry for a stunning, effortless result that looks completely natural.",
+        "paragraphs": [
+          "Does your hair have a natural bend or wave that you have been struggling to define and showcase in the best way?",
+          "Wavy layered shoulder length hair is specifically cut to encourage your natural texture to pop and take center stage. By adding strategic layers throughout the mid-lengths and ends, the weight is lifted off your waves, allowing them to spring up and form beautiful shapes. This cut prevents the dreaded “triangle” shape that often happens when wavy hair is cut to a single length. It provides a balanced, harmonious look that feels full and healthy. You can simply apply a bit of curl cream and air dry for a stunning, effortless result that looks completely natural."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wavy layered shoulder length hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wavy layered shoulder length hair."
+      },
+      {
+        "number": 3,
+        "title": "Inverted Layered Shoulder Length Hair",
+        "image": "/images/doc_b22_11_img_15.jpg",
+        "description": "Aninverted layered shoulder length hair cutis slightly shorter in the back and gradually gets longer as it reaches the front. This creates a beautiful forward-leaning angle that frames the neck and jawline with incredible precision and modern style. The layers are stacked at the back to provide a natural lift to the crown, which is perfect for women who struggle with flat hair. This style is often referred to as a “long bob” or “lob” with an edge. It is a very professional look that also transitions well into a casual evening style. Because of the angle, it naturally draws the eye forward, making it a very flattering choice for most face shapes.",
+        "paragraphs": [
+          "Aninverted layered shoulder length hair cutis slightly shorter in the back and gradually gets longer as it reaches the front.",
+          "This creates a beautiful forward-leaning angle that frames the neck and jawline with incredible precision and modern style. The layers are stacked at the back to provide a natural lift to the crown, which is perfect for women who struggle with flat hair. This style is often referred to as a “long bob” or “lob” with an edge. It is a very professional look that also transitions well into a casual evening style. Because of the angle, it naturally draws the eye forward, making it a very flattering choice for most face shapes."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for inverted layered shoulder length hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in inverted layered shoulder length hair."
+      },
+      {
+        "number": 4,
+        "title": "Feathered Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_12.jpg",
+        "description": "If you miss the classic, soft styles of the 1980s, you will be happy to know that feathered layers are back. Feathered layers shoulder length involve cutting the hair at an angle to create a light, overlapping effect that resembles the feathers of a bird. This technique is usually focused on the front and sides of the hair, sweeping away from the face to create a breezy look. It is a fantastic way to add width to a narrow face or to soften a very angular jawline. The result is a hairstyle that feels incredibly light and full of air. It is best styled by brushing the hair back while blow drying to emphasize the delicate, layered flick.",
+        "paragraphs": [
+          "If you miss the classic, soft styles of the 1980s, you will be happy to know that feathered layers are back.",
+          "Feathered layers shoulder length involve cutting the hair at an angle to create a light, overlapping effect that resembles the feathers of a bird. This technique is usually focused on the front and sides of the hair, sweeping away from the face to create a breezy look. It is a fantastic way to add width to a narrow face or to soften a very angular jawline. The result is a hairstyle that feels incredibly light and full of air. It is best styled by brushing the hair back while blow drying to emphasize the delicate, layered flick."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for feathered layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in feathered layers shoulder length."
+      },
+      {
+        "number": 5,
+        "title": "Shoulder Length Layered Hair With Curtain Bangs",
+        "image": "/images/doc_b22_11_img_9.jpg",
+        "description": "Curtain bangs have taken the fashion world by storm, and they pair perfectly with a shoulder length layered haircut for balance. These bangs are parted down the middle and sweep to each side, blending effortlessly into the rest of your layered strands. This combination creates a beautiful 1970s-inspired aesthetic that is both retro and completely on-trend for the current season. The bangs help to shorten a longer forehead and draw attention to your eyes, while the layers provide the necessary movement. This style is incredibly flattering because it provides a frame for the face that is soft rather than harsh. It is a great way to update your look without losing any of your length.",
+        "paragraphs": [
+          "Curtain bangs have taken the fashion world by storm, and they pair perfectly with a shoulder length layered haircut for balance.",
+          "These bangs are parted down the middle and sweep to each side, blending effortlessly into the rest of your layered strands. This combination creates a beautiful 1970s-inspired aesthetic that is both retro and completely on-trend for the current season. The bangs help to shorten a longer forehead and draw attention to your eyes, while the layers provide the necessary movement. This style is incredibly flattering because it provides a frame for the face that is soft rather than harsh. It is a great way to update your look without losing any of your length."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered hair with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered hair with curtain bangs."
+      },
+      {
+        "number": 6,
+        "title": "V Cut Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_14.jpg",
+        "description": "The way your hair looks from the back is just as important as the front, and V cut layers are stunning. V cut layers shoulder length involve cutting the hair so that it tapers down into a sharp or soft point in the middle. This creates a beautiful, dramatic silhouette that looks especially impressive when your hair is worn down and straight. The layers are typically longer in the back and get shorter as they move toward the face, providing a sense of length and elegance. This is a great way to keep your hair looking thick and full while adding a structured design element. It is a timeless technique that works for almost any hair texture or thickness.",
+        "paragraphs": [
+          "The way your hair looks from the back is just as important as the front, and V cut layers are stunning.",
+          "V cut layers shoulder length involve cutting the hair so that it tapers down into a sharp or soft point in the middle. This creates a beautiful, dramatic silhouette that looks especially impressive when your hair is worn down and straight. The layers are typically longer in the back and get shorter as they move toward the face, providing a sense of length and elegance. This is a great way to keep your hair looking thick and full while adding a structured design element. It is a timeless technique that works for almost any hair texture or thickness."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for v cut layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in v cut layers shoulder length."
+      },
+      {
+        "number": 7,
+        "title": "Butterfly Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_2.jpg",
+        "description": "Are you ready to embrace one of the most viral and sought-after hair trends currently dominating social media feeds everywhere?Butterfly layers shoulder lengthoffer a beautiful combination of short, voluminous layers on top with longer, flowing layers throughout the bottom. This specific cut mimics the shape of a butterfly’s wings, providing incredible lift and bounce that makes your hair look professionally blown out every single day. It is a fantastic option for women who love a glamorous, high-volume aesthetic but want to keep their hair at a manageable mid-length. The shorter top layers can even be pinned back to create the illusion of a shorter bob. This haircut truly brings a sense of luxury and movement to your daily style.",
+        "paragraphs": [
+          "Are you ready to embrace one of the most viral and sought-after hair trends currently dominating social media feeds everywhere?Butterfly layers shoulder lengthoffer a beautiful combination of short, voluminous layers on top with longer, flowing layers throughout the bottom.",
+          "This specific cut mimics the shape of a butterfly’s wings, providing incredible lift and bounce that makes your hair look professionally blown out every single day. It is a fantastic option for women who love a glamorous, high-volume aesthetic but want to keep their hair at a manageable mid-length. The shorter top layers can even be pinned back to create the illusion of a shorter bob. This haircut truly brings a sense of luxury and movement to your daily style."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for butterfly layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in butterfly layers shoulder length."
+      },
+      {
+        "number": 8,
+        "title": "Blown Out Layered Shoulder Length Hair",
+        "image": "/images/doc_b22_11_img_10.jpg",
+        "description": "There is nothing quite like the feeling of leaving the salon with a fresh, voluminous blowout that lasts for several days. Blown out layered shoulder length hair is designed to maximize the impact of a round-brush styling session by using layers to catch the air. These layers create pockets of volume that stay lifted, giving you that iconic “runway” look that feels expensive and polished. This style is perfect for special events or professional settings where you want to look your absolute best. Even at home, a large barrel curling iron can mimic this effect by flipping the layered ends inward or outward. It is a timeless choice that exudes grace, health, and a high-fashion sensibility.",
+        "paragraphs": [
+          "There is nothing quite like the feeling of leaving the salon with a fresh, voluminous blowout that lasts for several days.",
+          "Blown out layered shoulder length hair is designed to maximize the impact of a round-brush styling session by using layers to catch the air. These layers create pockets of volume that stay lifted, giving you that iconic “runway” look that feels expensive and polished. This style is perfect for special events or professional settings where you want to look your absolute best. Even at home, a large barrel curling iron can mimic this effect by flipping the layered ends inward or outward. It is a timeless choice that exudes grace, health, and a high-fashion sensibility."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blown out layered shoulder length hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blown out layered shoulder length hair."
+      },
+      {
+        "number": 9,
+        "title": "Soft Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_16.jpg",
+        "description": "Sometimes, less is more when it comes to hair design, and soft layers shoulder length are the perfect example of subtlety. These layers are cut with a very light hand, ensuring that they blend perfectly into the rest of the hair without any harsh lines. The goal is to provide just enough movement to prevent the hair from looking stagnant, while maintaining a very classic and refined appearance. This is a wonderful choice for women who prefer a traditional look but want the benefits of a modern haircut. It is extremely easy to style, as the hair naturally falls into place. A simple blow dry with a paddle brush is often all you need for perfection.",
+        "paragraphs": [
+          "Sometimes, less is more when it comes to hair design, and soft layers shoulder length are the perfect example of subtlety.",
+          "These layers are cut with a very light hand, ensuring that they blend perfectly into the rest of the hair without any harsh lines. The goal is to provide just enough movement to prevent the hair from looking stagnant, while maintaining a very classic and refined appearance. This is a wonderful choice for women who prefer a traditional look but want the benefits of a modern haircut. It is extremely easy to style, as the hair naturally falls into place. A simple blow dry with a paddle brush is often all you need for perfection."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for soft layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in soft layers shoulder length."
+      },
+      {
+        "number": 10,
+        "title": "Curly Shoulder Length Layered Haircut",
+        "image": "/images/doc_b22_11_img_8.jpg",
+        "description": "Curls require a specific approach to ensure they look their best, and a curly shoulder length layered haircut is the gold standard. When curls are all one length, they can become heavy and lose their definition at the roots, leading to a flat appearance. Adding layers at this medium length allows each individual curl to have its own space to bounce and shine. This technique creates a beautiful, rounded shape that frames the face and adds a youthful energy to your overall look. Whether you havetight ringlets or loose spirals, layers will help manage the volume and prevent tangling. It is a life-changing cut for anyone who wants to embrace their natural curls with pride.",
+        "paragraphs": [
+          "Curls require a specific approach to ensure they look their best, and a curly shoulder length layered haircut is the gold standard.",
+          "When curls are all one length, they can become heavy and lose their definition at the roots, leading to a flat appearance. Adding layers at this medium length allows each individual curl to have its own space to bounce and shine. This technique creates a beautiful, rounded shape that frames the face and adds a youthful energy to your overall look. Whether you havetight ringlets or loose spirals, layers will help manage the volume and prevent tangling. It is a life-changing cut for anyone who wants to embrace their natural curls with pride."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for curly shoulder length layered haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in curly shoulder length layered haircut."
+      },
+      {
+        "number": 11,
+        "title": "Wispy Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_6.jpg",
+        "description": "Softness and elegance come together perfectly in this delicate haircut that is designed to provide a light and airy feel. Wispy layers shoulder length involve thin, finely cut sections that blend seamlessly into one another for a very subtle transition of length. This approach is ideal for women who want to add some movement and life to their hair without the look of “steps” or heavy lines. It creates a gentle, romantic silhouette that frames the face beautifully without overpowering your features. Because the layers are so fine, this cut is very low-maintenance and grows out gracefully over several months. It is the perfect choice for a sophisticated office look or a relaxed weekend style.",
+        "paragraphs": [
+          "Softness and elegance come together perfectly in this delicate haircut that is designed to provide a light and airy feel.",
+          "Wispy layers shoulder length involve thin, finely cut sections that blend seamlessly into one another for a very subtle transition of length. This approach is ideal for women who want to add some movement and life to their hair without the look of “steps” or heavy lines. It creates a gentle, romantic silhouette that frames the face beautifully without overpowering your features. Because the layers are so fine, this cut is very low-maintenance and grows out gracefully over several months. It is the perfect choice for a sophisticated office look or a relaxed weekend style."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wispy layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wispy layers shoulder length."
+      },
+      {
+        "number": 12,
+        "title": "Internal Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_4.jpg",
+        "description": "Do you struggle with hair that feels too heavy or dense, making it difficult to maintain a shape throughout the day?Internal layers shoulder lengthare a secret weapon used by stylists to remove excess weight without drastically changing the outer appearance. These layers are cut into the inner sections of your hair, providing “invisible” support that allows the top layer to sit more flat and smooth. This technique is perfect for women who prefer a sleek, polished look but need help managing the bulk of their thick tresses. By thinning out the interior, your hair becomes much easier to blow dry and style. You will notice immediate movement and a much lighter feel that lasts between salon visits.",
+        "paragraphs": [
+          "Do you struggle with hair that feels too heavy or dense, making it difficult to maintain a shape throughout the day?Internal layers shoulder lengthare a secret weapon used by stylists to remove excess weight without drastically changing the outer appearance.",
+          "These layers are cut into the inner sections of your hair, providing “invisible” support that allows the top layer to sit more flat and smooth. This technique is perfect for women who prefer a sleek, polished look but need help managing the bulk of their thick tresses. By thinning out the interior, your hair becomes much easier to blow dry and style. You will notice immediate movement and a much lighter feel that lasts between salon visits."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for internal layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in internal layers shoulder length."
+      },
+      {
+        "number": 13,
+        "title": "Choppy Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_5.jpg",
+        "description": "If you are looking for a haircut that screams modern confidence and provides plenty of visual interest, look no further. Choppy layers shoulder length are defined by their sharp, distinct ends and asymmetrical feel that adds an instant edge to your look. Unlike soft, blended layers, these are meant to be seen and celebrated for their bold texture and intentional lack of uniformity. This style is incredibly popular because it works wonders for adding volume to thinner hair types by creating different levels of light and shadow. You can easily style this cut with a flat iron to emphasize the piecey ends or use a texturizing paste for a more rugged, casual appearance. It is truly a versatile masterpiece.",
+        "paragraphs": [
+          "If you are looking for a haircut that screams modern confidence and provides plenty of visual interest, look no further.",
+          "Choppy layers shoulder length are defined by their sharp, distinct ends and asymmetrical feel that adds an instant edge to your look. Unlike soft, blended layers, these are meant to be seen and celebrated for their bold texture and intentional lack of uniformity. This style is incredibly popular because it works wonders for adding volume to thinner hair types by creating different levels of light and shadow. You can easily style this cut with a flat iron to emphasize the piecey ends or use a texturizing paste for a more rugged, casual appearance. It is truly a versatile masterpiece."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for choppy layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in choppy layers shoulder length."
+      },
+      {
+        "number": 14,
+        "title": "Piecey Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_13.jpg",
+        "description": "Creating a look that is defined by separation and distinct strands is exactly whatpiecey layers shoulder lengthare all about. This style involves using a thinning shear or razor to create ends that do not look perfectly uniform or blunt. Instead, the hair clumps together in small, stylish “pieces” that add a lot of visual depth and a contemporary feel. It is a favorite among those who want a “cool girl” vibe that looks like they didn’t try too hard. You can enhance this effect by using a tiny bit of hair wax or pomade on just the very tips of your hair. This brings out the detail of the cut and provides a professional finish.",
+        "paragraphs": [
+          "Creating a look that is defined by separation and distinct strands is exactly whatpiecey layers shoulder lengthare all about.",
+          "This style involves using a thinning shear or razor to create ends that do not look perfectly uniform or blunt. Instead, the hair clumps together in small, stylish “pieces” that add a lot of visual depth and a contemporary feel. It is a favorite among those who want a “cool girl” vibe that looks like they didn’t try too hard. You can enhance this effect by using a tiny bit of hair wax or pomade on just the very tips of your hair. This brings out the detail of the cut and provides a professional finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers shoulder length."
+      },
+      {
+        "number": 15,
+        "title": "Heavily Layered Shoulder Length Hair",
+        "image": "/images/doc_b22_11_img_17.jpg",
+        "description": "For the woman who wants maximum volume and a lot of drama, heavily layered shoulder length hair is the ultimate choice. This cut involves a high number of layers throughout the entire head, starting from the top and going all the way down. The result is a very textured, multi-dimensional look that has an incredible amount of bounce and life. It is especially beneficial for those with very thick hair, as it removes a significant amount of weight and prevents the hair from feeling like a burden. This style requires a bit more styling to ensure the layers are defined, but the payoff is a head-turning look that feels light and energetic.",
+        "paragraphs": [
+          "For the woman who wants maximum volume and a lot of drama, heavily layered shoulder length hair is the ultimate choice.",
+          "This cut involves a high number of layers throughout the entire head, starting from the top and going all the way down. The result is a very textured, multi-dimensional look that has an incredible amount of bounce and life. It is especially beneficial for those with very thick hair, as it removes a significant amount of weight and prevents the hair from feeling like a burden. This style requires a bit more styling to ensure the layers are defined, but the payoff is a head-turning look that feels light and energetic."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for heavily layered shoulder length hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in heavily layered shoulder length hair."
+      },
+      {
+        "number": 16,
+        "title": "Wolf Cut Shoulder Length",
+        "image": "/images/doc_b22_11_img_11.jpg",
+        "description": "For the bold and adventurous, thewolf cut shoulder lengthis a hybrid style that combines the best parts of a shag. It features very short, choppy layers around the crown and face, which transition into longer, more textured layers toward the bottom. This creates a wild, voluminous silhouette that is full of personality and unique flair. The wolf cut is all about texture, so it is perfect for those who do not mind a bit of a messy finish. It works exceptionally well on hair with some natural texture, but can be achieved on straight hair with the right styling products. This cut is a true statement piece that requires confidence and a love for modern trends.",
+        "paragraphs": [
+          "For the bold and adventurous, thewolf cut shoulder lengthis a hybrid style that combines the best parts of a shag.",
+          "It features very short, choppy layers around the crown and face, which transition into longer, more textured layers toward the bottom. This creates a wild, voluminous silhouette that is full of personality and unique flair. The wolf cut is all about texture, so it is perfect for those who do not mind a bit of a messy finish. It works exceptionally well on hair with some natural texture, but can be achieved on straight hair with the right styling products. This cut is a true statement piece that requires confidence and a love for modern trends."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wolf cut shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wolf cut shoulder length."
+      },
+      {
+        "number": 17,
+        "title": "Face Framing Layers Shoulder Length",
+        "image": "/images/doc_b22_11_img_1.jpg",
+        "description": "Have you ever wondered how a simple change could completely transform your facial features and enhance your natural beauty? Face framing layers shoulder length are specifically designed to highlight your cheekbones and jawline by creating soft, intentional angles around your face. This technique works beautifully for various face shapes, as the shortest pieces can be tailored to start exactly where you want to draw the most attention. By breaking up the solid line of a standard cut, these layers add a sense of softness and femininity to your overall appearance. They are especially effective for those who want a change without losing their overall length or committing to a full transformation. These layers look stunning when styled with a round brush.",
+        "paragraphs": [
+          "Have you ever wondered how a simple change could completely transform your facial features and enhance your natural beauty?",
+          "Face framing layers shoulder length are specifically designed to highlight your cheekbones and jawline by creating soft, intentional angles around your face. This technique works beautifully for various face shapes, as the shortest pieces can be tailored to start exactly where you want to draw the most attention. By breaking up the solid line of a standard cut, these layers add a sense of softness and femininity to your overall appearance. They are especially effective for those who want a change without losing their overall length or committing to a full transformation. These layers look stunning when styled with a round brush."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face framing layers shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face framing layers shoulder length."
+      }
+    ]
+  },
+  {
+    "id": "shoulder-length-straight-layered-haircut",
+    "slug": "shoulder-length-straight-layered-haircut",
+    "title": "18+ Shoulder Length Straight Haircut with Layers for Soft Movement",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "August 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_12_img_8.jpg",
+    "intro": "Shoulder length hair is one of the most versatile lengths you can choose, and when you add layers into the mix, it transforms into something truly special. Straight hair at shoulder length can sometimes feel flat or heavy, but layers bring movement, volume, and shape that completely change the way the hair falls and frames your face. Whether you have fine hair that needs a boost or thick hair that could use some lightness, there is a layered shoulder length cut that works perfectly for your texture and face shape. From soft face framing layers to bold choppy cuts, the options are almost endless and easy to maintain. If you are thinking about refreshing your look, these twenty shoulder length straight haircuts with layers will give you plenty of fresh inspiration to bring straight into your next salon visit.",
+    "introParagraphs": [
+      "Shoulder length hair is one of the most versatile lengths you can choose, and when you add layers into the mix, it transforms into something truly special. Straight hair at shoulder length can sometimes feel flat or heavy, but layers bring movement, volume, and shape that completely change the way the hair falls and frames your face. Whether you have fine hair that needs a boost or thick hair that could use some lightness, there is a layered shoulder length cut that works perfectly for your texture and face shape. From soft face framing layers to bold choppy cuts, the options are almost endless and easy to maintain. If you are thinking about refreshing your look, these twenty shoulder length straight haircuts with layers will give you plenty of fresh inspiration to bring straight into your next salon visit.",
+      "Long layers are one of the most classic and timeless choices when it comes to shoulder length straight hair. This cut keeps the overall length intact while removing weight from the bottom section, allowing the hair to move more freely and look less dense. The layers start around the jawline and blend smoothly all the way down to the ends, creating a seamless flow that looks polished without being stiff. It is an ideal option for women who want a low maintenance style that still looks intentional and well groomed. Long layers also pair beautifully with a simple center part or a soft side sweep, giving you flexibility in how you wear it every single day."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 18+ Shoulder Length Straight Haircut with Layers for Soft Movement",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Layered Shoulder Length Blunt Cut Straight Hair",
+        "image": "/images/doc_b22_12_img_8.jpg",
+        "description": "A blunt cut with layers combines the clean, sharp edges of a traditional blunt cut with the softness and movement of layered hair. The outer perimeter is cut straight across at shoulder length, while the interior is layered to remove bulk and add dimension. On straight hair, this creates a sleek, sophisticated look that still has body and life. The contrast between the precise edges and the softer interior layers gives this cut a unique visual interest that works well for both professional and casual settings. It is a great choice for women who want a structured look that does not feel stiff or heavy.",
+        "paragraphs": [
+          "A blunt cut with layers combines the clean, sharp edges of a traditional blunt cut with the softness and movement of layered hair.",
+          "The outer perimeter is cut straight across at shoulder length, while the interior is layered to remove bulk and add dimension. On straight hair, this creates a sleek, sophisticated look that still has body and life. The contrast between the precise edges and the softer interior layers gives this cut a unique visual interest that works well for both professional and casual settings. It is a great choice for women who want a structured look that does not feel stiff or heavy."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length blunt cut straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length blunt cut straight hair."
+      },
+      {
+        "number": 2,
+        "title": "Shoulder Length V-Cut Layers Straight Hair",
+        "image": "/images/doc_b22_12_img_6.jpg",
+        "description": "A V-cut layered haircut on shoulder length straight hair creates a beautiful angled shape that is longer in the back and slightly shorter on the sides. The layers are cut to follow this V shape, giving the hair a structured yet soft appearance that frames the neck and shoulders nicely. This cut is particularly flattering for women withround or square face shapesbecause the angled lines create the illusion of a longer, slimmer face. The V-cut also adds a subtle dramatic element that makes the haircut look more interesting than a standard blunt cut while still being easy to style on straight hair.",
+        "paragraphs": [
+          "A V-cut layered haircut on shoulder length straight hair creates a beautiful angled shape that is longer in the back and slightly shorter on the sides.",
+          "The layers are cut to follow this V shape, giving the hair a structured yet soft appearance that frames the neck and shoulders nicely. This cut is particularly flattering for women withround or square face shapesbecause the angled lines create the illusion of a longer, slimmer face. The V-cut also adds a subtle dramatic element that makes the haircut look more interesting than a standard blunt cut while still being easy to style on straight hair."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length v-cut layers straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length v-cut layers straight hair."
+      },
+      {
+        "number": 3,
+        "title": "Long Layers on Shoulder Length Straight Hair",
+        "image": "/images/doc_b22_12_img_1.jpg",
+        "description": "Long layers are one of the most classic and timeless choices when it comes to shoulder length straight hair. This cut keeps the overall length intact while removing weight from the bottom section, allowing the hair to move more freely and look less dense. The layers start around the jawline and blend smoothly all the way down to the ends, creating a seamless flow that looks polished without being stiff. It is an ideal option for women who want a low maintenance style that still looks intentional and well groomed. Long layers also pair beautifully with a simple center part or a soft side sweep, giving you flexibility in how you wear it every single day.",
+        "paragraphs": [
+          "Long layers are one of the most classic and timeless choices when it comes to shoulder length straight hair.",
+          "This cut keeps the overall length intact while removing weight from the bottom section, allowing the hair to move more freely and look less dense. The layers start around the jawline and blend smoothly all the way down to the ends, creating a seamless flow that looks polished without being stiff. It is an ideal option for women who want a low maintenance style that still looks intentional and well groomed. Long layers also pair beautifully with a simple center part or a soft side sweep, giving you flexibility in how you wear it every single day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for long layers on shoulder length straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in long layers on shoulder length straight hair."
+      },
+      {
+        "number": 4,
+        "title": "Shoulder Length Shaggy Layers Straight Hair",
+        "image": "/images/doc_b22_12_img_4.jpg",
+        "description": "Shaggy layers bring an undone, effortlessly cool energy to shoulder length straight hair. This cut features shorter layers concentrated around the crown and face, with the length gradually increasing toward the bottom. The result is a textured, slightly messy look that feels relaxed and wearable for everyday life. Unlike perfectly blended layers, shaggy layers have more visible separation between the different lengths, which gives straight hair much needed dimension and body. This cut is perfect for women who want a wash and go style that looks intentionally stylish without spending a lot of time in front of the mirror each morning.",
+        "paragraphs": [
+          "Shaggy layers bring an undone, effortlessly cool energy to shoulder length straight hair.",
+          "This cut features shorter layers concentrated around the crown and face, with the length gradually increasing toward the bottom. The result is a textured, slightly messy look that feels relaxed and wearable for everyday life. Unlike perfectly blended layers, shaggy layers have more visible separation between the different lengths, which gives straight hair much needed dimension and body. This cut is perfect for women who want a wash and go style that looks intentionally stylish without spending a lot of time in front of the mirror each morning."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length shaggy layers straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length shaggy layers straight hair."
+      },
+      {
+        "number": 5,
+        "title": "Face Framing Layers Shoulder Length Haircut",
+        "image": "/images/doc_b22_12_img_2.jpg",
+        "description": "Face framing layers are designed to highlight your best features by drawing attention to your eyes, cheekbones, and jawline. These shorter layers start right at the cheekbone level and taper gently toward the longer lengths in the back. On straight shoulder length hair, this technique creates a soft halo effect around the face that looks flattering on almost every face shape. The shorter front pieces can be tucked behind the ears or left loose for a more casual feel. This cut is especially popular among women with oval or heart shaped faces because it balances facial proportions beautifully without requiring much styling effort beyond a simple blow dry.",
+        "paragraphs": [
+          "Face framing layers are designed to highlight your best features by drawing attention to your eyes, cheekbones, and jawline.",
+          "These shorter layers start right at the cheekbone level and taper gently toward the longer lengths in the back. On straight shoulder length hair, this technique creates a soft halo effect around the face that looks flattering on almost every face shape. The shorter front pieces can be tucked behind the ears or left loose for a more casual feel. This cut is especially popular among women with oval or heart shaped faces because it balances facial proportions beautifully without requiring much styling effort beyond a simple blow dry."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face framing layers shoulder length haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face framing layers shoulder length haircut."
+      },
+      {
+        "number": 6,
+        "title": "Shoulder Length Layered Cut for Fine Straight Hair",
+        "image": "/images/doc_b22_12_img_15.jpg",
+        "description": "Fine straight hair benefits enormously from layers because they create the illusion of fullness and density that the hair naturally lacks. A shoulder length layered cut for fine hair uses shorter, more closely spaced layers throughout the interior to build volume from the roots down. The ends are typically cut with a soft technique that prevents the hair from looking stringy or sparse. This cut is designed specifically to maximize the body and movement of fine textures, making the hair appear thicker and healthier. It is a game changer for women with fine straight hair who have struggled to find a cut that gives their hair real presence.",
+        "paragraphs": [
+          "Fine straight hair benefits enormously from layers because they create the illusion of fullness and density that the hair naturally lacks.",
+          "A shoulder length layered cut for fine hair uses shorter, more closely spaced layers throughout the interior to build volume from the roots down. The ends are typically cut with a soft technique that prevents the hair from looking stringy or sparse. This cut is designed specifically to maximize the body and movement of fine textures, making the hair appear thicker and healthier. It is a game changer for women with fine straight hair who have struggled to find a cut that gives their hair real presence."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered cut for fine straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered cut for fine straight hair."
+      },
+      {
+        "number": 7,
+        "title": "Shoulder Length Layered Lob With Curtain Bangs",
+        "image": "/images/doc_b22_12_img_3.jpg",
+        "description": "The lob, or long bob, is already a staple haircut, and adding layers along with curtain bangs takes it to the next level. Curtain bangs part in the middle and sweep outward on both sides, blending naturally into face framing layers that continue through the rest of the shoulder grazing cut. This combination is incredibly popular right now because it offers a retro inspired vibe that still feels modern and fresh. The layers prevent the lob from looking boxy, while the bangs add softness around the forehead. It works especially well on straight hair because the clean lines of the cut are easy to see and the bangs lay flat without much effort.",
+        "paragraphs": [
+          "The lob, or long bob, is already a staple haircut, and adding layers along with curtain bangs takes it to the next level.",
+          "Curtain bangs part in the middle and sweep outward on both sides, blending naturally into face framing layers that continue through the rest of the shoulder grazing cut. This combination is incredibly popular right now because it offers a retro inspired vibe that still feels modern and fresh. The layers prevent the lob from looking boxy, while the bangs add softness around the forehead. It works especially well on straight hair because the clean lines of the cut are easy to see and the bangs lay flat without much effort."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered lob with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered lob with curtain bangs."
+      },
+      {
+        "number": 8,
+        "title": "Shoulder Length Choppy Layers Straight Haircut",
+        "image": "/images/doc_b22_12_img_7.jpg",
+        "description": "Choppy layers add an edgy, modern twist to the classic shoulder length straight haircut. Instead of smooth blending, the layers are cut at varied lengths to create noticeable texture and dimension throughout the hair. This technique is perfect for women who want a bold, statement making cut that stands out from the crowd. Choppy layers work especially well on straight hair because the sharp lines and varied lengths are clearly visible, giving the cut itssignature piecey look. You can enhance the texture with a light texturizing spray or leave it smooth for a more polished finish depending on your mood.",
+        "paragraphs": [
+          "Choppy layers add an edgy, modern twist to the classic shoulder length straight haircut.",
+          "Instead of smooth blending, the layers are cut at varied lengths to create noticeable texture and dimension throughout the hair. This technique is perfect for women who want a bold, statement making cut that stands out from the crowd. Choppy layers work especially well on straight hair because the sharp lines and varied lengths are clearly visible, giving the cut itssignature piecey look. You can enhance the texture with a light texturizing spray or leave it smooth for a more polished finish depending on your mood."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length choppy layers straight haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length choppy layers straight haircut."
+      },
+      {
+        "number": 9,
+        "title": "Wispy Layered Shoulder Length Straight Cut",
+        "image": "/images/doc_b22_12_img_5.jpg",
+        "description": "Wispy layers are all about creating a light, airy feel throughout your shoulder length straight hair. The layers are cut very finely and delicately, removing just enough bulk to add softness without sacrificing overall length. This technique works wonders for women with fine or thin hair because it prevents the hair from looking stringy or flat at the ends. The wispy texture also adds a gentle movement that makes the hair look healthier and more dynamic. You can wear this cut with or without bangs, and it pairs beautifully with a simple middle part for a clean, understated look that works for any occasion.",
+        "paragraphs": [
+          "Wispy layers are all about creating a light, airy feel throughout your shoulder length straight hair.",
+          "The layers are cut very finely and delicately, removing just enough bulk to add softness without sacrificing overall length. This technique works wonders for women with fine or thin hair because it prevents the hair from looking stringy or flat at the ends. The wispy texture also adds a gentle movement that makes the hair look healthier and more dynamic. You can wear this cut with or without bangs, and it pairs beautifully with a simple middle part for a clean, understated look that works for any occasion."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wispy layered shoulder length straight cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wispy layered shoulder length straight cut."
+      },
+      {
+        "number": 10,
+        "title": "Shoulder Length Layered Cut With Wispy Bangs",
+        "image": "/images/doc_b22_12_img_14.jpg",
+        "description": "Wispy bangs paired with shoulder length layered straight hair create a soft, romantic look that is both delicate and modern. The bangs are cut thin and light, falling just above the eyebrows with a feathered edge that blends seamlessly into the surrounding layers. This combination is perfect for women who want bangs but are hesitant about a heavy, blunt fringe. The wispy texture keeps the bangs looking airy and feminine, while the layers in the rest of the hair add balance and harmony to the overall cut. It is a forgiving style that grows out beautifully between salon visits.",
+        "paragraphs": [
+          "Wispy bangs paired with shoulder length layered straight hair create a soft, romantic look that is both delicate and modern.",
+          "The bangs are cut thin and light, falling just above the eyebrows with a feathered edge that blends seamlessly into the surrounding layers. This combination is perfect for women who want bangs but are hesitant about a heavy, blunt fringe. The wispy texture keeps the bangs looking airy and feminine, while the layers in the rest of the hair add balance and harmony to the overall cut. It is a forgiving style that grows out beautifully between salon visits."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered cut with wispy bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered cut with wispy bangs."
+      },
+      {
+        "number": 11,
+        "title": "Shoulder Length Feathered Layers Straight Hair",
+        "image": "/images/doc_b22_12_img_12.jpg",
+        "description": "Feathered layers are inspired by the iconic haircuts of the past but have been updated with a modern, refined approach. The layers are cut at slight angles and gentlyflipped outward at the ends, creating a feathered, winged effect that adds softness and movement. On straight shoulder length hair, this technique gives the cut a light, breezy quality that looks effortlessly stylish. Feathered layers are particularly flattering on women with longer face shapes because the outward flipping adds width around the jawline, creating a more balanced appearance. This cut is easy to style with a round brush and blow dryer for a polished finish.",
+        "paragraphs": [
+          "Feathered layers are inspired by the iconic haircuts of the past but have been updated with a modern, refined approach.",
+          "The layers are cut at slight angles and gentlyflipped outward at the ends, creating a feathered, winged effect that adds softness and movement. On straight shoulder length hair, this technique gives the cut a light, breezy quality that looks effortlessly stylish. Feathered layers are particularly flattering on women with longer face shapes because the outward flipping adds width around the jawline, creating a more balanced appearance. This cut is easy to style with a round brush and blow dryer for a polished finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length feathered layers straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length feathered layers straight hair."
+      },
+      {
+        "number": 12,
+        "title": "Shoulder Length Layered Straight Bob",
+        "image": "/images/doc_b22_12_img_13.jpg",
+        "description": "A layered straight bob at shoulder length is the perfect middle ground between a short bob and longer medium hair. The hair is cut to a uniform length right at the shoulders, withinternal layers that remove bulkand add shape. On straight hair, this creates a clean, geometric look that is both modern and timeless. The layers prevent the bob from looking like a solid helmet, adding just enough movement and texture to keep it interesting. This cut is especially popular among women who want a professional, put together look that transitions easily from the office to a weekend outing without needing much restyling.",
+        "paragraphs": [
+          "A layered straight bob at shoulder length is the perfect middle ground between a short bob and longer medium hair.",
+          "The hair is cut to a uniform length right at the shoulders, withinternal layers that remove bulkand add shape. On straight hair, this creates a clean, geometric look that is both modern and timeless. The layers prevent the bob from looking like a solid helmet, adding just enough movement and texture to keep it interesting. This cut is especially popular among women who want a professional, put together look that transitions easily from the office to a weekend outing without needing much restyling."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered straight bob.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered straight bob."
+      },
+      {
+        "number": 13,
+        "title": "Shoulder Length Layered Cut With Side Bangs",
+        "image": "/images/doc_b22_12_img_11.jpg",
+        "description": "Pairing shoulder length layered straight hair with side bangs creates a classic, flattering look that never goes out of style. The side bangs are cut to fall to one side, usually sweeping across the forehead at eyebrow or cheekbone length. They blend naturally into the face framing layers that continue through the rest of the cut. This combination is perfect for women who want to soften their forehead or add asymmetry to their look. The side bangs also help draw attention to the eyes and create a more angular, sculpted appearance around the face. It is a timeless option that works across all age groups.",
+        "paragraphs": [
+          "Pairing shoulder length layered straight hair with side bangs creates a classic, flattering look that never goes out of style.",
+          "The side bangs are cut to fall to one side, usually sweeping across the forehead at eyebrow or cheekbone length. They blend naturally into the face framing layers that continue through the rest of the cut. This combination is perfect for women who want to soften their forehead or add asymmetry to their look. The side bangs also help draw attention to the eyes and create a more angular, sculpted appearance around the face. It is a timeless option that works across all age groups."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered cut with side bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered cut with side bangs."
+      },
+      {
+        "number": 14,
+        "title": "Shoulder Length Textured Layers Straight Hair",
+        "image": "/images/doc_b22_12_img_10.jpg",
+        "description": "Textured layers are created using specialized cutting techniques like point cutting orrazor cutting to remove bulkand add natural looking movement to shoulder length straight hair. Unlike choppy layers, textured layers blend more seamlessly while still providing visible dimension and body throughout the cut. This technique is ideal for women who want a lived in, effortless look that does not require heavy styling products or tools. The textured ends also help prevent the hair from looking too uniform or flat, which is a common concern with straight hair at medium lengths. It is a low maintenance option that still looks professionally styled.",
+        "paragraphs": [
+          "Textured layers are created using specialized cutting techniques like point cutting orrazor cutting to remove bulkand add natural looking movement to shoulder length straight hair.",
+          "Unlike choppy layers, textured layers blend more seamlessly while still providing visible dimension and body throughout the cut. This technique is ideal for women who want a lived in, effortless look that does not require heavy styling products or tools. The textured ends also help prevent the hair from looking too uniform or flat, which is a common concern with straight hair at medium lengths. It is a low maintenance option that still looks professionally styled."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length textured layers straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length textured layers straight hair."
+      },
+      {
+        "number": 15,
+        "title": "Shoulder Length Layered Hair With Swept Bangs",
+        "image": "/images/doc_b22_12_img_17.jpg",
+        "description": "Swept bangs are a slightly longer version of side bangs that are typically cut to cheekbone or jawline length and swept to one side. When combined with a shoulder length layered straight haircut, they create a flowing, romantic look that feels both elegant and relaxed. The swept bangs integrate naturally with the surrounding layers, creating a cohesive look that frames the face beautifully from every angle. This combination is perfect for women who want a softer alternative to blunt bangs or a more dramatic version of subtle side swept fringe. It is a versatile cut that works with virtually any face shape and hair texture.",
+        "paragraphs": [
+          "Swept bangs are a slightly longer version of side bangs that are typically cut to cheekbone or jawline length and swept to one side.",
+          "When combined with a shoulder length layered straight haircut, they create a flowing, romantic look that feels both elegant and relaxed. The swept bangs integrate naturally with the surrounding layers, creating a cohesive look that frames the face beautifully from every angle. This combination is perfect for women who want a softer alternative to blunt bangs or a more dramatic version of subtle side swept fringe. It is a versatile cut that works with virtually any face shape and hair texture."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered hair with swept bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered hair with swept bangs."
+      },
+      {
+        "number": 16,
+        "title": "Shoulder Length U-Cut Layers Straight Hair",
+        "image": "/images/doc_b22_12_img_9.jpg",
+        "description": "The U-cut layered haircut is a softer alternative to the V-cut, with the layers forming a gentle U shape at the back. The center back section remains the longest, while the sides are slightly shorter, creating a rounded, feminine silhouette that drapes beautifully over the shoulders. On straight hair, this cut looks incredibly elegant and polished because the smooth surface of the hair allows the subtle U shape to really shine. It is a versatile option that works well with both thick and fine hair textures, and it can be styled with a simple blow dry for a smooth, finished look every time.",
+        "paragraphs": [
+          "The U-cut layered haircut is a softer alternative to the V-cut, with the layers forming a gentle U shape at the back.",
+          "The center back section remains the longest, while the sides are slightly shorter, creating a rounded, feminine silhouette that drapes beautifully over the shoulders. On straight hair, this cut looks incredibly elegant and polished because the smooth surface of the hair allows the subtle U shape to really shine. It is a versatile option that works well with both thick and fine hair textures, and it can be styled with a simple blow dry for a smooth, finished look every time."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length u-cut layers straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length u-cut layers straight hair."
+      },
+      {
+        "number": 17,
+        "title": "Shoulder Length Layered Cut for Thick Straight Hair",
+        "image": "/images/doc_b22_12_img_16.jpg",
+        "description": "Thick straight hair can feel heavy and unmanageable, but the right layered cut transforms it into something light, bouncy, and easy to style. A shoulder length layered cut for thick hair removes significant weight from the interior while keeping the outer perimeter strong and defined. The layers are cut wider apart to allow the natural density of the hair to shine through without feeling overwhelming. This approach prevents the hair from poufing out or looking like a triangle, which is a common issue with thick straight hair at medium lengths. The result is a balanced, manageable cut that showcases the natural beauty of thick hair.",
+        "paragraphs": [
+          "Thick straight hair can feel heavy and unmanageable, but the right layered cut transforms it into something light, bouncy, and easy to style.",
+          "A shoulder length layered cut for thick hair removes significant weight from the interior while keeping the outer perimeter strong and defined. The layers are cut wider apart to allow the natural density of the hair to shine through without feeling overwhelming. This approach prevents the hair from poufing out or looking like a triangle, which is a common issue with thick straight hair at medium lengths. The result is a balanced, manageable cut that showcases the natural beauty of thick hair."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layered cut for thick straight hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layered cut for thick straight hair."
+      }
+    ]
+  },
+  {
+    "id": "layered-shoulder-length-haircut-volume",
+    "slug": "layered-shoulder-length-haircut-volume",
+    "title": "15+ Layered Shoulder Length Haircut with Texture for Added Volume",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "August 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_13_img_8.jpg",
+    "intro": "Searching for the perfect way to breathe life into your medium locks? Finding the right cut can completely transform your look and boost your confidence. A layered shoulder length haircut with texture is the ultimate solution for adding movement, volume, and dimension without sacrificing length. Whether you have fine hair that needs a lift or thick hair that requires weight removal, textured layers provide the perfect balance. This versatile cut works beautifully with various face shapes and hair types, making it a timeless choice. In this guide, we explore 20 stunning variations that will inspire your next salon visit. From shaggy vibes to sleek sophistication, discover how the right layers can elevate your everyday style effortlessly.",
+    "introParagraphs": [
+      "Searching for the perfect way to breathe life into your medium locks? Finding the right cut can completely transform your look and boost your confidence. A layered shoulder length haircut with texture is the ultimate solution for adding movement, volume, and dimension without sacrificing length. Whether you have fine hair that needs a lift or thick hair that requires weight removal, textured layers provide the perfect balance. This versatile cut works beautifully with various face shapes and hair types, making it a timeless choice. In this guide, we explore 20 stunning variations that will inspire your next salon visit. From shaggy vibes to sleek sophistication, discover how the right layers can elevate your everyday style effortlessly.",
+      "Have you ever wanted that effortlessly cool vibe without spending hours styling? The textured shaggy lob haircut is your answer. This layered shoulder length haircut with texture brings out a rebellious yet chic energy. It features heavily layered ends and choppy pieces throughout, creating incredible movement. The shaggy lob looks amazing with air-dried hair, enhancing your natural texture. Add a bit of sea salt spray to amplify that gritty, lived-in feel. It frames the face beautifully and works wonders for fine to medium hair densities. You get all the volume at the roots and ends without the bulk. This cut proves that messy can look absolutely intentional and fashionable."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 15+ Layered Shoulder Length Haircut with Texture for Added Volume",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Face Framing Layered Lob With Texture",
+        "image": "/images/doc_b22_13_img_8.jpg",
+        "description": "Want to highlight your best features effortlessly? The face framing layered lob with texture puts the focus exactly where you want it. This cut keeps the length at the shoulders but incorporates shorter, textured layers starting from the cheekbones down. These face-framing pieces brighten your complexion and elongate the neck. The rest of the lob remains largely one length, with just the ends textured to prevent bluntness. It offers the simplicity of a lob with the styling benefits of face-framing layers. Use a flat iron to bend the front pieces away from your face. This layered shoulder length haircut with texture flatters every face shape effortlessly.",
+        "paragraphs": [
+          "Want to highlight your best features effortlessly?",
+          "The face framing layered lob with texture puts the focus exactly where you want it. This cut keeps the length at the shoulders but incorporates shorter, textured layers starting from the cheekbones down. These face-framing pieces brighten your complexion and elongate the neck. The rest of the lob remains largely one length, with just the ends textured to prevent bluntness. It offers the simplicity of a lob with the styling benefits of face-framing layers. Use a flat iron to bend the front pieces away from your face. This layered shoulder length haircut with texture flatters every face shape effortlessly."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face framing layered lob with texture.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face framing layered lob with texture."
+      },
+      {
+        "number": 2,
+        "title": "Choppy Layered Bob With Texture",
+        "image": "/images/doc_b22_13_img_3.jpg",
+        "description": "Looking for a classic shape with a modern, edgy twist? The choppy layered bob with texture turns a traditional cut into a modern masterpiece. Sitting right at the shoulders, this bob utilizes audacious, uneven layers to break up the solid line. The textured ends give it a light, bouncy feel, preventing the blunt bob from looking heavy. This style offers incredible versatility, allowing you to wear it sleek or messy. Use a flat iron to add random flips and bends for a morepiecey finish. It suits oval and heart-shaped faces exceptionally well. This layered shoulder length haircut with texture gives you a playful, energetic appearance every day.",
+        "paragraphs": [
+          "Looking for a classic shape with a modern, edgy twist?",
+          "The choppy layered bob with texture turns a traditional cut into a modern masterpiece. Sitting right at the shoulders, this bob utilizes audacious, uneven layers to break up the solid line. The textured ends give it a light, bouncy feel, preventing the blunt bob from looking heavy. This style offers incredible versatility, allowing you to wear it sleek or messy. Use a flat iron to add random flips and bends for a morepiecey finish. It suits oval and heart-shaped faces exceptionally well. This layered shoulder length haircut with texture gives you a playful, energetic appearance every day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for choppy layered bob with texture.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in choppy layered bob with texture."
+      },
+      {
+        "number": 3,
+        "title": "Shaggy Layered Shoulder Length Haircut",
+        "image": "/images/doc_b22_13_img_15.jpg",
+        "description": "Craving an undone,grunge-inspired aesthetic? The shaggy layered shoulder length haircut brings an effortlessly cool attitude to your everyday look. This style features choppy, uneven layers throughout, creating a chaotic but controlled silhouette. The heavy texture removes any hint of stiffness, making the hair look completely lived-in and relaxed. It pairs exceptionally well with natural air drying and a generous application of dry shampoo for grit. The shaggy layers wrap around the face beautifully, highlighting your features. This layered shoulder length haircut with texture requires minimal maintenance but delivers maximum style impact for the modern, on-the-go woman seeking authentic edge.",
+        "paragraphs": [
+          "Craving an undone,grunge-inspired aesthetic?",
+          "The shaggy layered shoulder length haircut brings an effortlessly cool attitude to your everyday look. This style features choppy, uneven layers throughout, creating a chaotic but controlled silhouette. The heavy texture removes any hint of stiffness, making the hair look completely lived-in and relaxed. It pairs exceptionally well with natural air drying and a generous application of dry shampoo for grit. The shaggy layers wrap around the face beautifully, highlighting your features. This layered shoulder length haircut with texture requires minimal maintenance but delivers maximum style impact for the modern, on-the-go woman seeking authentic edge."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shaggy layered shoulder length haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shaggy layered shoulder length haircut."
+      },
+      {
+        "number": 4,
+        "title": "Feathered Layered Shoulder Length Haircut",
+        "image": "/images/doc_b22_13_img_7.jpg",
+        "description": "Remember the bouncy, iconic hair from the seventies? The feathered layered shoulder length haircut brings that retro volume back with a modern update. Instead of choppy cuts, the layers are carved with a razor or shears to create fine, wispy ends that sweep outward. This feathering technique removes weight while maintaining a soft, touchable texture. It creates incredible movement when you walk or turn your head. A large barrel curling iron easily achieves the signature flipped ends. This layered shoulder length haircut with texture adds undeniable body and life to flat strands. It is a fantastic choice for anyone wanting a polished yet lively everyday appearance.",
+        "paragraphs": [
+          "Remember the bouncy, iconic hair from the seventies?",
+          "The feathered layered shoulder length haircut brings that retro volume back with a modern update. Instead of choppy cuts, the layers are carved with a razor or shears to create fine, wispy ends that sweep outward. This feathering technique removes weight while maintaining a soft, touchable texture. It creates incredible movement when you walk or turn your head. A large barrel curling iron easily achieves the signature flipped ends. This layered shoulder length haircut with texture adds undeniable body and life to flat strands. It is a fantastic choice for anyone wanting a polished yet lively everyday appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for feathered layered shoulder length haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in feathered layered shoulder length haircut."
+      },
+      {
+        "number": 5,
+        "title": "Textured Shoulder Length Flipped Ends Haircut",
+        "image": "/images/doc_b22_13_img_18.jpg",
+        "description": "Miss the bouncy flips of the nineties? Thetextured shoulder length flipped ends haircutbrings that energetic style back. The layers are cut specifically to encourage the hair to flip outward at the ends, creating a dynamic, joyful bounce. The texturizing is focused on the mid-lengths and ends to ensure the flips look piecey rather than rigid. This style works beautifully on naturally straight or slightly wavy hair that easily holds a bend. Use a large round brush and blow-dry the ends up and away from the face. This layered shoulder length haircut with texture adds incredible movement and a cheerful vibe to your style.",
+        "paragraphs": [
+          "Miss the bouncy flips of the nineties?",
+          "Thetextured shoulder length flipped ends haircutbrings that energetic style back. The layers are cut specifically to encourage the hair to flip outward at the ends, creating a dynamic, joyful bounce. The texturizing is focused on the mid-lengths and ends to ensure the flips look piecey rather than rigid. This style works beautifully on naturally straight or slightly wavy hair that easily holds a bend. Use a large round brush and blow-dry the ends up and away from the face. This layered shoulder length haircut with texture adds incredible movement and a cheerful vibe to your style."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured shoulder length flipped ends haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured shoulder length flipped ends haircut."
+      },
+      {
+        "number": 6,
+        "title": "Textured Shoulder Length Wedge Haircut",
+        "image": "/images/doc_b22_13_img_16.jpg",
+        "description": "Looking for serious volume at the back? The textured shoulder length wedge haircut builds incredible structure and lift. Inspired by the classic wedge, the back is cut with steep, stacked layers that create a rounded, voluminous shape. The front is left longer at the shoulders, and the ends are deeply textured to remove any bulk. This gives the classic wedge a modern, updated feel that is less rigid and more fluid. The stacked layers naturally push the hair upward and outward. Blow-dry with a round brush at the nape to lock in the volume. This layered shoulder length haircut with texture offers a bold, sculptural appearance.",
+        "paragraphs": [
+          "Looking for serious volume at the back?",
+          "The textured shoulder length wedge haircut builds incredible structure and lift. Inspired by the classic wedge, the back is cut with steep, stacked layers that create a rounded, voluminous shape. The front is left longer at the shoulders, and the ends are deeply textured to remove any bulk. This gives the classic wedge a modern, updated feel that is less rigid and more fluid. The stacked layers naturally push the hair upward and outward. Blow-dry with a round brush at the nape to lock in the volume. This layered shoulder length haircut with texture offers a bold, sculptural appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured shoulder length wedge haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured shoulder length wedge haircut."
+      },
+      {
+        "number": 7,
+        "title": "Textured A Line Bob Shoulder Length",
+        "image": "/images/doc_b22_13_img_12.jpg",
+        "description": "Want a sleek profile with movement in the front? The textured A line bob shoulder length combines structural precision with carefree finishes. The back is cut slightly shorter, gradually getting longer toward the front, forming a stylish A-line shape. However, instead of blunt ends, the front pieces are heavily textured to break the solid line. This provides a softer, more approachable finish to a traditionally sharp cut. The textured front layers allow for tucking hair behind the ear easily. Straighten the back smoothly while adding a slight bend to the front ends. This layered shoulder length haircut with texture balances edgy architecture with effortless softness.",
+        "paragraphs": [
+          "Want a sleek profile with movement in the front?",
+          "The textured A line bob shoulder length combines structural precision with carefree finishes. The back is cut slightly shorter, gradually getting longer toward the front, forming a stylish A-line shape. However, instead of blunt ends, the front pieces are heavily textured to break the solid line. This provides a softer, more approachable finish to a traditionally sharp cut. The textured front layers allow for tucking hair behind the ear easily. Straighten the back smoothly while adding a slight bend to the front ends. This layered shoulder length haircut with texture balances edgy architecture with effortless softness."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured a line bob shoulder length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured a line bob shoulder length."
+      },
+      {
+        "number": 8,
+        "title": "Layered Shoulder Length Wolf Cut",
+        "image": "/images/doc_b22_13_img_2.jpg",
+        "description": "Are you ready to embrace the wild side of hair trends? Thelayered shoulder length wolf cutdelivers an edgy, untamed aesthetic. Inspired by the mullet and shag fusion, this cut features shorter, heavily textured layers on top that cascade into longer lengths at the back. The heavy face-framing pieces add a striking touch to the overall look. This style removes bulk from the sides while maintaining dynamic volume at the crown. It thrives on natural movement and requires minimal styling effort. A textured styling cream will help define the choppy layers. It is an ideal option for anyone wanting a bold, statement-making layered shoulder length haircut with texture.",
+        "paragraphs": [
+          "Are you ready to embrace the wild side of hair trends?",
+          "Thelayered shoulder length wolf cutdelivers an edgy, untamed aesthetic. Inspired by the mullet and shag fusion, this cut features shorter, heavily textured layers on top that cascade into longer lengths at the back. The heavy face-framing pieces add a striking touch to the overall look. This style removes bulk from the sides while maintaining dynamic volume at the crown. It thrives on natural movement and requires minimal styling effort. A textured styling cream will help define the choppy layers. It is an ideal option for anyone wanting a bold, statement-making layered shoulder length haircut with texture."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length wolf cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length wolf cut."
+      },
+      {
+        "number": 9,
+        "title": "Textured Shoulder Length Butterfly Haircut",
+        "image": "/images/doc_b22_13_img_4.jpg",
+        "description": "Want the illusion of long hair with the volume of short hair? The textured shoulder length butterfly haircut creates magical dimension. This trending technique involves layering the top and face-framing sections heavily while leaving the bottom layers long and thick. The top layers resemble butterfly wings, offering incredible bounce and lift. The longer underneath pieces maintain the overall length and density. This layered shoulder length haircut with texture is perfect for anyone who loves wearing their hair up but wants fullness when wearing it down. Use a round brush on the top layers to amplify the volume. It delivers a soft, romantic, and beautifully textured finish.",
+        "paragraphs": [
+          "Want the illusion of long hair with the volume of short hair?",
+          "The textured shoulder length butterfly haircut creates magical dimension. This trending technique involves layering the top and face-framing sections heavily while leaving the bottom layers long and thick. The top layers resemble butterfly wings, offering incredible bounce and lift. The longer underneath pieces maintain the overall length and density. This layered shoulder length haircut with texture is perfect for anyone who loves wearing their hair up but wants fullness when wearing it down. Use a round brush on the top layers to amplify the volume. It delivers a soft, romantic, and beautifully textured finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured shoulder length butterfly haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured shoulder length butterfly haircut."
+      },
+      {
+        "number": 10,
+        "title": "Textured Shoulder Length Blunt Cut With Layers",
+        "image": "/images/doc_b22_13_img_14.jpg",
+        "description": "Can you have both bluntness and texture? The textured shoulder length blunt cut with layers says yes. This unique style keeps a solid, blunt perimeter at the bottom to maintain the illusion of thickness and health. However,internal layersare cut throughout the interior to remove weight and build volume. The ends are then textured slightly using point cutting to soften the hard baseline. It is the best of both worlds for fine or medium hair. You get the fullness of a blunt cut with the mobility of textured layers. This layered shoulder length haircut with texture gives a polished yet lively vibe.",
+        "paragraphs": [
+          "Can you have both bluntness and texture?",
+          "The textured shoulder length blunt cut with layers says yes. This unique style keeps a solid, blunt perimeter at the bottom to maintain the illusion of thickness and health. However,internal layersare cut throughout the interior to remove weight and build volume. The ends are then textured slightly using point cutting to soften the hard baseline. It is the best of both worlds for fine or medium hair. You get the fullness of a blunt cut with the mobility of textured layers. This layered shoulder length haircut with texture gives a polished yet lively vibe."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured shoulder length blunt cut with layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured shoulder length blunt cut with layers."
+      },
+      {
+        "number": 11,
+        "title": "Wispy Layered Shoulder Length Haircut",
+        "image": "/images/doc_b22_13_img_11.jpg",
+        "description": "Do you prefer your hair to look soft and delicate? The wispy layered shoulder length haircut offers an ethereal, lightweight appearance. The layers are cut very finely, creating sheer, feathery ends rather than blunt or chunky ones. This technique is perfect for fine hair, as it adds dimension without sacrificing the minimal density you have. The wispy texture gives the hair a floating, graceful quality that looks incredibly feminine. A simple blow-dry with a vented brush is all you need to maintain this shape. This layered shoulder length haircut with texture proves that subtle details make a massive impact on your overall softness and style.",
+        "paragraphs": [
+          "Do you prefer your hair to look soft and delicate?",
+          "The wispy layered shoulder length haircut offers an ethereal, lightweight appearance. The layers are cut very finely, creating sheer, feathery ends rather than blunt or chunky ones. This technique is perfect for fine hair, as it adds dimension without sacrificing the minimal density you have. The wispy texture gives the hair a floating, graceful quality that looks incredibly feminine. A simple blow-dry with a vented brush is all you need to maintain this shape. This layered shoulder length haircut with texture proves that subtle details make a massive impact on your overall softness and style."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wispy layered shoulder length haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wispy layered shoulder length haircut."
+      },
+      {
+        "number": 12,
+        "title": "V Cut Shoulder Length Hair With Texture",
+        "image": "/images/doc_b22_13_img_19.jpg",
+        "description": "Want to keep your length but remove the bulk? The V cut shoulder length hair with texture offers a clever solution. The hair is cut into a subtle V-shape at the back, meaning the center back is slightly longer than the sides. Layers are cut into this V-shape and heavily textured to ensure the hair does not look heavy or triangular. This creates a beautiful cascading effect when you turn your head. The textured layers allow the hair to flow seamlessly. It is perfect for thick hair that needs shape. This layered shoulder length haircut with texture provides beautiful, sweeping movement from every single angle.",
+        "paragraphs": [
+          "Want to keep your length but remove the bulk?",
+          "The V cut shoulder length hair with texture offers a clever solution. The hair is cut into a subtle V-shape at the back, meaning the center back is slightly longer than the sides. Layers are cut into this V-shape and heavily textured to ensure the hair does not look heavy or triangular. This creates a beautiful cascading effect when you turn your head. The textured layers allow the hair to flow seamlessly. It is perfect for thick hair that needs shape. This layered shoulder length haircut with texture provides beautiful, sweeping movement from every single angle."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for v cut shoulder length hair with texture.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in v cut shoulder length hair with texture."
+      },
+      {
+        "number": 13,
+        "title": "Layered Shoulder Length Fringe Haircut",
+        "image": "/images/doc_b22_13_img_17.jpg",
+        "description": "Want to change your look without losing any length? The layered shoulder length fringe haircut makes a huge impact with minimal length removal. It features a heavy, textured fringe cut straight across the forehead, paired with subtle, face-framing layers that blend into the shoulder-length base. The fringe acts as the focal point, drawing immediate attention to the eyes. The textured ends of the longer hair keep the overall look from feeling too heavy or blocky. Use a flat iron to smooth the fringe while keeping the rest of the hair slightly messy. This layered shoulder length haircut with texture creates a striking, fashionable focal point.",
+        "paragraphs": [
+          "Want to change your look without losing any length?",
+          "The layered shoulder length fringe haircut makes a huge impact with minimal length removal. It features a heavy, textured fringe cut straight across the forehead, paired with subtle, face-framing layers that blend into the shoulder-length base. The fringe acts as the focal point, drawing immediate attention to the eyes. The textured ends of the longer hair keep the overall look from feeling too heavy or blocky. Use a flat iron to smooth the fringe while keeping the rest of the hair slightly messy. This layered shoulder length haircut with texture creates a striking, fashionable focal point."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length fringe haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length fringe haircut."
+      },
+      {
+        "number": 14,
+        "title": "Layered Shoulder Length Hair With Balayage",
+        "image": "/images/doc_b22_13_img_13.jpg",
+        "description": "Want to amplify your layers with stunning dimension? The layered shoulder length hair with balayage perfectly marries cut and color. The hand-painted balayage highlights are strategically placed where the layers fall, emphasizing the movement and depth of the cut. The textured ends allow the lighter ribbons of color to pop, creating a sun-kissed, multi-tonal effect. The layers provide the necessary structure for the color to shine, while the color highlights the texture. Use a curling wand to create loose waves that showcase the color transitions. This layered shoulder length haircut with texture demonstrates how color and cut work together beautifully to create show-stopping dimension.",
+        "paragraphs": [
+          "Want to amplify your layers with stunning dimension?",
+          "The layered shoulder length hair with balayage perfectly marries cut and color. The hand-painted balayage highlights are strategically placed where the layers fall, emphasizing the movement and depth of the cut. The textured ends allow the lighter ribbons of color to pop, creating a sun-kissed, multi-tonal effect. The layers provide the necessary structure for the color to shine, while the color highlights the texture. Use a curling wand to create loose waves that showcase the color transitions. This layered shoulder length haircut with texture demonstrates how color and cut work together beautifully to create show-stopping dimension."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length hair with balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length hair with balayage."
+      },
+      {
+        "number": 15,
+        "title": "Textured Razored Shoulder Length Cut",
+        "image": "/images/doc_b22_13_img_9.jpg",
+        "description": "Does your thick hair feel too heavy and shapeless? The textured razored shoulder length cut slices through the bulk to give you ultimate mobility. Stylists use a razor tool instead of scissors to taper the ends, creating a dramatically thinned-out and textured finish. This technique removes weight from the mid-shaft to the ends, allowing the hair to move freely and swing naturally. It prevents the dreaded pyramid shape that often happens with thick, shoulder-length hair. Apply a lightweight smoothing serum to keep frizz at bay while maintaining the piecey texture. This layered shoulder length haircut with texture is a lifesaver for dense hair needing relief.",
+        "paragraphs": [
+          "Does your thick hair feel too heavy and shapeless?",
+          "The textured razored shoulder length cut slices through the bulk to give you ultimate mobility. Stylists use a razor tool instead of scissors to taper the ends, creating a dramatically thinned-out and textured finish. This technique removes weight from the mid-shaft to the ends, allowing the hair to move freely and swing naturally. It prevents the dreaded pyramid shape that often happens with thick, shoulder-length hair. Apply a lightweight smoothing serum to keep frizz at bay while maintaining the piecey texture. This layered shoulder length haircut with texture is a lifesaver for dense hair needing relief."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured razored shoulder length cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured razored shoulder length cut."
+      },
+      {
+        "number": 16,
+        "title": "Layered Shoulder Length Shag With Bangs",
+        "image": "/images/doc_b22_13_img_10.jpg",
+        "description": "Looking to make a bold, retro-inspired statement? The layered shoulder length shag with bangs delivers pure rock and roll energy. This cut features heavily layered sides, a textured fringe falling straight over the forehead, and plenty of movement throughout. The bangs seamlessly blend into the choppy layers, creating a cohesive and dramatic frame for the face. It works wonders for straight to wavy hair textures, providing an effortlessly messy look. Use a texturizing spray on the bangs to keep them separated and piecey. This layered shoulder length haircut with texture brings incredible personality and retro charm to your modern everyday aesthetic.",
+        "paragraphs": [
+          "Looking to make a bold, retro-inspired statement?",
+          "The layered shoulder length shag with bangs delivers pure rock and roll energy. This cut features heavily layered sides, a textured fringe falling straight over the forehead, and plenty of movement throughout. The bangs seamlessly blend into the choppy layers, creating a cohesive and dramatic frame for the face. It works wonders for straight to wavy hair textures, providing an effortlessly messy look. Use a texturizing spray on the bangs to keep them separated and piecey. This layered shoulder length haircut with texture brings incredible personality and retro charm to your modern everyday aesthetic."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length shag with bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length shag with bangs."
+      },
+      {
+        "number": 17,
+        "title": "Textured Shaggy Lob Haircut",
+        "image": "/images/doc_b22_13_img_1.jpg",
+        "description": "Have you ever wanted that effortlessly cool vibe without spending hours styling? The textured shaggy lob haircut is your answer. This layered shoulder length haircut with texture brings out a rebellious yet chic energy. It features heavily layered ends and choppy pieces throughout, creating incredible movement. The shaggy lob looks amazing with air-dried hair, enhancing your natural texture. Add a bit of sea salt spray to amplify that gritty, lived-in feel. It frames the face beautifully and works wonders for fine to medium hair densities. You get all the volume at the roots and ends without the bulk. This cut proves that messy can look absolutely intentional and fashionable.",
+        "paragraphs": [
+          "Have you ever wanted that effortlessly cool vibe without spending hours styling?",
+          "The textured shaggy lob haircut is your answer. This layered shoulder length haircut with texture brings out a rebellious yet chic energy. It features heavily layered ends and choppy pieces throughout, creating incredible movement. The shaggy lob looks amazing with air-dried hair, enhancing your natural texture. Add a bit of sea salt spray to amplify that gritty, lived-in feel. It frames the face beautifully and works wonders for fine to medium hair densities. You get all the volume at the roots and ends without the bulk. This cut proves that messy can look absolutely intentional and fashionable."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured shaggy lob haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured shaggy lob haircut."
+      },
+      {
+        "number": 18,
+        "title": "Messy Layered Shoulder Length Waves",
+        "image": "/images/doc_b22_13_img_5.jpg",
+        "description": "Do you crave that relaxed, beachy aesthetic year-round? The messy layered shoulder length waves look provides the ultimate carefree style. This cut incorporates soft, subtle layers throughout the mid-lengths and ends to support a natural wave pattern. The textured ends prevent the hair from looking heavy or triangular. It looks as if you just spent a day by the ocean. To enhance the messy appeal, scrunch a lightweight mousse into damp hair and let it air dry. This layered shoulder length haircut with texture is highly forgiving and easily maintainable. It gives you a soft, approachable, and beautifully undone look that never goes out of style.",
+        "paragraphs": [
+          "Do you crave that relaxed, beachy aesthetic year-round?",
+          "The messy layered shoulder length waves look provides the ultimate carefree style. This cut incorporates soft, subtle layers throughout the mid-lengths and ends to support a natural wave pattern. The textured ends prevent the hair from looking heavy or triangular. It looks as if you just spent a day by the ocean. To enhance the messy appeal, scrunch a lightweight mousse into damp hair and let it air dry. This layered shoulder length haircut with texture is highly forgiving and easily maintainable. It gives you a soft, approachable, and beautifully undone look that never goes out of style."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for messy layered shoulder length waves.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in messy layered shoulder length waves."
+      },
+      {
+        "number": 19,
+        "title": "Textured Shoulder Length Curtain Bangs Haircut",
+        "image": "/images/doc_b22_13_img_6.jpg",
+        "description": "Need a low-maintenance way to frame your face? The textured shoulder length curtain bangs haircut blends seamlessly into your layers. The curtain bangs are cut slightly longer and textured heavily at the ends, allowing them to part naturally in the middle. These bangs transition smoothly into the shoulder-length layers, creating a cohesive, flowing look. This style adds instant cheekbone structure and draws attention to the eyes. It requires very little styling, just a quick round brush blow-dry at the front. This layered shoulder length haircut with texture softens strong facial features and looks incredibly chic. It is the perfect gateway cut if you are nervous about bangs.",
+        "paragraphs": [
+          "Need a low-maintenance way to frame your face?",
+          "The textured shoulder length curtain bangs haircut blends seamlessly into your layers. The curtain bangs are cut slightly longer and textured heavily at the ends, allowing them to part naturally in the middle. These bangs transition smoothly into the shoulder-length layers, creating a cohesive, flowing look. This style adds instant cheekbone structure and draws attention to the eyes. It requires very little styling, just a quick round brush blow-dry at the front. This layered shoulder length haircut with texture softens strong facial features and looks incredibly chic. It is the perfect gateway cut if you are nervous about bangs."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured shoulder length curtain bangs haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured shoulder length curtain bangs haircut."
+      }
+    ]
+  },
+  {
+    "id": "low-maintenance-shoulder-length-layers",
+    "slug": "low-maintenance-shoulder-length-layers",
+    "title": "16+ Low Maintenance Haircut for Shoulder Length Layers",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "August 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_14_img_7.jpg",
+    "intro": "Finding the perfect balance between style and convenience is easy with a 20 low maintenance haircut for shoulder length layers. These cuts offer the best of both worlds. You get the beautiful movement of layers without spending hours styling your hair. Shoulder length is incredibly versatile. It is long enough to pull back but short enough to dry quickly. When you add layers designed for easy styling, your daily routine becomes effortless. Whether you want a wash-and-go look or something that air dries beautifully, there are options for everyone. You can embrace your natural texture and still look perfectly put together. We have gathered twenty stunning and low effort haircuts that will make your mornings so much easier while keeping you looking chic and fresh.",
+    "introParagraphs": [
+      "Finding the perfect balance between style and convenience is easy with a 20 low maintenance haircut for shoulder length layers. These cuts offer the best of both worlds. You get the beautiful movement of layers without spending hours styling your hair. Shoulder length is incredibly versatile. It is long enough to pull back but short enough to dry quickly. When you add layers designed for easy styling, your daily routine becomes effortless. Whether you want a wash-and-go look or something that air dries beautifully, there are options for everyone. You can embrace your natural texture and still look perfectly put together. We have gathered twenty stunning and low effort haircuts that will make your mornings so much easier while keeping you looking chic and fresh.",
+      "Have you ever wanted that perfectly undone rock and roll vibe? The shaggy shoulder length layers haircut delivers exactly that. This cut features heavily textured ends and chopped layers throughout. It removes excess bulk while creating incredible natural volume. The best part is how effortlessly it styles. You simply wash your hair, apply a bit of texturizing spray, and let it air dry. The natural wave of your hair will do all the work. The shaggy look means imperfections are a bonus, not a flaw. This makes it one of the easiest haircuts to maintain on busy mornings. You get a stylish, edgy appearance without ever having to pick up a round brush or flat iron."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 16+ Low Maintenance Haircut for Shoulder Length Layers",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Shoulder Length Butterfly Cut",
+        "image": "/images/doc_b22_14_img_7.jpg",
+        "description": "Dreaming of thick, bouncy hair without the blowout? Theshoulder length butterfly cutcreates the illusion of massive volume. This technique involves long, blended layers that are shorter at the top and cascade down like butterfly wings. The bottom layers remain long and thick, while the top layers are wispy and light. This prevents the top from falling flat against your head. When you air dry, the top layers lift naturally, creating incredible body. You do not need hot rollers or a round brush to get that voluminous look. It is the perfect wash and wear option for anyone wanting big, beautiful hair that requires absolutely minimal daily styling and product usage.",
+        "paragraphs": [
+          "Dreaming of thick, bouncy hair without the blowout?",
+          "Theshoulder length butterfly cutcreates the illusion of massive volume. This technique involves long, blended layers that are shorter at the top and cascade down like butterfly wings. The bottom layers remain long and thick, while the top layers are wispy and light. This prevents the top from falling flat against your head. When you air dry, the top layers lift naturally, creating incredible body. You do not need hot rollers or a round brush to get that voluminous look. It is the perfect wash and wear option for anyone wanting big, beautiful hair that requires absolutely minimal daily styling and product usage."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length butterfly cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length butterfly cut."
+      },
+      {
+        "number": 2,
+        "title": "Layered Shoulder Length Flip",
+        "image": "/images/doc_b22_14_img_15.jpg",
+        "description": "Craving that bouncy, cheerful look without the work? The layered shoulder length flip is a joyful and easy haircut. The layers are specifically cut to encourage the ends of your hair to flip outward naturally. This happens because the weight of the hair is removed from the bottom layers. You do not need to use a round brush to flick the ends up. As your hair air dries, it will naturally want to bounce and flip in different directions. It creates a lively, energetic look with absolutely zero heat styling required. This cut is perfect for anyone who wants a happy, bouncy style that feels light and is incredibly easy to maintain.",
+        "paragraphs": [
+          "Craving that bouncy, cheerful look without the work?",
+          "The layered shoulder length flip is a joyful and easy haircut. The layers are specifically cut to encourage the ends of your hair to flip outward naturally. This happens because the weight of the hair is removed from the bottom layers. You do not need to use a round brush to flick the ends up. As your hair air dries, it will naturally want to bounce and flip in different directions. It creates a lively, energetic look with absolutely zero heat styling required. This cut is perfect for anyone who wants a happy, bouncy style that feels light and is incredibly easy to maintain."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length flip.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length flip."
+      },
+      {
+        "number": 3,
+        "title": "Layered Bob With Side Part",
+        "image": "/images/doc_b22_14_img_4.jpg",
+        "description": "Looking for a classic style with a modern, easy twist? The layered bob with a side part is a timeless option. The layers add just enough movement to keep the bob from feeling flat or heavy. A deep side part instantly creates volume at the roots without any backcombing or styling products. When you step out of the shower, just push the hair over to one side and let it dry. The layers will naturally fall into a bouncy shape. This haircut works wonderfully for straight and wavy hair types alike. You get a sophisticated and bouncy look that basically styles itself, making your morning routine incredibly simple and fast every single day.",
+        "paragraphs": [
+          "Looking for a classic style with a modern, easy twist?",
+          "The layered bob with a side part is a timeless option. The layers add just enough movement to keep the bob from feeling flat or heavy. A deep side part instantly creates volume at the roots without any backcombing or styling products. When you step out of the shower, just push the hair over to one side and let it dry. The layers will naturally fall into a bouncy shape. This haircut works wonderfully for straight and wavy hair types alike. You get a sophisticated and bouncy look that basically styles itself, making your morning routine incredibly simple and fast every single day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered bob with side part.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered bob with side part."
+      },
+      {
+        "number": 4,
+        "title": "Vintage Shoulder Length Shag",
+        "image": "/images/doc_b22_14_img_14.jpg",
+        "description": "Love the retro look but need modern convenience? The vintage shoulder length shag brings back the seventies vibe with an easy twist. This cut features a rounded shape with heavily layered ends. The crown is slightly longer than a modern shag, which makes it easier to clip back or throw into a quick ponytail. The layers are cut to encourage a natural flip at the ends, which happens entirely on its own as your hair dries. You get that cool, vintage texture without needing hot rollers or a curling iron. It is a fun, expressive haircut that keeps your daily maintenance requirements to an absolute minimum while looking incredibly stylish and unique.",
+        "paragraphs": [
+          "Love the retro look but need modern convenience?",
+          "The vintage shoulder length shag brings back the seventies vibe with an easy twist. This cut features a rounded shape with heavily layered ends. The crown is slightly longer than a modern shag, which makes it easier to clip back or throw into a quick ponytail. The layers are cut to encourage a natural flip at the ends, which happens entirely on its own as your hair dries. You get that cool, vintage texture without needing hot rollers or a curling iron. It is a fun, expressive haircut that keeps your daily maintenance requirements to an absolute minimum while looking incredibly stylish and unique."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for vintage shoulder length shag.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in vintage shoulder length shag."
+      },
+      {
+        "number": 5,
+        "title": "Shoulder Length Layers With Curtain Bangs",
+        "image": "/images/doc_b22_14_img_10.jpg",
+        "description": "Looking for a way to soften your face without high maintenance bangs? Shoulder length layers with curtain bangs are the perfect pairing. Curtain bangs are longer on the sides and seamlessly blend into the rest of your layered cut. They naturally part in the middle, framing your face beautifully. Unlike blunt bangs, they do not require daily blow drying or flat ironing to behave. They easily air dry and sweep away from your face. The shoulder length layers in the back keep the style light and bouncy. Together, they create a look that is incredibly flattering and feminine, yet demands practically zero effort to style on your busiest weekday mornings.",
+        "paragraphs": [
+          "Looking for a way to soften your face without high maintenance bangs?",
+          "Shoulder length layers with curtain bangs are the perfect pairing. Curtain bangs are longer on the sides and seamlessly blend into the rest of your layered cut. They naturally part in the middle, framing your face beautifully. Unlike blunt bangs, they do not require daily blow drying or flat ironing to behave. They easily air dry and sweep away from your face. The shoulder length layers in the back keep the style light and bouncy. Together, they create a look that is incredibly flattering and feminine, yet demands practically zero effort to style on your busiest weekday mornings."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length layers with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length layers with curtain bangs."
+      },
+      {
+        "number": 6,
+        "title": "Texturized Shoulder Length Shag",
+        "image": "/images/doc_b22_14_img_9.jpg",
+        "description": "Want a retro vibe with modern convenience? Thetexturized shoulder length shagis an amazing low maintenance option. This cut is all about extreme texture and piecey layers. The stylist uses thinning shears or a razor to remove bulk and create wispy ends. This means your hair will not just lay flat against your head. It naturally falls into a perfectly messy, voluminous shape on its own. You can literally wake up, run your fingers through your hair, and be ready to go. The heavy texture holds its shape well between washes, too. If you love the effortlessly cool look of the seventies but need a modern wash and go routine, this is it.",
+        "paragraphs": [
+          "Want a retro vibe with modern convenience?",
+          "Thetexturized shoulder length shagis an amazing low maintenance option. This cut is all about extreme texture and piecey layers. The stylist uses thinning shears or a razor to remove bulk and create wispy ends. This means your hair will not just lay flat against your head. It naturally falls into a perfectly messy, voluminous shape on its own. You can literally wake up, run your fingers through your hair, and be ready to go. The heavy texture holds its shape well between washes, too. If you love the effortlessly cool look of the seventies but need a modern wash and go routine, this is it."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for texturized shoulder length shag.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in texturized shoulder length shag."
+      },
+      {
+        "number": 7,
+        "title": "Choppy Shoulder Length Layers",
+        "image": "/images/doc_b22_14_img_5.jpg",
+        "description": "Tired of trying to make your hair look perfectly smooth?Choppy shoulder length layersembrace a highly textured and relaxed aesthetic. The stylist uses a point cutting technique to create distinct, piecey layers rather than soft blended ones. This drastically reduces the overall weight of your hair, allowing it to dry in a fraction of the time. The choppier the layers, the more natural movement you get without heat styling. You can scrunch a little mousse into damp hair and walk out the door. The cut is designed to look effortlessly messy and full of life. It completely eliminates the need for precise styling, giving you a cool and carefree appearance every day.",
+        "paragraphs": [
+          "Tired of trying to make your hair look perfectly smooth?Choppy shoulder length layersembrace a highly textured and relaxed aesthetic.",
+          "The stylist uses a point cutting technique to create distinct, piecey layers rather than soft blended ones. This drastically reduces the overall weight of your hair, allowing it to dry in a fraction of the time. The choppier the layers, the more natural movement you get without heat styling. You can scrunch a little mousse into damp hair and walk out the door. The cut is designed to look effortlessly messy and full of life. It completely eliminates the need for precise styling, giving you a cool and carefree appearance every day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for choppy shoulder length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in choppy shoulder length layers."
+      },
+      {
+        "number": 8,
+        "title": "Layered Shoulder Length Lob",
+        "image": "/images/doc_b22_14_img_12.jpg",
+        "description": "Need a polished cut that still offers easy styling? The layered shoulder length lob is a staple for a reason. The lob, or long bob, hits right around the collarbone. Adding soft layers to this classic cut prevents it from looking triangular or bottom heavy. The layers give the ends a slight flick, which happens naturally as your hair dries. You do not need to curl the ends under with a round brush. The cut is designed to fall gracefully on its own. This makes it a highly reliable and low maintenance choice for professional environments where you want to look put together without dedicating an hour to your hair every single morning.",
+        "paragraphs": [
+          "Need a polished cut that still offers easy styling?",
+          "The layered shoulder length lob is a staple for a reason. The lob, or long bob, hits right around the collarbone. Adding soft layers to this classic cut prevents it from looking triangular or bottom heavy. The layers give the ends a slight flick, which happens naturally as your hair dries. You do not need to curl the ends under with a round brush. The cut is designed to fall gracefully on its own. This makes it a highly reliable and low maintenance choice for professional environments where you want to look put together without dedicating an hour to your hair every single morning."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shoulder length lob.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shoulder length lob."
+      },
+      {
+        "number": 9,
+        "title": "Blunt Cut With Subtle Layers",
+        "image": "/images/doc_b22_14_img_2.jpg",
+        "description": "Craving a polished look that still dries quickly? A blunt cut with subtle layers is a fantastic choice. The bottom of your hair is cut straight across, which creates the illusion of thicker, healthier ends. Then, a few very subtle layers are snipped underneath to remove just enough weight. This allows your hair to dry significantly faster after a shower. It maintains the sleek appearance of a one-length cut but removes the heavy dampness that takes forever to blow dry. You can easily air dry this style for a smooth finish. If you want a clean and professional look that demands almost zero styling effort, this low maintenance option is completely foolproof for everyday wear.",
+        "paragraphs": [
+          "Craving a polished look that still dries quickly?",
+          "A blunt cut with subtle layers is a fantastic choice. The bottom of your hair is cut straight across, which creates the illusion of thicker, healthier ends. Then, a few very subtle layers are snipped underneath to remove just enough weight. This allows your hair to dry significantly faster after a shower. It maintains the sleek appearance of a one-length cut but removes the heavy dampness that takes forever to blow dry. You can easily air dry this style for a smooth finish. If you want a clean and professional look that demands almost zero styling effort, this low maintenance option is completely foolproof for everyday wear."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blunt cut with subtle layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blunt cut with subtle layers."
+      },
+      {
+        "number": 10,
+        "title": "Shaggy Shoulder Length Layers",
+        "image": "/images/doc_b22_14_img_1.jpg",
+        "description": "Have you ever wanted that perfectly undone rock and roll vibe? The shaggy shoulder length layers haircut delivers exactly that. This cut features heavily textured ends and chopped layers throughout. It removes excess bulk while creating incredible natural volume. The best part is how effortlessly it styles. You simply wash your hair, apply a bit of texturizing spray, and let it air dry. The natural wave of your hair will do all the work. The shaggy look means imperfections are a bonus, not a flaw. This makes it one of the easiest haircuts to maintain on busy mornings. You get a stylish, edgy appearance without ever having to pick up a round brush or flat iron.",
+        "paragraphs": [
+          "Have you ever wanted that perfectly undone rock and roll vibe?",
+          "The shaggy shoulder length layers haircut delivers exactly that. This cut features heavily textured ends and chopped layers throughout. It removes excess bulk while creating incredible natural volume. The best part is how effortlessly it styles. You simply wash your hair, apply a bit of texturizing spray, and let it air dry. The natural wave of your hair will do all the work. The shaggy look means imperfections are a bonus, not a flaw. This makes it one of the easiest haircuts to maintain on busy mornings. You get a stylish, edgy appearance without ever having to pick up a round brush or flat iron."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shaggy shoulder length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shaggy shoulder length layers."
+      },
+      {
+        "number": 11,
+        "title": "Messy Shoulder Length Layers",
+        "image": "/images/doc_b22_14_img_11.jpg",
+        "description": "Do you hate spending time in front of the mirror? Messy shoulder length layers give you a stylishly disheveled look with zero fuss. The key to this cut is removing just enough weight so the hair does not look bulky, but keeping it long enough so it does not tangle. The layers are cut to enhance your natural texture, whatever that may be. Whether your hair is stick straight or deeply wavy, the messy layers will work with it. You just wash, towel dry, and go about your day. The imperfect, lived in finish means you never have to worry about a hair out of place. It is the ultimate cut for effortless beauty.",
+        "paragraphs": [
+          "Do you hate spending time in front of the mirror?",
+          "Messy shoulder length layers give you a stylishly disheveled look with zero fuss. The key to this cut is removing just enough weight so the hair does not look bulky, but keeping it long enough so it does not tangle. The layers are cut to enhance your natural texture, whatever that may be. Whether your hair is stick straight or deeply wavy, the messy layers will work with it. You just wash, towel dry, and go about your day. The imperfect, lived in finish means you never have to worry about a hair out of place. It is the ultimate cut for effortless beauty."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for messy shoulder length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in messy shoulder length layers."
+      },
+      {
+        "number": 12,
+        "title": "Casual Shoulder Length Layers",
+        "image": "/images/doc_b22_14_img_16.jpg",
+        "description": "Do you just want a simple, everyday cut? Casual shoulder length layers are the ultimate no fuss option. The layers are kept relatively long and blended. They are not meant to be heavily textured or choppy. The goal is simply to remove a little weight so your hair falls nicely. This cut looks great whether you air dry it or quickly blast it with a blow dryer. It does not demand any specific styling products or tools. You can wear it straight, wavy, or in a quick updo. It is the perfect foundational haircut for someone who wants to look neat and put together without overthinking their daily hair routine at all.",
+        "paragraphs": [
+          "Do you just want a simple, everyday cut?",
+          "Casual shoulder length layers are the ultimate no fuss option. The layers are kept relatively long and blended. They are not meant to be heavily textured or choppy. The goal is simply to remove a little weight so your hair falls nicely. This cut looks great whether you air dry it or quickly blast it with a blow dryer. It does not demand any specific styling products or tools. You can wear it straight, wavy, or in a quick updo. It is the perfect foundational haircut for someone who wants to look neat and put together without overthinking their daily hair routine at all."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for casual shoulder length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in casual shoulder length layers."
+      },
+      {
+        "number": 13,
+        "title": "Soft Shoulder Length Layers",
+        "image": "/images/doc_b22_14_img_13.jpg",
+        "description": "Prefer a more romantic and gentle aesthetic? Soft shoulder length layers provide a beautifully subtle shape. Instead of choppy or heavily textured pieces, these layers are blended seamlessly. This creates a soft, sweeping effect that moves like water. Because the layers are so gently graduated, they require no special styling techniques to look good. Your hair will simply dry into a smooth, swooping shape. It is an incredibly forgiving cut that works wonderfully for finer hair types, as it preserves density while adding just enough movement. If you want a graceful and feminine look that does not demand heat tools or complicated blowouts, these soft layers will make your daily routine a breeze.",
+        "paragraphs": [
+          "Prefer a more romantic and gentle aesthetic?",
+          "Soft shoulder length layers provide a beautifully subtle shape. Instead of choppy or heavily textured pieces, these layers are blended seamlessly. This creates a soft, sweeping effect that moves like water. Because the layers are so gently graduated, they require no special styling techniques to look good. Your hair will simply dry into a smooth, swooping shape. It is an incredibly forgiving cut that works wonderfully for finer hair types, as it preserves density while adding just enough movement. If you want a graceful and feminine look that does not demand heat tools or complicated blowouts, these soft layers will make your daily routine a breeze."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for soft shoulder length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in soft shoulder length layers."
+      },
+      {
+        "number": 14,
+        "title": "Shoulder Length Wolf Cut",
+        "image": "/images/doc_b22_14_img_6.jpg",
+        "description": "Ready to try the trendiest low maintenance cut around? The shoulder length wolf cut is taking over for good reason. It combines theshag and the mulletinto a highly textured, face framing masterpiece. The heavy layers on top provide natural lift, while the longer pieces in the back keep the length. Because it is meant to look wild and lived in, styling is a breeze. You just need to let your hair air dry with a bit of sea salt spray. The cut does all the heavy lifting to create a cool, edgy shape. It works exceptionally well with natural waves and gives you a fiercely stylish look with zero effort.",
+        "paragraphs": [
+          "Ready to try the trendiest low maintenance cut around?",
+          "The shoulder length wolf cut is taking over for good reason. It combines theshag and the mulletinto a highly textured, face framing masterpiece. The heavy layers on top provide natural lift, while the longer pieces in the back keep the length. Because it is meant to look wild and lived in, styling is a breeze. You just need to let your hair air dry with a bit of sea salt spray. The cut does all the heavy lifting to create a cool, edgy shape. It works exceptionally well with natural waves and gives you a fiercely stylish look with zero effort."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length wolf cut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length wolf cut."
+      },
+      {
+        "number": 15,
+        "title": "Tousled Shoulder Length Layers",
+        "image": "/images/doc_b22_14_img_8.jpg",
+        "description": "Does the idea of beachy waves appeal to your lazy side? Tousled shoulder length layers are designed specifically for that carefree, windswept look. The layers are soft and slightly uneven, which encourages your hair to form loose, natural waves as it dries. You do not have to worry about your hair looking perfectly styled. In fact, the messier it is, the better it looks. Simply spray some leave in conditioner or a light wave spray into damp hair, twist it into a loose bun, and let it down when it is dry. You will have beautiful, effortless waves all day long. This cut makes casual styling incredibly simple and fast for any busy lifestyle.",
+        "paragraphs": [
+          "Does the idea of beachy waves appeal to your lazy side?",
+          "Tousled shoulder length layers are designed specifically for that carefree, windswept look. The layers are soft and slightly uneven, which encourages your hair to form loose, natural waves as it dries. You do not have to worry about your hair looking perfectly styled. In fact, the messier it is, the better it looks. Simply spray some leave in conditioner or a light wave spray into damp hair, twist it into a loose bun, and let it down when it is dry. You will have beautiful, effortless waves all day long. This cut makes casual styling incredibly simple and fast for any busy lifestyle."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for tousled shoulder length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in tousled shoulder length layers."
+      },
+      {
+        "number": 16,
+        "title": "Face Framing Shoulder Length Layers",
+        "image": "/images/doc_b22_14_img_3.jpg",
+        "description": "Want to highlight your best features without a complicated styling routine? Face framing shoulder length layers are the ultimate solution. The layers are cut specifically around the front of your face. They gradually get longer as they reach the back. This technique beautifully highlights your cheekbones and eyes. Because the bulk of your hair remains one length in the back, it requires very little upkeep. The front pieces naturally fall into place as they dry. You do not need to spend time curling or flat ironing. Just a quick rough dry with your fingers is enough to push those face framing pieces right where they belong. It is a highly flattering and incredibly easy style to manage.",
+        "paragraphs": [
+          "Want to highlight your best features without a complicated styling routine?",
+          "Face framing shoulder length layers are the ultimate solution. The layers are cut specifically around the front of your face. They gradually get longer as they reach the back. This technique beautifully highlights your cheekbones and eyes. Because the bulk of your hair remains one length in the back, it requires very little upkeep. The front pieces naturally fall into place as they dry. You do not need to spend time curling or flat ironing. Just a quick rough dry with your fingers is enough to push those face framing pieces right where they belong. It is a highly flattering and incredibly easy style to manage."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face framing shoulder length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face framing shoulder length layers."
+      }
+    ]
+  },
+  {
+    "id": "medium-length-layered-haircuts-natural-body",
+    "slug": "medium-length-layered-haircuts-natural-body",
+    "title": "22+ Stunning Medium Length Layered Haircuts With Natural Body",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "August 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_15_img_7.jpg",
+    "intro": "Finding the perfect haircut can feel like searching for a needle in a haystack—except the haystack is made of hair, and the needle is constantly changing with the trends.",
+    "introParagraphs": [
+      "Finding the perfect haircut can feel like searching for a needle in a haystack—except the haystack is made of hair, and the needle is constantly changing with the trends.",
+      "Medium-length layered haircuts are an easy way to add movement, shape, and personality to your hair without committing to a dramatic chop."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 22+ Stunning Medium Length Layered Haircuts With Natural Body",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Cascading Layers with Sun-Kissed Highlights",
+        "image": "/images/doc_b22_15_img_7.jpg",
+        "description": "Long, cascading layers add volume while keeping the length manageable. Sun-kissed highlights provide a natural, beachy glow.",
+        "paragraphs": [
+          "Long, cascading layers add volume while keeping the length manageable.",
+          "Sun-kissed highlights provide a natural, beachy glow."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for cascading layers with sun-kissed highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in cascading layers with sun-kissed highlights."
+      },
+      {
+        "number": 2,
+        "title": "Curved Layers with Honey Blonde Tones",
+        "image": "/images/doc_b22_15_img_5.jpg",
+        "description": "Gently curved layers hug the face and add a polished, flowing effect. Honey blonde tones work beautifully to create warmth and depth.",
+        "paragraphs": [
+          "Gently curved layers hug the face and add a polished, flowing effect.",
+          "Honey blonde tones work beautifully to create warmth and depth."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for curved layers with honey blonde tones.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in curved layers with honey blonde tones."
+      },
+      {
+        "number": 3,
+        "title": "Textured Shag with Auburn Highlights",
+        "image": "/images/doc_b22_15_img_3.jpg",
+        "description": "The modern shag is making waves in 2025, with textured layers providing volume and a slightly edgy feel. Auburn highlights bring warmth and vibrancy to the tousled cut.",
+        "paragraphs": [
+          "The modern shag is making waves in 2025, with textured layers providing volume and a slightly edgy feel.",
+          "Auburn highlights bring warmth and vibrancy to the tousled cut."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured shag with auburn highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured shag with auburn highlights."
+      },
+      {
+        "number": 4,
+        "title": "Classic Layered Cut with Golden Brown Dimension",
+        "image": "/images/doc_b22_15_img_12.jpg",
+        "description": "A timeless choice featuring soft layers for movement and dimension. Golden brown hues add richness, making it ideal for all seasons.",
+        "paragraphs": [
+          "A timeless choice featuring soft layers for movement and dimension.",
+          "Golden brown hues add richness, making it ideal for all seasons."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for classic layered cut with golden brown dimension.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in classic layered cut with golden brown dimension."
+      },
+      {
+        "number": 5,
+        "title": "Layered Lob with Mocha Brown Dimension",
+        "image": "/images/doc_b22_15_img_6.jpg",
+        "description": "A long bob with soft layering offers the perfect balance between chic and effortless. Mocha brown adds depth, making this a flattering choice for any skin tone.",
+        "paragraphs": [
+          "A long bob with soft layering offers the perfect balance between chic and effortless.",
+          "Mocha brown adds depth, making this a flattering choice for any skin tone."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered lob with mocha brown dimension.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered lob with mocha brown dimension."
+      },
+      {
+        "number": 6,
+        "title": "Voluminous Layers with Warm Toffee Undertones",
+        "image": "/images/doc_b22_15_img_15.jpg",
+        "description": "This cut adds fullness and bounce, perfect for thicker hair. Warm toffee undertones provide a multidimensional, sunlit effect.",
+        "paragraphs": [
+          "This cut adds fullness and bounce, perfect for thicker hair.",
+          "Warm toffee undertones provide a multidimensional, sunlit effect."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for voluminous layers with warm toffee undertones.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in voluminous layers with warm toffee undertones."
+      },
+      {
+        "number": 7,
+        "title": "Choppy Layers with Chestnut Balayage",
+        "image": "/images/doc_b22_15_img_8.jpg",
+        "description": "Edgy and full of texture, this cut features choppy layers for a bold, youthful effect. Chestnut balayage adds warmth and contrast.",
+        "paragraphs": [
+          "Edgy and full of texture, this cut features choppy layers for a bold, youthful effect.",
+          "Chestnut balayage adds warmth and contrast."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for choppy layers with chestnut balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in choppy layers with chestnut balayage."
+      },
+      {
+        "number": 8,
+        "title": "Piecey Layers with Honey Caramel Balayage",
+        "image": "/images/doc_b22_15_img_21.jpg",
+        "description": "A lived-in look with piecey layers that frame the face beautifully. Honey caramel balayage adds warmth and softness.",
+        "paragraphs": [
+          "A lived-in look with piecey layers that frame the face beautifully.",
+          "Honey caramel balayage adds warmth and softness."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for piecey layers with honey caramel balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in piecey layers with honey caramel balayage."
+      },
+      {
+        "number": 9,
+        "title": "Disconnected Layers with Maple Brown Accents",
+        "image": "/images/doc_b22_15_img_22.jpg",
+        "description": "This modern, layered cut features disconnection for added texture and body. Maple brown accents complement the rich dimension.",
+        "paragraphs": [
+          "This modern, layered cut features disconnection for added texture and body.",
+          "Maple brown accents complement the rich dimension."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for disconnected layers with maple brown accents.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in disconnected layers with maple brown accents."
+      },
+      {
+        "number": 10,
+        "title": "Rounded Layers with Soft Chestnut Undertones",
+        "image": "/images/doc_b22_15_img_24.jpg",
+        "description": "A rounded, voluminous cut that flatters oval and heart-shaped faces. Soft chestnut undertones add warmth and dimension.",
+        "paragraphs": [
+          "A rounded, voluminous cut that flatters oval and heart-shaped faces.",
+          "Soft chestnut undertones add warmth and dimension."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for rounded layers with soft chestnut undertones.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in rounded layers with soft chestnut undertones."
+      },
+      {
+        "number": 11,
+        "title": "Soft Feathered Layers with Champagne Blonde",
+        "image": "/images/doc_b22_15_img_1.jpg",
+        "description": "This cut features delicate, wispy layers that create a soft, airy effect, ideal for those wanting effortless movement. Champagne blonde adds a touch of radiance and dimension.",
+        "paragraphs": [
+          "This cut features delicate, wispy layers that create a soft, airy effect, ideal for those wanting effortless movement.",
+          "Champagne blonde adds a touch of radiance and dimension."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for soft feathered layers with champagne blonde.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in soft feathered layers with champagne blonde."
+      },
+      {
+        "number": 12,
+        "title": "Face-Framing Layers with Caramel Balayage",
+        "image": "/images/doc_b22_15_img_2.jpg",
+        "description": "Subtle layers around the face enhance cheekbones and jawlines, giving a refined and flattering look. Caramel balayage on a warm brunette base adds richness and warmth.",
+        "paragraphs": [
+          "Subtle layers around the face enhance cheekbones and jawlines, giving a refined and flattering look.",
+          "Caramel balayage on a warm brunette base adds richness and warmth."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face-framing layers with caramel balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face-framing layers with caramel balayage."
+      },
+      {
+        "number": 13,
+        "title": "Chin-Length Layers with Smoky Brunette Hues",
+        "image": "/images/doc_b22_15_img_18.jpg",
+        "description": "This style is perfect for those who prefer shorter medium-length hair. Smoky brunette shades add richness and drama.",
+        "paragraphs": [
+          "This style is perfect for those who prefer shorter medium-length hair.",
+          "Smoky brunette shades add richness and drama."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for chin-length layers with smoky brunette hues.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in chin-length layers with smoky brunette hues."
+      },
+      {
+        "number": 14,
+        "title": "Tousled Layers with Cinnamon Spice Balayage",
+        "image": "/images/doc_b22_15_img_16.jpg",
+        "description": "Loose, tousled layers give an effortless vibe, while cinnamon spice balayage enhances depth and warmth. This layered technique enhances natural body and movement without compromising overall length.",
+        "paragraphs": [
+          "Loose, tousled layers give an effortless vibe, while cinnamon spice balayage enhances depth and warmth.",
+          "This layered technique enhances natural body and movement without compromising overall length."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for tousled layers with cinnamon spice balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in tousled layers with cinnamon spice balayage."
+      },
+      {
+        "number": 15,
+        "title": "Modern Layered Lob with Rose Gold Highlights",
+        "image": "/images/doc_b22_15_img_13.jpg",
+        "description": "A fresh take on the classic lob, featuring subtle layers for a soft texture. Rose gold highlights create a stylish, contemporary touch.",
+        "paragraphs": [
+          "A fresh take on the classic lob, featuring subtle layers for a soft texture.",
+          "Rose gold highlights create a stylish, contemporary touch."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for modern layered lob with rose gold highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in modern layered lob with rose gold highlights."
+      },
+      {
+        "number": 16,
+        "title": "Wavy Layers with Copper Balayage",
+        "image": "/images/doc_b22_15_img_11.jpg",
+        "description": "Designed to enhance natural waves, this cut offers soft, flowing layers with a rich copper balayage that adds warmth and vibrancy. This layered technique enhances natural body and movement without compromising overall length.",
+        "paragraphs": [
+          "Designed to enhance natural waves, this cut offers soft, flowing layers with a rich copper balayage that adds warmth and vibrancy.",
+          "This layered technique enhances natural body and movement without compromising overall length."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wavy layers with copper balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wavy layers with copper balayage."
+      },
+      {
+        "number": 17,
+        "title": "V-Cut Layers with Espresso Brown Shine",
+        "image": "/images/doc_b22_15_img_9.jpg",
+        "description": "This style features dramatic layering that forms a \"V\" shape in the back, creating movement and volume. Espresso brown adds a deep, glossy finish.",
+        "paragraphs": [
+          "This style features dramatic layering that forms a \"V\" shape in the back, creating movement and volume.",
+          "Espresso brown adds a deep, glossy finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for v-cut layers with espresso brown shine.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in v-cut layers with espresso brown shine."
+      },
+      {
+        "number": 18,
+        "title": "Blunt Cut with Soft Layers and Ash Blonde Balayage",
+        "image": "/images/doc_b22_15_img_4.jpg",
+        "description": "A mix of blunt ends with light layers creates a sleek yet voluminous look. Ash blonde balayage gives a cool-toned contrast for a sophisticated, modern finish.",
+        "paragraphs": [
+          "A mix of blunt ends with light layers creates a sleek yet voluminous look.",
+          "Ash blonde balayage gives a cool-toned contrast for a sophisticated, modern finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for blunt cut with soft layers and ash blonde balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in blunt cut with soft layers and ash blonde balayage."
+      },
+      {
+        "number": 19,
+        "title": "Sleek Layers with Midnight Black Gloss",
+        "image": "/images/doc_b22_15_img_20.jpg",
+        "description": "A smooth, sleek style featuring subtle layering for controlled volume. Midnight black gloss enhances shine and depth.",
+        "paragraphs": [
+          "A smooth, sleek style featuring subtle layering for controlled volume.",
+          "Midnight black gloss enhances shine and depth."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for sleek layers with midnight black gloss.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in sleek layers with midnight black gloss."
+      },
+      {
+        "number": 20,
+        "title": "Shoulder-Length Layers with Ashy Platinum Blonde",
+        "image": "/images/doc_b22_15_img_10.jpg",
+        "description": "A sophisticated cut with layered movement that enhances natural texture. Ashy platinum blonde keeps the look modern and cool-toned.",
+        "paragraphs": [
+          "A sophisticated cut with layered movement that enhances natural texture.",
+          "Ashy platinum blonde keeps the look modern and cool-toned."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder-length layers with ashy platinum blonde.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder-length layers with ashy platinum blonde."
+      },
+      {
+        "number": 21,
+        "title": "Long Bob with Hidden Layers and Sandy Blonde Balayage",
+        "image": "/images/doc_b22_15_img_23.jpg",
+        "description": "Subtle, hidden layers maintain volume without bulk. Sandy blonde balayage provides a soft, beach-inspired finish.",
+        "paragraphs": [
+          "Subtle, hidden layers maintain volume without bulk.",
+          "Sandy blonde balayage provides a soft, beach-inspired finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for long bob with hidden layers and sandy blonde balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in long bob with hidden layers and sandy blonde balayage."
+      },
+      {
+        "number": 22,
+        "title": "Shaggy Layers with Icy Blonde Balayage",
+        "image": "/images/doc_b22_15_img_14.jpg",
+        "description": "A heavily layered shag with lots of movement and texture. Icy blonde balayage gives it a cool, trendy edge.",
+        "paragraphs": [
+          "A heavily layered shag with lots of movement and texture.",
+          "Icy blonde balayage gives it a cool, trendy edge."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shaggy layers with icy blonde balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shaggy layers with icy blonde balayage."
+      },
+      {
+        "number": 23,
+        "title": "Layered U-Cut with Beige Blonde Highlights",
+        "image": "/images/doc_b22_15_img_19.jpg",
+        "description": "A U-shaped layering technique gives a rounded, voluminous effect. Beige blonde highlights keep the look soft and dimensional.",
+        "paragraphs": [
+          "A U-shaped layering technique gives a rounded, voluminous effect.",
+          "Beige blonde highlights keep the look soft and dimensional."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered u-cut with beige blonde highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered u-cut with beige blonde highlights."
+      },
+      {
+        "number": 24,
+        "title": "Wispy Layers with Buttery Blonde Tones",
+        "image": "/images/doc_b22_15_img_17.jpg",
+        "description": "Lightweight, wispy layers create a soft, airy feel. Buttery blonde tones add a luminous glow.",
+        "paragraphs": [
+          "Lightweight, wispy layers create a soft, airy feel.",
+          "Buttery blonde tones add a luminous glow."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wispy layers with buttery blonde tones.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wispy layers with buttery blonde tones."
+      }
+    ]
+  },
+  {
+    "id": "medium-haircut-face-framing-layers",
+    "slug": "medium-haircut-face-framing-layers",
+    "title": "18+ Medium Haircut with Face Framing Layers for a Fresh Shape",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "July 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_16_img_3.jpg",
+    "intro": "Have you been searching for the perfect medium haircut that flatters your face shape and adds movement to your hair? Medium haircuts with face framing layers are one of the most versatile and flattering options for women of all ages and hair types. These layered cuts draw attention to your best features, whether that is your cheekbones, jawline, or eyes. They work beautifully on straight, wavy, and even curly textures. The right set of face framing layers can make fine hair look fuller and thick hair feel lighter. With so many variations to choose from, there is truly a layered medium haircut for everyone. Let us walk through 20 stunning options that you can bring straight to your next salon appointment.",
+    "introParagraphs": [
+      "Have you been searching for the perfect medium haircut that flatters your face shape and adds movement to your hair? Medium haircuts with face framing layers are one of the most versatile and flattering options for women of all ages and hair types. These layered cuts draw attention to your best features, whether that is your cheekbones, jawline, or eyes. They work beautifully on straight, wavy, and even curly textures. The right set of face framing layers can make fine hair look fuller and thick hair feel lighter. With so many variations to choose from, there is truly a layered medium haircut for everyone. Let us walk through 20 stunning options that you can bring straight to your next salon appointment.",
+      "The medium layered lob with curtain bangs is a timeless cut that continues to dominate salon chairs everywhere. This look features a collarbone-length base with soft, sweeping layers that start around the cheekbones and blend outward. The curtain bangs part down the middle and gracefully frame both sides of the face. It works incredibly well for oval, round, and heart-shaped faces. The layers remove bulk from the ends while keeping the top looking full and healthy. You can wear it sleek and straight or add loose waves for a more relaxed feel. This cut requires minimal styling effort but delivers maximum impact every single day."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 18+ Medium Haircut with Face Framing Layers for a Fresh Shape",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Feathered Medium Length Haircut",
+        "image": "/images/doc_b22_16_img_3.jpg",
+        "description": "Feathered layers are all about creating soft, sweeping movement that mimics the look of feathers blowing in a gentle breeze. This medium length cut uses long, angled layers that taper toward the face and taper out at the ends. The feathering technique removes weight without sacrificing length, which makes it a great option for women withthick or coarse hair. It also adds beautiful body to finer textures. The face framing pieces in a feathered cut are typically longer, starting around the cheekbones and falling just below the jaw. This creates a slimming effect that complements most face shapes beautifully.",
+        "paragraphs": [
+          "Feathered layers are all about creating soft, sweeping movement that mimics the look of feathers blowing in a gentle breeze.",
+          "This medium length cut uses long, angled layers that taper toward the face and taper out at the ends. The feathering technique removes weight without sacrificing length, which makes it a great option for women withthick or coarse hair. It also adds beautiful body to finer textures. The face framing pieces in a feathered cut are typically longer, starting around the cheekbones and falling just below the jaw. This creates a slimming effect that complements most face shapes beautifully."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for feathered medium length haircut.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in feathered medium length haircut."
+      },
+      {
+        "number": 2,
+        "title": "Shoulder Length Haircut With Blended Layers",
+        "image": "/images/doc_b22_16_img_17.jpg",
+        "description": "Blended layers are the secret to a medium haircut that looks smooth, seamless, and polished. In this cut, the layers are cut so they transition gradually from the shortest face framing pieces to the longest sections at the back. There are no harsh lines or obvious steps between the layers. This creates a very natural, lived-in look that is both professional and stylish. Blended layers work on all hair types and are particularly flattering for women who want a subtle change rather than a dramatic transformation. A simple round brush blowout brings out the soft movement in this beautiful cut.",
+        "paragraphs": [
+          "Blended layers are the secret to a medium haircut that looks smooth, seamless, and polished.",
+          "In this cut, the layers are cut so they transition gradually from the shortest face framing pieces to the longest sections at the back. There are no harsh lines or obvious steps between the layers. This creates a very natural, lived-in look that is both professional and stylish. Blended layers work on all hair types and are particularly flattering for women who want a subtle change rather than a dramatic transformation. A simple round brush blowout brings out the soft movement in this beautiful cut."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length haircut with blended layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length haircut with blended layers."
+      },
+      {
+        "number": 3,
+        "title": "Medium Shag Haircut With Face Framing Layers",
+        "image": "/images/doc_b22_16_img_2.jpg",
+        "description": "The medium shag haircut brings a cool, effortless vibe that feels both retro and modern at the same time. It features choppy, textured layers throughout the lengths with shorter pieces that hug the jawline and chin. The shaggy texture gives hair a lived-in look that works beautifully on natural waves and curls. Face framing layers in a shag cut are usually shorter and more defined compared to a classic lob. This adds dimension and keeps the style from looking too heavy or flat. It pairs well with bangs, whether you prefer curtain, wispy, or micro fringe. The medium shag is low maintenance and full of personality.",
+        "paragraphs": [
+          "The medium shag haircut brings a cool, effortless vibe that feels both retro and modern at the same time.",
+          "It features choppy, textured layers throughout the lengths with shorter pieces that hug the jawline and chin. The shaggy texture gives hair a lived-in look that works beautifully on natural waves and curls. Face framing layers in a shag cut are usually shorter and more defined compared to a classic lob. This adds dimension and keeps the style from looking too heavy or flat. It pairs well with bangs, whether you prefer curtain, wispy, or micro fringe. The medium shag is low maintenance and full of personality."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium shag haircut with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium shag haircut with face framing layers."
+      },
+      {
+        "number": 4,
+        "title": "Inverted Bob With Face Framing Layers",
+        "image": "/images/doc_b22_16_img_6.jpg",
+        "description": "Theinverted bobis defined by its shorter back and longer front sections, creating a dramatic angled silhouette. When you add face framing layers to this cut, the front pieces become even more eye-catching and customized to your face shape. The layers in the front are longer and more defined, while the back is tapered close to the nape of the neck. This creates a beautiful contrast that highlights your jawline and neck. The inverted bob looks stunning on straight hair but can also work with a slight wave. It is bold, chic, and perfect for women who love a structured yet stylish look.",
+        "paragraphs": [
+          "Theinverted bobis defined by its shorter back and longer front sections, creating a dramatic angled silhouette.",
+          "When you add face framing layers to this cut, the front pieces become even more eye-catching and customized to your face shape. The layers in the front are longer and more defined, while the back is tapered close to the nape of the neck. This creates a beautiful contrast that highlights your jawline and neck. The inverted bob looks stunning on straight hair but can also work with a slight wave. It is bold, chic, and perfect for women who love a structured yet stylish look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for inverted bob with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in inverted bob with face framing layers."
+      },
+      {
+        "number": 5,
+        "title": "Medium Length V-Cut With Face Framing Layers",
+        "image": "/images/doc_b22_16_img_16.jpg",
+        "description": "A V-cut is characterized by hair that is slightly longer in the back than in the front, creating a subtle V shape at the ends. When combined with face framing layers, this medium haircut offers the best of both structure and softness. The shorter layers around the face draw attention to your features, while the longer back sections maintain length and weight. This cut works beautifully on straight and wavy hair types. The V-shape also helps the hair flow more naturally when worn down. It is a sophisticated option that looks great on women who prefer a longer medium length.",
+        "paragraphs": [
+          "A V-cut is characterized by hair that is slightly longer in the back than in the front, creating a subtle V shape at the ends.",
+          "When combined with face framing layers, this medium haircut offers the best of both structure and softness. The shorter layers around the face draw attention to your features, while the longer back sections maintain length and weight. This cut works beautifully on straight and wavy hair types. The V-shape also helps the hair flow more naturally when worn down. It is a sophisticated option that looks great on women who prefer a longer medium length."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length v-cut with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length v-cut with face framing layers."
+      },
+      {
+        "number": 6,
+        "title": "Medium Layered Haircut With Middle Part",
+        "image": "/images/doc_b22_16_img_15.jpg",
+        "description": "A middle part paired with face framing layers creates a balanced, symmetrical look that never goes out of style. The layers in this cut are cut evenly on both sides so they frame the face in perfect harmony when parted down the middle. This is one of the most universally flattering partings because it works with virtually every face shape. The middle part also highlights the layering technique itself, making the cut look intentional and well-crafted. You can wear it sleek and straight or add loose waves for a softer finish. It transitions easily from day to night with minimal effort.",
+        "paragraphs": [
+          "A middle part paired with face framing layers creates a balanced, symmetrical look that never goes out of style.",
+          "The layers in this cut are cut evenly on both sides so they frame the face in perfect harmony when parted down the middle. This is one of the most universally flattering partings because it works with virtually every face shape. The middle part also highlights the layering technique itself, making the cut look intentional and well-crafted. You can wear it sleek and straight or add loose waves for a softer finish. It transitions easily from day to night with minimal effort."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered haircut with middle part.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered haircut with middle part."
+      },
+      {
+        "number": 7,
+        "title": "Shoulder Length Blunt Cut With Face Framing Layers",
+        "image": "/images/doc_b22_16_img_8.jpg",
+        "description": "A blunt shoulder length cut creates a clean, polished base, while the addition of face framing layers softens the overall look. The longer sections remain one length for a strong, healthy finish at the ends. Meanwhile, the shorter layers around the face add openness and lift to the style. This combination is perfect for women who want the best of both worlds: the sleekness of a blunt cut and the flattering effect of layered pieces. It works beautifully on thick, straight hair and gives off a very polished, put-together vibe. A simple blowout is all you need to make this look shine.",
+        "paragraphs": [
+          "A blunt shoulder length cut creates a clean, polished base, while the addition of face framing layers softens the overall look.",
+          "The longer sections remain one length for a strong, healthy finish at the ends. Meanwhile, the shorter layers around the face add openness and lift to the style. This combination is perfect for women who want the best of both worlds: the sleekness of a blunt cut and the flattering effect of layered pieces. It works beautifully on thick, straight hair and gives off a very polished, put-together vibe. A simple blowout is all you need to make this look shine."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length blunt cut with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length blunt cut with face framing layers."
+      },
+      {
+        "number": 8,
+        "title": "Textured Medium Bob With Face Framing Pieces",
+        "image": "/images/doc_b22_16_img_4.jpg",
+        "description": "A textured medium bob takes the classic bob shape and adds personality throughchoppy, piecey layers throughout. The face framing pieces in this cut are slightly shorter than the rest of the hair, which draws the eye inward toward your features. This cut works best on straight to slightly wavy hair types and looks especially striking on a strong jawline. The textured ends give the bob a modern, undone feel that looks stylish whether you air dry or use a flat iron. You can ask your stylist for soft razored ends to enhance the piecey texture even further.",
+        "paragraphs": [
+          "A textured medium bob takes the classic bob shape and adds personality throughchoppy, piecey layers throughout.",
+          "The face framing pieces in this cut are slightly shorter than the rest of the hair, which draws the eye inward toward your features. This cut works best on straight to slightly wavy hair types and looks especially striking on a strong jawline. The textured ends give the bob a modern, undone feel that looks stylish whether you air dry or use a flat iron. You can ask your stylist for soft razored ends to enhance the piecey texture even further."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured medium bob with face framing pieces.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured medium bob with face framing pieces."
+      },
+      {
+        "number": 9,
+        "title": "Medium Length Hair With Long Face Framing Layers",
+        "image": "/images/doc_b22_16_img_12.jpg",
+        "description": "Long face framing layers on medium hair create a sleek, elongated silhouette that is both elegant and understated. In this cut, the layers around the face are only slightly shorter than the rest of the hair. They blend seamlessly into the lengths, creating a subtle but effective framing effect. This approach is perfect for women who want the benefits of layers without a dramatic change in length. The longer layers also give you more styling flexibility, whether you want to tuck them behind your ears or let them fall naturally. It is a refined, versatile cut that works for any occasion.",
+        "paragraphs": [
+          "Long face framing layers on medium hair create a sleek, elongated silhouette that is both elegant and understated.",
+          "In this cut, the layers around the face are only slightly shorter than the rest of the hair. They blend seamlessly into the lengths, creating a subtle but effective framing effect. This approach is perfect for women who want the benefits of layers without a dramatic change in length. The longer layers also give you more styling flexibility, whether you want to tuck them behind your ears or let them fall naturally. It is a refined, versatile cut that works for any occasion."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length hair with long face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length hair with long face framing layers."
+      },
+      {
+        "number": 10,
+        "title": "Medium Layered Lob With Curtain Bangs",
+        "image": "/images/doc_b22_16_img_1.jpg",
+        "description": "The medium layered lob with curtain bangs is a timeless cut that continues to dominate salon chairs everywhere. This look features a collarbone-length base with soft, sweeping layers that start around the cheekbones and blend outward. The curtain bangs part down the middle and gracefully frame both sides of the face. It works incredibly well for oval, round, and heart-shaped faces. The layers remove bulk from the ends while keeping the top looking full and healthy. You can wear it sleek and straight or add loose waves for a more relaxed feel. This cut requires minimal styling effort but delivers maximum impact every single day.",
+        "paragraphs": [
+          "The medium layered lob with curtain bangs is a timeless cut that continues to dominate salon chairs everywhere.",
+          "This look features a collarbone-length base with soft, sweeping layers that start around the cheekbones and blend outward. The curtain bangs part down the middle and gracefully frame both sides of the face. It works incredibly well for oval, round, and heart-shaped faces. The layers remove bulk from the ends while keeping the top looking full and healthy. You can wear it sleek and straight or add loose waves for a more relaxed feel. This cut requires minimal styling effort but delivers maximum impact every single day."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layered lob with curtain bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layered lob with curtain bangs."
+      },
+      {
+        "number": 11,
+        "title": "Medium Haircut With Side Swept Bangs And Layers",
+        "image": "/images/doc_b22_16_img_7.jpg",
+        "description": "Side swept bangs bring a soft, romantic quality to any medium layered haircut. In this look, the face framing layers are cut to complement the diagonal sweep of the bangs across the forehead. The longer side pieces blend naturally into the surrounding layers, creating a seamless flow of movement. This cut works especially well for women withoval or oblong face shapesbecause it visually shortens the face. The side swept style also adds asymmetry, which gives the overall haircut a more dynamic and interesting appearance. You can tuck one side behind your ear for a quick change.",
+        "paragraphs": [
+          "Side swept bangs bring a soft, romantic quality to any medium layered haircut.",
+          "In this look, the face framing layers are cut to complement the diagonal sweep of the bangs across the forehead. The longer side pieces blend naturally into the surrounding layers, creating a seamless flow of movement. This cut works especially well for women withoval or oblong face shapesbecause it visually shortens the face. The side swept style also adds asymmetry, which gives the overall haircut a more dynamic and interesting appearance. You can tuck one side behind your ear for a quick change."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium haircut with side swept bangs and layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium haircut with side swept bangs and layers."
+      },
+      {
+        "number": 12,
+        "title": "Medium Haircut With Wispy Bangs And Layers",
+        "image": "/images/doc_b22_16_img_5.jpg",
+        "description": "Wispy bangs paired with face framing layers create one of the most feminine and flattering combinations you can wear. This medium length cut features gently layered lengths that transition seamlessly into light, airy bangs across the forehead. The layers start around the cheekbones and blend softly into the rest of the hair. Wispy bangs are ideal if you want to try bangs but are worried about them looking too heavy or blunt. They grow out gracefully and require very little upkeep. This look suits almost every face shape and works well on both straight and wavy hair textures.",
+        "paragraphs": [
+          "Wispy bangs paired with face framing layers create one of the most feminine and flattering combinations you can wear.",
+          "This medium length cut features gently layered lengths that transition seamlessly into light, airy bangs across the forehead. The layers start around the cheekbones and blend softly into the rest of the hair. Wispy bangs are ideal if you want to try bangs but are worried about them looking too heavy or blunt. They grow out gracefully and require very little upkeep. This look suits almost every face shape and works well on both straight and wavy hair textures."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium haircut with wispy bangs and layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium haircut with wispy bangs and layers."
+      },
+      {
+        "number": 13,
+        "title": "Medium Length Hair With Choppy Layers",
+        "image": "/images/doc_b22_16_img_10.jpg",
+        "description": "Choppy layers bring an edgy, modern feel to a medium length haircut. These layers are cut at varying lengths throughout the hair, creating a textured, piecey look that is full of movement. The face framing pieces in a choppy cut tend to be shorter and more defined, which creates a bold frame around the face. This style is particularly flattering on women with thick hair because it removes bulk while maintaining visual interest. It also adds the illusion of volume to finer hair types. Choppy layers look best when styled with some texture, whether through air drying, scrunching, or using a texturizing spray.",
+        "paragraphs": [
+          "Choppy layers bring an edgy, modern feel to a medium length haircut.",
+          "These layers are cut at varying lengths throughout the hair, creating a textured, piecey look that is full of movement. The face framing pieces in a choppy cut tend to be shorter and more defined, which creates a bold frame around the face. This style is particularly flattering on women with thick hair because it removes bulk while maintaining visual interest. It also adds the illusion of volume to finer hair types. Choppy layers look best when styled with some texture, whether through air drying, scrunching, or using a texturizing spray."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length hair with choppy layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length hair with choppy layers."
+      },
+      {
+        "number": 14,
+        "title": "Shoulder Length Haircut With Flipped Ends And Layers",
+        "image": "/images/doc_b22_16_img_13.jpg",
+        "description": "Flipped ends add a playful, retro touch to a shoulder length layered haircut. The face framing layers in this style are cut to curve outward at the ends, creating alifted, bouncy effectaround the face. This look draws from 1970s inspiration but feels completely modern when paired with today’s styling techniques. The flip can be achieved with a round brush during a blowout or with a flat iron by gently curling the ends outward. It works best on straight to slightly wavy hair. The combination of flipped ends and face framing layers creates a cheerful, energetic look.",
+        "paragraphs": [
+          "Flipped ends add a playful, retro touch to a shoulder length layered haircut.",
+          "The face framing layers in this style are cut to curve outward at the ends, creating alifted, bouncy effectaround the face. This look draws from 1970s inspiration but feels completely modern when paired with today’s styling techniques. The flip can be achieved with a round brush during a blowout or with a flat iron by gently curling the ends outward. It works best on straight to slightly wavy hair. The combination of flipped ends and face framing layers creates a cheerful, energetic look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder length haircut with flipped ends and layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder length haircut with flipped ends and layers."
+      },
+      {
+        "number": 15,
+        "title": "Butterfly Haircut Medium Length",
+        "image": "/images/doc_b22_16_img_11.jpg",
+        "description": "The butterfly haircut has taken social media by storm, and for good reason. This medium length cut features two distinct lengths: shorter inner layers and longer outer layers that cascade around the face like butterfly wings. The face framing pieces are the longest layers, reaching past the collarbone, while the shorter layers sit closer to the chin. When styled with a blowout or curling iron, the longer layers wrap beautifully around the face. This cut creates incredible volume and movement without sacrificing length. It works on most hair textures and face shapes, making it a universally flattering choice.",
+        "paragraphs": [
+          "The butterfly haircut has taken social media by storm, and for good reason.",
+          "This medium length cut features two distinct lengths: shorter inner layers and longer outer layers that cascade around the face like butterfly wings. The face framing pieces are the longest layers, reaching past the collarbone, while the shorter layers sit closer to the chin. When styled with a blowout or curling iron, the longer layers wrap beautifully around the face. This cut creates incredible volume and movement without sacrificing length. It works on most hair textures and face shapes, making it a universally flattering choice."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for butterfly haircut medium length.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in butterfly haircut medium length."
+      },
+      {
+        "number": 16,
+        "title": "Medium Wavy Haircut With Face Framing Layers",
+        "image": "/images/doc_b22_16_img_9.jpg",
+        "description": "If you love wearing your hair in natural waves, this layered medium haircut is made for you. The face framing layers are specifically cut to enhance and shape your natural wave pattern. They start around the chin and cascade downward, creating a beautiful waterfall effect. The layers also help distribute the volume evenly throughout the hair, preventing the bottom from looking flat or heavy. This cut works best on wavy to curly hair textures. You can enhance the waves with a diffuser or let them air dry naturally for an easy, everyday look. Sea salt spray adds extra texture.",
+        "paragraphs": [
+          "If you love wearing your hair in natural waves, this layered medium haircut is made for you.",
+          "The face framing layers are specifically cut to enhance and shape your natural wave pattern. They start around the chin and cascade downward, creating a beautiful waterfall effect. The layers also help distribute the volume evenly throughout the hair, preventing the bottom from looking flat or heavy. This cut works best on wavy to curly hair textures. You can enhance the waves with a diffuser or let them air dry naturally for an easy, everyday look. Sea salt spray adds extra texture."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium wavy haircut with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium wavy haircut with face framing layers."
+      },
+      {
+        "number": 17,
+        "title": "Medium Length Hair With Soft Layers And Volume",
+        "image": "/images/doc_b22_16_img_18.jpg",
+        "description": "Volume is everything when it comes to making medium hair look full and healthy. This cut features soft layers throughout the lengths with slightly shorter face framing pieces that add lift at the roots and around the crown. The layers are cut to create a rounded, voluminous shape that looks beautiful whether worn down or half-up. This is an ideal cut for women with fine or flat hair because the layering technique naturally boosts body and bounce. A volumizing mousse and a round brush blowout are all you need to bring this look to life every morning.",
+        "paragraphs": [
+          "Volume is everything when it comes to making medium hair look full and healthy.",
+          "This cut features soft layers throughout the lengths with slightly shorter face framing pieces that add lift at the roots and around the crown. The layers are cut to create a rounded, voluminous shape that looks beautiful whether worn down or half-up. This is an ideal cut for women with fine or flat hair because the layering technique naturally boosts body and bounce. A volumizing mousse and a round brush blowout are all you need to bring this look to life every morning."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium length hair with soft layers and volume.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium length hair with soft layers and volume."
+      },
+      {
+        "number": 18,
+        "title": "Medium Curly Haircut With Face Framing Layers",
+        "image": "/images/doc_b22_16_img_14.jpg",
+        "description": "Curly hair and face framing layers are a match made in heaven when cut correctly. This medium length haircut features layers that are specifically shaped to work with your natural curl pattern. The face framing pieces are cut to spring up and frame the face rather than shrink and disappear. This requires a stylist who understands how curls behave when dry. The layers remove excess bulk and allow each curl to form its own beautiful shape. This cut adds definition, reduces frizz, and makes your curls look their absolute best. It is low maintenance and celebrates your natural texture.",
+        "paragraphs": [
+          "Curly hair and face framing layers are a match made in heaven when cut correctly.",
+          "This medium length haircut features layers that are specifically shaped to work with your natural curl pattern. The face framing pieces are cut to spring up and frame the face rather than shrink and disappear. This requires a stylist who understands how curls behave when dry. The layers remove excess bulk and allow each curl to form its own beautiful shape. This cut adds definition, reduces frizz, and makes your curls look their absolute best. It is low maintenance and celebrates your natural texture."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium curly haircut with face framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium curly haircut with face framing layers."
+      }
+    ]
+  },
+  {
+    "id": "party-hairstyles-medium-layers",
+    "slug": "party-hairstyles-medium-layers",
+    "title": "15+ Party Hairstyle for Medium Layers With a Polished Touch",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "July 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_17_img_6.jpg",
+    "intro": "Finding the perfect party look can be a challenge when you have layered hair. Mid-length cuts offer amazing versatility, but face-framing pieces can slip out of traditional updos. If you are searching for inspiration, exploring a guide of 20party hairstyle for medium layerswill completely change your getting-ready routine. Layers naturally add volume, texture, and movement, making them the perfect foundation for both structured styles and relaxed, bouncy looks. Whether you want something elegant for a formal gathering or a playful vibe for a weekend celebration, your layered cut can handle it all. From twisted updos that securely pin away shorter pieces to voluminous curls that show off your choppy ends, there is a gorgeous option waiting for you. Get ready to discover stunning ways to style your hair for any event.",
+    "introParagraphs": [
+      "Finding the perfect party look can be a challenge when you have layered hair. Mid-length cuts offer amazing versatility, but face-framing pieces can slip out of traditional updos. If you are searching for inspiration, exploring a guide of 20party hairstyle for medium layerswill completely change your getting-ready routine. Layers naturally add volume, texture, and movement, making them the perfect foundation for both structured styles and relaxed, bouncy looks. Whether you want something elegant for a formal gathering or a playful vibe for a weekend celebration, your layered cut can handle it all. From twisted updos that securely pin away shorter pieces to voluminous curls that show off your choppy ends, there is a gorgeous option waiting for you. Get ready to discover stunning ways to style your hair for any event.",
+      "Have you ever wanted a romantic look that highlights your choppy ends? The half up half down curls medium layers style is a perfect choice for anyfestive gathering. This look involves curling your entire head to enhance the natural bounce of your layers. Then, you simply pin back the top section right above your ears. Leaving the bottom layers loose creates beautiful movement. The pinned top section keeps hair out of your face while you celebrate. Shorter face-framing layers can be left out to soften the overall appearance. You can also add a delicate clip or sparkle barrette to the pinned section for an extra party touch. This style works wonderfully because it controls volume at the crown while letting your layered lengths shine freely down your back."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 15+ Party Hairstyle for Medium Layers With a Polished Touch",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Side Swept Waves Medium Layered Hair",
+        "image": "/images/doc_b22_17_img_6.jpg",
+        "description": "There is something undeniably glamorous about hair that falls dramatically over one shoulder. The side swept waves medium layered hair look brings serious red carpet energy to any party. You start by creating deep, loose waves using a large curling iron. Then, you simply sweep all of your hair over to one side and pin it securely behind your ear. The varied lengths of your layers will cascade beautifully, creating a rich, multi-dimensional wave pattern. The shorter layers at the front can be swept back, adding volume to the side that holds all the hair. This asymmetrical look draws attention to your neck and collarbone, making it a great choice for strapless outfits. It is an easy way to look completely glamorous in minutes.",
+        "paragraphs": [
+          "There is something undeniably glamorous about hair that falls dramatically over one shoulder.",
+          "The side swept waves medium layered hair look brings serious red carpet energy to any party. You start by creating deep, loose waves using a large curling iron. Then, you simply sweep all of your hair over to one side and pin it securely behind your ear. The varied lengths of your layers will cascade beautifully, creating a rich, multi-dimensional wave pattern. The shorter layers at the front can be swept back, adding volume to the side that holds all the hair. This asymmetrical look draws attention to your neck and collarbone, making it a great choice for strapless outfits. It is an easy way to look completely glamorous in minutes."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for side swept waves medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in side swept waves medium layered hair."
+      },
+      {
+        "number": 2,
+        "title": "Curly Half Up Medium Layered Hair",
+        "image": "/images/doc_b22_17_img_14.jpg",
+        "description": "There is nothing quite as lively as bouncy, defined curls for a celebration. The curly half up medium layered hair look maximizes the natural volume of your layers by incorporating tight, springy curls throughout your head. You curl small sections, pinning them to the scalp to cool, which helps set the shape. After releasing them, you gently gather the top half of your hair and secure it with a clip or a tie. The layers ensure that the updo portion has plenty of lift and shape, rather than lying flat against your head. The loose curls at the bottom swing beautifully when you move. This style is perfect for anyone wanting a big, bold, and joyful hairstyle for their upcoming event or party.",
+        "paragraphs": [
+          "There is nothing quite as lively as bouncy, defined curls for a celebration.",
+          "The curly half up medium layered hair look maximizes the natural volume of your layers by incorporating tight, springy curls throughout your head. You curl small sections, pinning them to the scalp to cool, which helps set the shape. After releasing them, you gently gather the top half of your hair and secure it with a clip or a tie. The layers ensure that the updo portion has plenty of lift and shape, rather than lying flat against your head. The loose curls at the bottom swing beautifully when you move. This style is perfect for anyone wanting a big, bold, and joyful hairstyle for their upcoming event or party."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for curly half up medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in curly half up medium layered hair."
+      },
+      {
+        "number": 3,
+        "title": "Tucked And Pinned Medium Layered Hair",
+        "image": "/images/doc_b22_17_img_16.jpg",
+        "description": "Imagine an updo that looks like magic, holding together without a single visible hair tie. The tucked and pinned medium layered hair style creates a beautiful, seamless roll at the back of your head. You gather your hair into a low ponytail, create a small opening above the elastic, and flip the entire tail through it. You repeat this flipping process until you reach the ends, and then you tuck those ends inside the roll, securing everything with bobby pins. The different lengths of your layers will fan out perfectly inside the twist, creating a thick, full shape. This is a highly comfortable style that stays put all night. It feels secure and looks incredibly sophisticated for any formal or semi-formal gathering.",
+        "paragraphs": [
+          "Imagine an updo that looks like magic, holding together without a single visible hair tie.",
+          "The tucked and pinned medium layered hair style creates a beautiful, seamless roll at the back of your head. You gather your hair into a low ponytail, create a small opening above the elastic, and flip the entire tail through it. You repeat this flipping process until you reach the ends, and then you tuck those ends inside the roll, securing everything with bobby pins. The different lengths of your layers will fan out perfectly inside the twist, creating a thick, full shape. This is a highly comfortable style that stays put all night. It feels secure and looks incredibly sophisticated for any formal or semi-formal gathering."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for tucked and pinned medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in tucked and pinned medium layered hair."
+      },
+      {
+        "number": 4,
+        "title": "Sleek Straight Medium Layers Party Look",
+        "image": "/images/doc_b22_17_img_15.jpg",
+        "description": "Looking for an edgy, modern vibe for your next night out? The sleek straight medium layers party look is incredibly striking and surprisingly easy to achieve. You use a flat iron to smooth out every strand, creating a glossy, mirror-like finish. The layers give the straight style serious movement, preventing it from looking flat or lifeless. Using a flat iron, you can slightly curve the ends of your shortest layers inward to frame your face sharply. A shine spray is essential here to give the hair that expensive, healthy glow. This style is minimal but makes a huge impact, especially when paired with bold makeup or a striking outfit. It is a fantastic, low-effort option for a sleek party aesthetic.",
+        "paragraphs": [
+          "Looking for an edgy, modern vibe for your next night out?",
+          "The sleek straight medium layers party look is incredibly striking and surprisingly easy to achieve. You use a flat iron to smooth out every strand, creating a glossy, mirror-like finish. The layers give the straight style serious movement, preventing it from looking flat or lifeless. Using a flat iron, you can slightly curve the ends of your shortest layers inward to frame your face sharply. A shine spray is essential here to give the hair that expensive, healthy glow. This style is minimal but makes a huge impact, especially when paired with bold makeup or a striking outfit. It is a fantastic, low-effort option for a sleek party aesthetic."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for sleek straight medium layers party look.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in sleek straight medium layers party look."
+      },
+      {
+        "number": 5,
+        "title": "Side Braid Medium Length Layers",
+        "image": "/images/doc_b22_17_img_13.jpg",
+        "description": "Want a protective style that still looks elaborate and festive? The side braid medium length layers is a gorgeous way to keep your hair secure while showing off some weaving detail. You sweep all of your hair over one shoulder and create a standard French or Dutch braid going downward. The shorter layers from the opposite side will naturally tuck into the braid as you weave it. This creates a beautiful, structured look that gradually expands as it reaches the ends. It is an amazing option if you plan on dancing a lot, as it keeps your hair completely contained and off your neck. You can finish the look by tugging at the loops for extra volume and a much thicker appearance overall.",
+        "paragraphs": [
+          "Want a protective style that still looks elaborate and festive?",
+          "The side braid medium length layers is a gorgeous way to keep your hair secure while showing off some weaving detail. You sweep all of your hair over one shoulder and create a standard French or Dutch braid going downward. The shorter layers from the opposite side will naturally tuck into the braid as you weave it. This creates a beautiful, structured look that gradually expands as it reaches the ends. It is an amazing option if you plan on dancing a lot, as it keeps your hair completely contained and off your neck. You can finish the look by tugging at the loops for extra volume and a much thicker appearance overall."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for side braid medium length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in side braid medium length layers."
+      },
+      {
+        "number": 6,
+        "title": "Voluminous High Ponytail Medium Layers",
+        "image": "/images/doc_b22_17_img_9.jpg",
+        "description": "A high ponytail is always a strong, confident choice for a night out. The voluminous high ponytail medium layers look takes this classic style to the next level by maximizing the bounce at the back of your head. You pull your hair up to the crown and secure it tightly. The layers are the real star here, because when you curl the tail, the different lengths create a thick, cascading effect that looks incredibly full. You can take a small section of hair from the underside of the ponytail and wrap it around the hair tie to hide it. Teasing the roots at the crown before pulling it back gives you that extra lift. This style is both practical and powerful for any celebration.",
+        "paragraphs": [
+          "A high ponytail is always a strong, confident choice for a night out.",
+          "The voluminous high ponytail medium layers look takes this classic style to the next level by maximizing the bounce at the back of your head. You pull your hair up to the crown and secure it tightly. The layers are the real star here, because when you curl the tail, the different lengths create a thick, cascading effect that looks incredibly full. You can take a small section of hair from the underside of the ponytail and wrap it around the hair tie to hide it. Teasing the roots at the crown before pulling it back gives you that extra lift. This style is both practical and powerful for any celebration."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for voluminous high ponytail medium layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in voluminous high ponytail medium layers."
+      },
+      {
+        "number": 7,
+        "title": "Crown Twist Medium Length Layers",
+        "image": "/images/doc_b22_17_img_17.jpg",
+        "description": "Need a quick fix that elevates your entire look in under two minutes? The crown twist medium length layers is a simple yet elegant solution. You just take a section of hair from the front on both sides, twist them backwards, and cross them over each other at the back of your head. Pinning them securely creates a cute, crown-like effect. The shorter layers will naturally pop out of the twist, giving it a soft, romantic texture rather than a severe one. This allows you to keep your hair down while still having a polished, styled feel. It is the perfect go-to when you are running late but still want to look like you put real effort into your party appearance.",
+        "paragraphs": [
+          "Need a quick fix that elevates your entire look in under two minutes?",
+          "The crown twist medium length layers is a simple yet elegant solution. You just take a section of hair from the front on both sides, twist them backwards, and cross them over each other at the back of your head. Pinning them securely creates a cute, crown-like effect. The shorter layers will naturally pop out of the twist, giving it a soft, romantic texture rather than a severe one. This allows you to keep your hair down while still having a polished, styled feel. It is the perfect go-to when you are running late but still want to look like you put real effort into your party appearance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for crown twist medium length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in crown twist medium length layers."
+      },
+      {
+        "number": 8,
+        "title": "Fishtail Braid Medium Layered Hair",
+        "image": "/images/doc_b22_17_img_10.jpg",
+        "description": "Are you looking for a detailed, intricate style that is actually quite simple to master? Thefishtail braid medium layered hairbrings a beautiful woven texture to your party look. Unlike a regular three-strand braid, a fishtail uses only two sections, crossing tiny pieces from each side over to the opposite section. The shorter layers in your hair might slip out a bit, but this actually enhances the bohemian, relaxed vibe of the braid. Once you reach the bottom, you just secure it with a clear band. Gently pulling apart the edges of the braid, also known as pancaking, makes it look much thicker and more voluminous. This style is perfect for a casual party or an outdoor celebration where you want to look comfortable.",
+        "paragraphs": [
+          "Are you looking for a detailed, intricate style that is actually quite simple to master?",
+          "Thefishtail braid medium layered hairbrings a beautiful woven texture to your party look. Unlike a regular three-strand braid, a fishtail uses only two sections, crossing tiny pieces from each side over to the opposite section. The shorter layers in your hair might slip out a bit, but this actually enhances the bohemian, relaxed vibe of the braid. Once you reach the bottom, you just secure it with a clear band. Gently pulling apart the edges of the braid, also known as pancaking, makes it look much thicker and more voluminous. This style is perfect for a casual party or an outdoor celebration where you want to look comfortable."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for fishtail braid medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in fishtail braid medium layered hair."
+      },
+      {
+        "number": 9,
+        "title": "Braided Crown Medium Length Layers",
+        "image": "/images/doc_b22_17_img_3.jpg",
+        "description": "Looking for a way to keep every strand perfectly in place while dancing? The braided crown medium length layers offers a secure and stunning solution. This style takes two standard braids, one on each side of your head, and wraps them across the top of your head like a headband. Medium layers actually help create a softer, more romantic braid because the shorter pieces will gently poke out, giving it a lived-in, textured feel. You can gently pull apart the loops of the braid to make it look thicker and more voluminous. Any tiny stray pieces can be pinned securely with bobby pins that match your hair color. This elegant updo keeps your neck cool and your hair completely out of your way during any active party setting.",
+        "paragraphs": [
+          "Looking for a way to keep every strand perfectly in place while dancing?",
+          "The braided crown medium length layers offers a secure and stunning solution. This style takes two standard braids, one on each side of your head, and wraps them across the top of your head like a headband. Medium layers actually help create a softer, more romantic braid because the shorter pieces will gently poke out, giving it a lived-in, textured feel. You can gently pull apart the loops of the braid to make it look thicker and more voluminous. Any tiny stray pieces can be pinned securely with bobby pins that match your hair color. This elegant updo keeps your neck cool and your hair completely out of your way during any active party setting."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for braided crown medium length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in braided crown medium length layers."
+      },
+      {
+        "number": 10,
+        "title": "Sleek Low Bun Medium Layered Hair",
+        "image": "/images/doc_b22_17_img_4.jpg",
+        "description": "Sometimes a clean and polished look is exactly what the evening calls for. A sleek low bun medium layered hair style brings instant sophistication to your outfit. Gathering your hair at the nape of your neck and twisting it into a smooth knot creates a very chic silhouette. The trick with layers is using a bit of styling gel or pomade to slick back the shorter top pieces smoothly. You can use a fine-tooth comb to tame any flyaways for a flawless finish. This grounded, elegant style pairs beautifully with statement earrings and a high-neck outfit. Although layers can be tricky to contain, the sleekness of the gel combined with a firm hold hairspray ensures every piece stays neatly wrapped in the bun all night long.",
+        "paragraphs": [
+          "Sometimes a clean and polished look is exactly what the evening calls for.",
+          "A sleek low bun medium layered hair style brings instant sophistication to your outfit. Gathering your hair at the nape of your neck and twisting it into a smooth knot creates a very chic silhouette. The trick with layers is using a bit of styling gel or pomade to slick back the shorter top pieces smoothly. You can use a fine-tooth comb to tame any flyaways for a flawless finish. This grounded, elegant style pairs beautifully with statement earrings and a high-neck outfit. Although layers can be tricky to contain, the sleekness of the gel combined with a firm hold hairspray ensures every piece stays neatly wrapped in the bun all night long."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for sleek low bun medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in sleek low bun medium layered hair."
+      },
+      {
+        "number": 11,
+        "title": "Glam Hollywood Waves Medium Layers",
+        "image": "/images/doc_b22_17_img_7.jpg",
+        "description": "Have you ever dreamed of stepping out of a vintage movie screen? Theglam Hollywood wavesmedium layers style delivers that classic, deeply sided vintage charm. This look relies on smooth, interconnected waves that flow together like liquid rather than separate bouncy curls. Because layers add natural texture, you will want to use a smoothing serum before curling to keep the waves sleek. You clamp the hair in a large-barrel iron, roll it up, and pin the curl to the head until it cools. Once you brush it all out, the shorter and longer layers blend seamlessly into one another. The result is a shiny, sophisticated look that captures the essence of old-school glamour perfectly for any modern celebration or festive gathering.",
+        "paragraphs": [
+          "Have you ever dreamed of stepping out of a vintage movie screen?",
+          "Theglam Hollywood wavesmedium layers style delivers that classic, deeply sided vintage charm. This look relies on smooth, interconnected waves that flow together like liquid rather than separate bouncy curls. Because layers add natural texture, you will want to use a smoothing serum before curling to keep the waves sleek. You clamp the hair in a large-barrel iron, roll it up, and pin the curl to the head until it cools. Once you brush it all out, the shorter and longer layers blend seamlessly into one another. The result is a shiny, sophisticated look that captures the essence of old-school glamour perfectly for any modern celebration or festive gathering."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for glam hollywood waves medium layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in glam hollywood waves medium layers."
+      },
+      {
+        "number": 12,
+        "title": "Messy French Twist Medium Layers",
+        "image": "/images/doc_b22_17_img_5.jpg",
+        "description": "Want an updo that feels effortlessly chic without spending hours in front of the mirror? The messy French twist medium layers style is incredibly forgiving and highly fashionable. Instead of a stiff, perfectly structured twist, you gather your hair to one side and pin it vertically with a relaxed hand. Medium layers are fantastic for this because the ends naturally poke out of the twist, creating that sought-after messy texture. You can pull a few pieces out around your face to frame your features softly. The randomness of the pins actually adds to the charm of this look. It is a quick, easy option that still looks like you put in a lot of effort. This style beautifully balances a relaxed vibe with formal elegance.",
+        "paragraphs": [
+          "Want an updo that feels effortlessly chic without spending hours in front of the mirror?",
+          "The messy French twist medium layers style is incredibly forgiving and highly fashionable. Instead of a stiff, perfectly structured twist, you gather your hair to one side and pin it vertically with a relaxed hand. Medium layers are fantastic for this because the ends naturally poke out of the twist, creating that sought-after messy texture. You can pull a few pieces out around your face to frame your features softly. The randomness of the pins actually adds to the charm of this look. It is a quick, easy option that still looks like you put in a lot of effort. This style beautifully balances a relaxed vibe with formal elegance."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for messy french twist medium layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in messy french twist medium layers."
+      },
+      {
+        "number": 13,
+        "title": "Textured Updo Medium Layered Hair",
+        "image": "/images/doc_b22_17_img_12.jpg",
+        "description": "Do you prefer a relaxed, slightly undone look over stiff and formal styles? The textured updo medium layered hair embraces the natural piecey-ness of a layered cut. You start by loosely gathering your hair into a messy bun or alow chignon, intentionally leaving ends out to stick up softly. Pulling a few face-framing layers out in the front adds a soft, flattering touch. The key to this style is using a texturizing spray or dry shampoo before pinning to give the hair some grip. The different lengths of your layers make it incredibly easy to create a shape that looks organic and full of movement. This is the ultimate cool-girl party look that does not require perfection to look absolutely stunning.",
+        "paragraphs": [
+          "Do you prefer a relaxed, slightly undone look over stiff and formal styles?",
+          "The textured updo medium layered hair embraces the natural piecey-ness of a layered cut. You start by loosely gathering your hair into a messy bun or alow chignon, intentionally leaving ends out to stick up softly. Pulling a few face-framing layers out in the front adds a soft, flattering touch. The key to this style is using a texturizing spray or dry shampoo before pinning to give the hair some grip. The different lengths of your layers make it incredibly easy to create a shape that looks organic and full of movement. This is the ultimate cool-girl party look that does not require perfection to look absolutely stunning."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured updo medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured updo medium layered hair."
+      },
+      {
+        "number": 14,
+        "title": "Messy Bun Medium Layered Hair Party",
+        "image": "/images/doc_b22_17_img_18.jpg",
+        "description": "Is there anything more reliably chic than a perfectly imperfect topknot? The messy bun medium layered hair party style relies heavily on the natural texture that layers provide. You gather your hair high on your head and wrap it loosely around itself, securing it with an elastic. Then, you pull out a few pieces around your face and gently tug at the bun to make it larger and messier. The varying lengths of your layers will naturally stick out of the bun, creating a cool, effortless silhouette that a blunt cut simply cannot achieve. This style is incredibly forgiving and looks even better the messier it gets as the night goes on. It is a staple for any casual, fun party environment.",
+        "paragraphs": [
+          "Is there anything more reliably chic than a perfectly imperfect topknot?",
+          "The messy bun medium layered hair party style relies heavily on the natural texture that layers provide. You gather your hair high on your head and wrap it loosely around itself, securing it with an elastic. Then, you pull out a few pieces around your face and gently tug at the bun to make it larger and messier. The varying lengths of your layers will naturally stick out of the bun, creating a cool, effortless silhouette that a blunt cut simply cannot achieve. This style is incredibly forgiving and looks even better the messier it gets as the night goes on. It is a staple for any casual, fun party environment."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for messy bun medium layered hair party.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in messy bun medium layered hair party."
+      },
+      {
+        "number": 15,
+        "title": "Bubble Braid Medium Length Layers",
+        "image": "/images/doc_b22_17_img_8.jpg",
+        "description": "Need a fun and playful style that takes almost no time to create? The bubble braid medium length layers is a trendy, eye-catching option that works wonderfully for parties. You simply pull your hair into a ponytail and then use small clear elastics to tie sections down the length of the tail. Between each elastic, you gently tug at the hair to create a rounded, bubbly shape. Layers are great for this because the shorter pieces naturally fill out the bubbles, making them look thicker and more voluminous. You can dress up the look by wrapping small strands of hair around the elastics to hide them. This is a fantastic way to add visual interest to a basic ponytail without needing advanced braiding skills or tools.",
+        "paragraphs": [
+          "Need a fun and playful style that takes almost no time to create?",
+          "The bubble braid medium length layers is a trendy, eye-catching option that works wonderfully for parties. You simply pull your hair into a ponytail and then use small clear elastics to tie sections down the length of the tail. Between each elastic, you gently tug at the hair to create a rounded, bubbly shape. Layers are great for this because the shorter pieces naturally fill out the bubbles, making them look thicker and more voluminous. You can dress up the look by wrapping small strands of hair around the elastics to hide them. This is a fantastic way to add visual interest to a basic ponytail without needing advanced braiding skills or tools."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for bubble braid medium length layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in bubble braid medium length layers."
+      },
+      {
+        "number": 16,
+        "title": "Twisted Half Updo Medium Layers",
+        "image": "/images/doc_b22_17_img_11.jpg",
+        "description": "Sometimes you want a style that looks complicated but is surprisingly easy to achieve. The twisted half updo medium layers is an effortless choice that keeps your hair out of your face while showing off your length. You simply take two small sections of hair from the front, twist them backwards, and pin them together at the back of your head. The varied lengths of your layers blend seamlessly into the twist, creating a soft, romantic shape. Leaving the rest of your hair down in loose waves or curls adds to the dreamy aesthetic. This look works beautifully if you are short on time but still want a polished, put-together appearance for your event. It is a fail-safe option for absolutely any type of festivity.",
+        "paragraphs": [
+          "Sometimes you want a style that looks complicated but is surprisingly easy to achieve.",
+          "The twisted half updo medium layers is an effortless choice that keeps your hair out of your face while showing off your length. You simply take two small sections of hair from the front, twist them backwards, and pin them together at the back of your head. The varied lengths of your layers blend seamlessly into the twist, creating a soft, romantic shape. Leaving the rest of your hair down in loose waves or curls adds to the dreamy aesthetic. This look works beautifully if you are short on time but still want a polished, put-together appearance for your event. It is a fail-safe option for absolutely any type of festivity."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for twisted half updo medium layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in twisted half updo medium layers."
+      },
+      {
+        "number": 17,
+        "title": "Half Up Half Down Curls Medium Layers",
+        "image": "/images/doc_b22_17_img_1.jpg",
+        "description": "Have you ever wanted a romantic look that highlights your choppy ends? The half up half down curls medium layers style is a perfect choice for anyfestive gathering. This look involves curling your entire head to enhance the natural bounce of your layers. Then, you simply pin back the top section right above your ears. Leaving the bottom layers loose creates beautiful movement. The pinned top section keeps hair out of your face while you celebrate. Shorter face-framing layers can be left out to soften the overall appearance. You can also add a delicate clip or sparkle barrette to the pinned section for an extra party touch. This style works wonderfully because it controls volume at the crown while letting your layered lengths shine freely down your back.",
+        "paragraphs": [
+          "Have you ever wanted a romantic look that highlights your choppy ends?",
+          "The half up half down curls medium layers style is a perfect choice for anyfestive gathering. This look involves curling your entire head to enhance the natural bounce of your layers. Then, you simply pin back the top section right above your ears. Leaving the bottom layers loose creates beautiful movement. The pinned top section keeps hair out of your face while you celebrate. Shorter face-framing layers can be left out to soften the overall appearance. You can also add a delicate clip or sparkle barrette to the pinned section for an extra party touch. This style works wonderfully because it controls volume at the crown while letting your layered lengths shine freely down your back."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for half up half down curls medium layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in half up half down curls medium layers."
+      },
+      {
+        "number": 18,
+        "title": "Voluminous Blowout Medium Layered Hair",
+        "image": "/images/doc_b22_17_img_2.jpg",
+        "description": "Nothing beats the feeling of freshly styled, bouncy hair. A voluminous blowout medium layered hair look is a timeless option for any celebration. Layers are specifically designed to remove bulk and add lift, making them ideal for this kind of sweeping, rounded style. Using a round brush, you lift the roots and curve the ends inward or outward to create that classic, bouncy shape. The shorter top layers get elevated to the max, giving you incredible height and fullness at the crown. This creates a lively, energetic look that moves beautifully when you walk. Finish the style with a flexible hold spray to keep the bounce intact all night. This classic party option guarantees your hair looks thick, healthy, and full of life wherever the evening takes you.",
+        "paragraphs": [
+          "Nothing beats the feeling of freshly styled, bouncy hair.",
+          "A voluminous blowout medium layered hair look is a timeless option for any celebration. Layers are specifically designed to remove bulk and add lift, making them ideal for this kind of sweeping, rounded style. Using a round brush, you lift the roots and curve the ends inward or outward to create that classic, bouncy shape. The shorter top layers get elevated to the max, giving you incredible height and fullness at the crown. This creates a lively, energetic look that moves beautifully when you walk. Finish the style with a flexible hold spray to keep the bounce intact all night. This classic party option guarantees your hair looks thick, healthy, and full of life wherever the evening takes you."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for voluminous blowout medium layered hair.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in voluminous blowout medium layered hair."
+      }
+    ]
+  },
+  {
+    "id": "medium-length-layered-haircuts-thick-hair",
+    "slug": "medium-length-layered-haircuts-thick-hair",
+    "title": "23+ Stunning Medium Length Layered Haircuts for Thick Hair",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "July 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_18_img_6.jpg",
+    "intro": "Thick hair is a blessing, but sometimes it feels like it has a mind of its own.",
+    "introParagraphs": [
+      "Thick hair is a blessing, but sometimes it feels like it has a mind of its own.",
+      "That’s where medium length layered haircuts come in to save the day."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 23+ Stunning Medium Length Layered Haircuts for Thick Hair",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Voluminous Layers with Auburn Dimension",
+        "image": "/images/doc_b22_18_img_6.jpg",
+        "description": "A medium cut with cascading layers designed to highlight natural volume. A blend of auburn and copper tones provides warmth and striking depth.",
+        "paragraphs": [
+          "A medium cut with cascading layers designed to highlight natural volume.",
+          "A blend of auburn and copper tones provides warmth and striking depth."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for voluminous layers with auburn dimension.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in voluminous layers with auburn dimension."
+      },
+      {
+        "number": 2,
+        "title": "Shaggy Lob with Rose Gold Highlights",
+        "image": "/images/doc_b22_18_img_15.jpg",
+        "description": "A layered lob styled in a shaggy texture for a relaxed, modern vibe. Rose gold highlights add a unique, fashion-forward touch.",
+        "paragraphs": [
+          "A layered lob styled in a shaggy texture for a relaxed, modern vibe.",
+          "Rose gold highlights add a unique, fashion-forward touch."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shaggy lob with rose gold highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shaggy lob with rose gold highlights."
+      },
+      {
+        "number": 3,
+        "title": "Medium Layers with Subtle Ombre Brunette",
+        "image": "/images/doc_b22_18_img_24.jpg",
+        "description": "A layered cut styled smooth with an ombre effect, fading from dark brunette roots to lighter ends for a soft transition. This layered technique enhances natural body and movement without compromising overall length.",
+        "paragraphs": [
+          "A layered cut styled smooth with an ombre effect, fading from dark brunette roots to lighter ends for a soft transition.",
+          "This layered technique enhances natural body and movement without compromising overall length."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium layers with subtle ombre brunette.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium layers with subtle ombre brunette."
+      },
+      {
+        "number": 4,
+        "title": "Feathered Cut with Blonde Babylights",
+        "image": "/images/doc_b22_18_img_13.jpg",
+        "description": "A shoulder-length feathered cut that lightens thick hair with airy movement. Blonde babylights bring a subtle glow throughout.",
+        "paragraphs": [
+          "A shoulder-length feathered cut that lightens thick hair with airy movement.",
+          "Blonde babylights bring a subtle glow throughout."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for feathered cut with blonde babylights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in feathered cut with blonde babylights."
+      },
+      {
+        "number": 5,
+        "title": "Angled Lob with Smoky Brown Undertones",
+        "image": "/images/doc_b22_18_img_12.jpg",
+        "description": "A slightly angled lob with layers that create shape and reduce bulk. Smoky brown undertones add a mysterious, trendy dimension.",
+        "paragraphs": [
+          "A slightly angled lob with layers that create shape and reduce bulk.",
+          "Smoky brown undertones add a mysterious, trendy dimension."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for angled lob with smoky brown undertones.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in angled lob with smoky brown undertones."
+      },
+      {
+        "number": 6,
+        "title": "Curtain Bangs with Layered Mid-Length Cut in Golden Blonde",
+        "image": "/images/doc_b22_18_img_7.jpg",
+        "description": "Medium-length layers paired with curtain bangs create softness and movement. Golden blonde color makes the look radiant and youthful.",
+        "paragraphs": [
+          "Medium-length layers paired with curtain bangs create softness and movement.",
+          "Golden blonde color makes the look radiant and youthful."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for curtain bangs with layered mid-length cut in golden blonde.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in curtain bangs with layered mid-length cut in golden blonde."
+      },
+      {
+        "number": 7,
+        "title": "Face-Framing Layers with Warm Chestnut Brown",
+        "image": "/images/doc_b22_18_img_3.jpg",
+        "description": "Medium-length cut with layers focused around the face, softening strong jawlines. A chestnut brown tone enhances shine while keeping the overall look natural and refined.",
+        "paragraphs": [
+          "Medium-length cut with layers focused around the face, softening strong jawlines.",
+          "A chestnut brown tone enhances shine while keeping the overall look natural and refined."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face-framing layers with warm chestnut brown.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face-framing layers with warm chestnut brown."
+      },
+      {
+        "number": 8,
+        "title": "Shoulder-Length Chop with Copper Balayage",
+        "image": "/images/doc_b22_18_img_11.jpg",
+        "description": "A medium chop with blended layers and warm copper balayage. The layers give natural bounce while the color adds a fiery glow.",
+        "paragraphs": [
+          "A medium chop with blended layers and warm copper balayage.",
+          "The layers give natural bounce while the color adds a fiery glow."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder-length chop with copper balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder-length chop with copper balayage."
+      },
+      {
+        "number": 9,
+        "title": "Layered Blowout with Sandy Blonde Shine",
+        "image": "/images/doc_b22_18_img_14.jpg",
+        "description": "A bouncy, medium-length layered cut styled with a blowout. Sandy blonde tones reflect light beautifully, perfect for a glossy finish.",
+        "paragraphs": [
+          "A bouncy, medium-length layered cut styled with a blowout.",
+          "Sandy blonde tones reflect light beautifully, perfect for a glossy finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered blowout with sandy blonde shine.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered blowout with sandy blonde shine."
+      },
+      {
+        "number": 10,
+        "title": "Medium Feathered Cut with Mahogany Tones",
+        "image": "/images/doc_b22_18_img_17.jpg",
+        "description": "A mid-length layered cut with feathered ends, softened by deep mahogany coloring. The style has a luxurious, rich finish.",
+        "paragraphs": [
+          "A mid-length layered cut with feathered ends, softened by deep mahogany coloring.",
+          "The style has a luxurious, rich finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium feathered cut with mahogany tones.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium feathered cut with mahogany tones."
+      },
+      {
+        "number": 11,
+        "title": "Shoulder-Length Layers with Espresso Gloss",
+        "image": "/images/doc_b22_18_img_5.jpg",
+        "description": "Sleek medium-length layers that remove bulk from thick hair. Finished with an espresso gloss treatment, the color looks rich and multi-dimensional.",
+        "paragraphs": [
+          "Sleek medium-length layers that remove bulk from thick hair.",
+          "Finished with an espresso gloss treatment, the color looks rich and multi-dimensional."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder-length layers with espresso gloss.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder-length layers with espresso gloss."
+      },
+      {
+        "number": 12,
+        "title": "Layered Mid-Length Shag with Blonde Balayage",
+        "image": "/images/doc_b22_18_img_19.jpg",
+        "description": "A modern shag layered throughout for volume and movement. Blonde balayage highlights add contrast and brightness to the cut.",
+        "paragraphs": [
+          "A modern shag layered throughout for volume and movement.",
+          "Blonde balayage highlights add contrast and brightness to the cut."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered mid-length shag with blonde balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered mid-length shag with blonde balayage."
+      },
+      {
+        "number": 13,
+        "title": "Face-Framing Medium Layers with Red Copper Hues",
+        "image": "/images/doc_b22_18_img_22.jpg",
+        "description": "Layers focused around the face at a medium length. Vibrant red copper tones create boldness and warmth, especially flattering on thicker textures.",
+        "paragraphs": [
+          "Layers focused around the face at a medium length.",
+          "Vibrant red copper tones create boldness and warmth, especially flattering on thicker textures."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for face-framing medium layers with red copper hues.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in face-framing medium layers with red copper hues."
+      },
+      {
+        "number": 14,
+        "title": "Messy Waves with Bronde Highlights",
+        "image": "/images/doc_b22_18_img_8.jpg",
+        "description": "A shoulder-grazing layered cut styled into tousled waves. Bronde (brown + blonde) highlights add beachy brightness while layers keep thick hair from feeling heavy.",
+        "paragraphs": [
+          "A shoulder-grazing layered cut styled into tousled waves.",
+          "Bronde (brown + blonde) highlights add beachy brightness while layers keep thick hair from feeling heavy."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for messy waves with bronde highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in messy waves with bronde highlights."
+      },
+      {
+        "number": 15,
+        "title": "Medium Shag Cut with Platinum Highlights",
+        "image": "/images/doc_b22_18_img_9.jpg",
+        "description": "A trendy shag at medium length, featuring heavily textured ends. Platinum highlights over a darker base add a striking contrast that feels edgy yet chic.",
+        "paragraphs": [
+          "A trendy shag at medium length, featuring heavily textured ends.",
+          "Platinum highlights over a darker base add a striking contrast that feels edgy yet chic."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for medium shag cut with platinum highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in medium shag cut with platinum highlights."
+      },
+      {
+        "number": 16,
+        "title": "Shoulder-Length Shag with Mushroom Brown Highlights",
+        "image": "/images/doc_b22_18_img_23.jpg",
+        "description": "A soft shag cut with layered volume at mid-length. Mushroom brown highlights add a cool, earthy tone that’s trending for 2025.",
+        "paragraphs": [
+          "A soft shag cut with layered volume at mid-length.",
+          "Mushroom brown highlights add a cool, earthy tone that’s trending for 2025."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder-length shag with mushroom brown highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder-length shag with mushroom brown highlights."
+      },
+      {
+        "number": 17,
+        "title": "Feathered Layers with Caramel Highlights",
+        "image": "/images/doc_b22_18_img_1.jpg",
+        "description": "A mid-length cut featuring feathered, airy layers that give movement to thick hair. Caramel highlights painted through dark brown strands add a sunlit dimension perfect for year-round wear.",
+        "paragraphs": [
+          "A mid-length cut featuring feathered, airy layers that give movement to thick hair.",
+          "Caramel highlights painted through dark brown strands add a sunlit dimension perfect for year-round wear."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for feathered layers with caramel highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in feathered layers with caramel highlights."
+      },
+      {
+        "number": 18,
+        "title": "Tousled Layers with Buttery Blonde Highlights",
+        "image": "/images/doc_b22_18_img_21.jpg",
+        "description": "A textured, tousled layered cut that gives a relaxed vibe. Buttery blonde highlights brighten the overall appearance while adding depth.",
+        "paragraphs": [
+          "A textured, tousled layered cut that gives a relaxed vibe.",
+          "Buttery blonde highlights brighten the overall appearance while adding depth."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for tousled layers with buttery blonde highlights.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in tousled layers with buttery blonde highlights."
+      },
+      {
+        "number": 19,
+        "title": "Layered Shag with Honey Blonde Streaks",
+        "image": "/images/doc_b22_18_img_4.jpg",
+        "description": "Inspired by the modern shag, this cut has wispy, uneven layers throughout. Honey blonde streaks add vibrancy while keeping the style playful and easy to manage.",
+        "paragraphs": [
+          "Inspired by the modern shag, this cut has wispy, uneven layers throughout.",
+          "Honey blonde streaks add vibrancy while keeping the style playful and easy to manage."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for layered shag with honey blonde streaks.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in layered shag with honey blonde streaks."
+      },
+      {
+        "number": 20,
+        "title": "Shoulder-Grazing Cut with Dark Chocolate Gloss",
+        "image": "/images/doc_b22_18_img_20.jpg",
+        "description": "A sleek, medium-length cut with subtle layering. Finished in dark chocolate gloss for a shiny, elegant touch.",
+        "paragraphs": [
+          "A sleek, medium-length cut with subtle layering.",
+          "Finished in dark chocolate gloss for a shiny, elegant touch."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for shoulder-grazing cut with dark chocolate gloss.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in shoulder-grazing cut with dark chocolate gloss."
+      },
+      {
+        "number": 21,
+        "title": "Textured Lob with Ash Blonde Balayage",
+        "image": "/images/doc_b22_18_img_2.jpg",
+        "description": "A layered lob (long bob) with choppy texture, making thick hair feel lighter. Ash blonde balayage blends seamlessly with a dark root for an effortless, modern look.",
+        "paragraphs": [
+          "A layered lob (long bob) with choppy texture, making thick hair feel lighter.",
+          "Ash blonde balayage blends seamlessly with a dark root for an effortless, modern look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured lob with ash blonde balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured lob with ash blonde balayage."
+      },
+      {
+        "number": 22,
+        "title": "Textured Shoulder-Length Cut with Ash Brown Balayage",
+        "image": "/images/doc_b22_18_img_18.jpg",
+        "description": "A medium-length layered cut with tousled texture. Ash brown balayage blends cool tones through thick hair for a chic, understated look.",
+        "paragraphs": [
+          "A medium-length layered cut with tousled texture.",
+          "Ash brown balayage blends cool tones through thick hair for a chic, understated look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for textured shoulder-length cut with ash brown balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in textured shoulder-length cut with ash brown balayage."
+      },
+      {
+        "number": 23,
+        "title": "Long Layers with Icy Blonde Balayage",
+        "image": "/images/doc_b22_18_img_16.jpg",
+        "description": "A shoulder-skimming cut with long, blended layers to maintain fullness. Icy blonde balayage brightens thick hair while creating dimension.",
+        "paragraphs": [
+          "A shoulder-skimming cut with long, blended layers to maintain fullness.",
+          "Icy blonde balayage brightens thick hair while creating dimension."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for long layers with icy blonde balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in long layers with icy blonde balayage."
+      },
+      {
+        "number": 24,
+        "title": "Smooth Layers with Chocolate Balayage",
+        "image": "/images/doc_b22_18_img_10.jpg",
+        "description": "This style features sleek, straight layers blended with chocolate balayage, perfect for those who prefer a polished, professional appearance. This layered technique enhances natural body and movement without compromising overall length.",
+        "paragraphs": [
+          "This style features sleek, straight layers blended with chocolate balayage, perfect for those who prefer a polished, professional appearance.",
+          "This layered technique enhances natural body and movement without compromising overall length."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for smooth layers with chocolate balayage.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in smooth layers with chocolate balayage."
+      }
+    ]
+  },
+  {
+    "id": "trendy-medium-length-layered-haircuts",
+    "slug": "trendy-medium-length-layered-haircuts",
+    "title": "14+ Trendy Medium Length Layered Haircut With a Modern Feel",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "July 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_19_img_5.jpg",
+    "intro": "Medium-length layered haircuts are like the jeans of the hair world—effortless, timeless, and they go with everything. But unlike jeans, they don’t mysteriously shrink after laundry day. ✂️",
+    "introParagraphs": [
+      "Medium-length layered haircuts are like the jeans of the hair world—effortless, timeless, and they go with everything. But unlike jeans, they don’t mysteriously shrink after laundry day. ✂️",
+      "These cuts add shape, movement, and just the right amount of drama—without needing a fan blowing your hair back 24/7."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 14+ Trendy Medium Length Layered Haircut With a Modern Feel",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Sleek Coffee Brown with Curved Layers",
+        "image": "/images/doc_b22_19_img_5.jpg",
+        "description": "This sleek coffee brown cut is all about smooth definition. The curved layers are styled inward toward the face, delivering a controlled, elegant shape. This style works well for straight to wavy hair textures that benefit from a clean, refined finish.",
+        "paragraphs": [
+          "This sleek coffee brown cut is all about smooth definition.",
+          "The curved layers are styled inward toward the face, delivering a controlled, elegant shape. This style works well for straight to wavy hair textures that benefit from a clean, refined finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for sleek coffee brown with curved layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in sleek coffee brown with curved layers."
+      },
+      {
+        "number": 2,
+        "title": "Chestnut Brown Layers with Smooth Mid-Length Bounce",
+        "image": "/images/doc_b22_19_img_14.jpg",
+        "description": "A rich chestnut brown tone supports smooth layers with bounce concentrated at the lower ends. The cut is shaped to frame the jawline and collarbone, with styling that emphasizes polish and manageability. A refined choice for medium to thick hair.",
+        "paragraphs": [
+          "A rich chestnut brown tone supports smooth layers with bounce concentrated at the lower ends.",
+          "The cut is shaped to frame the jawline and collarbone, with styling that emphasizes polish and manageability. A refined choice for medium to thick hair."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for chestnut brown layers with smooth mid-length bounce.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in chestnut brown layers with smooth mid-length bounce."
+      },
+      {
+        "number": 3,
+        "title": "Glossy Jet Black Flicked Layers",
+        "image": "/images/doc_b22_19_img_3.jpg",
+        "description": "Flicked-out layering around the chin and collarbone brings movement to this jet-black cut. The soft curtain bangs blend seamlessly into the rest of the style, adding a delicate touch to a bold base. Perfect for accentuating face shape while keeping length intact.",
+        "paragraphs": [
+          "Flicked-out layering around the chin and collarbone brings movement to this jet-black cut.",
+          "The soft curtain bangs blend seamlessly into the rest of the style, adding a delicate touch to a bold base. Perfect for accentuating face shape while keeping length intact."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for glossy jet black flicked layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in glossy jet black flicked layers."
+      },
+      {
+        "number": 4,
+        "title": "Warm Honey Layers with Swooped Fringe",
+        "image": "/images/doc_b22_19_img_8.jpg",
+        "description": "Warm honey tones give this cut a radiant glow, complemented by structured layering and swooped fringe. The volume builds outward at the mid-lengths, giving the entire style a rounded and airy profile. Works beautifully on hair with natural density.",
+        "paragraphs": [
+          "Warm honey tones give this cut a radiant glow, complemented by structured layering and swooped fringe.",
+          "The volume builds outward at the mid-lengths, giving the entire style a rounded and airy profile. Works beautifully on hair with natural density."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for warm honey layers with swooped fringe.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in warm honey layers with swooped fringe."
+      },
+      {
+        "number": 5,
+        "title": "Volumized Ash Brown Blowout Layers",
+        "image": "/images/doc_b22_19_img_1.jpg",
+        "description": "This style features precise, cascading layers styled with a voluminous round brush blowout that enhances movement and body. The ash brown tone adds depth and dimension, making this a go-to cut for natural softness with a polished edge. Ideal for medium to thick hair types.",
+        "paragraphs": [
+          "This style features precise, cascading layers styled with a voluminous round brush blowout that enhances movement and body.",
+          "The ash brown tone adds depth and dimension, making this a go-to cut for natural softness with a polished edge. Ideal for medium to thick hair types."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for volumized ash brown blowout layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in volumized ash brown blowout layers."
+      },
+      {
+        "number": 6,
+        "title": "Inky Black Feathered Curtain Layers",
+        "image": "/images/doc_b22_19_img_7.jpg",
+        "description": "These soft feathered layers start at cheekbone level, flowing naturally into full-length strands. Styled with a center part and a slightly tousled finish, the inky black tone adds richness and contrast. This cut provides an airy, weightless effect despite the length.",
+        "paragraphs": [
+          "These soft feathered layers start at cheekbone level, flowing naturally into full-length strands.",
+          "Styled with a center part and a slightly tousled finish, the inky black tone adds richness and contrast. This cut provides an airy, weightless effect despite the length."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for inky black feathered curtain layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in inky black feathered curtain layers."
+      },
+      {
+        "number": 7,
+        "title": "Soft Walnut Layers with Natural Flow",
+        "image": "/images/doc_b22_19_img_12.jpg",
+        "description": "These soft walnut layers are tailored with outward bends that start just below the cheekbones, providing lift and definition without disrupting the natural texture. A subtle center part keeps the silhouette balanced and easy to manage for daily styling.",
+        "paragraphs": [
+          "These soft walnut layers are tailored with outward bends that start just below the cheekbones, providing lift and definition without disrupting the natural texture.",
+          "A subtle center part keeps the silhouette balanced and easy to manage for daily styling."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for soft walnut layers with natural flow.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in soft walnut layers with natural flow."
+      },
+      {
+        "number": 8,
+        "title": "Wispy Fringe with Ash-Toned Layers",
+        "image": "/images/doc_b22_19_img_11.jpg",
+        "description": "This cut features layered jet black strands softened with an ash-brown face-framing highlight. The wispy fringe adds a delicate texture to the forehead, while the smooth, tapered layers create gentle volume through the mid-lengths. Ideal for adding contrast without commitment to full color.",
+        "paragraphs": [
+          "This cut features layered jet black strands softened with an ash-brown face-framing highlight.",
+          "The wispy fringe adds a delicate texture to the forehead, while the smooth, tapered layers create gentle volume through the mid-lengths. Ideal for adding contrast without commitment to full color."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for wispy fringe with ash-toned layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in wispy fringe with ash-toned layers."
+      },
+      {
+        "number": 9,
+        "title": "Balanced Brunette Layers with Center Volume",
+        "image": "/images/doc_b22_19_img_9.jpg",
+        "description": "This balanced brunette cut features medium layers styled with volume focused at the roots and mid-section, tapering to soft ends. A center part and clean lines give the style symmetry, while the gentle bend adds movement without excess styling.",
+        "paragraphs": [
+          "This balanced brunette cut features medium layers styled with volume focused at the roots and mid-section, tapering to soft ends.",
+          "A center part and clean lines give the style symmetry, while the gentle bend adds movement without excess styling."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for balanced brunette layers with center volume.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in balanced brunette layers with center volume."
+      },
+      {
+        "number": 10,
+        "title": "Dense Charcoal Layers with Rounded Bangs",
+        "image": "/images/doc_b22_19_img_4.jpg",
+        "description": "Dense, sculpted layers are the hallmark of this look, paired with a full set of rounded bangs for added structure. The charcoal tone gives a rich, even color that contrasts beautifully with the soft wave at the ends. A strong choice for those seeking a fuller silhouette.",
+        "paragraphs": [
+          "Dense, sculpted layers are the hallmark of this look, paired with a full set of rounded bangs for added structure.",
+          "The charcoal tone gives a rich, even color that contrasts beautifully with the soft wave at the ends. A strong choice for those seeking a fuller silhouette."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for dense charcoal layers with rounded bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in dense charcoal layers with rounded bangs."
+      },
+      {
+        "number": 11,
+        "title": "Rounded Black Layers with Textured Bangs",
+        "image": "/images/doc_b22_19_img_10.jpg",
+        "description": "This style plays up structure with rounded layers and piecey bangs, offering a modern, textured silhouette. The rich black color brings uniformity and shine, while the inward curve of the layers offers flattering lift around the jawline and collarbone.",
+        "paragraphs": [
+          "This style plays up structure with rounded layers and piecey bangs, offering a modern, textured silhouette.",
+          "The rich black color brings uniformity and shine, while the inward curve of the layers offers flattering lift around the jawline and collarbone."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for rounded black layers with textured bangs.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in rounded black layers with textured bangs."
+      },
+      {
+        "number": 12,
+        "title": "Dimensional Brunette with Soft Face-Framing Layers",
+        "image": "/images/doc_b22_19_img_6.jpg",
+        "description": "A polished brunette base is elevated with strategic layering that softly frames the face and blends into a fluid, feathered shape. Ideal for medium-density hair, the gentle bends at the ends create movement without overpowering the overall look.",
+        "paragraphs": [
+          "A polished brunette base is elevated with strategic layering that softly frames the face and blends into a fluid, feathered shape.",
+          "Ideal for medium-density hair, the gentle bends at the ends create movement without overpowering the overall look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for dimensional brunette with soft face-framing layers.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in dimensional brunette with soft face-framing layers."
+      },
+      {
+        "number": 13,
+        "title": "Soft Copper Layers with Wispy Fringe",
+        "image": "/images/doc_b22_19_img_2.jpg",
+        "description": "This look showcases medium-length layers with a soft copper shade that brightens the complexion. The lightweight fringe frames the face effortlessly, while the subtle feathering at the ends creates lift and a bouncy finish. Great for adding shape to fine or flat hair.",
+        "paragraphs": [
+          "This look showcases medium-length layers with a soft copper shade that brightens the complexion.",
+          "The lightweight fringe frames the face effortlessly, while the subtle feathering at the ends creates lift and a bouncy finish. Great for adding shape to fine or flat hair."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for soft copper layers with wispy fringe.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in soft copper layers with wispy fringe."
+      },
+      {
+        "number": 14,
+        "title": "Glossy Black Layers with Rounded Movement",
+        "image": "/images/doc_b22_19_img_13.jpg",
+        "description": "This glossy black haircut delivers rounded, voluminous layers that start at the chin and flow downward. The gentle face-framing curtain layers enhance bone structure while preserving density, offering an effortless, sculpted finish.",
+        "paragraphs": [
+          "This glossy black haircut delivers rounded, voluminous layers that start at the chin and flow downward.",
+          "The gentle face-framing curtain layers enhance bone structure while preserving density, offering an effortless, sculpted finish."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for glossy black layers with rounded movement.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in glossy black layers with rounded movement."
+      }
+    ]
+  },
+  {
+    "id": "workout-hairstyles-shoulder-length-layers",
+    "slug": "workout-hairstyles-shoulder-length-layers",
+    "title": "18+ Workout Hairstyle for Shoulder Length Layers for Easy Styling",
+    "category": "Medium Layered Haircuts",
+    "categorySlug": "medium-layered-haircuts",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "July 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b22_20_img_12.jpg",
+    "intro": "Finding the perfect way to tie back your hair for the gym can feel like a real challenge when you have choppy ends. You want something that keeps every strand out of your face while still looking cute. That is exactly why you need a reliable list of 20workout hairstyle for shoulder length layers. These styles are designed specifically to handle those pesky shorter pieces that always seem to escape a standard ponytail. From braided options that lock in flyaways to secure buns that keep your neck cool during intense cardio, there is a solution here for every fitness routine. Whether you are lifting weights, running on the treadmill, or flowing through a yoga class, these practical yet stylish looks will keep your hair secure and your focus exactly where it belongs.",
+    "introParagraphs": [
+      "Finding the perfect way to tie back your hair for the gym can feel like a real challenge when you have choppy ends. You want something that keeps every strand out of your face while still looking cute. That is exactly why you need a reliable list of 20workout hairstyle for shoulder length layers. These styles are designed specifically to handle those pesky shorter pieces that always seem to escape a standard ponytail. From braided options that lock in flyaways to secure buns that keep your neck cool during intense cardio, there is a solution here for every fitness routine. Whether you are lifting weights, running on the treadmill, or flowing through a yoga class, these practical yet stylish looks will keep your hair secure and your focus exactly where it belongs.",
+      "Ever wonder why your layers keep falling out of your ponytail during a run? A high braided ponytail is the ultimate solution to keep those shorter pieces securely locked in place. By pulling your hair up high and braiding it all the way down, you prevent the layers from slipping loose. This style keeps your neck completely free, which is fantastic for hot yoga or intense cardio sessions. It also looks incredibly sleek and sporty. You can easily wrap a small piece of hair around the hair tie to hide it for a more polished finish. This hairstyle stays tight through jumping jacks and burpees without needing constant adjustments."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Style & Maintain 18+ Workout Hairstyle for Shoulder Length Layers for Easy Styling",
+        "content": "Medium layered haircuts offer maximum versatility. Blow-dry with a large barrel round brush directing ends inward or outward to customize shape. Regular trims every 6-8 weeks maintain crisp layer structure without losing length."
+      },
+      {
+        "title": "Best Products for Medium Layered Cuts",
+        "content": "Enhance layer separation using lightweight texturizing creams or sea salt sprays. Avoid heavy oils at the roots to ensure your layers bounce naturally throughout the day."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are medium layered haircuts good for thin hair?",
+        "answer": "Yes! Strategic long layers remove weight and create the optical illusion of fuller, thicker hair with enhanced natural movement."
+      },
+      {
+        "question": "How often should I trim medium layered hair?",
+        "answer": "We recommend trimming every 6 to 8 weeks to keep ends healthy and prevent face-framing layers from growing out unevenly."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Milkmaid Braids",
+        "image": "/images/doc_b22_20_img_12.jpg",
+        "description": "Have you ever considered milkmaid braids for a heavy lifting day? This style is surprisingly secure for shoulder-length layers and keeps every single strand off your neck. You create two standard braids on either side of your head, then cross them over the top and pin them flat. The crisscross pattern effectively tucks away all your shorter ends and layers underneath. It sits close to your head, so it never gets in the way when you are doing crunches or using resistance bands. This look is practically indestructible once pinned correctly. It offers a charming, vintage vibe that stands out in the weight room while keeping you cool.",
+        "paragraphs": [
+          "Have you ever considered milkmaid braids for a heavy lifting day?",
+          "This style is surprisingly secure for shoulder-length layers and keeps every single strand off your neck. You create two standard braids on either side of your head, then cross them over the top and pin them flat. The crisscross pattern effectively tucks away all your shorter ends and layers underneath. It sits close to your head, so it never gets in the way when you are doing crunches or using resistance bands. This look is practically indestructible once pinned correctly. It offers a charming, vintage vibe that stands out in the weight room while keeping you cool."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for milkmaid braids.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in milkmaid braids."
+      },
+      {
+        "number": 2,
+        "title": "Celtic Knot Half Up",
+        "image": "/images/doc_b22_20_img_16.jpg",
+        "description": "Searching for a unique way to pull your hair back? The celtic knot half up style offers a beautiful, intricate detail that keeps your front layers secure. You take two small sections of hair from the front and tie them together in a literal knot at the back of your head. This instantly pulls the shortest layers away from your face with a stunning visual effect. You can leave the rest of your hair down or tie it into a low ponytail. This knot holds surprisingly well through moderate movement, making it great for yoga or a casual walk. It is a fast, heatless option that adds major style points.",
+        "paragraphs": [
+          "Searching for a unique way to pull your hair back?",
+          "The celtic knot half up style offers a beautiful, intricate detail that keeps your front layers secure. You take two small sections of hair from the front and tie them together in a literal knot at the back of your head. This instantly pulls the shortest layers away from your face with a stunning visual effect. You can leave the rest of your hair down or tie it into a low ponytail. This knot holds surprisingly well through moderate movement, making it great for yoga or a casual walk. It is a fast, heatless option that adds major style points."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for celtic knot half up.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in celtic knot half up."
+      },
+      {
+        "number": 3,
+        "title": "Pigtail Braids",
+        "image": "/images/doc_b22_20_img_10.jpg",
+        "description": "Need a style that is quick, cute, and utterly reliable? Pigtail braids are a nostalgic yet highly effective way to manage shoulder-length layers during a workout. By splitting your hair into two sections and braiding them down tightly, you distribute the weight of your hair evenly. This prevents the pulling and headaches that sometimes happen with a single high ponytail. The twin braids keep all your layers securely intertwined, stopping them from brushing against your neck. They look fantastic with a casual workout outfit and stay remarkably intact during rigorous activity. You can easily throw them over your shoulders or let them hang freely while you crush your fitness goals.",
+        "paragraphs": [
+          "Need a style that is quick, cute, and utterly reliable?",
+          "Pigtail braids are a nostalgic yet highly effective way to manage shoulder-length layers during a workout. By splitting your hair into two sections and braiding them down tightly, you distribute the weight of your hair evenly. This prevents the pulling and headaches that sometimes happen with a single high ponytail. The twin braids keep all your layers securely intertwined, stopping them from brushing against your neck. They look fantastic with a casual workout outfit and stay remarkably intact during rigorous activity. You can easily throw them over your shoulders or let them hang freely while you crush your fitness goals."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for pigtail braids.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in pigtail braids."
+      },
+      {
+        "number": 4,
+        "title": "Braided Mohawk Ponytail",
+        "image": "/images/doc_b22_20_img_11.jpg",
+        "description": "Step up your gym style with a fierce and structured look. Thebraided mohawk ponytailcreates a bold center stripe that keeps your layers completely locked down. You braid a section of hair right down the middle of your head from your forehead to your crown. Then, you gather the remaining hair into a high, tight ponytail. The center braid captures all the tricky top layers, ensuring they do not fall flat or escape during your session. This edgy style is perfect for high-energy workouts like spinning or HIIT classes. It gives you an athletic, confident appearance while providing maximum hold and comfort for your hair.",
+        "paragraphs": [
+          "Step up your gym style with a fierce and structured look.",
+          "Thebraided mohawk ponytailcreates a bold center stripe that keeps your layers completely locked down. You braid a section of hair right down the middle of your head from your forehead to your crown. Then, you gather the remaining hair into a high, tight ponytail. The center braid captures all the tricky top layers, ensuring they do not fall flat or escape during your session. This edgy style is perfect for high-energy workouts like spinning or HIIT classes. It gives you an athletic, confident appearance while providing maximum hold and comfort for your hair."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for braided mohawk ponytail.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in braided mohawk ponytail."
+      },
+      {
+        "number": 5,
+        "title": "Crown Braid Half Up",
+        "image": "/images/doc_b22_20_img_9.jpg",
+        "description": "What if you want to leave some hair down but still keep your vision clear? The crown braid half up style perfectly solves this dilemma for shoulder-length layers. You take the front sections of your hair and braid them across the top of your head like a headband. This firmly holds back the shortest layers around your face while letting the back of your hair move freely. It is an ideal choice for low-impactworkouts like stretching, pilates, or a light walk. The braid acts like a natural barrier, stopping sweat from making your front hair frizzy. You get the best of both worlds with this sweet and functional gym look.",
+        "paragraphs": [
+          "What if you want to leave some hair down but still keep your vision clear?",
+          "The crown braid half up style perfectly solves this dilemma for shoulder-length layers. You take the front sections of your hair and braid them across the top of your head like a headband. This firmly holds back the shortest layers around your face while letting the back of your hair move freely. It is an ideal choice for low-impactworkouts like stretching, pilates, or a light walk. The braid acts like a natural barrier, stopping sweat from making your front hair frizzy. You get the best of both worlds with this sweet and functional gym look."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for crown braid half up.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in crown braid half up."
+      },
+      {
+        "number": 6,
+        "title": "Fishtail Braid Ponytail",
+        "image": "/images/doc_b22_20_img_7.jpg",
+        "description": "Have you ever tried a fishtail braid for your training sessions? Afishtail braid ponytailis an excellent option for shoulder-length layers because the tight, interwoven pattern grips shorter strands much better than a loose plait. You pull your hair back and weave it down, securing the bottom with a clear elastic. This texture creates a slightly thicker appearance, making your layers look intentional rather than messy. It holds up remarkably well during dynamic movements like dancing or kickboxing. Even if a few pieces escape, they blend beautifully into the textured style. It gives you a chic, bohemian aesthetic that easily transitions from a morning workout to a coffee date.",
+        "paragraphs": [
+          "Have you ever tried a fishtail braid for your training sessions?",
+          "Afishtail braid ponytailis an excellent option for shoulder-length layers because the tight, interwoven pattern grips shorter strands much better than a loose plait. You pull your hair back and weave it down, securing the bottom with a clear elastic. This texture creates a slightly thicker appearance, making your layers look intentional rather than messy. It holds up remarkably well during dynamic movements like dancing or kickboxing. Even if a few pieces escape, they blend beautifully into the textured style. It gives you a chic, bohemian aesthetic that easily transitions from a morning workout to a coffee date."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for fishtail braid ponytail.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in fishtail braid ponytail."
+      },
+      {
+        "number": 7,
+        "title": "Twist And Pin Bun",
+        "image": "/images/doc_b22_20_img_15.jpg",
+        "description": "Sometimes braids just take too much time before an early morning workout. The twist and pin bun is a sophisticated alternative that handles layered hair effortlessly. You simply twist small sections of your hair back and pin them individually into a low, clustered bun. This pinning method easily accommodates varying lengths, letting you tuck short layers under longer ones seamlessly. It creates an elegant, textured updo that looks far more complicated than it actually is. This style sits comfortably low, making it perfect for any seated exercises or weightlifting. It holds securely without tight elastics, offering a gentle yet effective way to manage your hair at the gym.",
+        "paragraphs": [
+          "Sometimes braids just take too much time before an early morning workout.",
+          "The twist and pin bun is a sophisticated alternative that handles layered hair effortlessly. You simply twist small sections of your hair back and pin them individually into a low, clustered bun. This pinning method easily accommodates varying lengths, letting you tuck short layers under longer ones seamlessly. It creates an elegant, textured updo that looks far more complicated than it actually is. This style sits comfortably low, making it perfect for any seated exercises or weightlifting. It holds securely without tight elastics, offering a gentle yet effective way to manage your hair at the gym."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for twist and pin bun.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in twist and pin bun."
+      },
+      {
+        "number": 8,
+        "title": "Space Buns With Mini Braids",
+        "image": "/images/doc_b22_20_img_8.jpg",
+        "description": "Channel your inner fitness guru with a look that is playful and secure. Space buns with mini braids take the classic double bun to the next level for layered hair. You part your hair down the middle and create two high pigtails. Before wrapping them into buns, you braid each section to trap those shorter layers inside. This ensures the buns stay tight and compact without stray hairs poking out. It is a fantastic style for keeping your hair completely off your neck during hot summer runs. The braided texture adds a unique detail that makes your gym style look fun and vibrant, keeping you motivated throughout your entire workout.",
+        "paragraphs": [
+          "Channel your inner fitness guru with a look that is playful and secure.",
+          "Space buns with mini braids take the classic double bun to the next level for layered hair. You part your hair down the middle and create two high pigtails. Before wrapping them into buns, you braid each section to trap those shorter layers inside. This ensures the buns stay tight and compact without stray hairs poking out. It is a fantastic style for keeping your hair completely off your neck during hot summer runs. The braided texture adds a unique detail that makes your gym style look fun and vibrant, keeping you motivated throughout your entire workout."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for space buns with mini braids.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in space buns with mini braids."
+      },
+      {
+        "number": 9,
+        "title": "French Braid Ponytail",
+        "image": "/images/doc_b22_20_img_3.jpg",
+        "description": "Want a style that feels a bit more elevated but still fights the frizz? The french braid ponytail combines the best of both worlds for your shoulder-length layers. It starts by securely braiding the top and side layers back, then transitions into a regular ponytail or braid at the ends. This clever design catches all the shorter top layers that usually fall into your eyes. It is perfect for cycling or hiking when you need a clear line of sight. The braided front stays perfectly flat against your head, while the back gives you that bouncy, energetic feel. You will love how effortlessly this transitions from the gym to running errands.",
+        "paragraphs": [
+          "Want a style that feels a bit more elevated but still fights the frizz?",
+          "The french braid ponytail combines the best of both worlds for your shoulder-length layers. It starts by securely braiding the top and side layers back, then transitions into a regular ponytail or braid at the ends. This clever design catches all the shorter top layers that usually fall into your eyes. It is perfect for cycling or hiking when you need a clear line of sight. The braided front stays perfectly flat against your head, while the back gives you that bouncy, energetic feel. You will love how effortlessly this transitions from the gym to running errands."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for french braid ponytail.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in french braid ponytail."
+      },
+      {
+        "number": 10,
+        "title": "Braided Space Buns",
+        "image": "/images/doc_b22_20_img_14.jpg",
+        "description": "Double the fun with a hairstyle that refuses to budge. Braided space buns are a quirky, energetic way to keep shoulder-length layers totally under control. You divide your hair into two high pigtails, braid each one, and then twist the braids around themselves to form the buns. The key here is that braiding before wrapping locks in those shorter layers that usually stick out of regular buns. This creates a neat, compact shape that stays solid during intense cardio or dance workouts. They look incredibly playful and pair perfectly with bright, sporty outfits. You will never have to worry about your hair escaping with this vibrant style.",
+        "paragraphs": [
+          "Double the fun with a hairstyle that refuses to budge.",
+          "Braided space buns are a quirky, energetic way to keep shoulder-length layers totally under control. You divide your hair into two high pigtails, braid each one, and then twist the braids around themselves to form the buns. The key here is that braiding before wrapping locks in those shorter layers that usually stick out of regular buns. This creates a neat, compact shape that stays solid during intense cardio or dance workouts. They look incredibly playful and pair perfectly with bright, sporty outfits. You will never have to worry about your hair escaping with this vibrant style."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for braided space buns.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in braided space buns."
+      },
+      {
+        "number": 11,
+        "title": "Double Dutch Braids",
+        "image": "/images/doc_b22_20_img_2.jpg",
+        "description": "There is nothing quite as frustrating as hair sticking to your sweaty forehead mid-workout. Double dutch braids completely solve this issue by tightly weaving all your hair, including those face-framing layers, right down to the nape of your neck. This classic gym look distributes the tension evenly, preventing headaches during long training sessions. The underhand braiding technique ensures every layer is tucked away securely. They look amazing paired with your favorite workout leggings and a tank top. Plus, when you take them out after your session, you get gorgeous, natural waves as a fun bonus. This style is truly dependable for any high-intensity interval training or heavy lifting days.",
+        "paragraphs": [
+          "There is nothing quite as frustrating as hair sticking to your sweaty forehead mid-workout.",
+          "Double dutch braids completely solve this issue by tightly weaving all your hair, including those face-framing layers, right down to the nape of your neck. This classic gym look distributes the tension evenly, preventing headaches during long training sessions. The underhand braiding technique ensures every layer is tucked away securely. They look amazing paired with your favorite workout leggings and a tank top. Plus, when you take them out after your session, you get gorgeous, natural waves as a fun bonus. This style is truly dependable for any high-intensity interval training or heavy lifting days."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for double dutch braids.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in double dutch braids."
+      },
+      {
+        "number": 12,
+        "title": "Top Knot With Braided Detail",
+        "image": "/images/doc_b22_20_img_6.jpg",
+        "description": "Tired of the same old plain bun at the gym? A top knot with braided detail adds a fun twist to your regular routine while keeping those layers completely in check. You start by taking a front section of your hair and braiding it tightly back toward the crown. Then, gather the rest of your hair up into a high bun and wrap the braid around the base. The braid firmly holds back the front layers that usually cause the most annoyance. It stays out of your face and off your neck, giving you maximum comfort during intense sessions. This look is as functional as it is stylish for your active lifestyle.",
+        "paragraphs": [
+          "Tired of the same old plain bun at the gym?",
+          "A top knot with braided detail adds a fun twist to your regular routine while keeping those layers completely in check. You start by taking a front section of your hair and braiding it tightly back toward the crown. Then, gather the rest of your hair up into a high bun and wrap the braid around the base. The braid firmly holds back the front layers that usually cause the most annoyance. It stays out of your face and off your neck, giving you maximum comfort during intense sessions. This look is as functional as it is stylish for your active lifestyle."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for top knot with braided detail.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in top knot with braided detail."
+      },
+      {
+        "number": 13,
+        "title": "Side Braid Ponytail",
+        "image": "/images/doc_b22_20_img_13.jpg",
+        "description": "Sweeping your hair over one shoulder adds a touch of ease to your training outfit. The side braid ponytail is a simple twist on the traditional plait that works beautifully for layered cuts. You gather your hair to one side and braid it down, letting it rest gracefully over your shoulder. This is incredibly convenient because it keeps the hair entirely off your back, minimizing sweat and friction. It works exceptionally well for shoulder-length hair because the shorter layers stay tightly woven near the top of the braid. You can wear this for a relaxed gym session or a brisk evening walk with total confidence.",
+        "paragraphs": [
+          "Sweeping your hair over one shoulder adds a touch of ease to your training outfit.",
+          "The side braid ponytail is a simple twist on the traditional plait that works beautifully for layered cuts. You gather your hair to one side and braid it down, letting it rest gracefully over your shoulder. This is incredibly convenient because it keeps the hair entirely off your back, minimizing sweat and friction. It works exceptionally well for shoulder-length hair because the shorter layers stay tightly woven near the top of the braid. You can wear this for a relaxed gym session or a brisk evening walk with total confidence."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for side braid ponytail.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in side braid ponytail."
+      },
+      {
+        "number": 14,
+        "title": "High Braided Ponytail",
+        "image": "/images/doc_b22_20_img_1.jpg",
+        "description": "Ever wonder why your layers keep falling out of your ponytail during a run? A high braided ponytail is the ultimate solution to keep those shorter pieces securely locked in place. By pulling your hair up high and braiding it all the way down, you prevent the layers from slipping loose. This style keeps your neck completely free, which is fantastic for hot yoga or intense cardio sessions. It also looks incredibly sleek and sporty. You can easily wrap a small piece of hair around the hair tie to hide it for a more polished finish. This hairstyle stays tight through jumping jacks and burpees without needing constant adjustments.",
+        "paragraphs": [
+          "Ever wonder why your layers keep falling out of your ponytail during a run?",
+          "A high braided ponytail is the ultimate solution to keep those shorter pieces securely locked in place. By pulling your hair up high and braiding it all the way down, you prevent the layers from slipping loose. This style keeps your neck completely free, which is fantastic for hot yoga or intense cardio sessions. It also looks incredibly sleek and sporty. You can easily wrap a small piece of hair around the hair tie to hide it for a more polished finish. This hairstyle stays tight through jumping jacks and burpees without needing constant adjustments."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for high braided ponytail.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in high braided ponytail."
+      },
+      {
+        "number": 15,
+        "title": "Low Braided Bun",
+        "image": "/images/doc_b22_20_img_5.jpg",
+        "description": "Sometimes you prefer a laid-back approach to your fitness routine. A low braided bun sits comfortably at the nape of your neck, making it ideal for exercises where you lean back against a bench or a bike seat. You simply braid your hair down the back and wrap it into a neat coil, securing it with pins. This elegantly tucks away all your ends and layers so nothing brushes against your shoulders. It feels exceptionally secure and will not bounce around during your reps. This style is also wonderfully gentle on your strands, preventing the breakage that can happen from tightly pulled updos.",
+        "paragraphs": [
+          "Sometimes you prefer a laid-back approach to your fitness routine.",
+          "A low braided bun sits comfortably at the nape of your neck, making it ideal for exercises where you lean back against a bench or a bike seat. You simply braid your hair down the back and wrap it into a neat coil, securing it with pins. This elegantly tucks away all your ends and layers so nothing brushes against your shoulders. It feels exceptionally secure and will not bounce around during your reps. This style is also wonderfully gentle on your strands, preventing the breakage that can happen from tightly pulled updos."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for low braided bun.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in low braided bun."
+      },
+      {
+        "number": 16,
+        "title": "Bubble Braid Ponytail",
+        "image": "/images/doc_b22_20_img_4.jpg",
+        "description": "Looking for something quick that still keeps your layers contained? Thebubble braid ponytailis a trendy, effortless choice that works wonders for medium hair. You simply pull your hair into a high ponytail and add small elastics every few inches down the length. Then, gently pull the sections apart to create that fun bubble effect. This trick traps your shorter layers inside the elastic bands, stopping them from escaping mid-run. It adds fun volume and a playful vibe to your standard gym look. This style is incredibly forgiving if you are short on time but still want your hair to look intentionally styled during your workout.",
+        "paragraphs": [
+          "Looking for something quick that still keeps your layers contained?",
+          "Thebubble braid ponytailis a trendy, effortless choice that works wonders for medium hair. You simply pull your hair into a high ponytail and add small elastics every few inches down the length. Then, gently pull the sections apart to create that fun bubble effect. This trick traps your shorter layers inside the elastic bands, stopping them from escaping mid-run. It adds fun volume and a playful vibe to your standard gym look. This style is incredibly forgiving if you are short on time but still want your hair to look intentionally styled during your workout."
+        ],
+        "whyWeLoveIt": "Delivers dynamic volume and face-framing softness for bubble braid ponytail.",
+        "stylingTip": "Use a round brush while blow-drying or apply texturizing spray to accentuate the layers in bubble braid ponytail."
+      }
+    ]
+  },
+  {
     "id": "college-girls-low-bun",
     "slug": "college-girls-low-bun",
     "title": "15+ College Girls Low Bun for Class to Try",
