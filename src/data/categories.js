@@ -5,9 +5,12 @@ export const menuStructure = [
     slug: 'haircuts-lengths',
     subcategories: [
       { name: 'Bob & Lob Haircuts', slug: 'bob-lob-haircuts' },
-      { name: 'Pixie Haircuts', slug: 'pixie-haircuts' },
+      { name: 'Curly Bob Hairstyles', slug: 'curly-bob-hairstyles' },
       { name: 'Layered Bob Haircuts', slug: 'layered-bob-haircuts' },
-      { name: 'Layered Haircut Ideas', slug: 'layered-haircuts' }
+      { name: 'Short Layered Haircuts', slug: 'short-layered-haircuts' },
+      { name: 'Medium Layered Haircuts', slug: 'medium-layered-haircuts' },
+      { name: 'Layered Haircut Ideas', slug: 'layered-haircuts' },
+      { name: 'Pixie Haircuts', slug: 'pixie-haircuts' }
     ]
   },
   {
@@ -16,6 +19,10 @@ export const menuStructure = [
     subcategories: [
       { name: 'Updo Hairstyles', slug: 'updo-hairstyles' },
       { name: 'Bun Hairstyles', slug: 'bun-hairstyles' },
+      { name: 'Low Bun Hairstyles', slug: 'low-bun-hairstyles' },
+      { name: 'Ponytail Hairstyles', slug: 'ponytail-hairstyles' },
+      { name: 'Date Night Hairstyles', slug: 'date-night-hairstyles' },
+      { name: 'Party Hairstyles', slug: 'party-hairstyles' },
       { name: 'Bangs & Fringe Hairstyles', slug: 'bangs-fringe' },
       { name: 'Braided Hairstyles', slug: 'braided-hairstyles' },
       { name: 'Concert & Festival Hairstyles', slug: 'concert-hairstyles' },
@@ -27,8 +34,9 @@ export const menuStructure = [
     slug: 'hair-types-age',
     subcategories: [
       { name: 'Curly Hairstyles & Haircuts', slug: 'curly-hairstyles' },
+      { name: 'Curly Bob Hairstyles', slug: 'curly-bob-hairstyles' },
       { name: 'Layered Curly Hairstyles', slug: 'layered-curly-hairstyles' },
-      { name: 'Fine & Thin Hair Styles', slug: 'fine-thin-hair' },
+      { name: 'Fine Hair Hairstyles', slug: 'fine-hair-hairstyles' },
       { name: 'Face Shape & Glasses Hairstyles', slug: 'face-shape-glasses' },
       { name: 'Hairstyles for Older Women', slug: 'older-women' },
       { name: 'Hair Color for Older Women', slug: 'hair-color-older-women' }
@@ -74,8 +82,16 @@ export const categories = [
     name: 'Bob & Lob Cuts',
     slug: 'bob-lob-haircuts',
     image: 'https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=800&q=80',
-    count: '10 Ideas',
+    count: '60 Ideas',
     description: 'Italian bobs, French lobs, blunt chin-length cuts, and wavy bobs.'
+  },
+  {
+    id: 'curly-bob-hairstyles',
+    name: 'Curly Bob Hairstyles',
+    slug: 'curly-bob-hairstyles',
+    image: 'https://images.unsplash.com/photo-1584297091622-af89822a1065?auto=format&fit=crop&w=800&q=80',
+    count: '15 Ideas',
+    description: 'Bouncy curly bobs, curtain bangs on curly lobs, and textured curly cuts.'
   },
   {
     id: 'bangs-fringe',
@@ -90,7 +106,7 @@ export const categories = [
     name: 'Hair Color Ideas',
     slug: 'hair-color-ideas',
     image: 'https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&w=800&q=80',
-    count: '93 Ideas',
+    count: '133 Ideas',
     description: 'Balayage, honey blonde, espresso brunette, copper red, and subtle highlights.'
   },
   {
@@ -98,8 +114,24 @@ export const categories = [
     name: 'Curly & Wavy Hair',
     slug: 'curly-hairstyles',
     image: 'https://images.unsplash.com/photo-1584297091622-af89822a1065?auto=format&fit=crop&w=800&q=80',
-    count: '21 Ideas',
+    count: '34 Ideas',
     description: 'Voluminous curl cuts, coily updo inspiration, and natural texture styles.'
+  },
+  {
+    id: 'date-night-hairstyles',
+    name: 'Date Night Hairstyles',
+    slug: 'date-night-hairstyles',
+    image: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80',
+    count: '7 Ideas',
+    description: 'Flirty waves, romantic updos, side-swept hair, and effortless date night styles.'
+  },
+  {
+    id: 'fine-hair-hairstyles',
+    name: 'Fine Hair Hairstyles',
+    slug: 'fine-hair-hairstyles',
+    image: 'https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?auto=format&fit=crop&w=800&q=80',
+    count: '15 Ideas',
+    description: 'Volumizing cuts, blunt bobs, babylights, and fuller looking hairstyles for fine hair.'
   },
   {
     id: 'braided-hairstyles',
@@ -133,8 +165,11 @@ export const styleChips = [
   'Updo Hairstyles',
   'Bun Hairstyles',
   'Bob & Lob Cuts',
+  'Curly Bob Hairstyles',
   'Curtain Bangs',
   'Braided Hairstyles',
+  'Date Night Hairstyles',
+  'Fine Hair Hairstyles',
   'Easy & Everyday',
   'Curly & Wavy',
   'Hair Color Ideas',
