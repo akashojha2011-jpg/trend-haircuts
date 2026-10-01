@@ -1,5 +1,225 @@
 export const articles = [
   {
+    "id": "curly-lob-haircuts-women",
+    "slug": "curly-lob-haircuts-women",
+    "title": "15+ Curly Lob Haircut That Looks So Good",
+    "category": "Curly Bob Hairstyles",
+    "categorySlug": "curly-bob-hairstyles",
+    "author": "Trend Haircuts Editorial Team",
+    "date": "July 2026",
+    "readTime": "6 min read",
+    "heroImage": "/images/doc_b26_c13_img_14.jpg",
+    "intro": "Soft curls bouncing just above your shoulders can feel like the perfect balance between short and long hair, which is exactly why the curly lob is such a big deal right now. This cut usually sits somewhere between the chin and collarbone and works with your natural curl pattern instead of fighting it, giving you movement, volume, and shape without tons of daily effort. Many people love a curly lob because it looks polished enough for work but still relaxed and modern for everyday life, so it fits a busy routine. With the right layers and length, it can soften strong features, slim a fuller face, or add dimension to finer hair. On top of that, regular trims, hydrating products, and curl‑friendly styling tricks keep the shape fresh while letting your texture shine through.",
+    "introParagraphs": [
+      "Soft curls bouncing just above your shoulders can feel like the perfect balance between short and long hair, which is exactly why the curly lob is such a big deal right now. This cut usually sits somewhere between the chin and collarbone and works with your natural curl pattern instead of fighting it, giving you movement, volume, and shape without tons of daily effort. Many people love a curly lob because it looks polished enough for work but still relaxed and modern for everyday life, so it fits a busy routine. With the right layers and length, it can soften strong features, slim a fuller face, or add dimension to finer hair. On top of that, regular trims, hydrating products, and curl‑friendly styling tricks keep the shape fresh while letting your texture shine through.",
+      "A classic curly lob haircut is the place to start if you want something versatile and easy to explain to your stylist. This version usually hits right at or slightly below the collarbone, with the curls forming a gentle “C” shape around the face to frame your features without feeling too short. The perimeter is mostly even, so the length looks clean and intentional, but subtle internal layers stop the curls from stacking into atriangle shape. This shape is especially flattering if you like parting your hair in the middle or slightly off‑center, because it keeps both sides balanced and soft. To style, most people apply a curl cream on damp hair, then either air‑dry or diffuse on low heat for defined, bouncy curls that hold through the day. A trim every few months keeps the ends from frizzing out and preserves that signature lob outline."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "extraSections": [
+      {
+        "title": "How to Define and Protect Curly Lob Hair",
+        "content": "Curly lobs shine when moisture is locked in. Apply a leave-in conditioner or curl-defining cream on soaking wet hair, scrunch upwards, and diffuse on low heat for bouncy, frizz-free definition."
+      },
+      {
+        "title": "Maintaining Shape Between Salon Visits",
+        "content": "Keep your curly lob balanced with regular curl-by-curl trims every 8 to 10 weeks to prevent top-heavy triangular volume and keep ends healthy."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do I prevent my curly lob from expanding into a triangle shape?",
+        "answer": "Ask your stylist for strategic interior layering or vertical carving to weight-reduce the bottom and create a rounded, flattering silhouette."
+      },
+      {
+        "question": "Can I wear bangs with a curly lob?",
+        "answer": "Yes! Curly bangs add incredible personality and frame eyes beautifully. Cut them dry in their natural curl state to avoid over-shortening."
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "title": "Curly Lob Haircut For Round Face",
+        "image": "/images/doc_b26_c13_img_14.jpg",
+        "description": "A curly lob haircut for round face is designed to gentlyslim and elongate the face. The length typically hits just below the chin or at the collarbone, avoiding cuts that sit right at the widest part of the cheeks, which can emphasize roundness. Slight angles or longer front pieces help draw the eye downward, while subtle layering prevents excessive width at the sides. Parting the hair slightly off‑center or using a soft side part can also break up the symmetry and add a flattering diagonal line. When styling, it helps to encourage a bit more height at the crown and keep volume at the sides under control, so the overall silhouette looks more oval. Curl‑defining products, careful diffusing, and minimal fluffing at the sides all contribute to a balanced, face‑complementing lob.",
+        "paragraphs": [
+          "A curly lob haircut for round face is designed to gentlyslim and elongate the face.",
+          "The length typically hits just below the chin or at the collarbone, avoiding cuts that sit right at the widest part of the cheeks, which can emphasize roundness. Slight angles or longer front pieces help draw the eye downward, while subtle layering prevents excessive width at the sides. Parting the hair slightly off‑center or using a soft side part can also break up the symmetry and add a flattering diagonal line. When styling, it helps to encourage a bit more height at the crown and keep volume at the sides under control, so the overall silhouette looks more oval. Curl‑defining products, careful diffusing, and minimal fluffing at the sides all contribute to a balanced, face‑complementing lob."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly lob haircut for round face.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly lob haircut for round face."
+      },
+      {
+        "number": 2,
+        "title": "Curly Lob With Bangs",
+        "image": "/images/doc_b26_c13_img_3.jpg",
+        "description": "For people who are bored with their usual part, a curly lob with bangs adds instant personality and softness. The bangs can be cut as full, short curls sitting just above the brows, or kept longer and slightly curtain‑like so they blend into the rest of the lob. Because curls shrink, stylists often cut the fringe on dry hair to control the final length and avoid awkwardly short pieces. This look works especially well if you have a larger forehead or want more visual interest around your eyes and cheekbones, since the curly fringe draws attention upward. Styling usually involves applying a small amount of curl cream or gel only to the bangs first, then working product through the rest of the hair so the front pieces stay defined but not crunchy. As they dry, you can gently separate the curls with your fingers to create a fluffy, lived‑in finish that feels playful rather than too perfect.",
+        "paragraphs": [
+          "For people who are bored with their usual part, a curly lob with bangs adds instant personality and softness.",
+          "The bangs can be cut as full, short curls sitting just above the brows, or kept longer and slightly curtain‑like so they blend into the rest of the lob. Because curls shrink, stylists often cut the fringe on dry hair to control the final length and avoid awkwardly short pieces. This look works especially well if you have a larger forehead or want more visual interest around your eyes and cheekbones, since the curly fringe draws attention upward. Styling usually involves applying a small amount of curl cream or gel only to the bangs first, then working product through the rest of the hair so the front pieces stay defined but not crunchy. As they dry, you can gently separate the curls with your fingers to create a fluffy, lived‑in finish that feels playful rather than too perfect."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly lob with bangs.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly lob with bangs."
+      },
+      {
+        "number": 3,
+        "title": "Classic Curly Lob Haircut",
+        "image": "/images/doc_b26_c13_img_1.jpg",
+        "description": "A classic curly lob haircut is the place to start if you want something versatile and easy to explain to your stylist. This version usually hits right at or slightly below the collarbone, with the curls forming a gentle “C” shape around the face to frame your features without feeling too short. The perimeter is mostly even, so the length looks clean and intentional, but subtle internal layers stop the curls from stacking into atriangle shape. This shape is especially flattering if you like parting your hair in the middle or slightly off‑center, because it keeps both sides balanced and soft. To style, most people apply a curl cream on damp hair, then either air‑dry or diffuse on low heat for defined, bouncy curls that hold through the day. A trim every few months keeps the ends from frizzing out and preserves that signature lob outline.",
+        "paragraphs": [
+          "A classic curly lob haircut is the place to start if you want something versatile and easy to explain to your stylist.",
+          "This version usually hits right at or slightly below the collarbone, with the curls forming a gentle “C” shape around the face to frame your features without feeling too short. The perimeter is mostly even, so the length looks clean and intentional, but subtle internal layers stop the curls from stacking into atriangle shape. This shape is especially flattering if you like parting your hair in the middle or slightly off‑center, because it keeps both sides balanced and soft. To style, most people apply a curl cream on damp hair, then either air‑dry or diffuse on low heat for defined, bouncy curls that hold through the day. A trim every few months keeps the ends from frizzing out and preserves that signature lob outline."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for classic curly lob haircut.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of classic curly lob haircut."
+      },
+      {
+        "number": 4,
+        "title": "Curly Angled Lob Haircut",
+        "image": "/images/doc_b26_c13_img_7.jpg",
+        "description": "A curly angled lob haircut keeps the hair slightly shorter in the back and longer in the front, creating a shape that follows your jawline and neck. This angled silhouette gives the curls a strong direction, making the back appear neat and lifted while the front pieces fall more dramatically toward the collarbone. The angle can be subtle or more pronounced depending on how bold you want the profile to look. This cut is especially flattering if you like to wear your curls forward, because the longer front sections naturally frame your face and collarbone in a flattering curve. To style, many people apply a curl cream and then diffuse while tipping their head forward, which helps the angle appear even more defined as the curls set. Keeping the nape slightly shorter can also make the cut cooler and easier to manage in warmer weather.",
+        "paragraphs": [
+          "A curly angled lob haircut keeps the hair slightly shorter in the back and longer in the front, creating a shape that follows your jawline and neck.",
+          "This angled silhouette gives the curls a strong direction, making the back appear neat and lifted while the front pieces fall more dramatically toward the collarbone. The angle can be subtle or more pronounced depending on how bold you want the profile to look. This cut is especially flattering if you like to wear your curls forward, because the longer front sections naturally frame your face and collarbone in a flattering curve. To style, many people apply a curl cream and then diffuse while tipping their head forward, which helps the angle appear even more defined as the curls set. Keeping the nape slightly shorter can also make the cut cooler and easier to manage in warmer weather."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly angled lob haircut.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly angled lob haircut."
+      },
+      {
+        "number": 5,
+        "title": "Curly Lob Haircut With Blunt Ends",
+        "image": "/images/doc_b26_c13_img_12.jpg",
+        "description": "A curly lob haircut with blunt ends combines the softness of curls with a very clean, sharp outline at the bottom. Instead of heavily layered or feathered ends, the hair is cut to one main length, which makes the lob look thicker and more deliberate. This works particularly well if your curls are on the looser side or you like to switch between natural curls and smoother finishes, because the blunt edge stays crisp either way. The straight bottom line also provides a nice contrast to the rounded, textured curls above it, giving the cut a modern feel. To keep the ends looking neat, trims should happen regularly before split ends make the line ragged. When you style, a curl‑defining product and light hold gel help maintain the shape so the curls stack just above that blunt edge instead of fraying out.",
+        "paragraphs": [
+          "A curly lob haircut with blunt ends combines the softness of curls with a very clean, sharp outline at the bottom.",
+          "Instead of heavily layered or feathered ends, the hair is cut to one main length, which makes the lob look thicker and more deliberate. This works particularly well if your curls are on the looser side or you like to switch between natural curls and smoother finishes, because the blunt edge stays crisp either way. The straight bottom line also provides a nice contrast to the rounded, textured curls above it, giving the cut a modern feel. To keep the ends looking neat, trims should happen regularly before split ends make the line ragged. When you style, a curl‑defining product and light hold gel help maintain the shape so the curls stack just above that blunt edge instead of fraying out."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly lob haircut with blunt ends.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly lob haircut with blunt ends."
+      },
+      {
+        "number": 6,
+        "title": "Curly Lob Haircut For Square Face",
+        "image": "/images/doc_b26_c13_img_15.jpg",
+        "description": "A curly lob haircut for square face aims to soften strong jawlines and angular features. The length often lands around the collarbone or slightly below, with plenty of movement and layering through the ends so the hair wraps around the jaw instead of hitting it bluntly. Face‑framing layers are especially helpful here, because they create curves that contrast nicely with straight lines in the face. A side part or soft, rounded curls around the temples can also reduce the appearance of sharp angles. Avoiding very blunt ends at chin level keeps the cut from exaggerating squareness. With the right curl products and diffusing technique, the lob will settle into loose, face‑hugging curls that gently offset a stronger bone structure.",
+        "paragraphs": [
+          "A curly lob haircut for square face aims to soften strong jawlines and angular features.",
+          "The length often lands around the collarbone or slightly below, with plenty of movement and layering through the ends so the hair wraps around the jaw instead of hitting it bluntly. Face‑framing layers are especially helpful here, because they create curves that contrast nicely with straight lines in the face. A side part or soft, rounded curls around the temples can also reduce the appearance of sharp angles. Avoiding very blunt ends at chin level keeps the cut from exaggerating squareness. With the right curl products and diffusing technique, the lob will settle into loose, face‑hugging curls that gently offset a stronger bone structure."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly lob haircut for square face.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly lob haircut for square face."
+      },
+      {
+        "number": 7,
+        "title": "Curly Lob Haircut With Layers And Bangs",
+        "image": "/images/doc_b26_c13_img_13.jpg",
+        "description": "For a more detailed and custom look, a curly lob haircut with layers and bangs brings together movement, shape, and a defined focal point. The lob length gives you enough hair to play with, while layers throughout break up bulk and create airy volume from roots to ends. Adding bangs—whether short and curly or longer and curtain‑like—creates structure around the forehead and eyes, which can change your entire face balance. This combination is especially flattering for people with thicker curls, since the layering and fringe prevent the style from feeling heavy or bottom‑loaded. Dry cutting is often used for both the layers and the bangs to work with the actual curl pattern and shrinkage. Styling is all about controlling frizz while keeping the natural movement, so using a curl cream, gel, and maybe a touch of mousse at the roots usually gives the best result.",
+        "paragraphs": [
+          "For a more detailed and custom look, a curly lob haircut with layers and bangs brings together movement, shape, and a defined focal point.",
+          "The lob length gives you enough hair to play with, while layers throughout break up bulk and create airy volume from roots to ends. Adding bangs—whether short and curly or longer and curtain‑like—creates structure around the forehead and eyes, which can change your entire face balance. This combination is especially flattering for people with thicker curls, since the layering and fringe prevent the style from feeling heavy or bottom‑loaded. Dry cutting is often used for both the layers and the bangs to work with the actual curl pattern and shrinkage. Styling is all about controlling frizz while keeping the natural movement, so using a curl cream, gel, and maybe a touch of mousse at the roots usually gives the best result."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly lob haircut with layers and bangs.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly lob haircut with layers and bangs."
+      },
+      {
+        "number": 8,
+        "title": "Short Curly Lob Haircut",
+        "image": "/images/doc_b26_c13_img_9.jpg",
+        "description": "A short curly lob haircut lands just above the shoulders, striking a sweet spot between a traditional bob and a longer lob. This length is great if you want a noticeable change without going very short, and it often makes curls springier because there is less weight pulling them down. The outline of the cut is typically clean, with gentle layers to support the curls and prevent puffiness. Shorter lobs can feel fresher and more low‑maintenance, since drying time drops and you use less product overall. This length also shows off necklines and collars, making it a flattering choice if you like structured tops or jewelry. For styling, a small amount of curl cream and gel is usually enough, and refreshing with a water and leave‑in mix on day two keeps the shape intact.",
+        "paragraphs": [
+          "A short curly lob haircut lands just above the shoulders, striking a sweet spot between a traditional bob and a longer lob.",
+          "This length is great if you want a noticeable change without going very short, and it often makes curls springier because there is less weight pulling them down. The outline of the cut is typically clean, with gentle layers to support the curls and prevent puffiness. Shorter lobs can feel fresher and more low‑maintenance, since drying time drops and you use less product overall. This length also shows off necklines and collars, making it a flattering choice if you like structured tops or jewelry. For styling, a small amount of curl cream and gel is usually enough, and refreshing with a water and leave‑in mix on day two keeps the shape intact."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for short curly lob haircut.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of short curly lob haircut."
+      },
+      {
+        "number": 9,
+        "title": "Curly Lob Haircut With Face Framing",
+        "image": "/images/doc_b26_c13_img_11.jpg",
+        "description": "A curly lob haircut with face framing focuses on carving out softer, shorter pieces around the face while leaving the main length untouched. These pieces usually fall somewhere between the cheekbones and collarbone, depending on your features and how much softness you want. Face‑framing curls can highlight your eyes and cheekbones, or soften a stronger jawline by drawing the eye upward. This approach works with both middle and side parts, because the framing pieces adapt to whichever way you style your hair. When combined with a lob, the overall look feels light and customized but still structured. Styling is simple: apply your usual curl products, then gently twist and scrunch the shorter front sections so they dry in defined, flattering curves that blend into the rest of the lob.",
+        "paragraphs": [
+          "A curly lob haircut with face framing focuses on carving out softer, shorter pieces around the face while leaving the main length untouched.",
+          "These pieces usually fall somewhere between the cheekbones and collarbone, depending on your features and how much softness you want. Face‑framing curls can highlight your eyes and cheekbones, or soften a stronger jawline by drawing the eye upward. This approach works with both middle and side parts, because the framing pieces adapt to whichever way you style your hair. When combined with a lob, the overall look feels light and customized but still structured. Styling is simple: apply your usual curl products, then gently twist and scrunch the shorter front sections so they dry in defined, flattering curves that blend into the rest of the lob."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly lob haircut with face framing.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly lob haircut with face framing."
+      },
+      {
+        "number": 10,
+        "title": "Layered Curly Lob Haircut",
+        "image": "/images/doc_b26_c13_img_2.jpg",
+        "description": "If your curls tend to feel heavy or fall flat at the bottom, a layered curly lob haircut can make a huge difference. This cut still keeps lob length, but adds staggered layers throughout the mid‑lengths and ends so your curls stack in a soft, rounded way instead of forming a blunt block. The layered structure removes bulk while keeping the overall density, which is perfect for thick, high‑density curls that expand easily. Around the front, your stylist can add slightly shorter layers that open up the face and keep your curls from collapsing toward your cheeks. When you scrunch in mousse or a lightweight gel, the different lengths help each curl clump and spring up for more lift, especially near the crown. This type of lob usually grows out nicely as well, so you can stretch the time between appointments without losing your shape too quickly.",
+        "paragraphs": [
+          "If your curls tend to feel heavy or fall flat at the bottom, a layered curly lob haircut can make a huge difference.",
+          "This cut still keeps lob length, but adds staggered layers throughout the mid‑lengths and ends so your curls stack in a soft, rounded way instead of forming a blunt block. The layered structure removes bulk while keeping the overall density, which is perfect for thick, high‑density curls that expand easily. Around the front, your stylist can add slightly shorter layers that open up the face and keep your curls from collapsing toward your cheeks. When you scrunch in mousse or a lightweight gel, the different lengths help each curl clump and spring up for more lift, especially near the crown. This type of lob usually grows out nicely as well, so you can stretch the time between appointments without losing your shape too quickly."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for layered curly lob haircut.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of layered curly lob haircut."
+      },
+      {
+        "number": 11,
+        "title": "Curly Lob Haircut With Middle Part",
+        "image": "/images/doc_b26_c13_img_5.jpg",
+        "description": "A curly lob haircut with middle part is a great choice if you love symmetry and a clean, modern feel. When the hair is parted down the center, the lob falls evenly on both sides, letting your natural curls frame the face in a balanced way that works well with many face shapes. For round or heart‑shaped faces, the vertical line of the middle part can help visually lengthen the face, while the lob’s length and volume soften the jaw and chin area. Stylists often keep the perimeter slightly blunt or minimally layered so the ends look strong and defined. This cut pairs nicely with soft, loose curls or waves, but it also looks polished when your curls are more defined and coiled. With a curl‑enhancing cream and a diffuser, you can create a glossy, frizz‑controlled finish that still feels relaxed, never stiff.",
+        "paragraphs": [
+          "A curly lob haircut with middle part is a great choice if you love symmetry and a clean, modern feel.",
+          "When the hair is parted down the center, the lob falls evenly on both sides, letting your natural curls frame the face in a balanced way that works well with many face shapes. For round or heart‑shaped faces, the vertical line of the middle part can help visually lengthen the face, while the lob’s length and volume soften the jaw and chin area. Stylists often keep the perimeter slightly blunt or minimally layered so the ends look strong and defined. This cut pairs nicely with soft, loose curls or waves, but it also looks polished when your curls are more defined and coiled. With a curl‑enhancing cream and a diffuser, you can create a glossy, frizz‑controlled finish that still feels relaxed, never stiff."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly lob haircut with middle part.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly lob haircut with middle part."
+      },
+      {
+        "number": 12,
+        "title": "Curly Lob Haircut With Side Part",
+        "image": "/images/doc_b26_c13_img_6.jpg",
+        "description": "Choosing a curly lob haircut with side part can instantly change how your features stand out. A deeper side part pushes more hair over one side of your forehead, giving you instant root lift andvolume on top, which is especially flattering if you feel your face looks a bit flat or wide. The shorter side opens up one cheekbone, while the fuller side drapes diagonally across the face for a soft, romantic effect. This type of part also works well if your curls naturally lean or grow in one direction, since you are working with your growth pattern, not against it. When styling, you can create the part while your hair is still wet, then apply gel or foam from roots to ends and scrunch to encourage curl formation. As your curls dry, avoid touching the roots too much to maintain that lifted, airy volume through the part line.",
+        "paragraphs": [
+          "Choosing a curly lob haircut with side part can instantly change how your features stand out.",
+          "A deeper side part pushes more hair over one side of your forehead, giving you instant root lift andvolume on top, which is especially flattering if you feel your face looks a bit flat or wide. The shorter side opens up one cheekbone, while the fuller side drapes diagonally across the face for a soft, romantic effect. This type of part also works well if your curls naturally lean or grow in one direction, since you are working with your growth pattern, not against it. When styling, you can create the part while your hair is still wet, then apply gel or foam from roots to ends and scrunch to encourage curl formation. As your curls dry, avoid touching the roots too much to maintain that lifted, airy volume through the part line."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for curly lob haircut with side part.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of curly lob haircut with side part."
+      },
+      {
+        "number": 13,
+        "title": "Shaggy Curly Lob Haircut",
+        "image": "/images/doc_b26_c13_img_8.jpg",
+        "description": "When you want something with attitude and texture, a shaggy curly lob haircut is a fun option. This cut uses lots of staggered layers throughout the lob length so your curls fall in different directions, creating a soft, tousled effect rather than a perfectly uniform shape. The layering often starts around the cheekbones or eyes, giving that “shag” feeling without taking away too much length overall. It can be particularly flattering for people with looser curls or waves, since the extra movement keeps the style from feeling limp. Styling usually leans toward lightweight products like texturizing spray or foam to avoid weighing the curls down. Scrunching and gentle finger‑twisting help create defined yet piecey curls that look like effortless, second‑day hair even when you just washed it.",
+        "paragraphs": [
+          "When you want something with attitude and texture, a shaggy curly lob haircut is a fun option.",
+          "This cut uses lots of staggered layers throughout the lob length so your curls fall in different directions, creating a soft, tousled effect rather than a perfectly uniform shape. The layering often starts around the cheekbones or eyes, giving that “shag” feeling without taking away too much length overall. It can be particularly flattering for people with looser curls or waves, since the extra movement keeps the style from feeling limp. Styling usually leans toward lightweight products like texturizing spray or foam to avoid weighing the curls down. Scrunching and gentle finger‑twisting help create defined yet piecey curls that look like effortless, second‑day hair even when you just washed it."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for shaggy curly lob haircut.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of shaggy curly lob haircut."
+      },
+      {
+        "number": 14,
+        "title": "Asymmetrical Curly Lob Haircut",
+        "image": "/images/doc_b26_c13_img_4.jpg",
+        "description": "An asymmetrical curly lob haircut brings a subtle edge to your look without sacrificing everyday wearability. In this version, one side of the lob is cut slightly longer than the other, usually by an inch or two, while the back tapers to connect both sides in a smooth line. The difference in length becomes more noticeable when your curls are defined, adding movement and a modern twist that instantly looks more fashion‑forward. This shape can visually slim and lengthen the face because the longer side draws the eye down. It works well with a side part, giving extra lift at the roots on the shorter side while the longer side drapes over the cheek in a flattering way. To maintain the asymmetry, regular trims are important so you do not lose that intentional angle as your curls grow and shrink at different rates.",
+        "paragraphs": [
+          "An asymmetrical curly lob haircut brings a subtle edge to your look without sacrificing everyday wearability.",
+          "In this version, one side of the lob is cut slightly longer than the other, usually by an inch or two, while the back tapers to connect both sides in a smooth line. The difference in length becomes more noticeable when your curls are defined, adding movement and a modern twist that instantly looks more fashion‑forward. This shape can visually slim and lengthen the face because the longer side draws the eye down. It works well with a side part, giving extra lift at the roots on the shorter side while the longer side drapes over the cheek in a flattering way. To maintain the asymmetry, regular trims are important so you do not lose that intentional angle as your curls grow and shrink at different rates."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for asymmetrical curly lob haircut.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of asymmetrical curly lob haircut."
+      },
+      {
+        "number": 15,
+        "title": "Long Curly Lob Haircut",
+        "image": "/images/doc_b26_c13_img_10.jpg",
+        "description": "A long curly lob haircut sits closer to the upper chest or just below the collarbone, offering more length while still keeping that recognizable lob shape. This is a good choice if you love the idea of a lob but are nervous about losing too much length all at once. The extra inches give your curls more room to stretch and form looser, elongated spirals, which can feel romantic and soft. Stylists often build gentle layers through the lower half of the hair so the ends do not look heavy or stringy. Because there is more hair, hydration and frizz control become more important, so regular deep conditioning and curl‑friendly products are key. Even at this longer length, trimming every few months helps keep the lob shape from drifting into an undefined long cut.",
+        "paragraphs": [
+          "A long curly lob haircut sits closer to the upper chest or just below the collarbone, offering more length while still keeping that recognizable lob shape.",
+          "This is a good choice if you love the idea of a lob but are nervous about losing too much length all at once. The extra inches give your curls more room to stretch and form looser, elongated spirals, which can feel romantic and soft. Stylists often build gentle layers through the lower half of the hair so the ends do not look heavy or stringy. Because there is more hair, hydration and frizz control become more important, so regular deep conditioning and curl‑friendly products are key. Even at this longer length, trimming every few months helps keep the lob shape from drifting into an undefined long cut."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for long curly lob haircut.",
+        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of long curly lob haircut."
+      }
+    ]
+  },
+  {
     "id": "curly-bob-mature-women",
     "slug": "curly-bob-mature-women",
     "title": "15+ Curly Bob for Mature Women With a Fresh Feel",

@@ -43,13 +43,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/bob-lob-haircuts</loc>
+    <loc>https://www.trendhaircuts.com/category/curly-bob-hairstyles</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.trendhaircuts.com/category/curly-bob-hairstyles</loc>
+    <loc>https://www.trendhaircuts.com/category/bob-lob-haircuts</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -197,6 +197,12 @@
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trendhaircuts.com/curly-lob-haircuts-women</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.trendhaircuts.com/curly-bob-mature-women</loc>
