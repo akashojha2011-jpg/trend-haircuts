@@ -18,6 +18,7 @@ export const menuStructure = [
       { name: 'Bun Hairstyles', slug: 'bun-hairstyles' },
       { name: 'Bangs & Fringe Hairstyles', slug: 'bangs-fringe' },
       { name: 'Braided Hairstyles', slug: 'braided-hairstyles' },
+      { name: 'Concert & Festival Hairstyles', slug: 'concert-hairstyles' },
       { name: 'Easy & Everyday Hairstyles', slug: 'easy-everyday-hairstyles' }
     ]
   },
