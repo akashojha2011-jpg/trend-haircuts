@@ -8,12 +8,11 @@ export const articles = [
     "author": "Trend Haircuts Editorial Team",
     "date": "October 2026",
     "readTime": "7 min read",
-    "heroImage": "/images/doc_autumn_brunette_cover.jpg",
-    "intro": "Have you been looking for a way to warm up your look for the cooler months? As the leaves change color, it is the perfect time to update your hair. Autumn is all about rich, warm, and cozy tones that make you feel beautiful. If you have dark hair, you do not have to change your base completely. You can simply add some stunning highlights. Exploring autumn brunette balayage ideas is a fantastic way to blend lighter, warmer shades into your natural dark hair. This coloring technique creates a seamless, natural grow-out that looks incredibly low-maintenance. Fromsubtle caramel tonesto bold copper shades, there is a perfect match for everyone. Let us dive into some gorgeous inspiration for your next salon visit.",
+    "heroImage": "/images/doc_autumn_brunette_img_1.jpg",
+    "intro": "Looking to elevate your brunette base for the cooler months? Autumn is the ideal season to add rich, golden dimensional balayage.",
     "introParagraphs": [
-      "Have you been looking for a way to warm up your look for the cooler months? As the leaves change color, it is the perfect time to update your hair. Autumn is all about rich, warm, and cozy tones that make you feel beautiful. If you have dark hair, you do not have to change your base completely. You can simply add some stunning highlights. Exploring autumn brunette balayage ideas is a fantastic way to blend lighter, warmer shades into your natural dark hair. This coloring technique creates a seamless, natural grow-out that looks incredibly low-maintenance. Fromsubtle caramel tonesto bold copper shades, there is a perfect match for everyone. Let us dive into some gorgeous inspiration for your next salon visit.",
-      "Can you imagine anything sweeter than a rich caramel swirl in your coffee? Caramel tones bring that exact same warmth to your hair. This look pairs beautifully with long layers. The lighter caramel shade is painted onto the mid-lengths and ends. This creates a beautiful contrast against a dark brunette base. Long layers help the color flow seamlessly. They give the hair movement and bounce. The layers also stop the color from looking heavy or blocky. When you curl the ends, the caramel pieces really pop. It is a classic choice that never goes out of style. This look is perfect if you want a bright, face-framing effect without going too light.",
-      "Are you looking for a sweet and subtle change? Toffee is a fantastic shade for the fall season. It sits perfectly between blonde and brunette. A lob is a timeless haircut that works for almost everyone. Combining a toffee brunette balayage with a lob gives you a very stylish look. The toffee highlights are blended through the bottom half of the hair. This keeps your roots dark and natural. The lob length makes the color look very dense and rich. It is very easy to style. You can wear it straight or add loose waves. The toffee color catches the light beautifully when the hair is wavy. You will love this manageable and chic style."
+      "Looking to elevate your brunette base for the cooler months? Autumn is the ideal season to add rich, golden dimensional balayage.",
+      "From warm caramel ribboning to deep chestnut and mocha tones, balayage delivers natural radiance and movement without demanding high maintenance."
     ],
     "isFeatured": false,
     "isTrending": true,
@@ -48,147 +47,219 @@ export const articles = [
     "items": [
       {
         "number": 1,
-        "title": "Caramel Brunette Balayage On Long Layers",
-        "image": "/images/doc_autumn_brunette_img_1.jpg",
-        "description": "Can you imagine anything sweeter than a rich caramel swirl in your coffee? Caramel tones bring that exact same warmth to your hair. This look pairs beautifully with long layers. The lighter caramel shade is painted onto the mid-lengths and ends. This creates a beautiful contrast against a dark brunette base. Long layers help the color flow seamlessly. They give the hair movement and bounce. The layers also stop the color from looking heavy or blocky. When you curl the ends, the caramel pieces really pop. It is a classic choice that never goes out of style. This look is perfect if you want a bright, face-framing effect without going too light.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for caramel brunette balayage on long layers.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your caramel brunette balayage on long layers."
+        "title": "Toffee Brunette Balayage Lob",
+        "image": "/images/doc_autumn_brunette_img_2.jpg",
+        "description": "Rich toffee highlights melt effortlessly into a deep chocolate lob cut. The warm golden undertones reflect natural light, adding instant volume and depth to medium-length hair.",
+        "paragraphs": [
+          "Rich toffee highlights melt effortlessly into a deep chocolate lob cut.",
+          "The warm golden undertones reflect natural light, adding instant volume and depth to medium-length hair."
+        ],
+        "whyWeLoveIt": "Creates eye-catching dimension and soft contrast on lob haircuts.",
+        "stylingTip": "Style with a 1.25-inch curling wand and finish with a light flexible hairspray."
       },
       {
         "number": 2,
-        "title": "Toffee Brunette Balayage Lob",
-        "image": "/images/doc_autumn_brunette_img_2.jpg",
-        "description": "Are you looking for a sweet and subtle change? Toffee is a fantastic shade for the fall season. It sits perfectly between blonde and brunette. A lob is a timeless haircut that works for almost everyone. Combining a toffee brunette balayage with a lob gives you a very stylish look. The toffee highlights are blended through the bottom half of the hair. This keeps your roots dark and natural. The lob length makes the color look very dense and rich. It is very easy to style. You can wear it straight or add loose waves. The toffee color catches the light beautifully when the hair is wavy. You will love this manageable and chic style.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for toffee brunette balayage lob.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your toffee brunette balayage lob."
+        "title": "Caramel Brunette Balayage On Long Layers",
+        "image": "/images/doc_autumn_brunette_img_1.jpg",
+        "description": "Seamless caramel ribbons flow softly through long cascading layers. This classic autumn color combination brightens your complexion while maintaining a natural, effortless vibe.",
+        "paragraphs": [
+          "Seamless caramel ribbons flow softly through long cascading layers.",
+          "This classic autumn color combination brightens your complexion while maintaining a natural, effortless vibe."
+        ],
+        "whyWeLoveIt": "Highlights the movement of long layers with warm honey-caramel accents.",
+        "stylingTip": "Apply a heat protectant and blow dry with a large round brush for maximum bounce."
       },
       {
         "number": 3,
-        "title": "Chestnut Brunette Balayage On Mid Length Hair",
-        "image": "/images/doc_autumn_brunette_img_3.jpg",
-        "description": "There is something so classic about the look of roasted chestnuts. Chestnut shades have natural red and gold undertones. These undertones look amazing against medium brown hair. Mid-length hair is incredibly versatile. It is long enough to pull back but short enough to manage easily. Achestnut brunette balayageon mid-length hair creates a very earthy vibe. The colorist will weave chestnut tones through your ends. This breaks up the solid brunette and adds great dimension. When you style this cut with a round brush, the chestnut hues really shine. It gives a very polished and healthy appearance. This combination is ideal for a low-key but beautiful autumn update that fits right into your busy lifestyle.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for chestnut brunette balayage on mid length hair.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your chestnut brunette balayage on mid length hair."
+        "title": "Auburn Brunette Balayage With Curtain Bangs",
+        "image": "/images/doc_autumn_brunette_img_4.jpg",
+        "description": "Fiery auburn balayage meets soft, face-framing curtain bangs. The warm reddish-brown highlights bring out warmth in your facial features while soft fringe creates a retro-chic silhouette.",
+        "paragraphs": [
+          "Fiery auburn balayage meets soft, face-framing curtain bangs.",
+          "The warm reddish-brown highlights bring out warmth in your facial features while soft fringe creates a retro-chic silhouette."
+        ],
+        "whyWeLoveIt": "Perfectly frames the face with warm autumn tones and soft curtain fringe.",
+        "stylingTip": "Blow dry curtain bangs forward with a medium round brush for effortless swoop."
       },
       {
         "number": 4,
-        "title": "Auburn Brunette Balayage With Curtain Bangs",
-        "image": "/images/doc_autumn_brunette_img_4.jpg",
-        "description": "Want to bring the fire of autumn leaves right to your head? Auburn is a striking choice that always turns heads. It brings out the best in cool-toned brunettes. Adding curtain bangs to this look changes everything. The bangs frame your face perfectly. They draw attention right to your eyes and cheekbones. Theauburn brunette balayageis placed heavily around the face. This brightens your complexion instantly. The rest of the hair features softer auburn tips fading into the dark base. Curtain bangs blend right into the face-framing highlights. This creates a very cohesive and flattering style. It is a bold move that pays off beautifully. You will feel confident and stylish every day.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for auburn brunette balayage with curtain bangs.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your auburn brunette balayage with curtain bangs."
+        "title": "Chestnut Brunette Balayage On Mid Length Hair",
+        "image": "/images/doc_autumn_brunette_img_3.jpg",
+        "description": "Deep chestnut highlights blend smoothly into a dark chocolate base. Mid-length hair benefits from the subtle contrast, looking fuller and healthier with minimal upkeep.",
+        "paragraphs": [
+          "Deep chestnut highlights blend smoothly into a dark chocolate base.",
+          "Mid-length hair benefits from the subtle contrast, looking fuller and healthier with minimal upkeep."
+        ],
+        "whyWeLoveIt": "Provides subtle, elegant warmth suitable for any occasion.",
+        "stylingTip": "Use a color-safe sulfate-free shampoo to preserve rich chestnut undertones."
       },
       {
         "number": 5,
-        "title": "Copper Brunette Balayage On Textured Bob",
-        "image": "/images/doc_autumn_brunette_img_5.jpg",
-        "description": "Have you ever considered going copper for the fall? Copper is having a huge moment right now. It is vibrant and full of life. A textured bob is a fun and edgy haircut. Putting these two together creates a stunning result. The copper brunette balayage adds serious warmth to a dark base. The textured bob gives the hair piece-y movement. This movement shows off the different colors in the balayage. The copper pops out when the hair is messy and lived-in. It is not a neat or boring look. It is very modern and fresh. You just need some texture spray to style it. This look shows off your bold personality effortlessly.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for copper brunette balayage on textured bob.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your copper brunette balayage on textured bob."
+        "title": "Mocha Brunette Balayage Shoulder Length Hair",
+        "image": "/images/doc_autumn_brunette_img_6.jpg",
+        "description": "Velvety mocha tones are hand-painted onto shoulder-grazing locks. This cool-toned brunette balayage delivers a glossy finish that looks sleek whether worn straight or wavy.",
+        "paragraphs": [
+          "Velvety mocha tones are hand-painted onto shoulder-grazing locks.",
+          "This cool-toned brunette balayage delivers a glossy finish that looks sleek whether worn straight or wavy."
+        ],
+        "whyWeLoveIt": "Adds sophisticated depth to shoulder-length cuts.",
+        "stylingTip": "Apply a lightweight hair oil to the ends for brilliant mirror-like shine."
       },
       {
         "number": 6,
-        "title": "Mocha Brunette Balayage Shoulder Length Hair",
-        "image": "/images/doc_autumn_brunette_img_6.jpg",
-        "description": "Do you love the smell of a warm mocha on a chilly day? You can bring that cozy vibe to your hair. Mocha is a very rich and soft brown shade. It has tiny hints of warmth that feel very comforting. Shoulder length hair is a universally flattering choice. A mocha brunette balayage on this length looks incredibly sophisticated. The mocha tones are painted onto the ends gently. This creates a very subtle and natural sun-kissed effect. It is perfect for anyone who does not want high contrast. The soft transition of color looks very elegant. You can wear it straight for a sleek look. This style is always very chic and polished.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for mocha brunette balayage shoulder length hair.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your mocha brunette balayage shoulder length hair."
+        "title": "Copper Brunette Balayage On Textured Bob",
+        "image": "/images/doc_autumn_brunette_img_5.jpg",
+        "description": "Vibrant copper highlights illuminate a chic, textured bob haircut. The warm copper tones catch the sunlight, giving short textured hair a bold autumn upgrade.",
+        "paragraphs": [
+          "Vibrant copper highlights illuminate a chic, textured bob haircut.",
+          "The warm copper tones catch the sunlight, giving short textured hair a bold autumn upgrade."
+        ],
+        "whyWeLoveIt": "Infuses short bob haircuts with energetic fall color.",
+        "stylingTip": "Scrunch in a sea salt or texturizing spray for piecey, beachy waves."
       },
       {
         "number": 7,
-        "title": "Honey Brunette Balayage On Shag Haircut",
-        "image": "/images/doc_autumn_brunette_img_7.jpg",
-        "description": "Are you craving a look that feels effortlessly cool? Honey tones are incredibly popular when the weather gets crisp. They add a bright pop of gold to dark hair. A shag haircut is all about texture and volume. Pairing a honey brunette balayage with a shag is a match made in heaven. The honey highlights emphasize the choppy layers of the shag. They make the hair look incredibly bouncy. The bright pieces stand out around the crown and the ends. This gives the whole style a very rock-and-roll vibe. You will not need to spend hours styling it. Just scrunch some mousse into damp hair and let it air dry.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for honey brunette balayage on shag haircut.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your honey brunette balayage on shag haircut."
+        "title": "Maple Brunette Balayage Long Wavy Hair",
+        "image": "/images/doc_autumn_brunette_img_8.jpg",
+        "description": "Warm maple accents swirl through long, luscious mermaid waves. This rich shade pairs red and golden brown notes for an undeniable autumn glow.",
+        "paragraphs": [
+          "Warm maple accents swirl through long, luscious mermaid waves.",
+          "This rich shade pairs red and golden brown notes for an undeniable autumn glow."
+        ],
+        "whyWeLoveIt": "Enhances long wavy textures with glowing autumnal dimension.",
+        "stylingTip": "Use a wide-tooth comb to gently break up curls into soft, natural waves."
       },
       {
         "number": 8,
-        "title": "Maple Brunette Balayage Long Wavy Hair",
-        "image": "/images/doc_autumn_brunette_img_8.jpg",
-        "description": "Is there anything prettier than maple syrup catching the morning light? Maple is a gorgeous shade of golden red-brown. It is the ultimate autumn color. Long wavy hair provides the perfect canvas for this shade. A maple brunette balayage on long hair looks breathtaking. The colorist will blend the maple shade from your mid-lengths down to the ends. This mimics the way the sun would naturally lighten your hair. When you add loose waves, the maple color wraps around each curl. It creates incredible depth and shine. The waves keep the long hair from looking flat or heavy. You will look like you just walked through a sunny autumn forest.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for maple brunette balayage long wavy hair.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your maple brunette balayage long wavy hair."
+        "title": "Honey Brunette Balayage On Shag Haircut",
+        "image": "/images/doc_autumn_brunette_img_7.jpg",
+        "description": "Luminous honey balayage adds dimension to a modern layered shag haircut. The choppy layers capture varying tones of blonde and light brown for an edgy, lived-in feel.",
+        "paragraphs": [
+          "Luminous honey balayage adds dimension to a modern layered shag haircut.",
+          "The choppy layers capture varying tones of blonde and light brown for an edgy, lived-in feel."
+        ],
+        "whyWeLoveIt": "Accentuates choppy shag layers with sun-dappled brightness.",
+        "stylingTip": "Diffuse with a texturizing cream to accentuate natural movement."
       },
       {
         "number": 9,
-        "title": "Espresso Brunette Balayage Blunt Cut",
-        "image": "/images/doc_autumn_brunette_img_9.jpg",
-        "description": "Do you prefer a more subtle and sleek look? Espresso tones are incredibly chic and refined. They add just a tiny hint of warmth to very dark hair. A blunt cut gives you sharp, clean ends. This makes your hair look incredibly thick and healthy. An espresso brunette balayage on a blunt cut is very modern. The espresso shade is just slightly lighter than your natural base. It creates a shadow effect that adds subtle dimension. The blunt ends keep the style looking sharp and intentional. This look works best when the hair is styled straight and smooth. It is perfect for the minimalist who wants a hint of autumn warmth.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for espresso brunette balayage blunt cut.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your espresso brunette balayage blunt cut."
+        "title": "Golden Bronze Brunette Balayage On Layers",
+        "image": "/images/doc_autumn_brunette_img_10.jpg",
+        "description": "Radiant golden bronze highlights melt softly into rich brown layers. This warm multi-tonal blend gives the illusion of thicker, sun-kissed hair.",
+        "paragraphs": [
+          "Radiant golden bronze highlights melt softly into rich brown layers.",
+          "This warm multi-tonal blend gives the illusion of thicker, sun-kissed hair."
+        ],
+        "whyWeLoveIt": "Creates a luxurious, sun-drenched appearance for autumn.",
+        "stylingTip": "Deep condition weekly to keep golden tones smooth and frizz-free."
       },
       {
         "number": 10,
-        "title": "Golden Bronze Brunette Balayage On Layers",
-        "image": "/images/doc_autumn_brunette_img_10.jpg",
-        "description": "Want to add some serious shine to your life? Golden bronze is a metallic shade that catches the light beautifully. It makes dark hair look very rich. Layers are essential for showing off this type of color. A golden bronze brunette balayage on layers is incredibly dynamic. The bronze pieces are placed strategically on the top layers. This means the color shows even when your hair is up in a ponytail. The layers allow the golden tones to peek through the dark base. It is a very luxurious and expensive-looking combination. You will love how the bronze shimmer brightens up your whole face. This style is just dazzling for the fall season.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for golden bronze brunette balayage on layers.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your golden bronze brunette balayage on layers."
+        "title": "Espresso Brunette Balayage Blunt Cut",
+        "image": "/images/doc_autumn_brunette_img_9.jpg",
+        "description": "Subtle deep espresso balayage adds glossy dimension to a crisp blunt cut. The fine, low-contrast highlights enhance the sharp perimeter of the haircut.",
+        "paragraphs": [
+          "Subtle deep espresso balayage adds glossy dimension to a crisp blunt cut.",
+          "The fine, low-contrast highlights enhance the sharp perimeter of the haircut."
+        ],
+        "whyWeLoveIt": "Adds ultra-subtle dimension without sacrificing sleek structure.",
+        "stylingTip": "Flat iron with a smoothing serum for a high-fashion glassy finish."
       },
       {
         "number": 11,
-        "title": "Cinnamon Brunette Balayage With Face Framing",
-        "image": "/images/doc_autumn_brunette_img_11.jpg",
-        "description": "Have you ever noticed how cinnamon can make everything feel warmer? Cinnamon hair dye has spicy red-brown undertones. It looks amazing against dark brunette roots. Face-framing highlights are a very popular technique right now. A cinnamon brunette balayage with face framing is incredibly flattering. The brightest cinnamon pieces are placed right around your face. This warms up your skin tone and makes your eyes pop. The rest of the hair has a softer blend of cinnamon through the ends. This creates a beautiful contouring effect for your face. It is a great way to test out a warmer color. You will feel bright and refreshed without a huge commitment.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for cinnamon brunette balayage with face framing.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your cinnamon brunette balayage with face framing."
+        "title": "Mahogany Brunette Balayage Short Hair",
+        "image": "/images/doc_autumn_brunette_img_12.jpg",
+        "description": "Rich mahogany undertones add warmth to short cropped styles and pixie lobs. Deep reddish-brown accents give short hair rich character and visual fullness.",
+        "paragraphs": [
+          "Rich mahogany undertones add warmth to short cropped styles and pixie lobs.",
+          "Deep reddish-brown accents give short hair rich character and visual fullness."
+        ],
+        "whyWeLoveIt": "Brings warmth and depth to short haircuts.",
+        "stylingTip": "Work a pomade or styling wax through the ends to create texture."
       },
       {
         "number": 12,
-        "title": "Mahogany Brunette Balayage Short Hair",
-        "image": "/images/doc_autumn_brunette_img_12.jpg",
-        "description": "Think short hair cannot have fun with color? Think again. Mahogany is a deep, rich shade with purple and red undertones. It is very elegant and sophisticated. Short hair benefits greatly from subtle color. A mahogany brunette balayage on short hair adds incredible depth. The mahogany is blended through the tips and the bangs. This stops short hair from looking like a solid helmet. It adds movement and interest to a cropped cut. When light hits the mahogany pieces, you will see beautiful red and violet reflections. It is a very classy choice for autumn. This color looks amazing with a tailored coat or a cozy chunky sweater.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for mahogany brunette balayage short hair.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your mahogany brunette balayage short hair."
+        "title": "Cinnamon Brunette Balayage With Face Framing",
+        "image": "/images/doc_autumn_brunette_img_11.jpg",
+        "description": "Warm cinnamon highlights focus around the face for a bright, flattering frame. Spiced cinnamon tones complement brown eyes and warm skin tones beautifully.",
+        "paragraphs": [
+          "Warm cinnamon highlights focus around the face for a bright, flattering frame.",
+          "Spiced cinnamon tones complement brown eyes and warm skin tones beautifully."
+        ],
+        "whyWeLoveIt": "Instantly brightens facial features with cozy spice tones.",
+        "stylingTip": "Keep money-piece strands glossy with a leave-in conditioner."
       },
       {
         "number": 13,
-        "title": "Mushroom Brunette Balayage On Lob",
-        "image": "/images/doc_autumn_brunette_img_13.jpg",
-        "description": "Are you a fan of cool and earthy tones? Mushroom hair color is a unique ashy brown. It is a surprising but gorgeous choice for autumn. It breaks away from the typical warm reds and golds. A lob gives this color a very modern edge. Amushroom brunette balayageon a lob is very chic. The cool mushroom shade is blended into the lower half of the hair. This tones out any brassy warmth in your brunette base. It creates a very smooth and smoky finish. The lob keeps the look sharp and fresh. This is the perfect style if you want to stand out subtly. It is incredibly fashion-forward and cool.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for mushroom brunette balayage on lob.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your mushroom brunette balayage on lob."
+        "title": "Vanilla Latte Brunette Balayage Long Hair",
+        "image": "/images/doc_autumn_brunette_img_14.jpg",
+        "description": "Creamy vanilla blonde ribbons contrast beautifully against a cool brunette base. This high-contrast balayage creates dramatic movement throughout long locks.",
+        "paragraphs": [
+          "Creamy vanilla blonde ribbons contrast beautifully against a cool brunette base.",
+          "This high-contrast balayage creates dramatic movement throughout long locks."
+        ],
+        "whyWeLoveIt": "Delivers striking contrast and modern flair.",
+        "stylingTip": "Use a purple toning shampoo every two weeks to keep vanilla ribbons cool."
       },
       {
         "number": 14,
-        "title": "Vanilla Latte Brunette Balayage Long Hair",
-        "image": "/images/doc_autumn_brunette_img_14.jpg",
-        "description": "Does your morning coffee order match your hair goals? A vanilla latte shade is a creamy, very light brown. It is a beautiful contrast against a deep brunette root. Long hair can carry a lot of color variation. A vanilla latte brunette balayage on long hair is stunning. The dark roots slowly melt into the creamy vanilla ends. This creates a gorgeous rooted look that is very low maintenance. You will not have to worry about harsh root lines. The long length shows off the smooth color transition perfectly. You can style it in soft curls to really show off the two tones. It is a sweet and beautiful autumn choice.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for vanilla latte brunette balayage long hair.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your vanilla latte brunette balayage long hair."
+        "title": "Mushroom Brunette Balayage On Lob",
+        "image": "/images/doc_autumn_brunette_img_13.jpg",
+        "description": "Trendy ash-toned mushroom brunette highlights grace a shoulder-length lob. Cool earthy undertones offer a chic, low-saturation alternative to warm golden colors.",
+        "paragraphs": [
+          "Trendy ash-toned mushroom brunette highlights grace a shoulder-length lob.",
+          "Cool earthy undertones offer a chic, low-saturation alternative to warm golden colors."
+        ],
+        "whyWeLoveIt": "The ultimate cool-toned autumn color choice for lobs.",
+        "stylingTip": "Wash with cool water to maintain crisp ash tones."
       },
       {
         "number": 15,
-        "title": "Hazelnut Brunette Balayage With Bangs",
-        "image": "/images/doc_autumn_brunette_img_15.jpg",
-        "description": "Are you looking for a nutty and natural warmth? Hazelnut is a fantastic medium brown with subtle golden undertones. It feels very cozy and comforting. Bangs can completely transform a basic haircut. A hazelnut brunette balayage with bangs is a fantastic style update. The hazelnut color is woven through the main body of the hair. The bangs are also tinted with the hazelnut shade. This makes the bangs blend perfectly into the rest of the highlights. It creates a very soft and wearable look. The bangs draw immediate attention to your eyes. This combination is very sweet and approachable. You will love the natural warmth it brings to your beautiful face.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for hazelnut brunette balayage with bangs.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your hazelnut brunette balayage with bangs."
+        "title": "Amber Brunette Balayage On Wavy Bob",
+        "image": "/images/doc_autumn_brunette_img_16.jpg",
+        "description": "Glowing amber highlights dance across a bouncy, textured wavy bob. Warm amber hues mimic the colors of autumn foliage, catching light with every movement.",
+        "paragraphs": [
+          "Glowing amber highlights dance across a bouncy, textured wavy bob.",
+          "Warm amber hues mimic the colors of autumn foliage, catching light with every movement."
+        ],
+        "whyWeLoveIt": "Adds glowing warmth and life to short wavy bobs.",
+        "stylingTip": "Apply a curl-defining mousse before blow-drying with a diffuser."
       },
       {
         "number": 16,
-        "title": "Amber Brunette Balayage On Wavy Bob",
-        "image": "/images/doc_autumn_brunette_img_16.jpg",
-        "description": "Have you ever admired the glowing warmth of amber jewelry? Amber hair color is a rich, golden-orange shade. It is bold and very eye-catching. A wavy bob is a fun and flirty haircut. An amber brunette balayage on a wavy bob is a showstopper. The amber tones are painted onto the wavy layers. This creates a beautiful shimmering effect. The dark roots ground the bright color. The waves are essential here. They show off the contrast between the dark base and the bright amber ends. This style has a very vibrant energy to it. It is perfect if you want to make a statement this autumn. You will definitely turn heads with this look.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for amber brunette balayage on wavy bob.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your amber brunette balayage on wavy bob."
+        "title": "Hazelnut Brunette Balayage With Bangs",
+        "image": "/images/doc_autumn_brunette_img_15.jpg",
+        "description": "Soft hazelnut ribbons weave through full fringe and gentle shoulder layers. The subtle nut-brown highlights soften heavy bangs for a breezy, romantic style.",
+        "paragraphs": [
+          "Soft hazelnut ribbons weave through full fringe and gentle shoulder layers.",
+          "The subtle nut-brown highlights soften heavy bangs for a breezy, romantic style."
+        ],
+        "whyWeLoveIt": "Pairs beautifully with full bangs and soft layers.",
+        "stylingTip": "Blow dry bangs with a paddle brush for a smooth, natural lay."
       },
       {
         "number": 17,
-        "title": "Chocolate Cherry Brunette Balayage Layers",
-        "image": "/images/doc_autumn_brunette_img_17.jpg",
-        "description": "Do you want a color that feels a little mysterious? Chocolate cherry is a deep, dark shade with hidden red tones. It only shows its true red in the sunlight. Layers help to reveal these hidden tones. A chocolate cherry brunette balayage on layers is incredibly multi-dimensional. The cherry shade is applied to the underneath layers of the hair. The top remains a solid dark chocolate brown. When you move, the cherry layers peek through beautifully. It is like a secret pop of color. This is a great option if you have a strict dress code. You can wear it sleek and hide the red. Or you can tousle it to reveal the cherry.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for chocolate cherry brunette balayage layers.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your chocolate cherry brunette balayage layers."
+        "title": "Sandy Brunette Balayage Shoulder Length",
+        "image": "/images/doc_autumn_brunette_img_18.jpg",
+        "description": "Neutral sandy beige highlights lighten up a medium brunette shoulder-length cut. This versatile shade transitions seamlessly from late summer into autumn.",
+        "paragraphs": [
+          "Neutral sandy beige highlights lighten up a medium brunette shoulder-length cut.",
+          "This versatile shade transitions seamlessly from late summer into autumn."
+        ],
+        "whyWeLoveIt": "Provides a clean, effortless neutral balayage look.",
+        "stylingTip": "Mist with a dry texture spray for easy everyday volume."
       },
       {
         "number": 18,
-        "title": "Sandy Brunette Balayage Shoulder Length",
-        "image": "/images/doc_autumn_brunette_img_18.jpg",
-        "description": "Are you dreaming of a beachy vibe even in the fall? Sandy brunette is a muted, beige-brown shade. It is very calm and understated. Shoulder length hair is very easy to manage. Asandy brunette balayageon shoulder length hair is very pretty. The sandy color is blended through the ends of the hair. This neutralizes any harsh brassiness in your brown hair. It leaves you with a smooth, matte finish. The result looks very healthy and natural. It does not look like you just left the salon. It looks like you spent a summer at the beach. This style is very relaxed and easy-going. It is perfect for a casual autumn lifestyle.",
-        "whyWeLoveIt": "Brings out rich dimensional warmth and seamless autumn tones for sandy brunette balayage shoulder length.",
-        "stylingTip": "Use a color-safe moisturizing shampoo and light shine serum to maintain the luster of your sandy brunette balayage shoulder length."
+        "title": "Chocolate Cherry Brunette Balayage Layers",
+        "image": "/images/doc_autumn_brunette_img_17.jpg",
+        "description": "Deep chocolate brown meets subtle cherry red balayage for a rich, luxurious finish. The reddish-purple undertones come alive in natural light while looking subtle indoors.",
+        "paragraphs": [
+          "Deep chocolate brown meets subtle cherry red balayage for a rich, luxurious finish.",
+          "The reddish-purple undertones come alive in natural light while looking subtle indoors."
+        ],
+        "whyWeLoveIt": "Unlocks a deep, opulent autumn color dimension.",
+        "stylingTip": "Use color-depositing conditioner to keep cherry undertones vibrant."
       }
     ]
   },
