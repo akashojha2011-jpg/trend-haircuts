@@ -30356,226 +30356,202 @@ export const articles = [
     "author": "Trend Haircuts Editorial Team",
     "date": "October 2026",
     "readTime": "6 min read",
-    "heroImage": "/images/doc_b24_p1_img_7.jpg",
+    "heroImage": "/images/redo_mini_twist_img_2.jpg",
     "intro": "Mini twist ponytail hairstyles are one of the most versatile and protective looks for natural hair. Whether your hair is short, medium, or long, mini twists offer a beautiful foundation for countless ponytail styles that are both stylish and low-maintenance. From sleek high ponytails to loose, bohemian-inspired looks, the options are truly endless. These styles work across all textures and lengths, making them a top choice for everyday wear, special events, and everything in between. If you are looking for fresh inspiration, these 20 mini twist ponytail hairstyle ideas will help you switch up your look with confidence and ease.",
     "introParagraphs": [
       "Mini twist ponytail hairstyles are one of the most versatile and protective looks for natural hair. Whether your hair is short, medium, or long, mini twists offer a beautiful foundation for countless ponytail styles that are both stylish and low-maintenance. From sleek high ponytails to loose, bohemian-inspired looks, the options are truly endless. These styles work across all textures and lengths, making them a top choice for everyday wear, special events, and everything in between. If you are looking for fresh inspiration, these 20 mini twist ponytail hairstyle ideas will help you switch up your look with confidence and ease.",
-      "A high ponytail never goes out of style, and when done with mini twists, it looks even more polished and intentional. To achieve this look, gather all your mini twists toward the crown of your head and smooth down your edges using edge control for a clean, sleek finish. Wrap a single twist around the base to hide the hair tie completely, which instantly elevates the look from casual to chic. This style works best on medium to long mini twists and stays neat throughout the day. It is a great go-to for work, school, or any occasion that calls for a put-together appearance without spending too much time styling."
+      "Sometimes a simple low ponytail is all you need to look effortlessly stylish. Pull your mini twists back to the nape of your neck and use edge control to lay down yourbaby hairsinto crisp, defined patterns along your hairline. This style is incredibly clean and professional, making it ideal for formal settings or office environments. The beauty of a low mini twist ponytail is that it keeps your hair off your face while still showcasing the texture and definition of your twists. Add a silk scrunchie or a gold hair cuff at the base for a finishing touch that makes the look feel more intentional and complete."
     ],
     "isFeatured": false,
     "isTrending": true,
     "extraSections": [
       {
         "title": "How to Keep 15+ Mini Twist Ponytail Hairstyle With Tiny Twists Secure All Day",
-        "content": "To prevent sag or tension headache, use snag-free elastic bands and anchor your ponytail base with two criss-crossed bobby pins. Teasing the underside of the hair loop adds instant perky volume."
+        "content": "To prevent sagging or tension on your scalp, use snag-free elastic bands and anchor your ponytail base with criss-crossed bobby pins. Teasing or flaking cream slightly at the base provides perky volume."
       },
       {
-        "title": "Accessories to Elevate Your Ponytail",
-        "content": "Wrap a strand of hair around the elastic band to hide it, or add silk scrunchies, decorative hair cuffs, or ribbon bows for a instant high-fashion touch."
+        "title": "Accessories to Elevate Your Mini Twist Ponytail",
+        "content": "Wrap a twist strand around the ponytail band to conceal it, or accent with wooden beads, gold cuffs, or silk scrunchies for an instant elevated look."
       }
     ],
     "faqs": [
       {
-        "question": "How do I add volume to a thin ponytail?",
-        "answer": "Split your ponytail in half horizontally and insert a small claw clip between the top and bottom sections to lift the top layer."
+        "question": "How long do mini twist ponytails last?",
+        "answer": "Mini twist ponytails can last 1 to 2 weeks with proper nighttime care using a satin bonnet or silk scarf."
       },
       {
-        "question": "How can I prevent ponytail hair damage?",
-        "answer": "Avoid pulling ties too tightly near the scalp, use silk or satin scrunchies, and alternate the height of your ponytail daily."
+        "question": "How do I prevent mini twists from unraveling in a ponytail?",
+        "answer": "Twist tightly down to the ends and seal with a small dab of shea butter or styling gel before securing with a soft elastic band."
       }
     ],
     "items": [
       {
         "number": 1,
-        "title": "Mini Twist High Ponytail with Gold Cuffs",
-        "image": "/images/doc_b24_p1_img_7.jpg",
-        "description": "Gold cuffs are one of the easiest ways to transform a simple mini twist ponytail into something that looks luxurious and intentional. Pull your twists up into a high ponytail and clip gold spiral cuffs along several twists within the ponytail and around your face framing pieces. The gold catches the light and adds a metallic sheen that makes the entire style look elevated and fashion-forward. This look pairs beautifully with bold earrings and a monochromatic outfit for a cohesive, runway-ready aesthetic. It works especially well formedium to long mini twistswhere the cuffs have enough surface area to really stand out and make a statement without looking overdone or cluttered.",
-        "paragraphs": [
-          "Gold cuffs are one of the easiest ways to transform a simple mini twist ponytail into something that looks luxurious and intentional.",
-          "Pull your twists up into a high ponytail and clip gold spiral cuffs along several twists within the ponytail and around your face framing pieces. The gold catches the light and adds a metallic sheen that makes the entire style look elevated and fashion-forward. This look pairs beautifully with bold earrings and a monochromatic outfit for a cohesive, runway-ready aesthetic. It works especially well formedium to long mini twistswhere the cuffs have enough surface area to really stand out and make a statement without looking overdone or cluttered."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist high ponytail with gold cuffs.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist high ponytail with gold cuffs."
-      },
-      {
-        "number": 2,
-        "title": "Mini Twist Knotless Ponytail with Extensions",
-        "image": "/images/doc_b24_p1_img_11.jpg",
-        "description": "Addingextensions to your mini twist ponytailcreates dramatic length and volume that looks seamlessly natural. Install loose twist extensions into the base of your ponytail using a knotless technique to prevent tension on your scalp and hairline. The extensions blend beautifully with your natural mini twists, creating a full, flowing ponytail that has gorgeous movement and length. This style is great for special occasions when you want extra impact and drama without compromising the health of your natural hair. Use extensions that closely match your natural texture and color for the most seamless blend, or go bold with a contrasting color for a striking, fashion-forward statement that commands attention.",
-        "paragraphs": [
-          "Addingextensions to your mini twist ponytailcreates dramatic length and volume that looks seamlessly natural.",
-          "Install loose twist extensions into the base of your ponytail using a knotless technique to prevent tension on your scalp and hairline. The extensions blend beautifully with your natural mini twists, creating a full, flowing ponytail that has gorgeous movement and length. This style is great for special occasions when you want extra impact and drama without compromising the health of your natural hair. Use extensions that closely match your natural texture and color for the most seamless blend, or go bold with a contrasting color for a striking, fashion-forward statement that commands attention."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist knotless ponytail with extensions.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist knotless ponytail with extensions."
-      },
-      {
-        "number": 3,
         "title": "Mini Twist Bubble Ponytail",
-        "image": "/images/doc_b24_p1_img_3.jpg",
+        "image": "/images/redo_mini_twist_img_2.jpg",
         "description": "The bubble ponytail trend has taken over social media, and it looks absolutely stunning with mini twists. Start by pulling your twists into a high or mid ponytail, then use small clear elastics spaced evenly down the length of the ponytail to create puffy, rounded sections that resemble bubbles. Gently pull apart each section slightly to make the bubbles fuller and more dramatic. Mini twists add incredible texture to this already eye-catching style, giving each bubble a rich, dimensional look. This is a fun, playful hairstyle that works well for casual outings, outdoor events, or any time you want to turn heads with minimal effort and maximum style impact.",
         "paragraphs": [
           "The bubble ponytail trend has taken over social media, and it looks absolutely stunning with mini twists.",
           "Start by pulling your twists into a high or mid ponytail, then use small clear elastics spaced evenly down the length of the ponytail to create puffy, rounded sections that resemble bubbles. Gently pull apart each section slightly to make the bubbles fuller and more dramatic. Mini twists add incredible texture to this already eye-catching style, giving each bubble a rich, dimensional look. This is a fun, playful hairstyle that works well for casual outings, outdoor events, or any time you want to turn heads with minimal effort and maximum style impact."
         ],
         "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist bubble ponytail.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist bubble ponytail."
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist bubble ponytail looking polished."
       },
       {
-        "number": 4,
-        "title": "Mini Twist Ponytail with Jumbo Scrunchie",
-        "image": "/images/doc_b24_p1_img_8.jpg",
-        "description": "A jumbo scrunchie is a small detail that makes a massive visual impact on a mini twist ponytail. Pull your twists into a high or low ponytail and use an oversized, textured, or printed scrunchie to secure them. The scrunchie acts as both a functional hair tie and a bold accessory, instantly making your ponytail look more deliberate and stylish. Satin and velvet scrunchies are especially popular because they are gentle on twists and prevent unnecessary frizz and breakage. Choose a scrunchie in a contrasting color to your hair for a pop of visual interest, or match your outfit for a coordinated, put-together look that feels both modern and effortlessly cool.",
-        "paragraphs": [
-          "A jumbo scrunchie is a small detail that makes a massive visual impact on a mini twist ponytail.",
-          "Pull your twists into a high or low ponytail and use an oversized, textured, or printed scrunchie to secure them. The scrunchie acts as both a functional hair tie and a bold accessory, instantly making your ponytail look more deliberate and stylish. Satin and velvet scrunchies are especially popular because they are gentle on twists and prevent unnecessary frizz and breakage. Choose a scrunchie in a contrasting color to your hair for a pop of visual interest, or match your outfit for a coordinated, put-together look that feels both modern and effortlessly cool."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist ponytail with jumbo scrunchie.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist ponytail with jumbo scrunchie."
-      },
-      {
-        "number": 5,
+        "number": 2,
         "title": "Mini Twist Space Buns Ponytail Hybrid",
-        "image": "/images/doc_b24_p1_img_10.jpg",
+        "image": "/images/redo_mini_twist_img_8.jpg",
         "description": "This fun, creative style combines the youthful energy of space buns with the sleekness of a ponytail. Divide your mini twists down the center and pull each section into a high ponytail on either side of your head. Leave the ends loose and fluffy for a puff effect, or coil each ponytail into a small bun. The result is a playful, symmetrical style that is full of personality and movement. Mini twists add incredible texture to this look, making each puff or bun look full and defined. This hairstyle is perfect for festivals, casual outings, and any occasion where you want to lean into a bold, expressive aesthetic that celebrates natural hair in all its glory.",
         "paragraphs": [
           "This fun, creative style combines the youthful energy of space buns with the sleekness of a ponytail.",
           "Divide your mini twists down the center and pull each section into a high ponytail on either side of your head. Leave the ends loose and fluffy for a puff effect, or coil each ponytail into a small bun. The result is a playful, symmetrical style that is full of personality and movement. Mini twists add incredible texture to this look, making each puff or bun look full and defined. This hairstyle is perfect for festivals, casual outings, and any occasion where you want to lean into a bold, expressive aesthetic that celebrates natural hair in all its glory."
         ],
         "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist space buns ponytail hybrid.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist space buns ponytail hybrid."
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist space buns ponytail hybrid looking polished."
       },
       {
-        "number": 6,
-        "title": "Mini Twist Ponytail with Curly Ends",
-        "image": "/images/doc_b24_p1_img_12.jpg",
-        "description": "Leaving the ends of your mini twists loose and curly creates a beautiful contrast between the defined twist pattern and the soft, free-form curls at the tips. Pull your twists into a mid or high ponytail and allow the curly ends to fan out around the base and top of the ponytail for extra fullness and dimension. You can refresh the curl pattern on the ends using a little water and curl-defining cream before styling. This look is effortlessly bohemian and works beautifully on wash-and-go hair types. It strikes the perfect balance between polished and relaxed, making it versatile enough for both casual days and slightly more dressed-up occasions throughout the week.",
-        "paragraphs": [
-          "Leaving the ends of your mini twists loose and curly creates a beautiful contrast between the defined twist pattern and the soft, free-form curls at the tips.",
-          "Pull your twists into a mid or high ponytail and allow the curly ends to fan out around the base and top of the ponytail for extra fullness and dimension. You can refresh the curl pattern on the ends using a little water and curl-defining cream before styling. This look is effortlessly bohemian and works beautifully on wash-and-go hair types. It strikes the perfect balance between polished and relaxed, making it versatile enough for both casual days and slightly more dressed-up occasions throughout the week."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist ponytail with curly ends.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist ponytail with curly ends."
-      },
-      {
-        "number": 7,
-        "title": "Side Swept Mini Twist Ponytail",
-        "image": "/images/doc_b24_p1_img_4.jpg",
-        "description": "A side swept ponytail adds a soft, romantic feel to mini twists that a centered style simply cannot match. Gather your twists and sweep them gently over one shoulder, securing them low near the nape on the side. Leave a few face-framing mini twists loose around the front to soften the overall look. This hairstyle is especially flattering for oval, heart, and round face shapes because the asymmetry draws the eye and creates a slimming, elongating effect. It is an excellent choice for casual brunches, outdoor gatherings, or any daytime event where you want to look polished yet relaxed. The side sweep gives instant elegance without any complicated techniques.",
-        "paragraphs": [
-          "A side swept ponytail adds a soft, romantic feel to mini twists that a centered style simply cannot match.",
-          "Gather your twists and sweep them gently over one shoulder, securing them low near the nape on the side. Leave a few face-framing mini twists loose around the front to soften the overall look. This hairstyle is especially flattering for oval, heart, and round face shapes because the asymmetry draws the eye and creates a slimming, elongating effect. It is an excellent choice for casual brunches, outdoor gatherings, or any daytime event where you want to look polished yet relaxed. The side sweep gives instant elegance without any complicated techniques."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for side swept mini twist ponytail.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of side swept mini twist ponytail."
-      },
-      {
-        "number": 8,
-        "title": "Mini Twist Ponytail with Headband or Scarf",
-        "image": "/images/doc_b24_p1_img_16.jpg",
-        "description": "Pairing a ponytail with a headband, bandana, orsilk scarfis one of the simplest ways to elevate your mini twist style instantly. Pull your twists into a high or low ponytail and wrap a printed scarf or wide knit headband around your head, tying it at the top or tucking it under the ponytail for a clean finish. The headband frames your face beautifully and adds a pop of color or print that complements your overall look. This styling trick is especially useful on days when your hairline needs a little extra coverage or when you want to add a fashion element to an otherwise simple ponytail without spending extra time.",
-        "paragraphs": [
-          "Pairing a ponytail with a headband, bandana, orsilk scarfis one of the simplest ways to elevate your mini twist style instantly.",
-          "Pull your twists into a high or low ponytail and wrap a printed scarf or wide knit headband around your head, tying it at the top or tucking it under the ponytail for a clean finish. The headband frames your face beautifully and adds a pop of color or print that complements your overall look. This styling trick is especially useful on days when your hairline needs a little extra coverage or when you want to add a fashion element to an otherwise simple ponytail without spending extra time."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist ponytail with headband or scarf.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist ponytail with headband or scarf."
-      },
-      {
-        "number": 9,
-        "title": "Low Mini Twist Ponytail with Edge Control",
-        "image": "/images/doc_b24_p1_img_2.jpg",
-        "description": "Sometimes a simple low ponytail is all you need to look effortlessly stylish. Pull your mini twists back to the nape of your neck and use edge control to lay down yourbaby hairsinto crisp, defined patterns along your hairline. This style is incredibly clean and professional, making it ideal for formal settings or office environments. The beauty of a low mini twist ponytail is that it keeps your hair off your face while still showcasing the texture and definition of your twists. Add a silk scrunchie or a gold hair cuff at the base for a finishing touch that makes the look feel more intentional and complete.",
-        "paragraphs": [
-          "Sometimes a simple low ponytail is all you need to look effortlessly stylish.",
-          "Pull your mini twists back to the nape of your neck and use edge control to lay down yourbaby hairsinto crisp, defined patterns along your hairline. This style is incredibly clean and professional, making it ideal for formal settings or office environments. The beauty of a low mini twist ponytail is that it keeps your hair off your face while still showcasing the texture and definition of your twists. Add a silk scrunchie or a gold hair cuff at the base for a finishing touch that makes the look feel more intentional and complete."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for low mini twist ponytail with edge control.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of low mini twist ponytail with edge control."
-      },
-      {
-        "number": 10,
+        "number": 3,
         "title": "Mini Twist Ponytail with Colorful Hair Rings",
-        "image": "/images/doc_b24_p1_img_15.jpg",
+        "image": "/images/redo_mini_twist_img_13.jpg",
         "description": "Hair rings are a trendy, low-commitment way to add color and personality to your mini twist ponytail. Slide small spiral rings, colored cuffs, or metallic bands onto individual twists throughout your ponytail for a layered, accessorized look. You can mix metals, colors, and sizes for an eclectic feel, or stick to a single color for something more cohesive and editorial. Hair rings require no heat, no glue, and no skill to apply, making them one of the easiest ways to customize your ponytail style. This look photographs beautifully and is especially popular on social media. It is a fantastic choice for anyone who loves expressing their personal style through their hair accessories.",
         "paragraphs": [
           "Hair rings are a trendy, low-commitment way to add color and personality to your mini twist ponytail.",
           "Slide small spiral rings, colored cuffs, or metallic bands onto individual twists throughout your ponytail for a layered, accessorized look. You can mix metals, colors, and sizes for an eclectic feel, or stick to a single color for something more cohesive and editorial. Hair rings require no heat, no glue, and no skill to apply, making them one of the easiest ways to customize your ponytail style. This look photographs beautifully and is especially popular on social media. It is a fantastic choice for anyone who loves expressing their personal style through their hair accessories."
         ],
         "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist ponytail with colorful hair rings.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist ponytail with colorful hair rings."
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist ponytail with colorful hair rings looking polished."
       },
       {
-        "number": 11,
-        "title": "Low Mini Twist Ponytail with Braid-Wrapped Base",
-        "image": "/images/doc_b24_p1_img_9.jpg",
-        "description": "Elevate a simple low ponytail by wrapping a single mini twist or small braid around the base to conceal the elastic completely. This technique is a stylist favorite because it gives the ponytail a clean, seamless finish that looks professionally done. Secure the wrapped section with a bobby pin tucked underneath so it stays hidden. This style works at any ponytail height but looks particularly refined when worn low at the nape of the neck. It is ideal for professional settings, events, and any situation where a polished appearance is important. The wrapped base detail adds a subtle sophistication that takes the look from ordinary to truly elevated with just a few extra minutes of effort.",
-        "paragraphs": [
-          "Elevate a simple low ponytail by wrapping a single mini twist or small braid around the base to conceal the elastic completely.",
-          "This technique is a stylist favorite because it gives the ponytail a clean, seamless finish that looks professionally done. Secure the wrapped section with a bobby pin tucked underneath so it stays hidden. This style works at any ponytail height but looks particularly refined when worn low at the nape of the neck. It is ideal for professional settings, events, and any situation where a polished appearance is important. The wrapped base detail adds a subtle sophistication that takes the look from ordinary to truly elevated with just a few extra minutes of effort."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for low mini twist ponytail with braid-wrapped base.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of low mini twist ponytail with braid-wrapped base."
-      },
-      {
-        "number": 12,
-        "title": "High Sleek Mini Twist Ponytail with Wrapped Base",
-        "image": "/images/doc_b24_p1_img_1.jpg",
-        "description": "A high ponytail never goes out of style, and when done with mini twists, it looks even more polished and intentional. To achieve this look, gather all your mini twists toward the crown of your head and smooth down your edges using edge control for a clean, sleek finish. Wrap a single twist around the base to hide the hair tie completely, which instantly elevates the look from casual to chic. This style works best on medium to long mini twists and stays neat throughout the day. It is a great go-to for work, school, or any occasion that calls for a put-together appearance without spending too much time styling.",
-        "paragraphs": [
-          "A high ponytail never goes out of style, and when done with mini twists, it looks even more polished and intentional.",
-          "To achieve this look, gather all your mini twists toward the crown of your head and smooth down your edges using edge control for a clean, sleek finish. Wrap a single twist around the base to hide the hair tie completely, which instantly elevates the look from casual to chic. This style works best on medium to long mini twists and stays neat throughout the day. It is a great go-to for work, school, or any occasion that calls for a put-together appearance without spending too much time styling."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for high sleek mini twist ponytail with wrapped base.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of high sleek mini twist ponytail with wrapped base."
-      },
-      {
-        "number": 13,
-        "title": "Messy Mini Twist Ponytail with Loose Pieces",
-        "image": "/images/doc_b24_p1_img_14.jpg",
-        "description": "Not every ponytail needs to be sleek and tight. A loosely gathered, slightly messy mini twist ponytail has a casual, lived-in beauty that is incredibly appealing and approachable. Pull your twists back into a mid or high ponytail without smoothing them down too much, and allow a few pieces to fall freely around your face and temples. This relaxed style works especially well for days when your twists are a week or two old and have naturally loosened up. The slightly undone quality makes it look effortlessly cool rather than unkempt. Use a few bobby pins to tuck away any pieces that feel out of place while still keeping that carefree, textured aesthetic intact.",
-        "paragraphs": [
-          "Not every ponytail needs to be sleek and tight.",
-          "A loosely gathered, slightly messy mini twist ponytail has a casual, lived-in beauty that is incredibly appealing and approachable. Pull your twists back into a mid or high ponytail without smoothing them down too much, and allow a few pieces to fall freely around your face and temples. This relaxed style works especially well for days when your twists are a week or two old and have naturally loosened up. The slightly undone quality makes it look effortlessly cool rather than unkempt. Use a few bobby pins to tuck away any pieces that feel out of place while still keeping that carefree, textured aesthetic intact."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for messy mini twist ponytail with loose pieces.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of messy mini twist ponytail with loose pieces."
-      },
-      {
-        "number": 14,
-        "title": "Half-Up Half-Down Mini Twist Ponytail",
-        "image": "/images/doc_b24_p1_img_6.jpg",
-        "description": "The half-up half-down style is a perfect middle ground between wearing your mini twists fully up or fully down. Section off the top half of your twists, from ear to ear, and pull them into a small ponytail or bun at the crown while letting the bottom half fall freely. This style is incredibly flattering because it frames the face beautifully while still showing off the full length and texture of your mini twists. You can secure the top section with a silk scrunchie, a metallic cuff, or a decorative hair tie. It is a great everyday style that feels effortless but looks like you put real thought into your hair that morning.",
-        "paragraphs": [
-          "The half-up half-down style is a perfect middle ground between wearing your mini twists fully up or fully down.",
-          "Section off the top half of your twists, from ear to ear, and pull them into a small ponytail or bun at the crown while letting the bottom half fall freely. This style is incredibly flattering because it frames the face beautifully while still showing off the full length and texture of your mini twists. You can secure the top section with a silk scrunchie, a metallic cuff, or a decorative hair tie. It is a great everyday style that feels effortless but looks like you put real thought into your hair that morning."
-        ],
-        "whyWeLoveIt": "Delivers effortless style and all-day security for half-up half-down mini twist ponytail.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of half-up half-down mini twist ponytail."
-      },
-      {
-        "number": 15,
+        "number": 4,
         "title": "Mini Twist Ponytail with Beads",
-        "image": "/images/doc_b24_p1_img_5.jpg",
+        "image": "/images/redo_mini_twist_img_4.jpg",
         "description": "Beads and mini twists are a natural pairing that brings cultural richness and playful personality to any ponytail style. Gather your twists into a mid or high ponytail and thread wooden, metallic, or acrylicbeads onto select twiststhroughout the ponytail. You can cluster them near the ends or scatter them throughout for an eclectic, eye-catching effect. This look is especially popular for kids and young adults but works beautifully at any age. The beads add movement and a satisfying clicking sound when you move your head. Pair this style with bold accessories and colorful clothing to lean into the fun, carefree energy that beaded mini twist ponytails naturally exude.",
         "paragraphs": [
           "Beads and mini twists are a natural pairing that brings cultural richness and playful personality to any ponytail style.",
           "Gather your twists into a mid or high ponytail and thread wooden, metallic, or acrylicbeads onto select twiststhroughout the ponytail. You can cluster them near the ends or scatter them throughout for an eclectic, eye-catching effect. This look is especially popular for kids and young adults but works beautifully at any age. The beads add movement and a satisfying clicking sound when you move your head. Pair this style with bold accessories and colorful clothing to lean into the fun, carefree energy that beaded mini twist ponytails naturally exude."
         ],
         "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist ponytail with beads.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist ponytail with beads."
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist ponytail with beads looking polished."
       },
       {
-        "number": 16,
+        "number": 5,
+        "title": "Side Swept Mini Twist Ponytail",
+        "image": "/images/redo_mini_twist_img_3.jpg",
+        "description": "A side swept ponytail adds a soft, romantic feel to mini twists that a centered style simply cannot match. Gather your twists and sweep them gently over one shoulder, securing them low near the nape on the side. Leave a few face-framing mini twists loose around the front to soften the overall look. This hairstyle is especially flattering for oval, heart, and round face shapes because the asymmetry draws the eye and creates a slimming, elongating effect. It is an excellent choice for casual brunches, outdoor gatherings, or any daytime event where you want to look polished yet relaxed. The side sweep gives instant elegance without any complicated techniques.",
+        "paragraphs": [
+          "A side swept ponytail adds a soft, romantic feel to mini twists that a centered style simply cannot match.",
+          "Gather your twists and sweep them gently over one shoulder, securing them low near the nape on the side. Leave a few face-framing mini twists loose around the front to soften the overall look. This hairstyle is especially flattering for oval, heart, and round face shapes because the asymmetry draws the eye and creates a slimming, elongating effect. It is an excellent choice for casual brunches, outdoor gatherings, or any daytime event where you want to look polished yet relaxed. The side sweep gives instant elegance without any complicated techniques."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for side swept mini twist ponytail.",
+        "stylingTip": "Apply a light styling cream or edge control to keep side swept mini twist ponytail looking polished."
+      },
+      {
+        "number": 6,
+        "title": "Mini Twist Knotless Ponytail with Extensions",
+        "image": "/images/redo_mini_twist_img_9.jpg",
+        "description": "Addingextensions to your mini twist ponytailcreates dramatic length and volume that looks seamlessly natural. Install loose twist extensions into the base of your ponytail using a knotless technique to prevent tension on your scalp and hairline. The extensions blend beautifully with your natural mini twists, creating a full, flowing ponytail that has gorgeous movement and length. This style is great for special occasions when you want extra impact and drama without compromising the health of your natural hair. Use extensions that closely match your natural texture and color for the most seamless blend, or go bold with a contrasting color for a striking, fashion-forward statement that commands attention.",
+        "paragraphs": [
+          "Addingextensions to your mini twist ponytailcreates dramatic length and volume that looks seamlessly natural.",
+          "Install loose twist extensions into the base of your ponytail using a knotless technique to prevent tension on your scalp and hairline. The extensions blend beautifully with your natural mini twists, creating a full, flowing ponytail that has gorgeous movement and length. This style is great for special occasions when you want extra impact and drama without compromising the health of your natural hair. Use extensions that closely match your natural texture and color for the most seamless blend, or go bold with a contrasting color for a striking, fashion-forward statement that commands attention."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist knotless ponytail with extensions.",
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist knotless ponytail with extensions looking polished."
+      },
+      {
+        "number": 7,
+        "title": "Mini Twist Ponytail with Headband or Scarf",
+        "image": "/images/redo_mini_twist_img_14.jpg",
+        "description": "Pairing a ponytail with a headband, bandana, orsilk scarfis one of the simplest ways to elevate your mini twist style instantly. Pull your twists into a high or low ponytail and wrap a printed scarf or wide knit headband around your head, tying it at the top or tucking it under the ponytail for a clean finish. The headband frames your face beautifully and adds a pop of color or print that complements your overall look. This styling trick is especially useful on days when your hairline needs a little extra coverage or when you want to add a fashion element to an otherwise simple ponytail without spending extra time.",
+        "paragraphs": [
+          "Pairing a ponytail with a headband, bandana, orsilk scarfis one of the simplest ways to elevate your mini twist style instantly.",
+          "Pull your twists into a high or low ponytail and wrap a printed scarf or wide knit headband around your head, tying it at the top or tucking it under the ponytail for a clean finish. The headband frames your face beautifully and adds a pop of color or print that complements your overall look. This styling trick is especially useful on days when your hairline needs a little extra coverage or when you want to add a fashion element to an otherwise simple ponytail without spending extra time."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist ponytail with headband or scarf.",
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist ponytail with headband or scarf looking polished."
+      },
+      {
+        "number": 8,
+        "title": "Messy Mini Twist Ponytail with Loose Pieces",
+        "image": "/images/redo_mini_twist_img_12.jpg",
+        "description": "Not every ponytail needs to be sleek and tight. A loosely gathered, slightly messy mini twist ponytail has a casual, lived-in beauty that is incredibly appealing and approachable. Pull your twists back into a mid or high ponytail without smoothing them down too much, and allow a few pieces to fall freely around your face and temples. This relaxed style works especially well for days when your twists are a week or two old and have naturally loosened up. The slightly undone quality makes it look effortlessly cool rather than unkempt. Use a few bobby pins to tuck away any pieces that feel out of place while still keeping that carefree, textured aesthetic intact.",
+        "paragraphs": [
+          "Not every ponytail needs to be sleek and tight.",
+          "A loosely gathered, slightly messy mini twist ponytail has a casual, lived-in beauty that is incredibly appealing and approachable. Pull your twists back into a mid or high ponytail without smoothing them down too much, and allow a few pieces to fall freely around your face and temples. This relaxed style works especially well for days when your twists are a week or two old and have naturally loosened up. The slightly undone quality makes it look effortlessly cool rather than unkempt. Use a few bobby pins to tuck away any pieces that feel out of place while still keeping that carefree, textured aesthetic intact."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for messy mini twist ponytail with loose pieces.",
+        "stylingTip": "Apply a light styling cream or edge control to keep messy mini twist ponytail with loose pieces looking polished."
+      },
+      {
+        "number": 9,
+        "title": "Low Mini Twist Ponytail with Edge Control",
+        "image": "/images/redo_mini_twist_img_1.jpg",
+        "description": "Sometimes a simple low ponytail is all you need to look effortlessly stylish. Pull your mini twists back to the nape of your neck and use edge control to lay down yourbaby hairsinto crisp, defined patterns along your hairline. This style is incredibly clean and professional, making it ideal for formal settings or office environments. The beauty of a low mini twist ponytail is that it keeps your hair off your face while still showcasing the texture and definition of your twists. Add a silk scrunchie or a gold hair cuff at the base for a finishing touch that makes the look feel more intentional and complete.",
+        "paragraphs": [
+          "Sometimes a simple low ponytail is all you need to look effortlessly stylish.",
+          "Pull your mini twists back to the nape of your neck and use edge control to lay down yourbaby hairsinto crisp, defined patterns along your hairline. This style is incredibly clean and professional, making it ideal for formal settings or office environments. The beauty of a low mini twist ponytail is that it keeps your hair off your face while still showcasing the texture and definition of your twists. Add a silk scrunchie or a gold hair cuff at the base for a finishing touch that makes the look feel more intentional and complete."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for low mini twist ponytail with edge control.",
+        "stylingTip": "Apply a light styling cream or edge control to keep low mini twist ponytail with edge control looking polished."
+      },
+      {
+        "number": 10,
         "title": "Mini Twist Braided Ponytail",
-        "image": "/images/doc_b24_p1_img_13.jpg",
+        "image": "/images/redo_mini_twist_img_11.jpg",
         "description": "Take your mini twist ponytail one step further by incorporating a loose, chunky braid into the style. After gathering your twists into a ponytail, divide the ponytail section into three parts and braid them together loosely all the way down. The braid will have a beautifully textured appearance thanks to the individual mini twists making up each strand. Secure the end with a small elastic or decorative hair tie. This is a creative way to add structure and visual interest to a traditional ponytail without needing any extensions or additional styling products. It is a great option for those who want their mini twist ponytail to look unique, detailed, and truly one of a kind.",
         "paragraphs": [
           "Take your mini twist ponytail one step further by incorporating a loose, chunky braid into the style.",
           "After gathering your twists into a ponytail, divide the ponytail section into three parts and braid them together loosely all the way down. The braid will have a beautifully textured appearance thanks to the individual mini twists making up each strand. Secure the end with a small elastic or decorative hair tie. This is a creative way to add structure and visual interest to a traditional ponytail without needing any extensions or additional styling products. It is a great option for those who want their mini twist ponytail to look unique, detailed, and truly one of a kind."
         ],
         "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist braided ponytail.",
-        "stylingTip": "Apply a light styling lotion or anti-frizz serum to maintain the smooth finish of mini twist braided ponytail."
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist braided ponytail looking polished."
+      },
+      {
+        "number": 11,
+        "title": "Mini Twist Ponytail with Jumbo Scrunchie",
+        "image": "/images/redo_mini_twist_img_6.jpg",
+        "description": "A jumbo scrunchie is a small detail that makes a massive visual impact on a mini twist ponytail. Pull your twists into a high or low ponytail and use an oversized, textured, or printed scrunchie to secure them. The scrunchie acts as both a functional hair tie and a bold accessory, instantly making your ponytail look more deliberate and stylish. Satin and velvet scrunchies are especially popular because they are gentle on twists and prevent unnecessary frizz and breakage. Choose a scrunchie in a contrasting color to your hair for a pop of visual interest, or match your outfit for a coordinated, put-together look that feels both modern and effortlessly cool.",
+        "paragraphs": [
+          "A jumbo scrunchie is a small detail that makes a massive visual impact on a mini twist ponytail.",
+          "Pull your twists into a high or low ponytail and use an oversized, textured, or printed scrunchie to secure them. The scrunchie acts as both a functional hair tie and a bold accessory, instantly making your ponytail look more deliberate and stylish. Satin and velvet scrunchies are especially popular because they are gentle on twists and prevent unnecessary frizz and breakage. Choose a scrunchie in a contrasting color to your hair for a pop of visual interest, or match your outfit for a coordinated, put-together look that feels both modern and effortlessly cool."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist ponytail with jumbo scrunchie.",
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist ponytail with jumbo scrunchie looking polished."
+      },
+      {
+        "number": 12,
+        "title": "Half-Up Half-Down Mini Twist Ponytail",
+        "image": "/images/redo_mini_twist_img_5.jpg",
+        "description": "The half-up half-down style is a perfect middle ground between wearing your mini twists fully up or fully down. Section off the top half of your twists, from ear to ear, and pull them into a small ponytail or bun at the crown while letting the bottom half fall freely. This style is incredibly flattering because it frames the face beautifully while still showing off the full length and texture of your mini twists. You can secure the top section with a silk scrunchie, a metallic cuff, or a decorative hair tie. It is a great everyday style that feels effortless but looks like you put real thought into your hair that morning.",
+        "paragraphs": [
+          "The half-up half-down style is a perfect middle ground between wearing your mini twists fully up or fully down.",
+          "Section off the top half of your twists, from ear to ear, and pull them into a small ponytail or bun at the crown while letting the bottom half fall freely. This style is incredibly flattering because it frames the face beautifully while still showing off the full length and texture of your mini twists. You can secure the top section with a silk scrunchie, a metallic cuff, or a decorative hair tie. It is a great everyday style that feels effortless but looks like you put real thought into your hair that morning."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for half-up half-down mini twist ponytail.",
+        "stylingTip": "Apply a light styling cream or edge control to keep half-up half-down mini twist ponytail looking polished."
+      },
+      {
+        "number": 13,
+        "title": "Low Mini Twist Ponytail with Braid-Wrapped Base",
+        "image": "/images/redo_mini_twist_img_7.jpg",
+        "description": "Elevate a simple low ponytail by wrapping a single mini twist or small braid around the base to conceal the elastic completely. This technique is a stylist favorite because it gives the ponytail a clean, seamless finish that looks professionally done. Secure the wrapped section with a bobby pin tucked underneath so it stays hidden. This style works at any ponytail height but looks particularly refined when worn low at the nape of the neck. It is ideal for professional settings, events, and any situation where a polished appearance is important. The wrapped base detail adds a subtle sophistication that takes the look from ordinary to truly elevated with just a few extra minutes of effort.",
+        "paragraphs": [
+          "Elevate a simple low ponytail by wrapping a single mini twist or small braid around the base to conceal the elastic completely.",
+          "This technique is a stylist favorite because it gives the ponytail a clean, seamless finish that looks professionally done. Secure the wrapped section with a bobby pin tucked underneath so it stays hidden. This style works at any ponytail height but looks particularly refined when worn low at the nape of the neck. It is ideal for professional settings, events, and any situation where a polished appearance is important. The wrapped base detail adds a subtle sophistication that takes the look from ordinary to truly elevated with just a few extra minutes of effort."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for low mini twist ponytail with braid-wrapped base.",
+        "stylingTip": "Apply a light styling cream or edge control to keep low mini twist ponytail with braid-wrapped base looking polished."
+      },
+      {
+        "number": 14,
+        "title": "Mini Twist Ponytail with Curly Ends",
+        "image": "/images/redo_mini_twist_img_10.jpg",
+        "description": "Leaving the ends of your mini twists loose and curly creates a beautiful contrast between the defined twist pattern and the soft, free-form curls at the tips. Pull your twists into a mid or high ponytail and allow the curly ends to fan out around the base and top of the ponytail for extra fullness and dimension. You can refresh the curl pattern on the ends using a little water and curl-defining cream before styling. This look is effortlessly bohemian and works beautifully on wash-and-go hair types. It strikes the perfect balance between polished and relaxed, making it versatile enough for both casual days and slightly more dressed-up occasions throughout the week.",
+        "paragraphs": [
+          "Leaving the ends of your mini twists loose and curly creates a beautiful contrast between the defined twist pattern and the soft, free-form curls at the tips.",
+          "Pull your twists into a mid or high ponytail and allow the curly ends to fan out around the base and top of the ponytail for extra fullness and dimension. You can refresh the curl pattern on the ends using a little water and curl-defining cream before styling. This look is effortlessly bohemian and works beautifully on wash-and-go hair types. It strikes the perfect balance between polished and relaxed, making it versatile enough for both casual days and slightly more dressed-up occasions throughout the week."
+        ],
+        "whyWeLoveIt": "Delivers effortless style and all-day security for mini twist ponytail with curly ends.",
+        "stylingTip": "Apply a light styling cream or edge control to keep mini twist ponytail with curly ends looking polished."
       }
     ]
   },
